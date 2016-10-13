@@ -1,6 +1,5 @@
 ---
 layout: page
-status: publish
 published: true
 title: Disclaimer
 url: /disclaimer.html

@@ -1,0 +1,34 @@
+<p class="meta">
+  {{ if eq .Type "post" }}
+    {{ .Date.Format "Jan 2, 2006" }}
+  {{ end }}
+  <a href="/">
+    <i class="home fa fa-home"></i>
+  </a>
+</p>
+
+<h1 class="title">{{ .Title }}</h1>
+
+<div id="post">
+  {{ .Content }}
+  <!-- content | replace: "’", "&#8217;" | replace: "“", "&#8220;" | replace: "”", "&#8221;" -->
+</div>
+
+{{ if eq .Type "post" }}
+  <div id="related">
+    <h3>Posts</h3>
+    <ul class="posts">
+      {{ if .PrevInSection }}
+      <li>
+        <span>{{ .PrevInSection.Date.Format "Jan 2, 2016" }}</span> <a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a>
+      </li>
+      {{ end }}
+
+      {{ if .NextInSection }}
+      <li>
+        <span>{{ .NextInSection.Date.Format "Jan 2, 2016" }}</span> <a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}

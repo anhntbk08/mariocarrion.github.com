@@ -1,6 +1,6 @@
 ---
 layout: page
-status: publish
+page: true
 published: true
 title: About me
 url: /about.html

@@ -1,0 +1,34 @@
+{{ partial "header.html" . }}
+
+<div class="container">
+  <div class="four columns sidebar">
+    {{ partial "sidebar.html" . }}
+  </div>
+
+  <div class="eleven columns content">
+    <div id="home">
+      <ul id="blog-posts" class="posts">
+        {{ range $i, $val := .Site.Pages }}
+          {{ if lt $i 35 }}
+            <li>
+              <div class="left-horizontal">
+                <span>{{ $val.Date.Format "Jan 2, 2006" }}</span>
+              </div>
+              <div class="right-horizontal">
+                <a href="{{ $val.Permalink }}">{{ $val.Title }}</a>
+              </div>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+
+      <h3>Visit the <a href="archive.html">archive</a> for previous posts.</h3>
+    </div>
+
+    <div class="footer">
+      {{ partial "footer.html" . }}
+    </div>
+  </div>
+</div>
+
+{{ partial "close.html" . }}

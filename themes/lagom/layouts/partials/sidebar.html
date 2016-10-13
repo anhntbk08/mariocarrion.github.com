@@ -1,0 +1,27 @@
+<nav>
+  <h1>Hello stranger!</h1>
+  <a href="/">
+    <img src="/images/logo.png" id="logo" alt="Blog logo" class="circular"/>
+  </a>
+  <h1>I&#39;m <a href="/about.html">Mario Carrion</a></h1>
+  <hr>
+
+  <ul id="blog-pages" class="posts">
+    <li><span>&raquo; </span><a href="/about.html">About me</a></li>
+    <li><span>&raquo; </span><a href="/books.html">Books</a></li>
+    <li><span>&raquo; </span><a href="/disclaimer.html">Disclaimer</a></li>
+    {{ if .IsPage }} 
+      {{ if eq .Type "post" }}
+        <li><span>&raquo; </span><a href="https://docs.google.com/document/d/1i0W6qNfGMhTfwWTHBaaKzlN9HLGwbk3GLeh8VtVlhNM">Resume</a></li>
+        <li><span>&raquo; </span><a href="/archive.html#{{ .Date.Format "2006" }}">All posts in {{ .Date.Format "2006" }}</a></li>
+      {{ else }}
+        <li><span>&raquo; </span><a href="https://docs.google.com/document/d/1i0W6qNfGMhTfwWTHBaaKzlN9HLGwbk3GLeh8VtVlhNM">Resume</a></li>
+        <li><span>&raquo; </span><a href="/archive.html">Archive</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+
+  <div id="social">
+    {{ partial "social.html" . }}
+  </div>
+</nav>
