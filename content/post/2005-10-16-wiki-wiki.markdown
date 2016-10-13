@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-10-16T19:57:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Wiki wiki
+url: /2005/10/16/wiki-wiki/
+wordpress_id: 165
+wordpress_url: http://mario.monouml.org/index.php/2005/10/16/wiki-wiki/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">DespuÃ©s de un rato de trabajar con la actualizaciÃ³n del sitio, he movido <span style="font-style:italic;">casi</span> todo lo que teniamos en el viejo sitio al nuevo sitio basado en <a href="http://www.mediawiki.org">MediaWiki</a>, me gusto <a href="http://www.monouml.org">como quedÃ³</a>, aunque claro siempre son bienvenidos nuevos comentarios. Ahora con el nuevo Wiki espero que se pueda escribir la documentaciÃ³n mÃ¡s rÃ¡pidamente.</p>
+<p style="text-align: justify;">Creo que tambiÃ©n moverÃ© mi blog personal al dominio <span style="font-style:italic;">monouml.org</span>, he pensado que deberÃ­a regresar a escribir en inglÃ©s, separando mis entradas por idioma, para asÃ­ en donde estoy sindicalizado en inglÃ©s aparezca en inglÃ©s y donde sea en espaÃ±ol este en espaÃ±ol, en fin.</p>
+<p style="text-align: justify;">A ver que tal <a href="http://www.tesis.com">me va</a>, suerte y Ã¡nimo.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

@@ -1,0 +1,33 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2004-09-23T16:22:15Z
+published: true
+status: publish
+tags:
+- personal
+- monohispano
+- english
+title: Stopping purism and Drag&Drop developers
+url: /2004/09/23/stopping-purism-and-dragdrop-developers/
+wordpress_id: 36
+wordpress_url: http://mario.monouml.org/index.php/2004/09/23/stopping-purism-and-dragdrop-developers/
+---
+
+<div style="clear:both;"></div>
+<p>Nowadays, I've changed, all my purism had gone, I'm using .NET, learning that the technology must be  learned even from <a href="http://www.microsoft.com">Microsoft</a>. Microsoft had changed a lot, I mean, its windows is still the same, many bugs, many random hangs, many viruses, it's still the same, the same awful thing, the most awful used thing. The Microsoft Corporation, now, releases its technology for everyone, does not stop new free implementations (such as <a href="http://www.mono-project.com">mono</a> for .NET) (well, none yet, maybe in some years, MS will suit <a href="http://www.novell.com">Novell</a> and <a href="http://www.gnu.org">GNU</a>), I'm not happy watching all those new .NET developers migrating to Unix, but I like seeing that more people is supporting Linux/Unix as primary developing operating system.</p>
+<p>Yesterday at school, I used <a href="http://www.borland.com/delphi/">Delphi</a>, <span style="font-weight:bold;">I DON'T LIKE DELPHI NEITHER VISUAL BASIC</span>, but I decided to use it and learn it (for fun), at least for knowing a little about new tools; after using it for almost two hours, I understood why everyone loves Delphi/VB: Drag&Dropping, nothing else, and I also understood everything about new developers' knownledge; I'm sure that all those people (Delphi/VB developers, at least most) doesn't know anything about inherence neither polimorfism, nothing about the oriented object paradigm, I don't know all, but I try to use the "most difficult way" for learning, maybe I'm wrong, but here at school everyone is the same, "Drag&Drop Developers".</p>
+<p>Then, I started to think.. "We need tools like this", I think that Linux is a huge for new business projects, now the big corporations supports Linux or *BSD, in Europe Linux is used as most as MS Windows, and what about here? People had heard about Unix, they think "Unix" and start to think about the <span style="font-style:italic;">"black screen with white text"</span>, Unix is not the ugly duck it is <span style="font-weight:bold;">cute swan</span>, but the end-user doesn't think that, the end-user doesn't care about Unix's processes, Unix's security, Unix's scalability, they only want to browse, chat with their friends and hear some music... and write some documents.</p>
+<p>I hope that someday, everyone have <span style="font-style:italic;">free choosing</span> for selecting its own OS, I would like to hear "I want <a href="http://www,debian.org">Debian</a> preinstalled in my computer", it will be nice, but it might be impossible.</p>
+<p><a href="http://monouml.sf.net">MonoUML</a> is recently inactive, reasons?, <a href="http://expertcoder.sf.net">Rodolfo Campero</a>, Mario Fuentes and I are very busy, Rodolfo with his job, Mario Fuentes and I with school, and... What about the other MonoUML members? We don't know anything, I've heard that <span style="font-style:italic;">Manuel Cern</span> (ceronman) is developing some new UML# widgets, will we have sooner a new commiter? Maybe.</p>
+<p><span style="font-weight:bold;">I learned today</span>: 'Purism is not good, we need to learn, and learn even from Microsoft.'
+<div style="clear:both; padding-bottom: 0.25em;"></div>

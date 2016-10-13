@@ -1,0 +1,34 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2007-06-01T22:44:02Z
+date_gmt: 2007-06-02 04:44:02 -0400
+published: true
+status: publish
+tags:
+- personal
+- ubuntu
+- english
+title: TV Card
+url: /2007/06/01/tv-card/
+wordpress_id: 394
+wordpress_url: http://mario.monouml.org/index.php/2007/06/01/tv-card/
+---
+
+<p>I've bought a <em>Lifeview FlyVideo 3000 FM</em> TV Card. Setting up was not difficult at all, you will only need to follow <a href="http://www.linuxtv.org/v4lwiki/index.php/Generic_SAA7134_Card_Installation">this webpage</a> and <a href="http://gentoo-wiki.com/HARDWARE_saa7134">this webpage</a>, basically</p>
+<p>I added:</p>
+<p><em>options saa7134 card=2 tuner=43</em></p>
+<p>to <em>/etc/modprobe.d/saa7134</em></p></p>
+<p>Using saa7134 kernel module and installing <a href="http://tvtime.sourceforge.net/">tvtime</a> did the trick.</p>
+<p><a href="http://www.flickr.com/photos/mariocarrion/525756378/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1121/525756378_313238627e_m.jpg" width="240" height="164" alt="TV Card" /></a>&nbsp;&nbsp;<a href="http://www.flickr.com/photos/mariocarrion/525756372/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1101/525756372_5de38c5f7c_m.jpg" width="240" height="164" alt="TV Card" /></a></p>
+<p>And yes the Remote Control works.</p>
+<p>By the way, yesterday while playing soccer I hurt two of my hand fingers and today both are hurting like hell, I can't close fist. It hurts so bad. Saddest thing is I can't type at all :(</p>

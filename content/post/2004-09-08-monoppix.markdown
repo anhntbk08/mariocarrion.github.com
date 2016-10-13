@@ -1,0 +1,30 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2004-09-08T14:30:53Z
+published: true
+status: publish
+tags:
+- personal
+- english
+title: Monoppix
+url: /2004/09/08/monoppix/
+wordpress_id: 44
+wordpress_url: http://mario.monouml.org/index.php/2004/09/08/monoppix/
+---
+
+<div style="clear:both;"></div>
+<p>This days I haven't slept too much, I feel tired and I want to sleep NOW!. I have not enough time for coding <a href="http://monouml.sf.net">MonoUML</a> neither for writing some good articles, I've been reading and trying to solve some issues (now are already solved) and improving some features to my school projects, adding security and performance as main goals.</p>
+<p>I've been answering some emails at <a href="http://www.monohispano.org">monohispano</a> list, trying to solve problems which aren't mine, but it doesn't matter I care about the mono community. And I've found a nice project about mono bassed on the Knoppix release, it is called <a href="http://weblogs.asp.net/jgalloway/archive/2004/09/01/223945.aspx">Monoppix</a>, it is a knoppix-based live-cd which ships mono including monodevelop, monodoc and xsp. Look <a href="http://weblogs.asp.net/jgalloway/articles/220055.aspx">this page</a> for watching some nice screenshots.</p>
+<p>I haven't done too much (recently) about MonoUML, I'll work with it sooner. Have fun with Monoppix.</p>
+<p><span style="font-weight:bold;">I learned today:</span> 'I need to rest and I need a laptop and I need one new desktop computer and I need some money and I need more free time'
+<div style="clear:both; padding-bottom: 0.25em;"></div>

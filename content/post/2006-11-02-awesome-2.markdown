@@ -1,0 +1,26 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-11-02T20:10:12Z
+date_gmt: 2006-11-03 01:10:12 -0500
+published: true
+status: publish
+tags:
+- mono
+- english
+title: Awesome
+url: /2006/11/02/awesome-2/
+wordpress_id: 345
+wordpress_url: http://216.147.44.194/mario/index.php/2006/11/02/awesome-2/
+---
+
+<p>I never think seeing something like <a href="http://www.novell.com/linux/microsoft/">MS/Novell partnership</a>.</p>

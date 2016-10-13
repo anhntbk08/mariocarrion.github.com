@@ -1,0 +1,32 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2004-08-15T05:16:48Z
+published: true
+status: publish
+tags:
+- personal
+- english
+title: The Party
+url: /2004/08/15/the-party/
+wordpress_id: 26
+wordpress_url: http://mario.monouml.org/index.php/2004/08/15/the-party/
+---
+
+<div style="clear:both;"></div>
+<p>I spent almost 10 hours at all the party-process, (I had fun), first I went to the church (I promised to don't go to any church before my wedding, now the promise is broken, again, I broke it earlier when I went to Xico... now I'm a promise-broker who doesn't keep his promises), then there, at the church, I spent a lot of time watching all the religious figures and thinking about them, I didn't know how to behave there, I didn't know what to say, I spent almost 1 hour doing everything by repeating as a monkey, I was a <a href="http://www.mono-project.com">mono</a>. I don't know if the time spent there and the time which I spent at the Xico's church has some meaning, does that means something? Do I need to get closer to the church? We don't know... yet.<br />
+Then, when the Mass at the church was finished I met some other relatives of my girlfriend, my father-in-law didn't come so I obviously didn't meet him, yet.</p>
+<p>Later at the party, I danced like a crazy, I need to practice... I don't even remember the basic salsa's steps. Like many other parties, the noise was awful and you can't talk, I was wondering all the night: "What did you say? Would you repeat it?", but I spent a very good time, I always enjoy being with her.</p>
+<p>Everything was good, I felt a few sad when I noticed that she might be at other city far away from here... when she starts her job, I also felt sad because I wasn't there... I mean, I haven't finished my studies, I need 1 and a half year more... and later? I've finished, And NOW... what?!<br />
+I don't have to spend too much time wasting my thoughts about that... (first) I need to finish MonoUML, which now has its first cvs update... check it out NOW! or <a href="http://cvs.sourceforge.net/viewcvs.py/monouml">browse it online</a> thanks to Rodolfo for his excelent work, I'll now start to code the MonoUML's widget, keep in touch!</p>
+<p>I learned today: 'Don't get sad, it's too soon! Get sad later, after finishing MonoUML. Be happy run Linux!'
+<div style="clear:both; padding-bottom: 0.25em;"></div>

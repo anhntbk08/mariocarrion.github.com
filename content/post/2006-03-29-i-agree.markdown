@@ -1,0 +1,26 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-03-29T23:28:35Z
+date_gmt: 2006-03-30 03:28:35 -0500
+published: true
+status: publish
+tags:
+- development
+- english
+title: I agree
+url: /2006/03/29/i-agree/
+wordpress_id: 261
+wordpress_url: http://mario.monouml.org/index.php/2006/03/29/i-agree/
+---
+
+<p><em>Learning BASIC causes permanent brain damage.</em> - <a href="http://en.wikipedia.org/wiki/Edsger_Dijkstra">Edsger Dijkstra</a></p>

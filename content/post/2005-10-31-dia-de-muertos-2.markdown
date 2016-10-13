@@ -1,0 +1,40 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments:
+- author: Mahomedalid Pacheco
+  author_email: mictlan@gmail.com
+  author_url: http://mahomedalidp.blogspot.com
+  content: No entiendo como es que con tremenda belleza de tradiciones seguimos las
+    madres de halloween. Neta que no entiendo. Y hoy en la maÃ±ana pensÃ© mucho al
+    respecto.
+  date: 2005-11-01 22:51:17 -0500
+  date_gmt: 2005-11-02 01:51:17 -0500
+  id: 16
+date: 2005-10-31T23:44:52Z
+date_gmt: 2005-11-01 02:44:52 -0500
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: DÃ­a de muertos
+url: /2005/10/31/dia-de-muertos-2/
+wordpress_id: 185
+wordpress_url: http://mario.monouml.org/?p=185
+---
+
+<p>Si hay una tradiciÃ³n que me gusta mucho es el <strong>DÃ­a de muertos</strong>, mucho mÃ¡s que la temporada navideÃ±a, me hace ponerme alegre ver como nosotros jugamos con la muerte sin temerle :-D, orgullosamente puedo decir que sÃ³lo celebro mis tradiciones y lo hago con gusto.</p>
+<p>Cada aÃ±o es el mismo proceso, pero ahora como que me da mucho mÃ¡s gusto, el <a href="http://mario.monouml.org/index.php/2004/11/02/dia-de-muertos/">aÃ±o pasado</a> tambien pusimos nuestro altar y este aÃ±o lo estamos haciendo de nuevo. </p>
+<p><a href="http://static.flickr.com/33/58355722_12df35533d_o.jpg"><img src="http://static.flickr.com/33/58355722_12df35533d_t.jpg" alt="Mexican candies" /></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/32/58359934_43cab8c9ce_o.jpg"><img src="http://static.flickr.com/32/58359934_43cab8c9ce_t.jpg" alt="Mexican candies" /></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/33/58355731_2cb7d51d99_o.jpg"><img src="http://static.flickr.com/33/58355731_2cb7d51d99_t.jpg" alt="Little tamal and clay bowl" /></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/31/58355730_deda270015_o.jpg"><img src="http://static.flickr.com/31/58355730_deda270015_t.jpg" alt="Pan de muerto" /></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/30/58355729_e02198e513_o.jpg"><img src="http://static.flickr.com/30/58355729_e02198e513_t.jpg" alt="Amaranto skull" /></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/32/58355728_9e1f9dc521_o.jpg"><img src="http://static.flickr.com/32/58355728_9e1f9dc521_t.jpg" alt="Skull candies" /></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/27/58355726_2a8782ae53_o.jpg"><img src="http://static.flickr.com/27/58355726_2a8782ae53_t.jpg" alt="Delicious skull candy" /></a></p>
+<p>Se dice que hoy entran nuestros muertos pequeÃ±os, es decir todos los niÃ±os, y el dÃ­a despuÃ©s entrarÃ¡n las personas adultas. Es tan bonita esta tradiciÃ³n donde la catrina aparece sonriente porque al final es ella quien nos lleva... sin preguntarnos :-).</p>
+<p><a href="http://static.flickr.com/28/58373166_5cee698c58_o.jpg"><img src="http://static.flickr.com/28/58373166_5cee698c58_t.jpg" alt="Gentleman" /></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/32/58373167_7e125da817_o.jpg"><img src="http://static.flickr.com/32/58373167_7e125da817_t.jpg" alt="Both" /></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/29/58373169_6c84021523_o.jpg"><img src="http://static.flickr.com/29/58373169_6c84021523_t.jpg" alt="Lady" /></a></p>
+<p>Â¡Que bien quedo!</p>
+<p><a href="http://static.flickr.com/27/58387623_f2302a326d_o.jpg"><img src="http://static.flickr.com/27/58387623_f2302a326d_t.jpg" alt="D&iacute;a de muertos" /></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/33/58387626_77e5b15632_o.jpg"><img src="http://static.flickr.com/33/58387626_77e5b15632_t.jpg" alt="D&iacute;a de muertos" /></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/26/58388201_7ba7e16ac3_o.jpg"><img src="http://static.flickr.com/26/58388201_7ba7e16ac3_t.jpg" alt="D&iacute;a de muertos" /></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/27/58387629_368e3fbc22_o.jpg"><img src="http://static.flickr.com/27/58387629_368e3fbc22_t.jpg" alt="D&iacute;a de muertos" /></a></p>

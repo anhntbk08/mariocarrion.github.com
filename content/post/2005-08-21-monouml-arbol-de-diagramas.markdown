@@ -1,0 +1,32 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-08-21T05:59:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+title: "MonoUML, Ã\x81rbol de diagramas"
+url: /2005/08/21/monouml-arbol-de-diagramas/
+wordpress_id: 149
+wordpress_url: http://mario.monouml.org/index.php/2005/08/21/monouml-arbol-de-diagramas/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">He detenido temporalmente la implementaciÃ³n de la generaciÃ³n de documentaciÃ³n porque <a href="http://rodolfocampero.blogspot.com">Rodolfo</a> (Â¡ahora mismo!) esta escribiendo <a href="http://expertcoder.sourceforge.net/tutorial/es/index.html">su nuevo tutorial</a> y me gustarÃ­a basarme completamente en Ã©l, ahora esta mÃ¡s fÃ¡cil de digerir, sin tanto tecnisÃ­smo y va muy al grano, la idea de <span style="font-style:italic;">copiar/pegar y compilar</span> para probar los ejemplos y comenzar a utilizar <a href="http://expertcoder.sourceforge.net">ExpertCoder</a> esta presente, Â¡en hora buena!</p>
+<p style="text-align: justify;">Estoy estructurando la parte del Ã¡rbol de <a href="http://www.monouml.org">MonoUML</a>, ya habÃ­a antes escrito que no me gusta como es que se maneja ahora, pues se cierran los diagramas cuando se agrega otro ademÃ¡s que se redibuja todo. Estoy haciendolo lo mÃ¡s usable y extendible posible, espero no exagerar y que al final el cÃ³digo resulte tedioso de leer, he mirado que el juego de eventos entre cada vista (actualmente 4: <span style="font-style:italic;">Ã¡rbol de modelo</span>, <span style="font-style:italic;">Ã¡rbol de diagramas</span>, <span style="font-style:italic;">pestaÃ±a de propiedades</span> y <span style="font-style:italic;">diagramas en canvas</span>) se envian mensajes de una forma muy agradable :) sÃ³lo faltaban implementar unos mÃ©todos mÃ¡s y agregar unas cosas mÃ¡s a los mÃ©todos de las Interfaces existentes, desde el inicio me ha gustado la idea de <a href="http://rodolfocampero.blogspot.com">Rodolfo</a> del Hub para manejar estos mensajes (que son muchÃ­simos en realidad).</p>
+<p style="text-align: justify;">AÃºn no lo subo al <a href="http://forge.novell.com/modules/xfmod/svn/svnbrowse.php?repname=monouml">SVN</a>, me gusta tener todo terminado y no dejar el cÃ³digo roto, posiblemente con bugs :P pero que al menos compile todo, estoy pensando que con esta nueva implementaciÃ³n serÃ¡ mucho mÃ¡s fÃ¡cil ordenar los elementos al momento de ser dibujados al Ã¡rbol, inclusive este podrÃ­a <span style="font-style:italic;">recordar</span> las hojas que estaban expandidas despuÃ©s de ser salvado, tal como lo hacen muchas aplicaciones que recuerdan tu sesiÃ³n.</p>
+<p style="text-align: center;"><a href="http://photos22.flickr.com/35817434_eb09bfd3d5_o.png"><img src="http://photos22.flickr.com/35817434_eb09bfd3d5_m.jpg" title="MonoUML" alt="MonoUML" style="align: center; border: 0;" align="center" border="0" /></a></p>
+<p style="text-align: justify;">Espero poder implementar lo mÃ¡s pronto posible todas estas ideas que tengo de <a href="http://www.monouml.org">MonoUML</a>, ahora con la nueva caracterÃ­stica de <a href="http://rodolfocampero.blogspot.com/2005/08/un-modelo-en-varios-ficheros.html">Model Domain</a>, se podrÃ¡n manejar los tipos predefinidos, creo que ahora ya podremos comenzar a utilizar un <span style="font-style:italic;">MonoUML Project</span>, y no un simple XMI como ahora esta, inclusive poder manejar los conceptos de <span style="font-style:italic;">Solution</span> y <span style="font-style:italic;">Project</span> como en <a href="http://www.monodevelop.com">MonoDevelop</a>/<a href="http://msdn.microsoft.com/vstudio/">VS.NET</a>, y de esta forma manejar al mismo tiempo un proyecto en Java y otro en .NET y Â¡cada uno con sus propios tipos predefinidos!</p>
+<p style="text-align: justify;">AdemÃ¡s ya termine otro capÃ­tulo de la <a href="http://www.monohispano.org/ecma/">traducciÃ³n del ECMA</a>, el capÃ­tulo 24, falta ahora sÃ³lo 1 y habremos terminado, tal parece que pronto estaremos dando la buena noticia. Ahora <a href="http://www.enzolutions.com/mono">enzo</a> (despuÃ©s de ser papÃ¡ Â¡felicidades!) y yo  estamos comenzado a acomodar <a href="http://beta.monohispano.org/index.php/Libro_de_Mono">el temario</a> lo que serÃ¡ el nuevo proyecto de <a href="http://www.monohispano.org">Mono Hispano</a> el "Libro para desarrolladores en <a href="http://www.mono-project.com">Mono</a>", como el proyecto de la traducciÃ³n del ECMA esta pronto a terminar creo que ahora es conveniente, en la <a href="https://listas.hispalinux.es/pipermail/mono-hispano/">lista de correo</a> <a href="https://listas.hispalinux.es/pipermail/mono-hispano/2005-August/003672.html">el mensaje</a> lo tomaron de muy buena manera, falta acomodar todo y llegar a un acuerdo para comenzar a trabajar.</p>
+<p style="text-align: justify;">Sin duda todo saldrÃ¡ muy bien.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

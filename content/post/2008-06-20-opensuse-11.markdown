@@ -1,0 +1,52 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: Ray Wang
+  author_email: wanglei1123@gmail.com
+  author_url: http://gnuray.blogspot.com
+  content: yeah, it's cool, i would like to have one as well... :)
+  date: 2008-06-20 13:02:32 -0400
+  date_gmt: 2008-06-20 19:02:32 -0400
+  id: 12882
+- author: Mario CarriÃ³n
+  author_email: mario@monouml.org
+  author_url: http://blog.mariocarrion.com
+  content: I'm sure you'll receive one. You should ask in your office.
+  date: 2008-06-20 13:08:47 -0400
+  date_gmt: 2008-06-20 19:08:47 -0400
+  id: 12883
+- author: Brian G. Merrell
+  author_email: bgmerrell@gmail.com
+  author_url: http://bgmerrell.blogspot.com
+  content: unfortunately, my openSUSE 11 stickers wore out really quickly.  The one
+    on my laptop is basically just a white sticker already.  Hopefully you have better
+    luck!
+  date: 2008-07-21 11:01:19 -0400
+  date_gmt: 2008-07-21 17:01:19 -0400
+  id: 13077
+date: 2008-06-20T12:25:56Z
+date_gmt: 2008-06-20 18:25:56 -0400
+published: true
+status: publish
+tags:
+- personal
+- opensuse
+- english
+title: OpenSUSE 11
+url: /2008/06/20/opensuse-11/
+wordpress_id: 448
+wordpress_url: http://blog.carrion.ws/?p=448
+---
+
+<p>I'm sure everyone already knows that <a title="OpenSUSE 11" href="http://news.opensuse.org/2008/06/19/announcing-opensuse-110-gm/" target="_blank">OpenSUSE 11</a> has been released, if you don't then you are literally living in other world. Anyway, I've received my copy today and it includes two beautiful stickers:</p>
+<p>One for my laptop and the other for my door:</p>
+<p><a href="http://www.flickr.com/photos/mariocarrion/2595146417/" title="OpenSUSE Sticker by Mario CarriÃ³n, on Flickr"><img src="http://farm4.static.flickr.com/3192/2595146417_f3fb18d1d5_m.jpg" width="240" height="180" alt="OpenSUSE Sticker" /></a>&nbsp;&nbsp;<a href="http://www.flickr.com/photos/mariocarrion/2595193465/" title="Sticker on my door by Mario CarriÃ³n, on Flickr"><img src="http://farm4.static.flickr.com/3061/2595193465_a7fb2567b0_m.jpg" width="180" height="240" alt="Sticker on my door" /></a></p>

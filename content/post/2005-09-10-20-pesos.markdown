@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-09-10T17:10:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: 20 pesos
+url: /2005/09/10/20-pesos/
+wordpress_id: 158
+wordpress_url: http://mario.monouml.org/index.php/2005/09/10/20-pesos/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">El dÃ­a de hoy (y el de ayer) han estado extremadamente productivos, <span style="font-style:italic;">no he dormido nada</span> :P de tanta emociÃ³n, de ver como todo va fluyendo de una forma muy agradable, estoy a punto de terminar los viejos cambios, despuÃ©s de ello, iniciarÃ© con el detenido generador de documentaciÃ³n, ahora si no habrÃ¡ excusa para documentarnos usando nuestra <a href="http://www.monouml.org">propia herramienta</a>, todo quedarÃ¡ excelente.</p>
+<p style="text-align: justify;">Hoy salÃ­, acompaÃ±ando a mi madre a unas compras, en el viaje, me encontrÃ© un billete de <a href="http://es.wikipedia.org/wiki/Imagen:20pesos_mx.jpg">20 pesos</a>, por supuesto que no es mucho, pero eso no es lo importante, sino el hecho de haberme encontrado algo en la calle. Todo va bien, que bueno.</p>
+<p style="text-align: justify;">Creo que descansarÃ© un rato, para ver que se me ocurrÃ© en los sueÃ±os.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

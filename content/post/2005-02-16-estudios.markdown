@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-02-16T22:38:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Estudios
+url: /2005/02/16/estudios/
+wordpress_id: 90
+wordpress_url: http://mario.monouml.org/index.php/2005/02/16/estudios/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Ha pasado una semana despuÃ©s de haber regresado a la escuela luego de 1 semana libre. PodrÃ­a decir que casi nada ha pasado estos dÃ­as salvo el comienzo de la documentaciÃ³n de formato metodolÃ³gico para <a href="http://monouml.sf.net">MonoUML</a>, la cual ya va tomando un poco de forma.</p>
+<p align="justify">Por fin he terminado la primera parte <span style="font-style:italic;">ideal</span> del proyecto de Webservices, ahora sÃ³lo falta hacer la parte difÃ­cil, la parte donde la aplicaciÃ³n intenta comunicarse a un servidor que no existe y utiliza la BD de datos del hosting, la actualizaciÃ³n de la BD local con la BD remota es lo que me preocupa, pero bueno, tendrÃ¡ que resolverse.</p>
+<p align="justify">En fin, tanto que hacer.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

@@ -1,0 +1,29 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-10-11T05:03:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: NostalgÃ­a
+url: /2005/10/11/nostalgia-2/
+wordpress_id: 167
+wordpress_url: http://mario.monouml.org/index.php/2005/10/11/nostalgia/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">No he podido dormir... no tengo sueÃ±o, debe ser por los 2 dos coca-colas que me tomÃ©, he tomado inclusive una pastilla para el insomnio y poder dormir... pero nada.</p>
+<p style="text-align: justify;">Mientras tanto decidÃ­, en esta madrugada abrir mi <a href="http://passport.net/">passport</a> de MSN utilizando mi correo de <a href="http://www.monouml.org">monouml</a>, y decidÃ­ eliminar mi vieja cuenta de <a href="http://www.hotmail.com">Hotmail</a>, la cual la tengo desde antes de que este fuera comprado por <a href="http://www.microsoft.com">Microsoft</a>, es algo nostÃ¡lgico, porque recuerdo mis vagos inicios en la red, pero bueno, todo sea por evolucionar. AdemÃ¡s que estaba difÃ­cil de dar cuando me la preguntaban... :P, cuando uno es casi un niÃ±o, se le ocurren los nombres mÃ¡s raros para <span style="font-style:italic;">usernames</span>.</p>
+<p style="text-align: justify;">AdemÃ¡s de eso, recupere mi vieja cuenta de ICQ, aun recuerdo el nÃºmero... y lo increÃ­ble es que el correo que utilize para registrarme aun lo tengo... aun recuerdo la animaciÃ³n de las personas dando vueltas mientras se creaba tu cuenta, el inicio de la mensajerÃ­a instantÃ¡nea para usuario final (porque recordemos que ya habÃ­a IRC), nostÃ¡lgico, en verdad que sÃ­.... y luego... napster... uy que tiempos aquellos, todos eramos tan inocentes y no pensabamos que cosas como esas pudieran marcar un rumbo en la historia de la red, por supuesto que no recuerdo mi usuario de napster... era algo de <span style="font-style:italic;">anarquiax</span>, pero... no se.</p>
+<p style="text-align: justify;">Maldito insomnio... alrato estarÃ© fatal, eso sin duda.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

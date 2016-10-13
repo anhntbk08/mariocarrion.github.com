@@ -1,0 +1,49 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments:
+- author: sonny_taz
+  author_email: ceibamaya_00@hotmail.com
+  author_url: ""
+  content: "/me en jo..rÃ¡pidamente :P jejejeje haciendo el engrudo...\r\n\r\nno es
+    cierto!!!\r\n\r\n/me en jo...rÃ¡pidamente :P jejejeje buscando los materiales
+    :P jejejeje\r\n\r\n='(\r\n\r\nQuiero uno!!!!!\r\n\r\nSÃ­, se nota que fueron niÃ±os
+    y vieron cositas :)\r\n\r\nHermoso, realmente hermoso el Rupert!!!!\r\n\r\nBesitos
+    :)"
+  date: 2005-10-27 15:24:51 -0400
+  date_gmt: 2005-10-27 18:24:51 -0400
+  id: 5
+date: 2005-10-25T17:48:35Z
+date_gmt: 2005-10-25 23:48:35 -0400
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
+title: Fotos
+url: /2005/10/25/fotos/
+wordpress_id: 180
+wordpress_url: http://mario.monouml.org/?p=180
+---
+
+<p><a href="http://carloshit.blogspot.com">Carlos</a> por fin me paso sus fotos que tomo con <a href="http://welcome.hp.com/country/us/en/prodserv/handheld.html">su pda</a>, yo tomÃ© otras con <a href="http://www.palm.com/us/">la mia</a>, la luz era buena por eso salen mas o menos bien, es una pda no una cÃ¡mara digital.</p>
+<p>Lo primero que hicimos, fue la cabeza, por dentro un bola de unicel y le dimos forma con papel periodico utilizando engrudo.</p>
+<p><a href="http://static.flickr.com/32/56136642_1f756c5406.jpg"><img src="http://static.flickr.com/32/56136642_1f756c5406_t.jpg" alt="Rupert's head" /></a></p>
+<p>Y despuÃ©s gracias a la magia de la pintura</p>
+<p><a href="http://static.flickr.com/26/56136645_e3e47a6e38.jpg"><img src="http://static.flickr.com/26/56136645_e3e47a6e38_t.jpg" alt="Raw material and Paints" /></a></p>
+<p>Teniamos una cabeza media pintada</p>
+<p><a href="http://static.flickr.com/25/56136647_69cbe371c1.jpg"><img src="http://static.flickr.com/25/56136647_69cbe371c1_t.jpg" alt="Not yet finished head" /></a></p>
+<p>Unimos la cabeza al cuerpo, el cual era de igual forma papel periodico con engrudo utilizando un lÃ¡piz comÃºn y corriente, esto diÃ³ dureza y estabilidad</p>
+<p><a href="http://static.flickr.com/26/56136646_1d5e9acecf.jpg"><img src="http://static.flickr.com/26/56136646_1d5e9acecf_t.jpg" alt="Body + Head" /></a></p>
+<p>Y ya teniamos un buen monito.</p>
+<p><a href="http://static.flickr.com/28/56138057_9e8b62cf47.jpg"><img src="http://static.flickr.com/28/56138057_9e8b62cf47_t.jpg" alt="Me and rupert" /></a></p>
+<p>MaÃ±ana le tomarÃ© una foto a todo al stand, Â¡quedarÃ¡ genial! Hasta parece que vimos mucho a <a href="http://www.esmas.com/canal5/canal5/402404.html">Cositas</a>.</p>
+<p>Por otro lado, a trabajar, Â¡inicio el 7 de Noviembre! :-D</p>

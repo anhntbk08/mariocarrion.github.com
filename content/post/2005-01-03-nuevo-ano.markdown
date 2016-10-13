@@ -1,0 +1,38 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-01-03T16:20:54Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Nuevo aÃ±o
+url: /2005/01/03/nuevo-ano/
+wordpress_id: 86
+wordpress_url: http://mario.monouml.org/index.php/2005/01/03/nuevo-ano/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Pues si logre viajar, todo saliÃ³ perfecto, a pesar del larguÃ­simo viaje de ida todo fue excelente, en esos dÃ­as que pase alla muchas cosas han hecho que piense un poco en lo que seguirÃ© haciendo, me falta muy poco para terminar mis estudios y creo que deberÃ­a ir especializandome en algo, tengo varias opciones:</p></p>
+<ul>
+<li>Bases de datos</li>
+<li>IngenirÃ­a de Software</li>
+<li>Administrador UNIX</li>
+</ul>
+<p align="justify">Son las tres cosas principales que me gustan y hasta ahora las he sabido mezclar correctamente, he pensado en certificarme en <a href="http://www.sun.com/solaris/">Solaris</a> y <a href="http://java.sun.com/">Java</a>, aunque viendo la bolsa de trabajo veo que Solaris no es tan requerido en comparaciÃ³n a Java, aunque ahora con .NET la gente esta siendo absorbida por este, tambiÃ©n he pensado tomar una certificaciÃ³n <a href="http://www.microsoft.com/learning/mcp/mcse/Default.asp">MCSE</a>, aunque siento que estarÃ­a viviendo una doble vida, "<span style="font-style: italic;">certificado en MCSE y utiliza Linux</span>", ademÃ¡s siento que pagarles a Microsoft no es lo mÃ­o. Me parece que me irÃ© por el camino de <a href="http://www.sun.com/">Sun</a>, sigo con la misma confianza de hace 6 aÃ±os de que algÃºn dÃ­a Linux serÃ­a gran competencia, y tal parece que esos dÃ­as estan comenzando a llegar o quizÃ¡s soy un idealista y estoy seguro que Sun serÃ¡ un buena alternativa libre muy pronto.</p>
+<p align="justify">UNIX me ha cautivado desde que conocÃ­ <a href="http://www.freebsd.org">FreeBSD</a>, claro que la idea social atras de <a href="http://www.gnu.org/gnu/linux-and-gnu.html">GNU/Linux</a> ha hecho que me oriente mÃ¡s a Ã©l, espero poder tener el tiempo suficiente para lograr mi certificaciÃ³n este semestre escolar, se que serÃ¡ pesado hacer todo al mismo tiempo pero tengo que poder.</p>
+<p>En cuestiÃ³n a las bases de datos, creo que me inclinarÃ© por <a href="http://www.oracle.com/technology/software/index.html">Oracle</a>, es muy popular, a pesar de que mi favorita sigue siendo <a href="http://www.postgresql.org">PostgreSQL</a> y bueno, tambiÃ©n <a href="http://www.mysql.org">MySQL</a> a pesar de ser un poco ligera para cosas "<span style="font-style:italic;">mÃ¡s grandes</span>", aunque ahora la veo un poco mÃ¡s robusta con su <a href="http://dev.mysql.com/downloads/mysql/5.0.html">versiÃ³n 5</a>, ojalÃ¡ y mejore, tiene muchas posibilidades, en fin. Aunque bueno, tambiÃ©n sabemos que MS SQL Server es extremadamente comÃºn, hay que conocer a todas.</p>
+<p align="justify">Ahora que fui a <a href="http://www.laregion.com.mx/tabasco/guia/municipios/paraiso.php">ParaÃ­so, Tabasco</a> habÃ­a un nacimiento de personajes hechos en <a href="http://www.arteazul.com/pastadepapel/historia.htm">papel machÃ©</a>, de tamaÃ±o real con algunos defectos de proporciÃ³n pero en general bien hecho, nunca habÃ­a visto una como esa, asÃ­ que se me hizo interesante.</p>
+<p><a href="http://www.geocities.com/k4rny/imgs/2005_ene_03/nacimiento0.jpg"><img src="http://www.geocities.com/k4rny/imgs/2005_ene_03/nacimiento0.jpg" alt="Nacimiento de papel mach&ecuacte;" title="Nacimiento de papel mach&eacute;" width="300" height="225"/></a></p>
+<p><a href="http://www.geocities.com/k4rny/imgs/2005_ene_03/nacimiento1.jpg"><img src="http://www.geocities.com/k4rny/imgs/2005_ene_03/nacimiento1.jpg" alt="Nacimiento de papel mach&ecuacte;" title="Nacimiento de papel mach&eacute;" width="300" height="225"/></a></p>
+<p><span style="font-weight: bold;">Nota de hoy</span>: 'Simplemente feliz.'</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

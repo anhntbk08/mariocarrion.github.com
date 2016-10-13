@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2004-11-28T03:41:15Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Usuarios activos de papel
+url: /2004/11/28/usuarios-activos-de-papel/
+wordpress_id: 58
+wordpress_url: http://mario.monouml.org/index.php/2004/11/28/usuarios-activos-de-papel/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Hay algo que me molesta mucho, y desde hace algunos meses para aca he visto con creciente aumento, o quizÃ¡s hasta ahora lo he notado, y son los <span style="font-style:italic;">usuarios "activos" de papel</span>, Â¿quienÃ©s son ellos?, posiblemente una plaga de mi bello paÃ­s, que cada dÃ­a aumenta mÃ¡s. El formar parte de un grupo de <span style="font-style:italic;">usuarios</span> debe ser eso, un grupo, y no pelear por cosas absurdas. Hablar de Grupos de Usuarios de Software Libre en MÃ©xico, es duro, Â¿cuantos existen? cientos, Â¿cuantos trascienden? decenas, Â¿cuantos son realmente un grupo y aportan de alguna forma? dos, quizÃ¡s tres. Yo hasta el momento no formo parte de un Grupo MÃ©xicano, y no por que sea antipatriota, sino porque la mayorÃ­a de la gente en este paÃ­s (hablando de usuarios genericos de SL), no se compromete, formar parte de un grupo de usuarios, no es solo estar ahi ocupando un espacio, no es que el grupo que tenga mas integrantes sea el mejor, sino que los integrantes hagan algo por el SL. Si usamos SL para X cosa, hay que aportar de alguna forma, cuantas veces he escuchado: "<span style="font-style:italic;">PorquerÃ­a de OO.org no importa bien mi archivo</span>", porque no cambiar esa frase por "<span style="font-style:italic;">PorquerÃ­a de OO.org no importa bien mi archivo, voy a modificar el cÃ³digo para corregirlo</span>" Â¿DondÃ© queda el espÃ­ritu de SL? Ese de apoyar y corregir, creo que se esta perdiendo, Â¿SerÃ¡ que la razÃ³n sea que ahora hay mÃ¡s migraciÃ³n de usuarios MS Windows a Linux (esos que vienen con la mente perturbada)?</p>
+<p align="justify">QuizÃ¡s y exagero, y soy un paranoico, pero que triste es tener a gente que dice formar parte del movimiento de Software Libre, y en primera ni lo utilice y en segunda ni aporte algo. Yo no he hecho gran cosa, ni creo algÃºn dÃ­a considerar algo hecho por mi <span style="font-weight:bold;">tan</span> grande, como para quedar detenido. Tampoco se nos paga por formar parte de un grupo, ni se nos obliga, pero si usamos algo que de alguna forma no nos cuesta, en primera, no debemos exigir y en segunda debemos hacer algo para que mejore. Â¿Acaso reclamarÃ­as a alguiÃ©n que te hizo de comer sin que tu dieras ni una moneda, el mal sabor de la comida? Â¿Por que no en vez de reclamar el mal sabor, te vas a cocina con esa persona y comienzan a ver porque sabe mal? Hay que cambiar esa mentalidad, hay que mejorar y en pocas palabras, aportar.</p>
+<p><span style="font-weight:bold;">Nota de hoy</span>: 'En 2 semanas a seguir con <a href="http://monouml.sf.net">MonoUML</a> al 1000%'</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-03-25T06:37:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Nuevo proyecto
+url: /2005/03/25/nuevo-proyecto/
+wordpress_id: 96
+wordpress_url: http://mario.monouml.org/index.php/2005/03/25/nuevo-proyecto/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Aunque aÃºn no he terminado el proyecto de los WS (bueno en realidad sÃ­ sÃ³lo falta la parte de fallos donde el servidor-empresa es inalcanzable por el servidor-hosting) ahora tengo un nuevo proyecto, uno de para un evento de la <a href="http://www.cicultural.com.mx">CÃ¡mara de Comercio Exterior</a> (o algo asÃ­) el objetivo de este es registrar empresas a travÃ©s de una interfaz web y que estas requisiten cosas, cosas que forman "parejas" de opciones, es decir, una empresa busca algo (producto, servicio) y una ofrece algo (mismo producto, mismo servicio) y por tanto hay un "match", de esta forma al generar "matchs" que ofrecen y buscan cosas semejantes se arma un agenda de citas. Considero que es sencillo, inclusive ahora somo dos los que estamos haciendo esto, <a href="http://michaelof.blogspot.com">un compaÃ±ero</a> de la universidad y yo, Â¿Con que se harÃ¡? Pues pues .NET, tristemente con el de MS, aunque buena parte de <span style="font-weight:bold;">Puente Virtual</span> que diseÃ±e en el proyecto anterior seguirÃ¡ con Gtk#, aunque ahora no serÃ¡ ejecutado en mono sino en el .NET de MS, para esto utilizarÃ© la versiÃ³n de <a href="http://forge.novell.com/modules/xfcontent/downloads.php/gtks-inst4win/Win32%20Runtime%20Installer/v1.9.2.0/">Gtk# para MS .NET</a> para de esta forma sÃ³lo cambiar algunas cosas del Webservice remoto y adaptarlo a la nueva aplicaciÃ³n.</p>
+<p align="justify">Estos Ãºltimos dÃ­as he estado en eso, pero justo el dÃ­a de ayer comenzamos a trabajar en realidad, con la creaciÃ³n de la BD en<a href="http://www.mysql.org"> MySQL</a>, la captura de datos iniciales (casi 1000 registros de paises, ciudades y estados) y la creaciÃ³n de los Webservices. La idea es terminarlo para el martes 29, para tener tiempo de hacer cosas de <a href="http://www.itver.edu.mx">la escuela</a> ahora en la prÃ³xima semana. Mi trabajo no es tan pesado, sÃ³lo registrarÃ© y mostrarÃ© informaciÃ³n de las empresas, todo se harÃ¡ con Webservices asÃ­ que no tengo tanto que sufrir, pero bueno, quiero que quede listo pronto, me parece que harÃ© todos los diagramas UML del proyecto :)</p>
+<p align="justify">Ya pronto es el regreso a clases... y hay tanto que hacer.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

@@ -1,0 +1,32 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-10-02T20:46:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: 4 dÃ­as despuÃ©s
+url: /2005/10/02/4-dias-despues/
+wordpress_id: 172
+wordpress_url: http://mario.monouml.org/index.php/2005/10/02/4-dias-despues/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">He regresado despuÃ©s de haber estado en Puerto Vallarta en el <a href="http://www.festivaldesoftwarelibre.org/fsl2005">4to Festival GNU/Linux y Software Libre</a>, conocÃ­ gente muy agradable y todo pasÃ³ excelente. FuÃ© de esas experiencias tan extraÃ±as, pero divertidas, en las que al final todo sale genial, regresÃ© totalmente renovado, no hice mucho viaje turÃ­stico, pero visitÃ© algunos lugares agradables y lo mÃ¡s importante me divertÃ­.</p>
+<p style="text-align: justify;">LleguÃ© el primer dÃ­a del Festival, el miÃ©rcoles, logrÃ© conseguir habitaciÃ³n (a pesar de no haber reservado formalmente), me quedÃ© con unos amigos del <a href="http://blog.tacvbo.net/">tacvbo</a> y todo saliÃ³ excelente, me tardÃ© medio dÃ­a peleando la habitaciÃ³n pero lo logramos al final del dÃ­a, mi primer trayecto del hotel al lugar donde era el congreso, fue realmente largo, y cÃ³mo era de esperarse, me perdÃ­, pero bueno, logramos llegar, casi dos horas despuÃ©s pero lo hicÃ­mos, esa noche salimos a pasear por el malecÃ³n y pude saludar al buen <a href="http://mahomedalidp.blogspot.com/">Mahomedalid</a>, ibamos en busca de un buen lugar para divertirnos, y sÃ­ lo encontramos.</p>
+<p style="text-align: justify;">El segundo dÃ­a fue mÃ¡s de diversiÃ³n que de negocios, despertando temprano y saliendo a conocer la ciudad, a los lugares recomendados y a buscar comida hasta lugares algo largos. Esa noche fue de dormir poco, creo que sÃ³lo la primera dormÃ­ algo bien.</p>
+<p style="text-align: justify;">Ya por el tercer dÃ­a todo fue mejor, fue mi platica, andaba algo cansado dirÃ­a yo, dormÃ­ creo 3 horas, mi platica fue previa a la de <a href="http://www.stonehenge.com/merlyn/">Randal</a>, la cual a su vez predecÃ­a a la de <a href="http://www.alobbs.com/">Alvaro</a>, estuvo un poco apresurado, y no pudÃ© mostrar todas las bondades por las cuales estuvimos trabajando estos dÃ­as finales, pero bueno, estuvo bien la presentaciÃ³n, lo malo fue que no hubo preguntas, muy triste en verdad :( en realidad me hubierÃ­a gustado que me preguntaran de todo, pero bueno, Â¡a darle!</p>
+<p style="text-align: justify;">En <a href="http://www.flickr.com/photos/mariocarrion/tags/monouml/">la presentaciÃ³n</a> mostrÃ© un <span style="font-style:italic;"><a href="http://forge.novell.com/modules/xfmod/svn/svnbrowse.php?uri=dl.php%3Frepname%3Dmonouml%26path%3D%252Ftrunk%252Fdocumentation%252Fsamples%252F4langWritten%252F%26rev%3D0%26isdir%3D1">bonito ejemplo</a></span> <span style="font-style:italic;">(tar xfz svnbrowse.php para mirar el contenido)</span> de una aplicaciÃ³n escrita en 4 lenguajes diferentes: VB.NET, Boo, Java y C#, mostrando las bondades de la tecnologÃ­a detrÃ¡s de <a href="http://www.mono-project.com">mono</a> ademÃ¡s de lo que hacemos en <a href="http://www.monouml.org">MonoUML</a></p>
+<p style="text-align: justify;">Faltaron cosas de mostrar, como la importaciÃ³n de otros formatos, (como el de Poseidon), y explicar mÃ¡s detenidamente otras cosas como los Model Domains y la forma de apoyar al proyecto, en fin. El final del viernes estuvo mejor, fue la fiesta de clausura, y obvio nos fuimos de parranda, el lugar al que fuimos estaba llenÃ­simo, claro era viernes y era de esperarse y pues a divertinos... yo esperaba llegar temprano para poder salir a tiempo de la ciudad y regresar a casa, pero hice algo que siempre hago... me quedÃ© dormido, lo bueno es que pude salir, :P, me dijeron por ahÃ­ que ahora tendrÃ© algo mÃ¡s que contarle a mis nietos.</p>
+<p style="text-align: justify;">En conclusiÃ³n, <span style="font-weight:bold;">4 dÃ­as muy bien pasados</span> con unos muy excelentes organizadores, no tengo quejas. Por cierto que tomÃ© <a href="http://www.flickr.com/photos/mariocarrion/tags/puertovallarta/">algunas fotos</a> muy buenas.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

@@ -1,0 +1,30 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-06-16T21:49:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
+title: Recuento final
+url: /2005/06/16/recuento-final/
+wordpress_id: 135
+wordpress_url: http://mario.monouml.org/index.php/2005/06/16/recuento-final/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Por fin puedo decir que ha terminado el semestre, despuÃ©s de 2 semanas extras, ha terminado. El fin fue bueno, no excelente. Ahora a seguir con los demÃ¡s planes.</p>
+<p align="justify">MaÃ±ana sabrÃ© si fui aceptado en el curso de Verano. Si no es asÃ­, no importa, lo mÃ¡s probable es que haga mis Residencias Profesionales en un lugar local asÃ­ que no habrÃ¡ sufrimiento por el rechazo del curso de verano. Hay dos escenarios en cuestiÃ³n a si soy o no aceptado, el primero es que sin duda apoyarÃ© notablemente a la comunidad, y el otro es que estarÃ© mÃ¡s metido a <a href="http://www.itver.edu.mx">la U</a> este duro, caluroso y corto mes. Cualquier escenario me conviene, terminar es la prioridad.</p>
+<p align="justify">Hay algunas cosas que tengo planteado hacer, muchas relacionadas a <a href="http://www.monouml.org">MonoUML</a>, una idea que esta dÃ¡ndome vueltas y vueltas por la cabeza es una que me menciono <a href="http://www.solucionesracionales.com/">Katia 'KFC' CanÃ©pa</a>, de una aplicaciÃ³n que actua como <span style="font-style:italic;">'mentor'</span> mientras vas realizando tu modelado, llamada <a href="http://www.jaczone.com/product/demonstration/">WayPointer</a>, por los demos se ve muy interesante, posiblemente serÃ­a un componente extra para nuestro proyecto, algo de IA no caÃ© mal. La documentaciÃ³n debe estar terminada lo mÃ¡s pronto posible, yo siempre peleo que la documentaciÃ³n es lo mÃ¡s importante (y aunque estÃ© al usuario no parece importarle y no la lea hay que hacerla) asÃ­ que hay que marcar las trazas necesarias para esto, <a href="http://jacob.blogsome.com/">Jacob Cervantes</a> ha bautizado este componente como <span style="font-style:bold;">MUDoc</span>, osea <span style="font-style:italic;">MonoUML Documentor</span>, una cosa interesante tambiÃ©n. AdemÃ¡s voy a comenzar a hacer la parte de <span style="font-style:italic;">Forward Engineering: Documentation</span>, Â¿QuÃ© bonito serÃ­a hacer un modelado en <a href="http://www.uml.org">UML</a> y que a partir de este se genere el cÃ³digo en X lenguaje (cosa que ya esta :D) y que ademÃ¡s te genere una bonita documentaciÃ³n en <a href="http://www.docbook.org/">Docbook</a> que tenga los famosos links entre objetos que tengan relaciÃ³n (como las clases), los comentarios escritos (<span style="font-style:italic;">owned comments</span>), ademÃ¡s de una captura de cada objeto, por ejemplo, si es un diagrama de clases una captura de ella, y demÃ¡s cosas (estoy abierto a sugerencias), cosas cÃ³mo esas hacen verdaderamente productivo al <span style="font-style:italic;">Ingeniero de Software</span>, pensar en sentarse a programar sin antes haber plasmado una soluciÃ³n implementable ya no sirve, <span style="font-weight:bold;">pensar la soluciÃ³n mientras se programa es ineficiente</span>. TambiÃ©n hay que mejorar la usabilidad de MonoUML, hay varios diÃ¡logos que necesitan un retoque, corregir <a href="http://bugzilla.monouml.org">los bugs</a>, mejorar el rendimiento, hacer la documentaciÃ³n MonoDoc y demÃ¡s cosas que salgan.</p>
+<p align="justify">En resÃºmen, si que hay cosas que hacer y falta mencionar todos esos proyectos de ganancia, los <span style="font-style:italic;">"laborales"</span>, ademÃ¡s como que siento que <a href="http://www.monohispano.org">Mono Hispano</a> necesita un retoque grÃ¡fico... Â¿no?</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

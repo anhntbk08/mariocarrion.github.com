@@ -1,0 +1,22 @@
+---
+layout: default
+title: Blog Posts
+url: /index.html
+---
+
+<div id="home">
+  <ul id="blog-posts" class="posts">
+    {% for post in site.posts limit:35 %}
+      <li>
+        <div class="left-horizontal">
+          <span>{{ post.date | date: '%b %d, %Y' }}</span>
+        </div>
+        <div class="right-horizontal">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h3>Visit the <a href="archive.html">archive</a> for previous posts.</h3>
+</div>

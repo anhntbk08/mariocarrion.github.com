@@ -1,0 +1,32 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2005-12-18T21:39:38Z
+date_gmt: 2005-12-19 01:39:38 -0500
+published: true
+status: publish
+tags:
+- personal
+- gnome
+- english
+title: Sunday
+url: /2005/12/18/sunday-2/
+wordpress_id: 211
+wordpress_url: http://mario.monouml.org/?p=211
+---
+
+<p>After thinking for a while I decided to upgrade to <a href="http://wiki.ubuntu.com/DapperDrake">Dapper</a>, after downloading the packages and logging in for testing the newest changes in <a href="http://www.gnome.org">GNOME</a>, the first thing I noticed is the faster loading and lowing memory usage, <strong>only 88-90MB</strong> for the GNOME Desktop! Awesome!</p>
+<p><a href="http://static.flickr.com/36/74974680_4cd114c8ed_o.png"><img src="http://static.flickr.com/36/74974680_4cd114c8ed_m.jpg" alt="GNOME 2.13" /></a></p>
+<p>I'm also testing Gaim 2, looks very nice... ;-)</p>
+<p><a href="http://static.flickr.com/43/75014084_aef1add1a6_o.png"><img src="http://static.flickr.com/43/75014084_aef1add1a6_m.jpg" alt="GAIM2" /></a></p>
+<p>This recent upgrade, upgraded Xorg... now when typing the entire session flashes... looks like a broken TV... but only when typing... really weird...</p>
+<p><strong>UPDATED.</strong> Horizontal/vertical sync related problem... don't know.. but with 1280x1024 resolution.. doesn't seems to work... 1024*768 does the trick, must wait for updates.</p>

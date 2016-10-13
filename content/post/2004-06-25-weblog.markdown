@@ -1,0 +1,30 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2004-06-25T22:41:51Z
+published: true
+status: publish
+tags:
+- personal
+- english
+title: Weblog
+url: /2004/06/25/weblog/
+wordpress_id: 5
+wordpress_url: http://mario.monouml.org/index.php/2004/06/25/weblog/
+---
+
+<div style="clear:both;"></div>
+<p>After thinking for a while I've decided using this weblog environment... until start writing my own weblog system or at least my own web system environment for posting news, logs and another stuff related to something.<br />
+The HTML2PHP API website is being constructed, I've been thinking (nowadays) about the name of the project... I shouldn't choosed something too common... like HTML2PHP... because there are a lot of scripts written with the same name, I've found some written in Perl and JS; the people might be confused about those scripts and my API... anyway the project is running.. the downloads number now is 9 (a lot! :P) I'm happy with that, maybe posting the project will help on their growing over the net, I hope the people like the project or at least they  comment some about it.<br />
+I'm thinking about writing the PHP5 version of the HTML2PHP API, I'm very impressed about the new changes on PHP, the new objects features are AWESOME I'm starting to program on PHP5, You should do the same.<br />
+Well lets continue with the HTHML2PHP website.
+<div style="clear:both; padding-bottom: 0.25em;"></div>

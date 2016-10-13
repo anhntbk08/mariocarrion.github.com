@@ -1,0 +1,26 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2007-03-25T21:59:47Z
+date_gmt: 2007-03-26 03:59:47 -0400
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Proyecto
+url: /2007/03/25/proyecto/
+wordpress_id: 383
+wordpress_url: http://mario.monouml.org/index.php/2007/03/25/proyecto/
+---
+
+<p>A pesar de que de alguna forma ya desde mis dÃ­as en la universidad "estoy acostumbrado" a tener dÃ­as (o mejor dicho, noches) difÃ­ciles, ahora me siento mÃ¡s confiado. En el trabajo estamos comenzando a integrar todo nuestro esfuerzo, desde aquella migraciÃ³n de QNX6 a Linux hasta a las aplicaciones .NET, para unir todo el software y es agradable mirar que todo va funcionando muy bien. Es un poco molesto llegar tarde a casa con Ãºnicamente ganas de dormir y no poder dedicar algo de tiempo a mis <a href="http://www.monouml.org">proyectos personales</a>, pero seguro cuando termine esto me <em>pondrÃ© al corriente</em>.</p>
+<p>Esta semana viene dura, pero bueno, asÃ­ es esto.</p>

@@ -1,0 +1,55 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-03-25T20:43:05Z
+date_gmt: 2006-03-26 00:43:05 -0500
+published: true
+status: publish
+tags:
+- personal
+- development
+- english
+title: One year
+url: /2006/03/25/one-year/
+wordpress_id: 259
+wordpress_url: http://mario.monouml.org/index.php/2006/03/25/one-year/
+---
+
+<p>I spent, yesterday, half-day receiving an explanation of my newest project at work, will spend one year coding a new C-and-C#-based application and, if everything goes nice, will code in Linux rather than QNX, I would love doing it in Linux, but both are nice OSs to play with.</p>
+<p>In the other side I've, finally, set my xorg.conf to act as older, when I was able to scroll using touchpad, now click-and-move for selecting works and scroll also does, the trick is here:</p>
+<pre>Section "InputDevice"
+	Identifier    "Synaptics Touchpad"
+	Driver        "synaptics"
+	Option		"CorePointer"
+	Option        "Device"        "/dev/psaux"
+	Option        "Protocol"        "auto-dev"
+	Option "Edges" "1900 5400 1900 4000"
+	Option "Finger" "25 40"
+	Option "MaxTapTime" "180"
+	Option "MaxTapMove" "110"
+	Option "MaxDoubleTapTime" "210"
+	Option "TapTime" "10"
+	Option "ClickTime" "0"
+	Option "EmulateMidButtonTime" "75"
+	Option "VertScrollDelta" "100"
+	Option "MinSpeed" "0.20"
+	Option "MaxSpeed" "0.18"
+	Option "AccelFactor" "0.0010"
+	Option "Emulate3Buttons" "false"
+EndSection</pre>
+<p>You also need:</p>
+<pre>Section "ServerLayout"
+	Identifier	"Default Layout"
+	Screen		"Default Screen"
+	InputDevice	"Generic Keyboard"
+<strong>	InputDevice	"Synaptics Touchpad" "AlwaysCore"</strong>
+EndSection</pre>

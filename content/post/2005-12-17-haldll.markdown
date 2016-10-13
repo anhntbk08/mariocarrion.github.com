@@ -1,0 +1,36 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2005-12-17T19:48:33Z
+date_gmt: 2005-12-17 23:48:33 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
+title: hal.dll
+url: /2005/12/17/haldll/
+wordpress_id: 210
+wordpress_url: http://mario.monouml.org/?p=210
+---
+
+<p>Since I wake up until now I've been fixing my laptop. Why? Because of MS Windows, I used to have all the hard drive set for using Linux only, but now due to I may need to do something for work I will need dual booting, after resizing the disk with <a href="http://www.gnu.org/software/parted/manual/html_chapter/parted_2.html#SEC25">parted</a> with a <a href="http://www.knoppix.org/">Knoppix CD</a> I restart the computer and begin usual MS Windows installing, I left the computer for eating when I returned I read something like</p>
+<p><em>Can't boot, <a href="http://pcsupport.about.com/od/pcrepair/a/missinghal_dll.htm">hal.dll</a> file missing, try reinstalling the file.</em></p>
+<p>I didn't know what happend because I leave.... however I didn't care about the message, It is a Microsoft-based product so reinstall should do the trick. </p>
+<p>Whatever, then something else: my current linux partitions: two ext3 (home and root), and swap, and the fourth ntfs for MS Windows. When I reach the "Selection partition for installing" screen in the WinXP CD, something caught my attention, an error message telling</p>
+<p><em>Can't delete partition nor format</em></p>
+<p>What the hell!... I restart again... for normal booting... but something else happend</p>
+<p><em>Couldn't find any bootable device press F2 or F12 for set up</em></p>
+<p>What the hell!! The first thing that came to my mind: <em>My HD is fucked up</em>.. </p>
+<p>I googled for a while for <a href="http://pcsupport.about.com/od/pcrepair/a/missinghal_dll.htm">the solution</a>, and.. it worked, at least the installing is still in process... Some pain still in the way.</p>
+<p>BTW. <a href="http://support.dell.com/support/edocs/systems/ins1150/sm/index.htm">Dell</a> has nice Service Manuals with images and everything.</p>
+<p><strong>UPDATE. </strong> 23:53. Works and runs</p>

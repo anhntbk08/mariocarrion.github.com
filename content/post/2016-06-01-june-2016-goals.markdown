@@ -1,0 +1,21 @@
+---
+date: 2016-06-01T00:00:00Z
+description: Sixth month of the year. What am I planning?
+image: ruby.png
+image_facebook: ruby-facebook.png
+published: true
+status: publish
+title: 'Goals: June 2016'
+url: /2016/06/01/june-2016-goals/
+---
+
+Five months are long gone. Honestly I don't feel like [May]({% post_url 2016-05-01-may-2016-goals %}) was a productive one, professionally that is, I was only able to finish reading two books, not my best month that's for sure:
+
+1. [PostgreSQL Replication, Second Edition]({% post_url 2016-05-09-postgresql-replication-second-edition %})
+1. [Design for The mind]({% post_url 2016-05-27-design-for-the-mind %})
+
+I haven't done anything really interesting in months, and to say the truth I haven't really found _the sparkle_ to start working on a personal open source project, I have a few ideas here and there, but still. I've been slacking off that's for sure.
+
+I did start reading my **Go In Action** book and I've been trying to get involved in Go-related projects, follow some interesting people on twitter, read some free material and stuff like that. Still, I'm an spectator, I haven't done anything yet.
+
+I must set concise goals if I want to create something special, whatever that is. So this month I'm starting for real [Sentinel](https://github.com/mariocarrion/sentinel), a project I created 6 months ago. By the end of this month I should have a program that outputs the disk space usage based on a collection of paths. A really simple thing. **:fingerscrossed:**

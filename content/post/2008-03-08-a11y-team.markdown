@@ -1,0 +1,30 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2008-03-08T20:48:04Z
+date_gmt: 2008-03-09 03:48:04 -0400
+published: true
+status: publish
+tags:
+- personal
+- english
+title: a11y team
+url: /2008/03/08/a11y-team/
+wordpress_id: 437
+wordpress_url: http://blog.carrion.ws/2008/03/08/a11y-team/
+---
+
+<p>Despite having acting like marathon runner I couldn't depart on the scheduled time because the previous flight arrived too late at Houston, so waiting like 12 hours was the only solution to depart on 9am and then wait another 2 hours to finally arrive at Veracruz. </p>
+<p>Spending time at the airport wasn't funny at all, at least I ate fruits cocktail and drunk a cup of coffee.</p>
+<p>However, this trip let me meet all the <a href="http://www.mono-project.com/Accessibility:_Team">a11y team</a> which will be implementing the Accessibility API on Mono on the following months. Great experience.</p>
+<p>And I brought a new friend:</p>
+<p><a href="http://www.flickr.com/photos/mariocarrion/2342378004/" title="Little friend by Mario CarriÃ³n, on Flickr"><img src="http://farm3.static.flickr.com/2357/2342378004_5d0a3c4c18_m.jpg" width="240" height="135" alt="Little friend" /></a></p>

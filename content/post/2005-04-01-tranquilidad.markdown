@@ -1,0 +1,33 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-04-01T01:37:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
+title: Tranquilidad
+url: /2005/04/01/tranquilidad/
+wordpress_id: 118
+wordpress_url: http://mario.monouml.org/index.php/2005/04/01/tranquilidad/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Estos dÃ­as si que he estado ocupado, con muchas cosas que hacer, toda esta semana ha sido asÃ­, desde el domingo anterior ya querÃ­a que llegarÃ¡ este dÃ­a y por fin, por fin ha pasado la semana, me voy de viaje, de viaje en busca de libertad, se muy bien que hay cosas por hacer, Â¡pero vamos! quiero relajarme, ademÃ¡s despuÃ©s de esto serÃ¡ prÃ¡cticamente imposible viajar de nuevo y de todos modos lo harÃ© :) Me irÃ© a la preciosa ciudad de ParaÃ­so en Tabasco.</p>
+<p align="justify">AÃºn no termino lo de <span style="font-style:italic;">ReverseEngineering</span> en <a href="http://monouml.sourceforge.net">el proyecto</a>, me falta prÃ¡cticamente poco: delegados y eventos, determinar como modelar las <span style="font-style:italic;">struct</span> en UML, corregir que las DataType tengan sus propios datos y no aparezcan como Clases aparte, y agregar algunos parÃ¡metros mÃ¡s para que no se haga una importaciÃ³n tan a <span style="font-style:italic;">bajo nivel</span>, he descubierto algunas cosas raras al hacer las importaciones al <span style="font-style:italic;">mscorlib.dll</span>, no se si incluirlas...</p>
+<p align="justify">AdemÃ¡s he comenzado a comenzado a mirar los archivos XML generados por <a href="http://www.gnome.org/projects/dia/">Dia</a> para ser agregado tambiÃ©n a la parte de importaciÃ³n, lo que me deja pensar es si el archivo comprimido de <a href="http://www.gnome.org/projects/dia/">Dia</a> es algÃºn gz/zip/bzip2 o algo semejante, lo mÃ¡s probable es que sÃ­, en fin, tendrÃ© que mirar un poco los fuentes de <a href="http://www.gnome.org/projects/dia/">Dia</a> para ver como lo manejan ellos.</p>
+<p align="justify">AdemÃ¡s de todo esto sigo con lo del Drag&Drop, que por cierto, ahora estÃ¡ detenido aunque creo que serÃ­a mejor primero hacer el Drag&Drop del Tree que de la toolbar, pero bueno hacer la toolbar funcional por primera instancia serÃ¡ mi prioridad. Veo que <a href="http://rodolfocampero.blogspot.com">Rodolfo</a> ha metido la opciÃ³n de agregar diagramas, ahora es posible crear diagramas de casos de uso y de clases, ahora solo falta mi parte de agregar elementos de UML y todo esto pintarÃ¡ de un color mÃ¡s vistoso :)</p>
+<p align="justify">Todo va muy bien</p>
+<p align="center"><a href="http://monouml.sourceforge.net/screenshots/classes.png"><img src="http://monouml.sourceforge.net/screenshots/classes.png" border="0" width="250" height="199" title="Class Diagram" alt="Class Diagram" id="img"/></a></p>
+<p align="justify">Lo que no va bien es el bug de <span style="font-weight:bold;"><a href="http://sourceforge.net/tracker/index.php?func=detail&aid=1166305&group_id=115334&atid=671242">mucha memoria</a></span>, <a href="http://hgmiguel.blogspot.com/">Miguel Ãngel</a> me he indicado que tambiÃ©n en <a href="http://www.monodevelop.com">Monodevelop</a> ocurre este error, Â¿serÃ¡ algÃºn error de cÃ³digo administrado dentro de Gtk#? Â¿O es que nuestras horas de anÃ¡lisis de cÃ³digo no dan resultados...? En fin a seguir buscando, sino se tendrÃ¡ que poner un reporte.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

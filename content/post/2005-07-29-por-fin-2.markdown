@@ -1,0 +1,29 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-07-29T14:08:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Por fin
+url: /2005/07/29/por-fin-2/
+wordpress_id: 142
+wordpress_url: http://mario.monouml.org/index.php/2005/07/29/por-fin/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">DespuÃ©s de este <span style="font-style:italic;">mes de curso de verano</span> he terminado todas mis materias, ahora si me voy a dedicar totalmente a avanzar de lleno con <a href="http://www.monouml.org">MonoUML</a>, se siente raro haber terminado... como que es extraÃ±o, ya no tengo mÃ¡s materias, sÃ³lo las prÃ¡cticas profesionales y luego a trabajar y que por fin me paguen dignamente...</p>
+<p align="justify">Justo ayer estaba charlando con <a href="http://rodolfocampero.blogspot.com">Rodolfo</a> y se me ocurrieron algunas cosas mientras lo hacÃ­a, tendrÃ© que hacer unas imÃ¡genes <span style="font-style:italic;"><a href="http://www.gimp.org">"gimpeadas"</a></span> para mostrar estas nuevas caracterÃ­sticas.</p>
+<p align="justify"><span style="font-weight:bold;">Â¡Por fin he terminado!</span></p>
+<p align="justify"><span style="font-style:italic;">PD. Se aceptan contrataciones :D</span></p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

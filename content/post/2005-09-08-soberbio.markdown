@@ -1,0 +1,33 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-09-08T01:55:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+- gnome
+title: Soberbio
+url: /2005/09/08/soberbio/
+wordpress_id: 159
+wordpress_url: http://mario.monouml.org/index.php/2005/09/08/soberbio/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">No hay palabras para describir el nuevo <a href="http://www.gnome.org">GNOME</a>, no soy fanÃ¡tico, pero hay que reconocer el excelente trabajo que han hecho los <a href="http://planet.gnome.org">hackers de GNOME</a>, ahora con Cairo, las cosas se ven tan nÃ­tidas, todo se ve, tan genial, o igual es la emociÃ³n :P</p>
+<p style="text-align: justify;">En <a href="http://www.ubuntulinux.org">Ubuntu</a> un simple <span style="font-style:italic;">apt-get dist-upgrade</span> y esperar un buen tiempo mientras se actualiza, basta, en otras posiblemente pronto este disponible.</p>
+<p style="text-align: justify;">Hablando en cuestiÃ³n a <a href="http://www.ubuntulinux.org">Ubuntu</a>, todo va bien, aunque mi tarjeta inalÃ¡mbrica se queja y hace que se alente el sistema en general, no se si es el kernel o que, tendrÃ© que hacer unas buenas pruebas para ver que pasa.</p>
+<p style="text-align: center;"><a href="http://static.flickr.com/29/41377694_7ea43a1942_o.png"><img src="http://static.flickr.com/29/41377694_7ea43a1942_m.jpg" title="GNOME About" alt="GNOME About" border="0" /></a></p>
+<p style="text-align: center;"><a href="http://static.flickr.com/33/41377695_ee0d0abcdc_o.png"><img src="http://static.flickr.com/33/41377695_ee0d0abcdc_m.jpg" title="Nautilus" alt="Nautilus" border="0" /></a></p>
+<p style="text-align: center;"><a href="http://static.flickr.com/24/41377696_bd69a0b8c6_o.png"><img src="http://static.flickr.com/24/41377696_bd69a0b8c6_m.jpg" title="Services" alt="Services" border="0" /></a></p>
+<p style="text-align: justify;">Por cierto, <a href="http://marioc.blogspot.com/2005/09/gnome-212.html">retiro lo dicho</a>, ya esta el GNOME 2.12 en Ubuntu.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

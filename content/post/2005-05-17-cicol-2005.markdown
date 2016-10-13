@@ -1,0 +1,29 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-05-17T22:04:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
+title: CICOL 2005
+url: /2005/05/17/cicol-2005/
+wordpress_id: 124
+wordpress_url: http://mario.monouml.org/index.php/2005/05/17/cicol-2005/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">MaÃ±ana parto a las 23:45 hacia la ciudad de Cuautla, Morelos para una plÃ¡tica en el <a href="http://www.cicol.org.mx">CICOL</a> que se realizarÃ¡ (segÃºn tengo entendido) en el <a href="http://www.itcuautla.edu.mx/">ITC</a>, el Tec de Cuatla, estaremos por alla hablando un poco de lo que hemos hecho en <a href="http://www.monouml.org">MonoUML</a>, lo que buscamos hacer, algunas ideas que tenemos y todo lo que nos falta por hacer, estÃ¡n todos invitados, la charla serÃ¡ en dÃ­a 19 de Mayo a las 9:00 hrs, el <a href="http://www.cicol.org.mx/programa.php">programa del CICOL</a> esta interesante, no dejen de asistir.</p>
+<p align="justify">Por otro lado, esta semana serÃ¡ cansadisima, maÃ±ana tengo un examÃ©n, de los llamados <span style="font-style:italic;">de recuperaciÃ³n</span> debo de acreditarlo para ya olvidarme de los exÃ¡menes de esa materia, estas dos Ãºltimas semanas serÃ¡n duras, lo bueno de todo esto es que se que dentro de 2 semanas todo habrÃ¡ terminado :)</p>
+<p align="justify">Viajar y mÃ¡s viajar... :)</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

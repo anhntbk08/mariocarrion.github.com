@@ -1,0 +1,27 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-12-31T00:24:59Z
+date_gmt: 2005-12-31 04:24:59 -0500
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: A un dÃ­a
+url: /2005/12/31/a-un-dia/
+wordpress_id: 215
+wordpress_url: http://mario.monouml.org/index.php/2005/12/31/a-un-dia/
+---
+
+<p>Este fin de aÃ±o que esta prÃ³ximo a llegar harÃ© algo diferente al anterior, esta vez si pienso salir por la madrugada, lucharÃ© contra la flojera propia de la temporada y la apatÃ­a que me atrapa cada temporada de aÃ±o nuevo, a pesar de que estas fechas no han sido <em>emocionantes</em> para mi, pues ni siquiera en casa he estado, hay que activarse para sacarle el mejor provecho a todo esto.</p>
+<p>Hay que sonreir, pues inicia una nueva temporada :-) ademÃ¡s nada cuesta... al menos hasta el dÃ­a de hoy.</p>
+<p>AdemÃ¡s tengo ganas de fiesta.</p>

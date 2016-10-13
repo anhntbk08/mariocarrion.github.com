@@ -1,0 +1,31 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2004-10-13T23:16:30Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
+- monohispano
+title: Casi nada nuevo
+url: /2004/10/13/casi-nada-nuevo/
+wordpress_id: 53
+wordpress_url: http://mario.monouml.org/index.php/2004/10/13/casi-nada-nuevo/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Tristemente en esta semana no he hecho gran cosa, <a href="http://www.itver.edu.mx">la universidad</a> me esta comiendo vivo y los examenes me quitan la juventud, pero a pesar de eso he terminado el <a href="http://www.monohispano.org/ecma">capitulo 17</a> de la traducciÃ³n del <a href="http://wiki.hispalinux.es/moin/ECMA_5fC_23">ECMA de C#</a> de <a href="http://www.monohispano.org">Mono Hispano</a>, y referente a esto estoy impresionado, porque ahora veo que solo faltan 6 capitulos para terminar la referencia completamente, de 2 semanas atras he visto un increible aumento de apoyo dentro de la lista y la comunidad mono-hispana en general. He decidido adoptar un nuevo capitulo, otro de esos largos que nadie quiere tomar por miedo a nuncar terminarlo, en esta ocasiÃ³n es el capitulo 14.</p>
+<p align="justify">De igual forma he visto a <a href="http://fseoane.net">Fabian</a> muy trabajador, componiendo errores gramaticales y ortogrÃ¡ficos dentro de los .xml de la referencia (claro que yo tambiÃ©n he corregido algunos errores de mis capitulos y de los otros traductores), todos esos errores detectados gracias a una <a href="http://monohispano.org/ecma/terminos.html">pequeÃ±a aplicacion</a> (la cual puedes obtener del <a href="http://cvs.hispalinux.es/cgi-bin/cvsweb/doc-ecma-csharp/utils/barredor/">CVS de doc-ecma-csharp</a> en <a href="http://es.tldp.org/">LuCAS</a>) que <a href="http://rodolfocampero.blogspot.com">Rodolfo</a> hizo en C# usando el poder del XML, obviamente con <a href="http://www.mono-project.com">mono</a> para detectar inconsistencias en los terminos utilizados dentro de la referencia.</p>
+<p align="justify">Por el lado de <a href="http://monouml.sf.net">MonoUML</a> vamos lento con UML# <a href="http://primate.gnome.cl/~mario/">Mario Fuentes</a> sigue ocupado y yo me sigo preguntando en que se me va tanto tiempo, aunque claro ya tengo pensada la soluciÃ³n para hacer las asociaciones entre elementos grÃ¡ficos, solo falta implentarla. Mientras que por la ciudad de Xalapa, el grupo <a href="http://www.xalalinux.org/">Xalalinux</a> esta organizando un <a href="http://www.xalalinux.org/pipermail/gente/2004-October/thread.html">Install fest</a> para el dia 6 de noviembre de este aÃ±o, queda cordialmente invitada toda la gente de Veracruz, MÃ©xico, y claro que de otros paises tambiÃ©n.</p>
+<p><span style="font-weight:bold;">Hoy aprendÃ­:</span>: 'Muchos gastos, pero aun asi me ire de viaje. 10 dias y contando. :)'</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

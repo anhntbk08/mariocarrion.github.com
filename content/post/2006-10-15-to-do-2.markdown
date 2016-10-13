@@ -1,0 +1,40 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-10-15T18:13:10Z
+date_gmt: 2006-10-15 23:13:10 -0400
+published: true
+status: publish
+tags:
+- development
+- english
+title: To Do
+url: /2006/10/15/to-do-2/
+wordpress_id: 331
+wordpress_url: http://mario.monouml.org/index.php/2006/10/15/to-do-2/
+---
+
+<p>I'm facing an issue related to inconsistences in the source code that am porting, for example, variable-naming: </p>
+<p><code lang="C">struct sample {<br />
+    int variableName;<br />
+    int otra_variable;<br />
+};</code></p>
+<p>Did you notice the problems? First, using <em>camelCase</em> to declare the variable, then using <em>underscore</em> to separate words in variable, and also mixing both Spanish and English. I just don't like it. I'm updating the code while testing its performance. A C-based refactoring tool would be nice, </p>
+<p>So I need, to find either C-based refactoring tool or write mine and then need to spell comments, by either finding an application or, also, writing mine.</p>
+<p>So, now, I need:</p>
+<ol>
+<li>Refactoring tool, to refactor C sources.</li>
+<li>Comments speller tool, to spell source code comments.</li>
+<li>Mediawiki 2 Docbook 2 MonoDoc, to allow browsing current manuals and tutorial in MonoDoc.</li>
+<li>MonoCanvas, yes! I haven't yet finished this! Need it NOW!</li>
+</ol>
+<p>A lot of free software to write.</p>

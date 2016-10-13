@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-03-21T22:49:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+title: MonoUML
+url: /2005/03/21/monouml/
+wordpress_id: 98
+wordpress_url: http://mario.monouml.org/index.php/2005/03/21/monouml/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Seguimos dandolÃ© con todo al proyecto, ahora que ya hay poco mÃ¡s de tiempo. Inclusive he creado <a href="http://monouml.blogspot.com">un blog</a> para que los miembros del equipo que quieran escriban algo en Ã©l, claro relativo al proyecto, noticias o cosas tÃ©cnicas que despuÃ©s no tienen gran cosa que ver con los blogs personales, ademÃ¡s para darle un poco de mayor proyecciÃ³n internacional al proyecto lo escribiremos en inglÃ©s.</p>
+<p align="justify">Hoy fui a ver lo de un nuevo proyecto, estoy seguro que no me pagarÃ¡n la gran plata, pero bueno, este serÃ¡ el Ãºltimo proyecto que harÃ© por ahora pues debo prepararme para otras cosas, en verano tomarÃ© la Ãºltima materia que me falta (si todo sale bien) y ya en otoÃ±o-invierno estarÃ© haciendo las prÃ¡cticas profesionales, podrÃ­amos decir que ya estoy en la recta final de los estudios universitarios.</p>
+<p align="justify">Ya quiero que sea jueves, mi novia vendrÃ¡ y podrÃ© estar un rato con ella, el domingo estaremos un poco mÃ¡s de tiempo juntos :) y tambiÃ©n quiero que sea sÃ¡bado, mi tio Â¡por fin me darÃ¡ la portatil que hace mÃ¡s de 5 aÃ±os me prometio! Aunque sigo con la duda de si me cumplirÃ¡ la promesa... esperemos que sÃ­, creo que a la portÃ¡til le pondrÃ© <a href="http://ftp.acc.umu.se/pub/cd-images/debian-weekly/torrents/i386/">Debian</a> Â¿o con <a href="http://www.ubuntulinux.org">Ubuntu</a>? Ubuntu es excelente para escritorio, pero la portatil no serÃ¡ para eso... en fin, ya verÃ©.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

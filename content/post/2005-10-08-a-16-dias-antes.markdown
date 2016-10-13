@@ -1,0 +1,31 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-10-08T15:36:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: A 16 dÃ­as antes.
+url: /2005/10/08/a-16-dias-antes/
+wordpress_id: 170
+wordpress_url: http://mario.monouml.org/index.php/2005/10/08/a-16-dias-antes/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">La frase <span style="font-style:italic;">despuÃ©s de la tormenta siempre viene la calma</span> la escuchÃ© aÃ±os atrÃ¡s cuando una chica la mencionaba en una clase de preparatoria haciendo menciÃ³n a una canciÃ³n. Frase tan cierta que resulta interesante tomarla en cuenta y no lo digo por Stan que a pesar de haber impactado en el estado, no hizo gran daÃ±o por esta secciÃ³n de la ciudad, posiblemente una buena ubicaciÃ³n fue lo que permitiÃ³ que todo estuvierÃ¡ tranquilo, sino por otras cosas que ahora me estan ocurriendo, extraÃ±as sin duda, pero bueno, ahora lo tomo todo mÃ¡s tranquilo, mÃ¡s relajado, como deben de ser, sin exhaltarse o preocuparse lo innecesario.</p>
+<p style="text-align: justify;">Pero bueno, la vida debe seguir y en todos los aspectos debemos continuar. DespuÃ©s de haber regresado de Puerto Vallarta, me he sentido un poco diferente, creo que mi visiÃ³n de la comunidad mexicana del software libre ha sido actualizada, es en verdad motivamente ver que habemos gente con las mismas ideas, el mismo interes y las mismas ganas, cada quiÃ©n en su ramo, pero sin duda le trabajamos duro.</p>
+<p style="text-align: justify;">A 16 dÃ­as de ser 24 de Octubre, no me siento bien en ese sentido, pero bueno, Â¿quÃ© poder hacer?, tan lejos y tan cerca, en fin, no me queda otra cosa que preocuparme por cosas que en verdad me sirvan en mi futuro.</p>
+<p style="text-align: justify;">DÃ­as atras (creo ayer...) recibÃ­ un correo de un caballero que decÃ­a que le gustarÃ­a utilizar nuestra aplicaciÃ³n para utilizarle como Process Mapper, es algo interesante que haya gente quiÃ©n utilize las cosas que haces y les vea el mismo futuro que tu (o igual exagero, pero asÃ­ me sentÃ­), Ã©l me diÃ³ <a href="http://www.lsbu.ac.uk/immage/Process_mapping/Process_mapping.htm">un link</a>, con algunas formas de Process Mapping, varias de ellas, conocidas gracias a <a href="http://www.itver.edu.mx">la U</a>, y me hizÃ³ de nuevo pensar, que realmente no todo es malo, sino hay cosas rescatables de todos los aspectos, esa solicitud, hizo que a <a href="http://rodolfocampero.blogspot.com">Rodolfo</a> y a mi nos motivara para continuar con el trabajo, por mi parte he resuelto un bug que yo mismo introdujÃ© ahora con los <span style="font-style:italic;">Process Dialogs</span>, pero que ya esta solucionado, ademÃ¡s de una peticiÃ³n vieja que estaba por ahÃ­, que sin duda mejor la experiencia del usuario: <span style="font-style:italic;">recordar los paths</span>, ademÃ¡s de otras cosas...</p>
+<p style="text-align: justify;">El caso es que ando motivado, feliz por <a href="http://rodolfocampero.blogspot.com">Rodolfo</a> y <a href="http://www.cafeconf.org/modules/myconference/viewspeech.php?sid=198&cid=20">su conferencia</a> en Argentina, y feliz porque hemos avanzado mucho en este poco rato, agregando usabilidad principalmente y corrigiendo errores, el nuevo canvas es la Panacea, pero se harÃ¡ sÃ³lo hay que tener confianza y un poco de fÃ©, creo que la hemos tenido por mÃ¡s de un aÃ±o y aun tenemos que ofrecer.</p>
+<p style="text-align: justify;">Conversando con <a href="http://djmaucom.blogspot.com/">Mauricio</a> me ha despertado el interÃ©s de ir a la <a href="http://2006.guadec.org/">GUADEC</a> ahora en Mayo del prÃ³ximo aÃ±o, serÃ­a fantÃ¡stico poder ir, claro habrÃ­a que juntar desde ahora para poder pasarsela bien. Espero poder lograrlo y no ser victima de mi desesperaciÃ³n por gastar el dinero. Ya veremos, con suerte y esfuerzo lo lograremos.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

@@ -1,0 +1,50 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: Computer Maintenance Tips
+  author_email: ""
+  author_url: http://www.myhuntbar.com/
+  content: |-
+    <strong>Computer Maintenance Tips...</strong>
+
+    I couldn't understand some parts of this article, but it sounds interesting...
+  date: 2007-10-10 02:01:07 -0400
+  date_gmt: 2007-10-10 08:01:07 -0400
+  id: 11112
+date: 2007-08-03T21:45:23Z
+date_gmt: 2007-08-04 03:45:23 -0400
+published: true
+status: publish
+tags:
+- personal
+- nokia770
+- english
+title: Dell Inspiron 1420
+url: /2007/08/03/dell-inspiron-1420/
+wordpress_id: 408
+wordpress_url: http://mario.monouml.org/index.php/2007/08/03/dell-inspiron-1420/
+---
+
+<p><a href="http://www.flickr.com/photos/mariocarrion/1002627697/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1105/1002627697_eacc97aab3_m.jpg" width="240" height="180" alt="Inspiron 1420" /></a></p>
+<p>Let me say that <a href="http://www.dell.com/content/products/productdetails.aspx/inspnnb_1420?c=us&cs=19&l=en&s=dhs">this laptop</a> is a beauty, its color availability let's you choose the one for you, and that's not all, because you are selecting a highly configurable computer, and of course at lower price you are on a great deal. Since my older <a href="http://mario.monouml.org/index.php/2005/03/30/finalmente-2/">Inspiron 1150</a> I fall in love with Dell, yeah, we all know that takes, at least 2 weeks, that your order arrives at home (or somewhere else), but who cares, because at the end you will enjoy a great laptop.</p>
+<p>There are known histories about running Ubuntu on Inspiron 1420 and mine is another. First I use <a href="http://cdimage.ubuntu.com/daily/current/">Gusty Alternate CD</a> to install it, then by using Integrated NIC started downloading updates and upgrade to latest Gusty version. The following were the issue I faced.</p>
+<ol>
+<li>No X Windowing System. Do dpkg-reconfigure xserver-xorg, and select <em>intel</em> as your X module.</li>
+<li>No sound, followed the <a href="https://help.ubuntu.com/community/HdaIntelSoundHowto">Sound Howto</a> and after adding <em>options snd-hda-intel model=3stack</em> to <em>/etc/modprobe.d/alsa-base</em> did the trick. I didn't install anything from sources.</li>
+<li>DVD/CD Rom didn't worked after installing,  Add <em>ide-generic</em> module to <em>/etc/modules</em>.</li>
+</ol>
+<p><a href="http://www.flickr.com/photos/mariocarrion/1002578037/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1310/1002578037_e951ace705_m.jpg" width="240" height="144" alt="Intel 3945ABG" /></a></p>
+<p>After doing all those tricks, Compiz Fusion works "out of the box". No more Vista.</p>
+<p><a href="http://www.flickr.com/photos/mariocarrion/1002676817/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1133/1002676817_d078de9c4e_m.jpg" width="240" height="180" alt="No more Vista for you" /></a></p>
+<p>Missing things to test: Card reader, FireWire and Bluetooth.</p>
+<p><strong>Update Sat 4</strong>. Card reader works, also out of the box, at least with SD cards. Bluetooth seems to be detected by the Nokia 770, FireWire is missing I don't have anything with FireWire</p>
+<p><strong>Update Mon 6</strong>. <a href="https://bugs.launchpad.net/ubuntu/+bug/129477">Touchpad bug</a> is now fixed.</p>

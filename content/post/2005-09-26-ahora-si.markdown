@@ -1,0 +1,31 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-09-26T01:19:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Ahora sÃ­
+url: /2005/09/26/ahora-si/
+wordpress_id: 153
+wordpress_url: http://mario.monouml.org/index.php/2005/09/26/ahora-si/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">He terminado todas las actualizaciones necesarias para tener las mismas caracterÃ­sticas que antes tenÃ­amos, corregÃ­ algunos cambios bugs por ahÃ­ y ademÃ¡s actualizÃ© la parte del Notebook de diagramas, ahora (Â¡Â¡por fin!!) ya funciona como las demÃ¡s vistas, creo que lo siguiente serÃ¡ documentar esta forma de trabajo para que sepamos como esta ahora, y por si mÃ¡s adelante es necesario agregar alguna nueva, lo dudo, pero podrÃ­a ser.</p>
+<p style="text-align: justify;">Este nuevo cambio trae mejoras: como la mÃ¡s legible implementaciÃ³n de cÃ³mo es que la parte de los diagramas en el Notebook, ademÃ¡s que ahora, los mensajes de los diagramas en sÃ­ son pasados a sus contenedores y no como antes estaban, ahora las Toolbar de cada diagrama son individuales e independientes, ademÃ¡s de que forman parte del Wiget de la <a href="http://www.go-mono.com/docs/monodoc.ashx?link=P%3aGtk.Notebook.CurrentPageWidget">NotebookPage</a>, el cambio es notable:</p>
+<p style="text-align: center;">
+<a href="http://static.flickr.com/32/46692537_4347a94e95_o.png"><img src="http://static.flickr.com/32/46692537_4347a94e95_m.jpg" border="0" title="Diagram current" alt="Diagram current"/></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/28/46299696_d0ecfcf367_o.png"><img src="http://static.flickr.com/28/46299696_d0ecfcf367_m.jpg" title="Older diagram" alt="Older diagram" border="0"/></a></p>
+<p style="text-align: justify;">A seguir, no queda mÃ¡s que eso.
+<pre>svn update</pre></p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

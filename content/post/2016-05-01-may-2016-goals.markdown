@@ -1,0 +1,23 @@
+---
+date: 2016-05-01T00:00:00Z
+image: ruby.png
+image_facebook: ruby-facebook.png
+published: true
+status: publish
+title: 'Goals: May 2016'
+url: /2016/05/01/may-2016-goals/
+---
+
+Sadly the month of [April]({% post_url 2016-04-01-april-2016-goals %}) is long gone.
+
+Last month was kind of difficult to handle, specially because a lot of work started to pile up and I did not have enough time to read, except while commuting. I was able to finish reading 3 books last month:
+
+1. [Irresistible APIs]({% post_url 2016-04-02-irresistible-apis %}),
+1. [ReactJS Essentials]({% post_url 2016-04-13-reactjs-essentials %}) and
+1. [Re-Engineering Legacy Software]({% post_url 2016-04-21-re-engineering-legacy-software %})
+
+not bad, but still I feel I can do better. I didn't really start reading the **Go In Action** book yet, but I plan to keep the ball rolling, I have an idea I want to explore that will somehow integrate technologies I really want to try out and the topic of the project will keep me motivated, I call this project: **The Amazin' Panic City**.
+
+I'm trying to build something *big* in Go, using MongoDB and with Thrift. This new project seems like the best excuse for doing so, I honestly just need to stop slacking off.
+
+We'll see what happens this month.

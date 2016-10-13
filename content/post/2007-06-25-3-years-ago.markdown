@@ -1,0 +1,27 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2007-06-25T20:48:50Z
+date_gmt: 2007-06-26 02:48:50 -0400
+published: true
+status: publish
+tags:
+- personal
+- english
+title: 3 years ago
+url: /2007/06/25/3-years-ago/
+wordpress_id: 398
+wordpress_url: http://mario.monouml.org/index.php/2007/06/25/3-years-ago/
+---
+
+<p>Time goes so fast, on 2004 I was studying and waiting for graduation. I would love to have that free time like those old days. Even three years had passed I still remember those great things that happened.</p>
+<p>I can be more happier (sure everyone can). I need to change older things for newer, let's say my <a href="http://mario.monouml.org/index.php/2005/03/30/finalmente-2/">old laptop</a>, maybe leaving my house and starting living on my own, get a car meet some girls, learn <a href="http://en.wikipedia.org/wiki/Photography">something new</a>, I don't know, but am sure that next weekend will spend thinking about it (will be on vacation). I'm so tired mentally and resting will help me. I don't plan traveling or doing any <em>spectacular</em> things, just spend time with my family and going out on the morning, maybe to the beach, going to the movies, having great time. Breathing fresh air.</p>

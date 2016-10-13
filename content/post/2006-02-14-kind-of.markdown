@@ -1,0 +1,29 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-02-14T21:39:21Z
+date_gmt: 2006-02-15 01:39:21 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
+title: Kind of
+url: /2006/02/14/kind-of/
+wordpress_id: 240
+wordpress_url: http://mario.monouml.org/index.php/2006/02/14/kind-of/
+---
+
+<p>Even I feel kind of sad this day, it doesn't matter, because someone give a very nice present!</p>
+<p><a href="http://static.flickr.com/19/99905415_927cd20955_o.jpg"><img src="http://static.flickr.com/19/99905415_927cd20955_m.jpg" alt="Yellow monkey!" /></a></p>
+<p>Thank you Cecy!</p>
+<p>And yes, after allmost 3 years I'm going to see her! <strong>Quite impressive</strong>, kind of exciting!.</p>

@@ -1,0 +1,32 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-01-15T18:43:55Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Pronto regreso
+url: /2005/01/15/pronto-regreso/
+wordpress_id: 81
+wordpress_url: http://mario.monouml.org/index.php/2005/01/15/pronto-regreso/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">He estado un poco separado de <a href="http://monouml.sf.net">MonoUML</a> estos dÃ­as libres, algo que no me gusta, pues el proyecto necesita avanzar, ahora que reiniciarÃ© las clases en la <a href="http://www.itver.edu.mx">universidad</a> lo inscribirÃ© a un concurso que se celebra a nivel nacional en todos los tecnolÃ³gicos, por tal razÃ³n avanzarÃ© lo mÃ¡s posible para mostrar algo usable a los jueces</p>
+<p align="justify">Estuve separado por un proyecto de mÃºsica, escencialmente para aprender a tocar el piano, es un proyecto interesente, lo pensaba desarrollar utilizando <a href="http://java.sun.com">Java</a>, pero despuÃ©s de pensar un poco, decidÃ­ no realizarlo, y no porque no pudiera, sino por el poco tiempo que tendrÃ­a para MonoUML, confio mÃ¡s en mi proyecto que en el proyecto de otro, posiblemente debÃ­ haberlo seleccionado, pero tambiÃ©n hay que saber cuando decir <span style="font-weight:bold;">no</span>.</p>
+<p align="justify">Durante este proceso de "lo harÃ©/no lo harÃ©" me he dado cuenta de lo engreida que es la gente, yo sigo diciendo que desarrollar para Windows te afecta, claro que en ambientes Unix tambiÃ©n hay gente asÃ­, pero siento que es menor, o quizÃ¡ jamÃ¡s lo habÃ­a notado antes. Me he dado cuenta que me falta tanto por aprender, me siento un poco novato, creo que la Ãºnica soluciÃ³n es estudiar y estudiar, aunque la propuesta de trabajo del proyecto anterior no funciono, o mejor dicho no deje que funcionara, serÃ© pieza importante en el desarrollo internacional, pues pienso realizar algunas aplicaciones web para exportar el producto a niveles internacionales, no pienso quedarme ahi parado.</p>
+<p align="justify">Inclusive esta es la primera vez que alguien me paga mis servicios sÃ³lo por lo que se, Ãºnicamente por mis consejos, resulte ser <span style="font-weight:bold;">consultor</span>, y ese trabajo es algo interesante, nadie antes me habÃ­a pagado por algo asÃ­. Lo que si me di cuenta es que es un trabajo bien pagado y relativamente sencillo, actuar de alguna forma de <span style="font-weight:bold;">traductor</span> y <span style="font-weight:bold;">abogado</span>, es agradable.</p>
+<p align="justify">Estoy seguro que <a href="http://monouml.sf.net">MonoUML</a> serÃ¡ un gran proyecto en el concurso de la facultad, eso sin duda. Si alguien es estudiante del <a href="http://www.itver.edu.mx">ITV</a> y le interesa participar no dude en contactarme, y si no es estudiante de ahÃ­ no importa cualquier ayuda es bien recibida, y si no es con <a href="http://monouml.sf.net">MonoUML</a> tambiÃ©n hace falta ayuda con el proyecto hermano: <a href="http://expertcoder.sf.net">ExpertCoder</a>.</p>
+<p>
+<span style="font-weight:bold;">Por cierto</span>: 'Buen trabajo el de <a href="http://rodolfocampero.blogspot.com">Rodolfo</a>: http://expertcoder.sf.net'</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

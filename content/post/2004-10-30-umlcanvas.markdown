@@ -1,0 +1,34 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2004-10-30T19:01:26Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+title: UMLCanvas#
+url: /2004/10/30/umlcanvas/
+wordpress_id: 47
+wordpress_url: http://mario.monouml.org/index.php/2004/10/30/umlcanvas/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">DespuÃ©s de algÃºn tiempo de no hacer cosas en <a href="http://monouml.sf.net">MonoUML</a> decidÃ­ regresar a trabajar con la parte en la que estamos detenidos, la vista, estando agregando cosas me encontre a <a href="http://rodolfocampero.blogspot.com">Rodolfo</a> en IRC y me sugerio cambiar el nombre de UML# a UMLCanvas#, dicho nombre me agrado mucho, pues como Ã©l me menciono la librerÃ­a solo sirve para dibujar los elementos UML y la manipulaciÃ³n de los elementos UML del modelo conceptual esta definida en <a href="http://expertcoder.sf.net">ExpertCoder</a>. Hacer la <a href="http://www.geocities.com/k4rny/imgs/umlcanvas-sharp/umlcanvas_sharp_0_0_0_1.png">relaciÃ³n entre dos elementos</a> no fue dificifÃ­l, lo mÃ¡s dificil hasta ahora es hacer que al mover los elementos la relaciÃ³n se mantenga de una forma consistente, eso lo harÃ© con mÃ¡s detalle luego.</p>
+<p align="justify">Rodolfo tambiÃ©n me envio <a href="http://www.geocities.com/k4rny/imgs/umlcanvas-sharp/umlcanvas_sharp_0_0_0_1_pa.png">un diagrama del conjunto de paquetes</a> que hasta ahora lleva el namespace de UMLCanvas# (MonoUML.Widgets.UML), lo estamos haciendo lo mÃ¡s modular posible, ademÃ¡s de eso he redescubierto a <a href="http://www.monodevelop.org">MonoDevelop</a>, muy buena herramienta, no se si era mis viejos paquetes de mono para <a href="http://www.debian.org">Debian</a>, pero ahora lo siento mÃ¡s rÃ¡pido y mÃ¡s estable.</p>
+<p align="justify">En las pruebas que Rodolfo hizo, programo una clase sencilla para la representaciÃ³n de una Class UML y la cargo usando ExpertCoder y MonoUML.DI, <a href="http://www.geocities.com/k4rny/imgs/umlcanvas-sharp/umlcanvas_sharp_ejem_0_1.png">obtuvo un buen resultado</a>.</p>
+<p align="justify">Ayer salÃ­ a pasear por mi bella ciudad, y note que jamÃ¡s habia visto con atenciÃ³n las cosas que estÃ¡n, y tome alguna que otra foto, y de regreso note que la Ãºnica foto que tome la semana pasada no la habia mostrado. Son buenas fotos todas ellas. Me gusta la fotografÃ­a, claro que no tengo la mejor cÃ¡mara digital, en realidad con lo que tomo fotos no fue diseÃ±ado para tomar fotos, pero aun asi a veces saca buenas fotos.</p>
+<p><a href="http://www.geocities.com/k4rny/imgs/imgs_0/catedral.jpg"><img src="http://www.geocities.com/k4rny/imgs/imgs_0/catedral.jpg" width="200" height="150" title="Catedral del Z&oacute;calo de Veracruz, Veracruz"/></a>&nbsp;&nbsp;<a href="http://www.geocities.com/k4rny/imgs/imgs_0/paraiso2_iglesa.jpg"><img src="http://www.geocities.com/k4rny/imgs/imgs_0/paraiso2_iglesa.jpg" width="200" height="150" title="Catedral del Z&oacute;calo de Para&iacute;so, Tabasco"/></a></p>
+<p><a href="http://www.geocities.com/k4rny/imgs/imgs_0/luz.png"><img src="http://www.geocities.com/k4rny/imgs/imgs_0/luz.png" width="200" height="150" title="Luces del Tecnol&oacute;gico"/></a>&nbsp;&nbsp;<a href="http://www.geocities.com/k4rny/imgs/imgs_0/fuente.jpg"><img src="http://www.geocities.com/k4rny/imgs/imgs_0/fuente.jpg" width="200" height="150" title="Fuente Z&oacute;calo"/></a></p>
+<p><a href="http://www.geocities.com/k4rny/imgs/imgs_0/fuente1.jpg"><img src="http://www.geocities.com/k4rny/imgs/imgs_0/fuente1.jpg" width="200" height="150" title="Fuente Z&oacute;calo"/></a></p>
+<p>
+<span style="font-weight:bold;">Hoy aprendÃ­</span>: '370 dÃ­as. 1.0164 aÃ±os.'</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

@@ -1,0 +1,40 @@
+---
+date: 2016-09-01T00:00:00Z
+description: Ninth month of year begins today. What are my plans?
+published: true
+status: publish
+title: 'Goals: September 2016'
+url: /2016/09/01/_sept-2016/
+---
+
+Summer is, sort of, officially finished. Today we start the ninth month of the year. In three months from now 2016 will be no more. Time does fly really fast.
+
+{% twitter oembed https://twitter.com/mariocarrion/status/771407620838133760 %}
+
+Let's go back and take a look at what I planned:
+
+### Complete reading "Go Web Programming"
+
+The truth is that I got sidetracked reading [Docker in Action](https://www.manning.com/books/docker-in-action), which actually I finished reading today, great book by the way, I do plan finish reading **Go Web Programming** this month, that's for sure!
+
+### Complete reading "Go in Action"
+
+As I mentioned during the [August post]({% post_url 2016-08-01-august-goals %}), I was super close to finish reading it, and of course [I did]({% post_url 2016-07-15-go-in-action %}). Surprisingly last month I had two Go-related good news. First I got the [Go in Practice](https://www.manning.com/books/go-in-practice) book in the mail:
+
+{% twitter oembed https://twitter.com/mariocarrion/status/768618956080844801 %}
+
+Making it my fifth physical Go book, and third one published by Manning; the second good news is that I finally have a job project using Go, **finally!**, so that's phenomenal news for me.
+
+### Complete reading "Amazon Web Services in Action"
+
+This [was also completed]({% post_url 2016-08-02-amazon-web-services-in-action %})
+
+### Have Dynamic Docker Composer "ready"
+
+Obviously a really aggressive goal but I did manage to push some code [to github](https://github.com/MarioCarrion/dynamic-docker-composer), I had the chance to think about the overall architecture and I progressed a little bit, not as much as I expected but still something, this month is all about keeping the ball rolling.
+
+### What am I planning for September?
+
+Again read at least two books, Docker in Action does not count, and hack more Dynamic Docker Composer, hopefully I can integrate it with Gitlab and blog about it.
+
+Only time will tell.

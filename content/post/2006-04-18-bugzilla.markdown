@@ -1,0 +1,26 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-04-18T21:07:44Z
+date_gmt: 2006-04-19 01:07:44 -0400
+published: true
+status: publish
+tags:
+- monouml
+- english
+title: Bugzilla
+url: /2006/04/18/bugzilla/
+wordpress_id: 269
+wordpress_url: http://mario.monouml.org/index.php/2006/04/18/bugzilla/
+---
+
+<p>Forge Novell have enabled <a href="http://devzilla.novell.com/monouml/index.cgi">Bugzilla</a> support for hosted projects, now <a href="http://www.monouml.org">MonoUML</a> has its bugzilla!, see <a href="http://developer.novell.com/wiki/index.php/Monouml">the wiki</a> too ;-)</p>

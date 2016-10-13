@@ -1,0 +1,63 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: Mahomedalid Pacheco
+  author_email: mictlan@gmail.com
+  author_url: http://mahomedalidp.blogspot.com
+  content: Having multiple girlfriends it's a good step.
+  date: 2007-09-11 08:43:31 -0400
+  date_gmt: 2007-09-11 14:43:31 -0400
+  id: 10898
+- author: Friend
+  author_email: uno_52@hotmail.com
+  author_url: ""
+  content: Do you have one Girlfriend? :O And Do you Have More ? =P
+  date: 2007-09-12 16:58:09 -0400
+  date_gmt: 2007-09-12 22:58:09 -0400
+  id: 10905
+- author: Mario CarriÃ³n
+  author_email: mario@monouml.org
+  author_url: http://mario.monouml.org
+  content: I don't have any.
+  date: 2007-09-12 19:34:29 -0400
+  date_gmt: 2007-09-13 01:34:29 -0400
+  id: 10907
+- author: Friend
+  author_email: burbuja@hotmail.com
+  author_url: ""
+  content: "Are you liar ? jejeje =P \r\nI Understand you....."
+  date: 2007-09-26 14:41:45 -0400
+  date_gmt: 2007-09-26 20:41:45 -0400
+  id: 11001
+- author: Mario CarriÃ³n
+  author_email: mario@monouml.org
+  author_url: http://mario.monouml.org
+  content: I'm guessing you have met my girlfriend to write that. Oh wait, you haven't.
+  date: 2007-09-26 18:40:16 -0400
+  date_gmt: 2007-09-27 00:40:16 -0400
+  id: 11002
+date: 2007-09-10T19:22:44Z
+date_gmt: 2007-09-11 01:22:44 -0400
+published: true
+status: publish
+tags:
+- personal
+- english
+title: Free time
+url: /2007/09/10/free-time/
+wordpress_id: 413
+wordpress_url: http://mario.monouml.org/index.php/2007/09/10/free-time/
+---
+
+<p>I usually blame time because goes by so fast. I agree that working or studying takes you, at least, half day and after that half-day you arrive so tired at home searching your bed to rest to, the next day, start all over again. That's kind of patetic life. For people like me, single with no kids, doing that over and over every day will drive me crazy some time in my life and eventually wouldn't enjoy going to work and to do "my things".</p>
+<p>I would like to spend more time doing personal stuff, maybe practicing some sport or having <strike>multiple</strike> concurrent girlfriends. Having more free time will be so nice but developing an easy-to-follow schedule will lead to, also, a rutinary life.</p>
+<p>I'm guessing to mix rutinary with spontaneous is the answer.</p>

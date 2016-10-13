@@ -1,0 +1,30 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-01-10T01:56:50Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Solaris 10
+url: /2005/01/10/solaris-10/
+wordpress_id: 83
+wordpress_url: http://mario.monouml.org/index.php/2005/01/10/solaris-10/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">En estos dÃ­as me he puesto a mirar lo que ahora nos trae <a href="http://www.sun.com">Sun</a> con su nuevo <a href="http://www.sun.com/software/solaris/10/">SO</a>, a pesar de las crÃ­ticas de <a href="http://news.com.com/Torvalds+a+Solaris+skeptic/2008-1082_3-5498799.html?part=rss&tag=5498799&subj=news.1082.20">Linus</a> en contra a la versiÃ³n de Solaris 10 como proyecto abierto para la arquitectura x86, no creo que sea considerado una <span style="font-style:italic;">broma</span>, es cierto que el soporte que tiene Solaris 10 contra Linux es incomparable, pero tambiÃ©n es cierto que Sun ha apoyado mucho al SL y mirar lo que ahora nos presenta Sun no nos quita nada. He instalado el <a href="http://www.sun.com/software/solaris/solaris-express/get.jsp">Solaris 10-x86</a> en mi equipo utilizando una <a href="http://www.vmware.org">mÃ¡quina virtual</a>, el desempeÃ±o es bueno, y la interfaz es agradable, por supuesto que hay varios cambios, yo no tengo ni idea con Ã©l, pero espero en unos meses saber mÃ¡s, inclusive he ordenado <a href="http://www.amazon.com/exec/obidos/am/002-0692759-8984841?p=tg%2Fdetail%2F%2D%2F0072229985%2Fref%3Dpd%5Fwt%5F1%2F002%2D0692759%2D8984841%3Fcoliid%3DI3KVSCZOQ5T3W8&l=338864&c=160566&i=6951">un libro</a> para meterme de lleno con este, mi idea es profundizar mÃ¡s y mÃ¡s en Solaris, creo que es momento de seleccionar un UNIX respaldado por una empresa, y me parece que Solaris es la respuesta, una respuesta accesible a mi bolsillo.</p>
+<p align="justify">Hablando de la instalaciÃ³n, esta fue sencilla basada en Siguiente - Siguiente - Finalizar, el clÃ¡sico "Sacar CD, Meter CD, ENTER", nada complejo en realidad, salvo unas opciones de configuraciÃ³n, pero en general nada complejo. Trae <a href="http://www.sun.com/software/solaris/cde/index.xml">CDE</a> y <a href="http://wwws.sun.com/software/javadesktopsystem/">Java Desktop Environment</a> (el GNOME de Sun) con buenos grÃ¡ficos, mil veces mÃ¡s comodo de trabajar en comparaciÃ³n con CDE (mi humilde opiniÃ³n), la integraciÃ³n con <a href="http://java.sun.com">Java</a>, es por supuesto excelente (mÃ¡s que ovbio), utiliza la Ãºltima versiÃ³n, el famoso Java 5.</p>
+<p align="justify">Mi idea de todo esto es quitar (o al menos hacer arranque dual) mi actual <a href="http://www.debian.org">Debian</a> y reemplazarlo con Solaris, por supuesto que lo que interesa es tener funcionando <a href="http://www.mono-project.com">mono</a> en Ã©l, (con mono trabajo muchÃ­simo, no puedo dejarlo asi nada mas), he mirado muchos enlaces de como compilarlo, pero sin resultado, debe ser mi inexperiencia con este UNIX, espero pronto dejar los paÃ±ales y comenzar a caminar con Ã©l.</p>
+<p align="justify">Posiblemente en algunos meses este contando mi experiencia en como instalar mono en Solaris, o porque no unos paquetes de mono para Solaris, porque creo que no existen algunos, pero bueno, el tiempo lo dirÃ¡.</p>
+<p><span style="font-weight:bold;">Por cierto</span>: 'TambiÃ©n llegarÃ¡ <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0596007922/ref=wl_it_dp/002-0692759-8984841?%5Fencoding=UTF8&coliid=I3A7KW69K0B7GF&v=glance&colid=70SYK8CBBECZ">este libro</a> junto con el de Solaris... espero :/'</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

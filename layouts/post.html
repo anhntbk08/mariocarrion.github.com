@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<p class="meta">
+  {{ page.date | date: "%B %d, %Y" }} 
+  <a href="/">
+    <i class="home fa fa-home"></i>
+  </a>
+</p>
+
+<h1 class="title">{{ page.title }}</h1>
+
+<div id="post">
+  {{ content | replace: "’", "&#8217;" | replace: "“", "&#8220;" | replace: "”", "&#8221;" }}
+</div>
+
+<div id="related">
+  <h3>Posts</h3>
+  <ul class="posts">
+    {% if page.previous %}
+    <li>
+      <span>{{ page.previous.date | date_to_string }}</span> <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+    </li>
+    {% endif %}
+
+    {% if page.next %}
+    <li>
+      <span>{{ page.next.date | date_to_string }}</span> <a href="{{ page.next.url }}">{{ page.next.title }}</a>
+    </li>
+    {% endif %}
+  </ul>
+</div>

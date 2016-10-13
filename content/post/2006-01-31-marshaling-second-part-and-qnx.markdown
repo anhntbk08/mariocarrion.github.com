@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-01-31T00:17:34Z
+date_gmt: 2006-01-31 04:17:34 -0500
+published: true
+status: publish
+tags:
+- mono
+- monohotdraw
+- english
+title: Marshaling, second part, and QNX
+url: /2006/01/31/marshaling-second-part-and-qnx/
+wordpress_id: 233
+wordpress_url: http://mario.monouml.org/index.php/2006/01/31/marshaling-second-part-and-qnx/
+---
+
+<p>After testing the class I noticed that works with 2 bytes... and should work with greather lengths, but I still don't like its performance... too many loops... needs further reviewing. BTW, I've fixed the one MonoCanvas bug, now the DnD works in a better way, first release is closer!!</p>
+<p>Yesterday I went to bed too late... I was compiling mono in <a href="http://www.qnx.com/">QNX</a>, first, there are missing some details for compiling the Boehm GC and then.. I couldn't finish its compiling due to some <em>-lgthread</em> missing in gcc. Still need "<em>to dive</em>" into the code for fixing these issues.</p>

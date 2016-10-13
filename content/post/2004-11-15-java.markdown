@@ -1,0 +1,29 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2004-11-15T21:45:50Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Java
+url: /2004/11/15/java/
+wordpress_id: 62
+wordpress_url: http://mario.monouml.org/index.php/2004/11/15/java/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Java habÃ­a sido mi lenguajes de programaciÃ³n para aplicaciones stand-alone desde <a href="http://java.sun.com"></a>que lo comenze a usar, ahora ha sido desplazado por C#, aunque este semestre he decidido probarlo de nuevo, para ver que trae de nuevo. Si algo que nunca me gusto fue que los diseÃ±adores de formas fueran casi inexistentes, es cierto que el propio <a href="http://www.sun.com">Sun</a> te da uno para que lo utilices, pero es increible que piensen que todos tienen equipos de cÃ³mputo de ultima generaciÃ³n, eso es lo que nunca me ha gustado de <a href="http://java.sun.com">Java</a>, su lenta ejecuciÃ³n, sus <a href="http://java.sun.com/reference/api/index.html">APIs</a> son las mejores, es cierto, y aunque ahora con <a href="http://java.sun.com/products/hotspot/">HotSpot</a> funciona un poco mÃ¡s rÃ¡pido, <a href="http://www.microsoft.com/net/">.NET</a> se lo lleva de calle en la velocidad. Pero hay algo en lo que gana Java, y eso al menos, en mis alrededores es lo que persivo, el <span style="font-weight:bold;">renombre</span>, todos conocen a Java y lo ven como el mejor, pero siguen programando en Delphi y Visual Basic, es como los que dicen que Linux es el mejor y jamÃ¡s lo han usado.</p>
+<p align="justify">Si Java hubiera sido idea de <a href="http://www.microsoft.com">Microsoft</a>, primero, Sun no serÃ­a lo que es ahora y segundo .NET no existiria, quizÃ¡ con el paso del tiempo la version Java de MS cambiaria a .NET. Me gusta Java, a pesar de ser una tortuga, claro con el tiempo y los avances tecnolÃ³gicos nadie recordara lo lento que alguna vez fue. Yo sigo sufriendo su lentitud gracias a mi P2 a 300Mhz, pero bueno, hay que seguir a pesar de ello.</p>
+<p align="justify">Java marco un cambio para los desarrolladores de software con visiÃ³n, quizÃ¡ muchos de los que usaban MS Visual Basic para programar jamÃ¡s les importo, ahora .NET cumple lo que Java jamÃ¡s cumplio, que triste que Sun no hizo caso a la comunidad.</p>
+<p><span style="font-weight:bold;">Hoy aprendi</span>: '<a href="http://java.sun.com/docs/books/tutorial/getStarted/cupojava/unix.html">Una tacita de cafe</a>, por favor'</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

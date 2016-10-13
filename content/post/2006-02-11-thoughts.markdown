@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-02-11T21:03:38Z
+date_gmt: 2006-02-12 01:03:38 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
+title: Thoughts
+url: /2006/02/11/thoughts/
+wordpress_id: 238
+wordpress_url: http://mario.monouml.org/index.php/2006/02/11/thoughts/
+---
+
+<p>I need to get it new. Then <em>everything</em> will stop and will feel better. </p>
+<p>...</p>
+<p>I'm hoping, tomorrow, to wake up early for going to print the final <a href="http://www.omg.org/technology/documents/formal/uml.htm">UML 2</a> specification (adopted on august 4th 2005) to use it for two main porpuses: <a href="http://www.omg.org/uml-certification/index.htm">showing what I know</a> (and to get a greater salary ;-)) and because really need it for <a href="http://www.monouml.org">MonoUML</a>, this due to MonoCanvas is getting closer to its first release and writting UmlCanvas# is my new goal.</p>

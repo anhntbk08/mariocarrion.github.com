@@ -1,0 +1,26 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2006-04-01T18:06:12Z
+date_gmt: 2006-04-01 22:06:12 -0500
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- development
+title: NUML
+url: /2006/04/01/numl/
+wordpress_id: 263
+wordpress_url: http://mario.monouml.org/index.php/2006/04/01/numl/
+---
+
+<p><a href="http://rodolfocampero.blogspot.com/">Rodolfo</a> ha decidido separar ExpertCoder, en dos partes, la parte <a href="http://expertcoder.sf.net">ExpertCoder</a> para la generaciÃ³n de cÃ³digo y la parte exclusiva UML que incorpora la implementaciÃ³n UML 2.0, XMI 2.1, ademÃ¡s de la serializaciÃ³n y deserializaciÃ³n, entre otras cosas. La decisiÃ³n me parece una buena idea, de igual forma hemos decidido remover, al menos por ahora, la parte visual de <a href="http://www.monouml.org">MonoUML</a> referente a la diagramaciÃ³n la principal razÃ³n de esto es que la versiÃ³n actual tiene varios errores y la versiÃ³n que se estarÃ¡ escribiendo en base a MonoCanvas aÃºn no ve la luz, con esto liberaremos mÃ¡s seguido MonoUML, hasta que llegue un momento en el que tenga de nuevo diagramaciÃ³n.</p>
+<p>Debido a la creaciÃ³n de <a href="http://www.sourceforge.net/projects/numl">NUML</a>, se necesitan mÃ¡s manos, para empaquetar, diseÃ±ar un buen sitio (Â¿basado en MediaWiki?) ademÃ¡s de otras cosas que vayan saliendo, serÃ­a genial crear tambiÃ©n <a href="http://mario.monouml.org/index.php/2006/03/22/nunit/">test unitarios</a> para NUML y para ExpertCoder, para evitar regresiones en el futuro. Toda la ayuda es bien recibida.</p>

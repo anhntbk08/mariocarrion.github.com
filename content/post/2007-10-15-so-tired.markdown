@@ -1,0 +1,26 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2007-10-15T20:08:45Z
+date_gmt: 2007-10-16 02:08:45 -0400
+published: true
+status: publish
+tags:
+- personal
+- english
+title: So tired
+url: /2007/10/15/so-tired/
+wordpress_id: 424
+wordpress_url: http://mario.monouml.org/index.php/2007/10/15/so-tired/
+---
+
+<p>I'm so, so tired. However, at the end of the day going home is the best.</p>

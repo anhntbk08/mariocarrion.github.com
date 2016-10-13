@@ -1,0 +1,31 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-02-01T15:06:53Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
+- mono
+title: Escuela
+url: /2005/02/01/escuela/
+wordpress_id: 93
+wordpress_url: http://mario.monouml.org/index.php/2005/02/01/escuela/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Pues finalmente estoy de regreso en la <a href="http://www.itver.edu.mx">universidad</a>, he tomado materias muy interesantes pero sinceramente me preocupa una, no por su dificultad sino por la persona que la imparte, espero que todo salga bien, tendrÃ© que esforzarme al mÃ¡ximo para lograr salir adelante.</p>
+<p align="justify">Por otro lado, todo indica que esta temporada saldrÃ¡ <a href="http://monouml.sf.net">MonoUML 0.1</a>, el registro a uno de los concursos de proyectos universitarios serÃ¡ pronto, y por supuesto que MonoUML formarÃ¡ parte de este, ya he conseguido a alguien para asesor, pues como proyecto universitario es requisito tener uno, una ayuda fuera de la burbuja del equipo es siempre objetiva y por supuesto que caerÃ¡ muy bien. AdemÃ¡s siento que este proyecto podrÃ­a ser un buen proyecto para realizar la tesis profesional, asÃ­ de esta forma trabajarÃ© en Ã©l de tiempo completo y conseguirÃ© mi titulo universitario tambiÃ©n, simplemente dos pÃ¡jaros con la misma piedra, es claro que MonoUML no es <span style="font-weight:bold;">aun</span> para ambientes de producciÃ³n, sigue siendo un proyecto de investigaciÃ³n con gran futuro prÃ³ximo pero en uno 1 aÃ±o, segÃºn mis cÃ¡lculos, este podrÃ­a ser utilizable casi en su totalidad.</p>
+<p align="justify">Ideas como integraciÃ³n total con <a href="http://www.monodevelop.com">Monodevelop</a>, Forward Engenieering, Reverse Engenieering, GeneraciÃ³n de DocumentaciÃ³n con <a href="http://www.docbook.org/">DocBook</a>, son cosas que en futuro podrÃ­an estar, ademÃ¡s ahora con las <a href="http://nat.org/2005/january/">noticias de ports</a> de aplicaciones de Linux a MS Windows es probable que la dependencia de GnomeCanvas no sea un problema para funcionar en MS Windows, aunque claro, ahora con la nueva propuesta de UMLCanvas# que se esta haciendo lo mÃ¡s probable es que funcione con otras librerÃ­as grÃ¡ficas, aunque que MonoUML no funcione de primera instancia con MS Windows no es algo que aflija al equipo, serÃ­a interesante tenerlo tambiÃ©n para MS Windows pero como prioridad no figura, como idea para un futuro lejano podrÃ­a ser.</p>
+<p align="justify">Al menos eso es lo que a estos dÃ­as alcanza mi vista a mirar con detalle.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

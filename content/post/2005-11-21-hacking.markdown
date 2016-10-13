@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2005-11-21T00:01:11Z
+date_gmt: 2005-11-21 04:01:11 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
+title: Hacking
+url: /2005/11/21/hacking/
+wordpress_id: 195
+wordpress_url: http://mario.monouml.org/index.php/2005/11/20/hacking/
+---
+
+<p>Yes... my sister's pet hacks while chating with <a href="http://www.gaim.org">gaim</a></p>
+<p><a href="http://static.flickr.com/31/65337495_f683f4e846_o.jpg"><img src="http://static.flickr.com/31/65337495_f683f4e846_m.jpg" alt="Evo is hacking!" /></a>.</p>
+<p>Yes... Evo is our featured hacker! ;-)</p>

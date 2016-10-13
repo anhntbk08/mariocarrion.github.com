@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-01-03T21:06:02Z
+date_gmt: 2006-01-04 01:06:02 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
+title: Solved
+url: /2006/01/03/solved/
+wordpress_id: 219
+wordpress_url: http://mario.monouml.org/index.php/2006/01/03/solved/
+---
+
+<p>Today I solved my <a title="COM+ headache" href="http://mario.monouml.org/index.php/2006/01/02/scratching-my-head/">previous problem</a>, How did I solve it?? Wasn't too easy but I have a very nice friend who is always with me: <strong>cup of coffee</strong> :-). I only need many cups of coffee (espresso, american, whatever you like), <a title="The Oracle" href="http://mario.monouml.org/wp-admin/www.google.com">google</a> and <a title="MS Developers Network" href="http://mario.monouml.org/wp-admin/msdn.microsoft.com">MSDN</a>.Â  I just can't believe many things, such as: <a target="_blank" href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vclib/html/vclrfccomsafearray.asp">CComSafeArray</a> and <a target="_blank" href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vclib/html/_mfc_colesafearray.asp">COleSafeArray</a> produce different <a target="_blank" href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/automat/html/9ec8025b-4763-4526-ab45-390c5d8b3b1e.asp">SAFEARRAY</a>s (Ole-one worked), <a target="_blank" href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vclib/html/_MFC_AfxOleInit.asp">AxfOleInit</a> doesn't work (even if returns TRUE) if you use it within any DLL (for calling other DLL) <a target="_blank" href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/com/html/9a13e7a0-f2e2-466b-98f5-38d5972fa391.asp">OleInitialize</a> does the trick, <a target="_blank" href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vccore/html/vcurfMFCClassFromTypeLibraryWizard.asp">Microsoft's Wizards</a> really suck! Forget them.. do it by yourself.<br />
+And yes, Pointer Arithmethic sometimes is hard, but I just love it.</p>
+<p>Next step? Better performance.</p>

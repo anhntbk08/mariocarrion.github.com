@@ -1,0 +1,29 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2004-12-31T06:22:15Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Viaje relÃ¡mpago
+url: /2004/12/31/viaje-relampago/
+wordpress_id: 67
+wordpress_url: http://mario.monouml.org/index.php/2004/12/31/viaje-relampago/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Del aÃ±o pasado para acÃ¡ he tenido la idea de hacer cosas diferentes cada fin de aÃ±o, el tradicional brindis y los 12 deseos que se dicen cada segundo del minuto previo al aÃ±o nuevo ya no lo hago, cierto que es una tradiciÃ³n y tener metas para el prÃ³ximo aÃ±o es bueno, pero es cierto que nadie las cumple, prefiero ponerme muchas metas a corto plazo que 12 para un aÃ±o. El aÃ±o pasado no fui al tradicional <span style="font-style:italic;">amanecer</span>, todo indica que este aÃ±o tampoco lo harÃ©, Â¿razones? salgo de viaje, y si todo sale bien y no se cancela el viaje, saldrÃ© a las 11:30HRS, serÃ¡ un viaje pesado, lo sÃ©, pero lo vale, inclusive ya tengo mi boleto de ida para el sÃ¡bado 1Âº y el boleto de regreso del domingo 2. En verdad espero que se pueda, porque despuÃ©s de esta semana, vendra una ola de trabajo que debo de terminar antes de mi regreso a clases, a cursar posiblemente mi Ãºltimo semestre <span style="font-style:italic;">escolar</span>.</p>
+<p align="justify">Por otro lado el avance de <a href="http://monouml.sf.net">MonoUML</a> va bien, no he tenido la aportunidad de ahondar mÃ¡s, ando un poco ocupado con esto de los tutoriales de inicio de cursos que darÃ© en al <a href="http://www.itver.edu.mx">universidad</a>, por otro lado, <a href="http://asantiago.gentelibre.org/">Antonio Santiago</a> se <a href="http://http://sourceforge.net/project/memberlist.php?group_id=115334">une la grupo de desarrollo</a>. En <a href="http://www.monohispano.org">Mono Hispano</a> he estado traduciendo un poco mÃ¡s la parte del <a href="http://www.monohispano.org/ecma/">capitulo 14 del ECMA de C#</a>, en verdad que esta largo ese capÃ­tulo, pero bueno cada vez falta menos.</p>
+<p align="justify">Por otro lado curioseando por ahÃ­ llegue al blog de <a href="http://ometer.com/">Havoc Pennington</a> en donde hay una interesante "<span style="font-style:italic;"><a href="http://ometer.com/hacking.html">guÃ­a</a></span>" para iniciarse en proyectos de software libre, ademÃ¡s de como <a href="http://ometer.com/free-software-ui.html">diseÃ±ar interfaces grÃ¡ficas</a>, buenas lecturas.</p>
+<p><span style="font-weight:bold;">Nota de hoy</span>: 'Esperemos salir de viaje. OjalÃ¡'</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

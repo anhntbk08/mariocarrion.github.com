@@ -1,0 +1,29 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-11-21T21:49:01Z
+date_gmt: 2006-11-22 03:49:01 -0500
+published: true
+status: publish
+tags:
+- monouml
+- development
+- english
+title: Campana
+url: /2006/11/21/campana/
+wordpress_id: 355
+wordpress_url: http://mario.monouml.org/index.php/2006/11/21/campana/
+---
+
+<p>I will travel next December 12th to <a href="http://en.wikipedia.org/wiki/Campana%2C_Buenos_Aires">Campana, Argentina</a>, because of work, some months have passed since <a href="http://mario.monouml.org/index.php/2006/07/10/buenos-aires/">last travel</a>, have ported almost all SCADA and now we need to test it, let pack our lugagge and get ready.</p>
+<p>I'm happy about this trip, Argentina is enjoying summer and I want to scape from winter! Yeah I know <a href="http://en.wikipedia.org/wiki/Veracruz">Veracruz</a> isn't the coldest place ever but I just don't like this weather, I just hate cold.</p>
+<p>And yes after bringing MonoUML's website up am starting to re/code Reverse Engineering, now using Cecil instead of Reflection, as you might imagine, there isn't much documentation, so am still figuring it out and learn it, however my plans are implement this new Reverse Engineering library based on the Adapter pattern to allow multiple Engines, an am doing it right now.</p>

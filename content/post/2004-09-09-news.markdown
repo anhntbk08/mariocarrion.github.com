@@ -1,0 +1,39 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2004-09-09T17:34:19Z
+published: true
+status: publish
+tags:
+- personal
+- english
+title: News
+url: /2004/09/09/news/
+wordpress_id: 43
+wordpress_url: http://mario.monouml.org/index.php/2004/09/09/news/
+---
+
+<div style="clear:both;"></div>
+<p>New features had been added to MonoUML:</p>
+<ul>
+<li>Comments allowed for elements and nested comments for comments.</li>
+<li>Command line arguments, for opening projects from shell.</li>
+<li>The toolbar icons now work.</li>
+<li>A lot of EC bug had been fixed.</li>
+<li>The GUI had changed, now uses Paned widgets, like in the early beginning.</li>
+<li>Support for Use Cases almost complete (ALMOST).</li>
+<li>Some other... :)</li>
+</ul>
+<p>Look the <a href="javascript:popWin('http://www.geocities.com/k4rny/imgs/monouml_0_0_0_6.png',679,547)">newest</a> screenshot, you are encourage to do <span style="font-style:italic;">cvs update -dp</span> to our CVS.</p>
+<p>All the features were done by the current MonoUML team (Mario Fuentes, Rodolfo Campero and Mario CarriÃ³n), the other part of the team had not done anything yet, I hope to get some help from some other people sooner.</p>
+<p><span style="font-weight:bold;">I learned today:</span> 'UML Rule so does MonoUML'
+<div style="clear:both; padding-bottom: 0.25em;"></div>

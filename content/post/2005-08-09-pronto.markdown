@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-08-09T15:36:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Pronto
+url: /2005/08/09/pronto/
+wordpress_id: 151
+wordpress_url: http://mario.monouml.org/index.php/2005/08/09/pronto/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">Este inicio de semana ha sido de esos que son ocupados, de simple protocolo y recopilaciÃ³n de firmas, todo para poder terminar este semestre tranquilamente, en verdad que este semestre me la llevarÃ© muy tranquilamente, tendrÃ© que conseguirme <a href="http://www.hazent.com/en/about_job.html">un trabajo</a>.</p>
+<p style="text-align: justify;">El dÃ­a de hoy me han dado una noticia que no me gusto mucho, yo pensaba salir de viaje este fin de mes, para la fase regional del concurso de <a href="http://www.itver.edu.mx">mi universidad</a>, preguntando la sede me han dicho que serÃ¡ aquÃ­ mismo, yo tenÃ­a la intenciÃ³n de irme de viaje, me gusta salir a pasear y pues este semestre erÃ¡ para eso, inclusive movieron las fechas para octubre, en fin, tendremos que disfrutar de las cosas locales, y de este lindo calor que a me sofaca :)</p>
+<p style="text-align: justify;">Tengo algunos proyectos en puerta, algunos de darÃ¡n algÃºn poco de ingresos, creo que los tomarÃ© para sentirme ocupado y productivo esta temporada, veamos que tal.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

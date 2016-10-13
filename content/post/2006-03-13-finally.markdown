@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-03-13T21:26:39Z
+date_gmt: 2006-03-14 01:26:39 -0500
+published: true
+status: publish
+tags:
+- gnome
+- ubuntu
+- english
+title: Finally
+url: /2006/03/13/finally/
+wordpress_id: 254
+wordpress_url: http://mario.monouml.org/index.php/2006/03/13/finally/
+---
+
+<p>GNOME 2.14 is here!!</p>
+<p><a href="http://static.flickr.com/52/112230817_11b4353f3e_o.png"><img src="http://static.flickr.com/52/112230817_11b4353f3e_m.jpg" alt="GNOME 2.14" /></a></p>

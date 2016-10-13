@@ -1,0 +1,29 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-06-13T01:55:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Â¡Que calor!
+url: /2005/06/13/%c2%a1que-calor/
+wordpress_id: 136
+wordpress_url: http://mario.monouml.org/index.php/2005/06/13/%c2%a1que-calor/
+---
+
+<div style="clear:both;"></div>
+<p align="justify"><span style="font-style:italic;">Â¡QUE CALOR!</span> No puede ser que haya tanto calor, estos dÃ­as han estado tremendos, a pesar de que vivo en un <a href="http://weather.yahoo.com/forecast/MXVZ0116_c.html?force_units=1" title="Yahoo miente... hace mÃ¡s calor">lugar caluroso</a> y estoy acostumbrado ahora si no puedo aguantar el calor, un calor de esos desesperantes, de picazÃ³n y que te hacen sudar considerablemente... lo bueno es que al menos hay aire y en la sombra casi no se nota...</p>
+<p align="justify">Hay que seguir las indicaciones:</p>
+<p align="center">
+<img src="http://www.nlm.nih.gov/medlineplus/spanish/ency/images/ency/fullsize/17211.jpg"/></p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

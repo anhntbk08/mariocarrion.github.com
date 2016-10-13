@@ -1,0 +1,33 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-10-09T23:25:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Jugueteando e ImpresiÃ³n en MonoUML
+url: /2005/10/09/jugueteando-e-impresion-en-monouml/
+wordpress_id: 169
+wordpress_url: http://mario.monouml.org/index.php/2005/10/09/jugueteando-e-impresion-en-monouml/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">Me la he pasado estos dÃ­as libres entre pensando por <a href="http://marioc.blogspot.com/2005/10/16-das-antes.html">lo ocurrido</a> y <a href="http://bugzilla.monouml.org">corrigiendo cosas</a>, pero tambiÃ©n he querido agregar cosas nuevas a lo que ahora tenemos, he jugado un buen rato con <a href="http://www.go-mono.com/docs/monodoc.ashx?link=T%3aGnome.Print">Gnome.Print</a>, en verdad es una librerÃ­a <span style="font-style:italic;">sin documentaciÃ³n</span> (claro la versiÃ³n #), la versiÃ³n en C, como es normal esta excelentemente documentada, lo difÃ­cil son los ejemplos, que escasean, claro que viendo los que vienen en las fuentes te pueden ayudar mucho, despuÃ©s de instalar <a href="http://developer.imendio.com/wiki/Devhelp">devhelp</a> para mirar la documentaciÃ³n en C de Gtk+ y mirar los fuentes de <a href="http://www.gnome.org/projects/f-spot/">F-Spot</a> para ver como es en C#, he entendido varias cosas, al menos tengo el <span style="font-style:italic;">hola mundo</span> con imagÃ©nes creadas a partir del Canvas funcionando, el cual <a href="http://ceronman.blogspot.com">Manuel</a> anda escribiendo y al cual prontÃ³ me unirÃ© al esfuerzo, claro que sigue el error del desface del <span style="font-style:italic;">screen</span>, por supuesto que es obvio, pues se toma lo dibujado actualmente por el sistema X-Window y en ese momento se crea la ventana de preview que hace que se descuadre todo, la soluciÃ³n tambiÃ©n ya la encontrÃ© utilizando <span style="font-style:italic;"><a href="http://www.mono-project.com/Drawing">System.Drawing</a></span> todo parece mucho mÃ¡s fÃ¡cil.</p>
+<p style="text-align: justify;">Ahora, por lo tanto, se crearÃ¡ un <span style="font-style:italic;"><a href="http://msdn.microsoft.com/library/spa/default.asp?url=/library/SPA/cpref/html/frlrfsystemdrawingbitmapclasstopic.asp">System.Drawing.Bitmap</a></span> que se llenarÃ¡ a partir de los elementos dibujados, (si se quiere se salvarÃ¡ en un archivo temporal, un jpg, gif, png, tiff, etc) y a travÃ©s de la magÃ­a de <a href="http://www.go-mono.com/docs/monodoc.ashx?tlink=5@N%3aGtk.DotNet">Gtk.DotNet</a> lo pasaremos por la impresora a travÃ©s de Gnome.Print. Suena sencillo. Espero en un par de dÃ­as tenerlo en vivo.</p>
+<p style="text-align: justify;">La idea es tener un canvas como la figura de abajo, claro que con nuestros elementos y no figuras o... Â¿por quÃ© no imÃ¡genes ya creadas? alguna vez pensÃ© que serÃ­a buena idea, tener <span style="font-style:italic;">themes</span> de los elementos UML, y porque no... que cada quien dibujarÃ¡ sus elementos y asi mismo estos se relacionaran ... un sÃ³lo <span style="font-style:italic;">ControlPointGroup</span> bastarÃ­a para ello y claro las <span style="font-style:italic;">Edge</span> para relacionarles. En este momento me vienen unas dudas con relaciÃ³n a esto Â¿consumiriÃ¡n mÃ¡s recursos? Â¿serÃ­a mÃ¡s estetico? Â¿serÃ­a mÃ¡s rÃ¡pida una implementaciÃ³n asÃ­?, en fin, una idea...</p>
+<p style="text-align: center;"><a href="http://static.flickr.com/30/51068991_802f11a3fd_o.png"><img src="http://static.flickr.com/30/51068991_802f11a3fd_m.jpg" border="0" title="GDI+ Sample" alt="GDI+ Sample" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/32/51068989_b21ad45351_o.png"><img src="http://static.flickr.com/32/51068989_b21ad45351_m.jpg" border="0" title="GDI+ Sample" alt="GDI+ Sample"/></a></p>
+<p style="text-align: justify;">DespuÃ©s presentarlo para impresiÃ³n y listo. Todos felices. La <a href="http://gnome.org/projects/gnome-print/home/faq.html">FAQ de libgnomeprint</a>, resuelve una buenas preguntas en lo que se refieren al rendering final de la impresiÃ³n, en realidad la librerÃ­a es buena, sÃ³lo falta un poco de documentaciÃ³n para C# y mono en general, a ver si pronto escribo algo.</p>
+<p style="text-align: justify;">AdemÃ¡s he pensado en que deberÃ­amos basar <a href="http://www.monouml.org">nuestro espacio</a> en un Wiki, la tendencia eso indica, <a href="http://www.splitbrain.org/Programming/PHP/DokuWiki/index.php">DokuWiki</a> ha sido mi preferido, desde que <a href="http://fseoane.net">Fabian</a> me lo presento, porque no requiere una base de datos para funcionar, pero <a href="http://www.mediawiki.org/">MediaWiki</a> tambiÃ©n es bueno, aunque a pesar de ello, me gustarÃ­a primero tener un buen tema antes de usar alguno, se que no es tan importante, pero bueno siempre me he fijado en los detalles visuales, no soy diseÃ±ador ni quiero serlo, pero tener identidad propia siempre es importante, mientras tanto seguiremos con lo que ahora tenemos.</p>
+<p style="text-align: justify;"><img src="http://static.flickr.com/31/51068993_dfe7b1dbf5_t.jpg" title="Michigan J. Frog" align="left"/>Ayer en mi momento de ocio, mirÃ© una pelicula, en realidad la pelicula era pÃ©sima (<span style="font-style:italic;">The Mask 2</span>), pero saliÃ³ un carÃ¡cter que me diÃ³ mucha risa, cada vez que lo veo me hace reir, <span style="font-style:italic;">"la rana que canta"</span>, es de la Warner Bros y usualmente sale en caricaturas de ellos, es tan cÃ³mica, en fin.</p>
+<p style="text-align: justify;">De nuevo maÃ±ana al trabajo, asÃ­ es esto.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

@@ -1,0 +1,30 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-04-27T01:12:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+title: MonoUML, i18n
+url: /2005/04/27/monouml-i18n/
+wordpress_id: 107
+wordpress_url: http://mario.monouml.org/index.php/2005/04/27/monouml-i18n/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Todo gracias a la magÃ­a de Gettext y a la ayuda de <a href="http://www.enzolutions.com/mono/">Enzo</a>, ahora sÃ³lo falta terminar de traducir el archivo y la traducciÃ³n es espaÃ±ol estarÃ¡ totalmente lista, y claro, modificar el Makefile para que al momento de hacer <span style="font-style:italic;">make install</span> se instale el catÃ¡logo en el directorio correspondiente.</p>
+<p align="center">
+<a href="http://photos8.flickr.com/11161594_bd6da85445_o.png"><img src="http://photos8.flickr.com/11161594_bd6da85445_m.jpg" border="0" alt="MonoUML-en" title="MonoUML-en"/></a></p>
+<p align="center">
+<a href="http://photos6.flickr.com/11161595_ddab82f27f_o.png"><img src="http://photos6.flickr.com/11161595_ddab82f27f_m.jpg" border="0" alt="MonoUML-es" title="MonoUML-es"/></a></p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

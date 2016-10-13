@@ -1,0 +1,30 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-03-30T00:58:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Finalmente
+url: /2005/03/30/finalmente-2/
+wordpress_id: 94
+wordpress_url: http://mario.monouml.org/index.php/2005/03/30/finalmente/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">En un raro giro del destino, he obtenido la portÃ¡til que tanto habÃ­a buscado, mi tio vino a dejarmela, de una forma no tan buena como esperaba, en fin, debe ser algÃºn tipo de ataque prematuro de <a href="http://www.andropausia.info/about_andropause/whatis.htm">andropausÃ­a</a>.</p>
+<p align="justify"><img src="http://img.dell.com/images/global/products/inspn/1150_front_131x145.jpg" align="left" alt="Dell Inspiron 1150" title="Dell Inspiron 1150"/>Mi nuevo equipo es una bella <a href="http://www1.euro.dell.com/content/products/productdetails.aspx/inspn_1150?c=es">Dell Inspiron 1150</a>, muy bonita por cierto, y como era de esperarse no pude aguantarme las ganas de ponerle Linux, primero le puse Debian Testing, y todo se instalo bien tan fÃ¡cil, puro OK y listo, me sorprende que ahora Debian ya no sea como antes, ahora es tan fÃ¡cil, despuÃ©s de la instalaciÃ³n ya tenia GNOME 2.8 y todo configurado <span style="font-style:italic;">automÃ¡gicamente</span>. Esta forma de instalaciÃ³n es la misma de Ubuntu Warty, asÃ­ que mejor decidÃ­ poner Ubuntu Hoary, con GNOME 2.10. En conclusiÃ³n todo va genial y muy bien, feliz con mi nuevo equipo.</p>
+<p align="justify">El gracioso MS Windows se ha quedado en una particiÃ³n, Â¿razones? pues en la escuela debo utilizarlo, ademÃ¡s me gusta probar la portabilidad de mis aplicaciones en mono, aunque no creo usarlo ni un 5%, y claro nunca falta alguien que te da algo que Ãºnicamente funciona en MS Windows, aunque hoy en dÃ­a esta dÃ­ficil que algo sÃ³lo funcione ahÃ­.</p>
+<p align="justify">Ando acondicionando la pÃ³rtatil para poder trabajar en la escuela, para hacer demos en vivo :) La arquitectura propuesta anteriormente no se harÃ¡, porque el mover tanto cÃ³digo a estas alturas no es bueno, ni caso tiene, he reacomodado algunas cosas para hacerlas independientes y sobretodo mÃ¡s escalables, creo que es mejor ponerle el ojo a cosas como la soluciÃ³n del bug de <a href="http://sourceforge.net/tracker/index.php?func=detail&aid=1166305&group_id=115334&atid=671242">mucha memoria usada</a>, bug en el cual todos andamos participando <a href="http://rodolfocampero.blogspot.com/">Rodolfo</a> ha agregado cosas, <a href="http://hgmiguel.blogspot.com/">Miguel</a> ha hecho pruebas, yo he corregido detalles, pero nada, nuestros esfuerzos sirven sÃ³lo para disminuir un poco el uso, pero aun asÃ­ el bug sigue abierto.</p>
+<p align="justify">Lo de la IngenierÃ­a Inversa desde ensamblados creo que ya pronto estarÃ¡, hay unos problemas que aun tengo que solucionar, ya quiero agregar el ensamblado a <a href="http://monouml.sourceforge.net">MonoUML</a> para verlo funcionar, muy pronto estarÃ¡ no hay que presionarse hay que relajarse :).</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

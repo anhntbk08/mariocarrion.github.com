@@ -1,0 +1,35 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2004-11-04T15:33:18Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Microsoft y Linux. Sus efectos
+url: /2004/11/04/microsoft-y-linux-sus-efectos/
+wordpress_id: 65
+wordpress_url: http://mario.monouml.org/index.php/2004/11/04/microsoft-y-linux-sus-efectos/
+---
+
+<div style="clear:both;"></div>
+<p align="justify"><span style="font-weight:bold;">Que triste</span></p>
+<p align="justify">Que triste es que si no utilizas <span style="font-style:italic;">word</span> como <span style="font-weight:bold;">procesador de texto</span>, o <span style="font-style:italic;">Mi PC</span> con <span style="font-weight:bold;">administrador de archivos</span>, la gente te mire raro, tan raro como si fueras un gran insecto que utiliza una computadora y que con sus graciosas tenazas tengas mÃ¡s productivadad que ellas. Que triste es ver que en nuestros dÃ­as la gente cada vez se hace mas dependiente a los wizards y si no hay una serie de <span style="font-weight:bold;">Siguiente, Siguiente, Finalizar</span> no saben que hacer. Es triste decir <span style="font-style:italic;">usa la interprete de comandos</span> y que te respondan "inter... Â¿quÃ©?". Es triste, y muy molesto, que te critiquen por "retrograda", "sin visiÃ³n para el futuro" y que a cada instante te digan que no cumples un estandar porque tus documentos de texto no terminan en <span style="font-style:italic;">.doc</span>. Que triste es que piensen que instalaron Linux 8, cuando se referian a Red Hat 8, y que critiquen duramente y generalizen por esa distribuciÃ³n. Que triste es que digan "Linux es una mierda" porque simplemente FIFA 2004 no funciona en Ã©l. Pero si existe algo muy triste, es que no solo los del <span style="font-style:italic;">otro lado</span> hablen asi, tambiÃ©n por aqui existe ese sintoma y la unica razÃ³n por la que lo hacen es porque no lo conocen.</p>
+<p align="justify"><span style="font-weight:bold;">El Efecto Microsoft</span></p>
+<p align="justify">Â¿Es Microsoft causante del impresionante aumento de estupidez en la gente "nueva" que utiliza alguna computadora con algÃºn sistema Windows? Aquellas interfaces que se diseÃ±aron con el Ãºnico motivo de hacer mÃ¡s productiva a la gente, Â¿ahora son causantes de tremendos transtornos intelectuales? La frustraciÃ³n de no poder abrir el MSN, Â¿podrÃ­a llegar a ser mortal? Esta bien, es cierto que los que utilizamos un televisor no necesitamos saber mucho de electrÃ³nica para hacerlo funcionar, con saber como conectar correctamente la clavija a la toma de corriente basta (ademas, por lo general solo se puede de una forma, no podemos errar), claro que comparar un equipo electrÃ³nico con una computadora no tiene mucho que ver, aunque ambos tengan bases similares. Â¿Acaso algÃºn dÃ­a, quizÃ¡ no tan lejano, el conocimiento acerca de computadoras, se distorcionara tanto que las bases binarias seran olvidadas y la gente comÃºn pensara que el Windows es sinonimo de computadora? Â¿O es que esos dias ya son ahora?</p>
+<p align="justify"><span style="font-weight:bold;">Efecto Linux</span></p>
+<p align="justify">Â¿Es cierto que los Linuxeros (y en particular ellos) son Windowseros arrepentidos? Â¿Somos un grupo de personas hartas de los cuelgues aleatorios, el costo alto por software que no cumple lo que promete, alto consumo en rendimientos y la degradacion diaria del SO por el simple uso? Â¿Por quÃ© en nuestros dÃ­as mÃ¡s y mÃ¡s gente se reune en grupos y plÃ¡tica acerca de Linux y su filosofÃ­a? Â¿AlgÃºn dia sera el OS de escritorio? Â¿Llegaremos a verle usado por gente comÃºn para realizar sus tareas?</p>
+<p align="justify"><span style="font-weight:bold;">Efecto Microsoft/Linux</span></p>
+<p align="justify">Si bien es sabido que existe gran cantidad de gente purista en ambos extremos, no esta de mÃ¡s mencionar que la mayor gente purista se encuentra apoyando a los proyectos libres, aunque ahora he visto un impresionante nÃºmero de usuarios fanÃ¡ticos de software propietario, que como es usual lo defienden con argumentos incongruentes y fuera de contexto. Viendo los dos enfoques claramente y sin dejarnos llevar por los sentimientos, debemos de ver que ambos tienen sus deficiencias, quizÃ¡ uno mÃ¡s que otro. Tomando el ejemplo de Linux, como proyecto de SW libre, y al Microsoft Windows como proyecto de SW propietario, podemos hacer buenas comparaciones. Comenzemos con la pregunta tan arbitraria: Â¿CuÃ¡l es el mejor OS?. Â¿Respuestas? Dependen de la persona que la responda. Si preguntamos lo anterior a un niÃ±o de 7 aÃ±os, probablemente no sepa ni siquiera que es "OS". Si preguntamos a un administrador de BD que trabaja dentro de una empresa usual, seguro dira "Windows 2000", si preguntamos a un estudiante, seguro dira "Linux". Aunque cada quien diÃ³ su respuesta lo mÃ¡s seguro es que ninguna de ellas fuera la correcta. El niÃ±o no sabia que era "OS", obviamente su respuesta no puede ser evaluada. El DBA, dice que es mejor Windows 2000, porque es lo que maneja en su trabajo, y le ha funcionado para lo que requiere. El estudiante, ni siquiera usa Linux, pero bueno, "esta de moda decir que lo usa", entonces cree correcto decirlo. SerÃ¡ que hoy en dÃ­a los que "usan" Linux, Â¿son mejores? Me he dado cuenta que no, tampoco son malos, solo son gente que usa otra cosa.</p>
+<p align="justify"><span style="font-weight:bold;">ConclusiÃ³n</span></p>
+<p align="justify">Tanto texto, sin objetivo aparente, abarcando tema tras tema, diciendo una cosa y luego cambiando a otra, Â¿que es eso? Eso se llama libertad. Una libertad muy mal expresada. Eso es lo que se ve y se oye cuando alguien discute acerca de si usar o no usar alguna u otra cosa, simples comentarios absurdos que al final, no resuelven nada.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

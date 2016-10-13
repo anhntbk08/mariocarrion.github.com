@@ -1,0 +1,30 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-06-28T21:48:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Por fin
+url: /2005/06/28/por-fin/
+wordpress_id: 130
+wordpress_url: http://mario.monouml.org/index.php/2005/06/28/por-fin/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Ya por fin me han dado la ultima materia de la carrera, estos dos meses serÃ¡n duros, pero ya cada vez falta menos. Por fin.</p>
+<p align="justify">He estado pensando mucho en <a href="http://www.monouml.org">MonoUML</a>, las cosas tan maravillosas que se podrÃ­an hacer... igual y me emociono mucho pero las posibilidades son infinitas a partir de un bueno diseÃ±ado, creo que me apasiono mucho.</p>
+<p align="justify">Tengo una idea, cuando la logremos hacer seguro habremos hecho un excelente trabajo. Mi idea consiste en crear un modelo UML con dos clases, generar el cÃ³digo, implementar algo "Ãºtil" con ellas, compilarla y hacer ingenierÃ­a inversa, a partir de eso se generarÃ­an diagramas de secuencia y de colaboraciÃ³n de cada mÃ©todo, los casos de uso, y el diagrama de clases correspondiente, para luego generar la documentaciÃ³n completa de todo eso en formato <a href="http://www.docbook.org/">Docboook</a>, para despuÃ©s exportarlo a un formato leible por humanos, como <a href="http://www.w3.org/MarkUp/">HTML</a> o <a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF</a>. <span style="font-weight:bold;">Â¡Excelente! Â¿No?</span></p>
+<p align="justify">Posiblemente dentro de un momento <a href="http://www.versioncero.com/articulo/169/sobramos-los-programadores">no habrÃ¡ mÃ¡s programadores</a>.</p>
+<p align="justify">Y ya tengo proyecto de residencias profesionales... algo en <a href="http://java.sun.com/products/jsp/">JSP</a>, a trabajar con el viejo <a href="http://java.sun.com">Java</a> :)</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

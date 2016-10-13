@@ -1,0 +1,27 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-06-20T15:35:23Z
+date_gmt: 2006-06-20 20:35:23 -0400
+published: true
+status: publish
+tags:
+- development
+- english
+title: TIPC
+url: /2006/06/20/tipc/
+wordpress_id: 290
+wordpress_url: http://mario.monouml.org/index.php/2006/06/21/tipc/
+---
+
+<p>The current <a href="http://en.wikipedia.org/wiki/SCADA">SCADA</a> written in QNX is spplited in several processes, they communicate using QNX-based (and propietary) IPC, to port it to Linux we need to select something like QNX's send/reply messages.</p>
+<p>Currently I'm testing <a href="http://tipc.sourceforge.net">TIPC</a> and has an important advantage: its network transparency. Network transparency works out of the box in QNX, but doesn't in Linux, and TIPC seems to work quite nice. There are good things about this project, it's included since the kernel 2.6.16, you only need to load the module to start using it and its programming is similar to sockets, supports connection-oriented and connectionless-oriented sockets. Looks promising.</p>

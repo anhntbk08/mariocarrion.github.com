@@ -1,0 +1,41 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2004-08-16T02:51:42Z
+published: true
+status: publish
+tags:
+- personal
+- english
+title: Sad
+url: /2004/08/16/sad/
+wordpress_id: 25
+wordpress_url: http://mario.monouml.org/index.php/2004/08/16/sad/
+---
+
+<div style="clear:both;"></div>
+<p>I dreamed about her running with me in that dream she looks too good, she was wearing a white skirt with a white shirt, something weird, because I haven't seen her using something white, I don't remember what I was wearing, it doesn't matter... I've been recently dreaming about her, almost every night. I feel a few sad, why? I don't know, maybe some going-back-to-school-symptoms... I quit starting to code the MonoUML's UML2 widgets because of my feelings... I guess I'm depressed, reasons? I don't know... I hope to solve this quickly, I'm not a kind of depessed-guy.</p>
+<p>I'll try to stop posting contens about myself. When I started to write this weblog my main goal was writing everything about my projects, not about myself, but nowadays I've been writing a lot of things which I've been feeling...</p>
+<p>By the way, I recently saw the movie "There's something about Mary", it's old I know, I haven't seen it, but a like its soundtrack, here is the lyric of "How to Survive a Broken Heart" song:</p>
+<p><span style="font-style:italic;">And there's nothing left<br />
+But a song or two<br />
+That mean not a thing<br />
+If I can't play them for you<br />
+If I could hear your voice just one more time<br />
+Maybe I'd be fine</span></p>
+<p>Complete lyric <a href="http://www.stlyrics.com/lyrics/theressomethingaboutmary/howtosurviveabrokenheart.htm">here</a>. There are a lot of more good songs in the <a href="http://www.stlyrics.com/t/theressomethingaboutmary.htm">soundtrack</a>, I encourage to listen them.</p>
+<p>Oh man! Now I'm a pinche poet and I have feelings (again?)... what's going whith me? Answer: I need to go back to school.</p>
+<p><span style="font-weight:bold;">I learned today:</span> 'Nice dreams, nice thoughts, nice life, nice girl; those all things make your life happier.'<br />
+<span style="font-weight:bold;"><br />
+By the way:</span> I'm hearing some romantic songs... I need some beers, I really do. Don't tell anyone but I guess I'm in lo**</p>
+<p><span style="font-weight:bold;">Second By the way:</span> The "Curse of the Graduation Party" is broken. Don't ask about the details.
+<div style="clear:both; padding-bottom: 0.25em;"></div>

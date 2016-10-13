@@ -1,0 +1,30 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-02-21T02:07:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
+title: Concurso
+url: /2005/02/21/concurso/
+wordpress_id: 89
+wordpress_url: http://mario.monouml.org/index.php/2005/02/21/concurso/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Estos Ãºltimos dÃ­as he estado terminando <a href="http://monouml.sourceforge.net/docs/es_2005/">la documentaciÃ³n</a> para el concurso que pronto se llevarÃ¡ a cabo en <a href="http://www.itver.edu.mx">la universidad</a>, a pesar de que aÃºn no salen las convocatorias oficiales no quiero esperar ese Ãºltimo momento para comenzar a hacer todo, no hay gran avance hasta ahora, aun faltan las clÃ¡sicas investigaciones bibliogrÃ¡ficas, pero bueno, eso es mÃ¡s rÃ¡pido, ademÃ¡s unas buenas lecturas no caen mal.</p>
+<p align="justify">Debido a los cambios recientes a la arquitectura de <a href="http://monouml.sf.net">MonoUML</a> todo indica que se deberÃ¡ congelar la versiÃ³n actual, la cual esta llena de miles de errores, para que se pueda mostrar algo usable al jurado. Si hay algo que me intriga de este concurso, es lo de siempre, <span style="font-style:italic;">el jurado no entenderÃ¡</span>, no se si sea problema del paÃ­s o Ãºnicamente de la universidad, pero la deficiencia en el nivel educacional es notable, que personas den clases de asignaturas que ni siquiera conocen es pan de cada dÃ­a, y lo mÃ¡s triste es que los estudiantes debamos pagar, Â¿alguna soluciÃ³n para esto? ninguna, simplemente leer y leer y leer mÃ¡s, y Â¿para que leer? pues para resolver los proyectos/exÃ¡menes que estos personajes solicitan, veamos todo esto del lado bueno, se leerÃ¡ mÃ¡s, bueno, al menos a mi me gusta leer.</p>
+<p align="justify">Mientras que por mi trabajo como <a href="http://www.lssiscom.com">freelance</a> va bien, he agregado unas nuevas caracterÃ­sticas a los webservices y a la aplicaciÃ³n del lado del servidor, he utilizado en esta ocasiÃ³n Mono <a href="http://www.mono-project.com/downloads/index.html">1.1.4</a> para MS Windows, pues el servidor donde funciona esta en MS Windows 2003, y los resultados de desempeÃ±o son notablemente mejores, las respuestas por parte de XSP son mÃ¡s rÃ¡pidas que en versiones anteriores, aun no lo he probado en Linux, debido a unos problemas que tal parece son gracias a <a href="http://www.ubuntulinux.org">Ubuntu</a>, esperare unos dÃ­as mÃ¡s para ver si los paquetes de Glib son actualizados (aunque lo mÃ¡s probable es que la desesperaciÃ³n me gane a regrese a <a href="http://www.debian.org">Debian</a>), pero estoy seguro que ese mismo desempeÃ±o es al menos mayor que en MS Windows.</p>
+<p align="justify">He pensado en ahorrar para una <a href="http://www.apple.com/ibook/">iBook</a>, <a href="http://djmaucom.blogspot.com/">Mauricio</a> me ha dejado esa loca idea... aunque bueno, no esta tan loca, ademÃ¡s no son tan caras, aunque claro, para mÃ­ juntar esa cantidad me llevarÃ¡ algÃºn tiempo, espero que no tanto.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

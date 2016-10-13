@@ -1,0 +1,31 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-03-06T05:43:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+- gnome
+title: Menos trabajo
+url: /2005/03/06/menos-trabajo/
+wordpress_id: 104
+wordpress_url: http://mario.monouml.org/index.php/2005/03/06/menos-trabajo/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Tal parece que ya he terminado la segunda parte de aquel proyecto de Webservices que comenze a finales de Enero, en realidad me estoy tomando mucho tiempo para hacerlo, aunque bueno, sÃ³lo las noches de viernes son los dÃ­as que trabajo a fondo, los otros dÃ­as simplemente miro al cielo esperando tener mÃ¡s tiempo.</p>
+<p align="justify">El dÃ­a de ayer reinstale <a href="http://www.ubuntulinux.org">Ubuntu</a>, parezco mujer adolescente a la hora de escoger ropa para salir, en verdad que no me decido, pero bueno tal parece que ahora esta serÃ¡ la distribuciÃ³n base, aunque me siento un poco <span style="font-style:italic;">mal</span> porque todo esta mÃ¡s fÃ¡cil ;) Inclusive pude instalar <a href="http://www.mono-project.com">mono</a> como lo habÃ­a hecho en <a href="http://www.debian.org">Debian</a> dÃ­as atras, todo fue normal y muy fÃ¡cil, unos apt-gets y listo, no se si el error anterior que me salia de depencias fue corregido o era por las fuentes que utilizaba, ahora utilizo unas que <a href="http://www.enzolutions.com/mono/">Enzo</a> me paso dÃ­as atras.</p>
+<p align="justify">Una de las razones que me obligaron moverme a Ubuntu de nuevo fue ese extraÃ±o comportamiento del XFree, iniciaba <a href="http://www.gnome.org">GNOME</a> y comenzaba a consumir recursos llegando a consumir la totalidad en menos de 10 minutos, lo raro es que ni siquiera la suma de procesos indicaba eso, no se si el GNOME System Monitor mentÃ­a o el top estaba loco, pero lo que si sabÃ­a era que <a href="http://www.gnome.org">GNOME</a> se comia mis recursos, algo que cuando tenÃ­a Ubuntu no pasaba, y ahora que lo tengo de nuevo no pasa, inclusive utilizando Xorg. Es cierto que <a href="http://www.gnome.org">GNOME</a> consume recursos, pero no mÃ¡s alla de los 100MB, por si sÃ³lo claro, ya despuÃ©s de abrir Firefox y Evolution aumenta unos 50 mÃ¡s.</p>
+<p align="justify">Lo que no me sigue gustando de Ubuntu es esa absurda idea de instalar paquetes innecesarios que no a ti no te sirven y que entorpecen algunos otros procesos, como la sincronizaciÃ³n de mi PDA, un <code>apt-get remove apicd</code> soluciono lo anterior, aunque el kernel se sigue quejando del BIOS a pesar de que lo he actualizado, tantas cosas raras que pasan, ahora el volumen del audio esta peor, antes sÃ³lo funcionaba por software y ahora, sÃ³lo funciona en Rhythmbox y Totem, el reproductor de CD esta al mÃ¡ximo, recuerdo que en mi previa instalaciÃ³n si se podÃ­a establecer el volÃºmen correctamente, en fin.</p>
+<p align="justify">OjalÃ¡ y pronto tenga una portÃ¡til para avanzar desde donde pueda, hace falta.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

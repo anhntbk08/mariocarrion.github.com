@@ -1,0 +1,37 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-09-25T00:21:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Â¡Eso!
+url: /2005/09/25/%c2%a1eso/
+wordpress_id: 154
+wordpress_url: http://mario.monouml.org/index.php/2005/09/25/%c2%a1eso/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">Este fin de mes hemos estado muy trabajadores, y nos hemos propuesto agregar nuevas caracterÃ­sticas (o al menos eso creo yo):</p>
+<ul>
+<li>Iniciar (<span style="font-weight:bold;">Â¡Â¡y terminar!!</span>) el nuevo canvas lo mÃ¡s pronto posible, yo digo que un buen Canvas, bonito, usable y que tenga buena integraciÃ³n nos tardarÃ¡ algo, al menos 2 aÃ±os, claro, si alguien mÃ¡s contribuye, seguro serÃ¡ mÃ¡s rÃ¡pido.</li>
+<li>Agregar la opciÃ³n de los tipos de proyectos de algÃºn tipo de tecnologÃ­a en particular (.NET, J2SE, PHP, Python, etc) <span style="font-style:italic;">mÃ¡s visibles</span>, creo que ahora sÃ³lo el equipo sabe de su utilidad, y es una excelente idea.</li>
+<li>La parte que contiene los diagramas (el Notebook), debe ser editada, ahora la nueva forma de envÃ­o de mensajes entre las vistas lo requiere, ahora esta como estaba antes, y sirve, pero no sirve de la forma correcta, la idÃ³nea.</li>
+</ul>
+<p style="text-align: justify;">Ahora con <a href="http://rodolfocampero.blogspot.com/2005/09/autotools-para-ec-y-un-nuevo-revengexe.html">la herramienta</a> que escribiÃ³ <a href="http://rodolfocampero.blogspot.com">Rodolfo</a>, la cual paso de ser una <a href="http://en.wikipedia.org/wiki/Hardcoded">hard coded class</a> a cÃ³digo para ser utilizado independientemente (para los verdaderos hackers que no requieren mÃ¡s que una terminal :P) creo que serÃ­a una excelente idea hacer lo mismo para cada opciÃ³n que ahora tenemos en <a href="http://www.monouml.org">MonoUML</a>, podrÃ­amos tener la generaciÃ³n de cÃ³digo y la generaciÃ³n de documentaciÃ³n (Â¡que pronto estarÃ¡!) desde comandos independientes a la aplicaciÃ³n en sÃ­.</p>
+<p style="text-align: justify;">Ya unÃ­ el evento del Drag and Drop, ahora ya esta todo de nuevo a la normalidad, pero aun me siguen inquietando algunos bugs raros que suelen pasar en ocasiones, en fin, seguirÃ© probando.</p>
+<p style="text-align: center;">
+<a href="http://static.flickr.com/28/46299696_d0ecfcf367_o.png"><img src="http://static.flickr.com/28/46299696_d0ecfcf367_m.jpg" border="0" title="Class diagram" alt="Class diagram"/></a>&nbsp;&nbsp;&nbsp;<br />
+<a href="http://static.flickr.com/29/46299697_e94fb8ec7f_o.png"><img src="http://static.flickr.com/29/46299697_e94fb8ec7f_m.jpg" border="0" title="Use case diagram" alt="Use case diagram"/></a></p>
+<p style="text-align: justify;">Â¡Y sÃ­! Por fin, tengo algo de efectivo para poder salir de viaje... casÃ­ no es nada, pero no se como le hago que siempre consigo... </p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

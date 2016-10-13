@@ -1,0 +1,31 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2004-10-09T03:14:53Z
+published: true
+status: publish
+tags:
+- monouml
+- english
+title: UML# tests
+url: /2004/10/09/uml-tests/
+wordpress_id: 54
+wordpress_url: http://mario.monouml.org/index.php/2004/10/09/uml-tests/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">I've solved some UML#'s bugs and added some new graphical features, I haven't added yet the relationship feature, but it will be done sooner. Our current UML# sample is growing up, now there are 6 core classes, if we continue like this we will have our first <a href="http://monouml.sourceforge.net">MonoUML</a> release sooner, check the <a href="http://www.geocities.com/k4rny/files/lala.tar.gz">current sample</a>.</p>
+<p><a href="http://www.geocities.com/k4rny/imgs/uml_sharp_0_0_0_1.png"><img src="http://www.geocities.com/k4rny/imgs/uml_sharp_0_0_0_1.png" title="UML-sharp running" alt="UML-sharp running" weight="305" height="196" border="0"/></a></p>
+<p align="justify">If you want you can test it, I need feedback, email us for any comments or bugs. I've also finished her figure, made with clay, it took more than three weeks to finish it, I like the figure, Do you?</p>
+<p align="justify"><img src="http://www.geocities.com/k4rny/imgs/her_figure.png" title="CDR Powered!" alt="CDR Powered!"/></p>
+<p><span style="font-weight:bold;">I learned today</span>: '14 days and counting. :)'
+<div style="clear:both; padding-bottom: 0.25em;"></div>

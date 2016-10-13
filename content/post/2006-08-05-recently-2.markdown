@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-08-05T21:26:55Z
+date_gmt: 2006-08-06 02:26:55 -0400
+published: true
+status: publish
+tags:
+- personal
+- english
+title: Recently
+url: /2006/08/05/recently-2/
+wordpress_id: 308
+wordpress_url: http://mario.monouml.org/index.php/2006/08/05/recently-2/
+---
+
+<p>I've recently doing several things, first, at work, I've finally ported most of the SCADA from QNX to Linux by replacing all the <a href="http://www.qnx.com/developers/docs/qnx_6.1_docs/neutrino/sys_arch/resource.html">Resource Managers</a> to Ring Buffer, wrote an implementation based on the producer-consumer problem, an implementation to an already solved problem.</p>
+<p>Then, in the Free Software world, I'll travel to Puerto Vallarta, because of <a href="http://festivaldesoftwarelibre.org/fsl2006/">FSL2006</a>, went past year and will do travel again (hope so, due to work), this time to show how to develop mono-based applications. I haven't had enough time to prepare all the material, including the manual and so on but I've allready have the presentation only need to update it.</p>
+<p>Oh man... I have a lot to do...!!</p>

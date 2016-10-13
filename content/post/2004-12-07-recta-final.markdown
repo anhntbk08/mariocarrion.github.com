@@ -1,0 +1,31 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2004-12-07T07:31:35Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Recta final
+url: /2004/12/07/recta-final/
+wordpress_id: 76
+wordpress_url: http://mario.monouml.org/index.php/2004/12/07/recta-final/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">En una semana terminarÃ¡ este ciclo escolar, Â¿algo que decir acerca de este? muchas cosas, pero no son de importancia.</p>
+<p align="justify">A veces me pregunto: Â¿cÃ³mo es que yo cambie tanto?, y particularmente es hablando acerca de mi vieja ideologia de 'Microsoft apesta' y todo esa propaganada muy bien vendida por mucha gente en el Software Libre. Si alguien me hubiera dicho que algÃºn dÃ­a iba a volver a utilizar MS Windows, no lo hubiera creido. Estoy comenzando a vivir de la InformÃ¡tica, y por tal razÃ³n no puedo darme el lujo de omitir tecnologÃ­as, si bien es cierto que Microsoft tiene otras ideas, no hay porque cerrarnos en nuestro mundo y escupir porquerÃ­a cuando hablamos. Hay casos extremistas en ambos lados del juego, mucha gente que apoya a la filosofÃ­a de Software Libre repudia sin razÃ³n realista a Microsoft, Â¿cuÃ¡l es es la mÃ¡s comÃºn? 'que no es libre', ser o no ser libre no es suficiente razÃ³n para repudiar a alguien, hay que tener en cuenta que esa es su forma de mercadeo, tal y como ocurre con la 'receta secreta' de KFC, aunque bueno no tiene casi que ver. Creo que la unica razÃ³n que me ha convencido del repudio hacia Microsoft es la <span style="font-style:italic;">baja calidad</span> con la que liberan su Software, ahora ya esta un poco <span style="font-style:italic;">mejor</span> su calidad, pero sigue dejando que decir. En los aÃ±os pasados con la salida de MS Windows 95, todo mundo quedo impresionado porque por fin se "podÃ­a" utilizar una computadora, hablando del muy usuario final. Â¿QuÃ© vno despuÃ©s de eso? Una impresionante ola de virus, cuelgues aleatorios, fallos de seguridad y lo que mÃ¡s me molesta de todo: 'tiempo perdido'. Si, <span style="font-weight:bold;">tiempo perdido</span>, porque por ejemplo no es posible al capturar un trabajo muy importante en tu <a href="http://www.google.com.mx/search?hl=es&q=microsoft+word+97+bugs&btnG=B%C3%BAsqueda&meta=">MS Word 97</a>, este, de repente se cierre por un <span style="font-weight:bold;">Error</span>. Pagar ese dinero por algo que te quite el tiempo no es factible. Claro que la soluciÃ³n al problema anterior es 'Salvar cada 3 minutos', pero ese no es el problema, el problema esta en la calidad del software que se vende. Estoy completamente de acuerdo que siempre existiran errores en el software, jamÃ¡s existira el software perfecto, por tal motivo no es posible que '<a href="http://www.microsoft.com">alguien</a>' nos venda X software por un precio impresionante. Ya ni hablar del MS Windows, que hasta estos dÃ­as sigue teniendo el mismo tipo de errores.</p>
+<p align="justify">Â¿Y que pasa del lado Propietario? La razÃ³n mÃ¡s comÃºn 'No hay soporte.' Como me molesta que por esa razÃ³n desprecien la tecnologÃ­a que millones de desarrolladores crean cada dÃ­a. Â¿CuÃ¡ntos han tenido alguna vez que llamar al servicio a clientes de Microsoft? Â¿A cuantos que lo han hecho les han dado otra soluciÃ³n que no sea: 'Reinicie su equipo' o 'Desinstale y vuelva a instalar'? Por favor, si se supone que, hablando empresarialmente, se cuenta siempre con alguien encargado del lado informÃ¡tico, este personaje de alguna forma debe saber como hacer las cosas, Â¡por dios es MS Windows! Abre un wizard que te lo solucione y listo (nunca lo hacen, pero bueno). Ahora, Â¿y si no estoy en una empresa? (sin ser tan duro con estas personas, ellas son las que nos pagan, y hay que tratarlas bien X) pues, seguro eres o muy viejo o muy joven, y simplemente no quieres aprender, quieres que todo te caiga del cielo y crees que en las computadoras viven seres mÃ¡gicos que hacen que seas capaz de jugar FIFA 2004 o Age of Mithology</p>
+<p align="justify">Pero bueno, supongamos que todos somos expertos en InformÃ¡tica y todos saben la secuencia de arranque del PC, como es que funciona el cabezal del disco duro y las cosas mÃ¡s rebuscadas de las computadoras, Â¿QuÃ© es lo que hace que decidamos por usar uno u otro sistema operativo? SÃ³lo hay dos tipos de fanÃ¡ticos: los de Unix y los de Windows. Yo particularmente me declaro fan de Unix, porque a pesar de utilizo algunas (muy pocas) cosas de tecnologÃ­a propietaria, tengo como sistema base a Linux, Â¿pero y los del <a href="http://www.windows.com">MS Windows</a>? Esos que se fanatizan con los IDEs de programaciÃ³n, los asistentes, la tecnologÃ­a drag&drop, esos que quieren que al conectar en caliente un dispositivo este sea reconocido y automÃ¡ticamente salga un dialogo de tipo 'Con que quiere abrir su dispositivo' (claro, ya se que todo eso ya esta en Unix, pero esa gente creo que seguimos en la interprete de comandos, escribiendo unos y ceros). Â¿No se supone que tambiÃ©n como expertos en informÃ¡tica? (o algo asi) Â¿Debemos de saberlo? (al menos como leyenda urbana) Â¿Por que cerrarnos tan rÃ¡pidamente y decir 'no'? Muchos dicen: <span style="font-style:italic;">No uso linux y mi razÃ³n es porque no sirve</span> y es mentira, su razÃ³n es <span style="font-style:italic;">No uso linux porque soy un incompetente que ni siquiera el MS Windows XP se instalar pero no importa porque tengo certificaciÃ³n de MCSE</span>.</p>
+<p align="justify">Hay que abrir los ojos, muchos al conocer un IDE de tipo RAD se convierten en gatos recien paridos y al contrario de los gatos, estos van perdiendo la visiÃ³n poco a poco y se convierten en dependientes de los 'Siguiente, Siguiente y Finalizar'. Si la tendencia de los nuevos informÃ¡ticos es sÃ³lo saber MS Windows, poco a poco se iran relegando, y eso es bueno, porque al menos a los que sepan otra cosa distinta se les pagarÃ¡ mÃ¡s.</p>
+<p><span style="font-weight:bold;">Nota de hoy</span>: 'Falta poco para la navidad'</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

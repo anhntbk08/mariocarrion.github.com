@@ -1,0 +1,29 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-09-07T21:20:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+- gnome
+title: GNOME 2.12
+url: /2005/09/07/gnome-212/
+wordpress_id: 160
+wordpress_url: http://mario.monouml.org/index.php/2005/09/07/gnome-212/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">Hoy ha sido liberada la nueva versiÃ³n de <a href="http://www.gnome.org">GNOME</a>, creo que esta noche me pasarÃ© a Breezy para ver que tal va, por supuesto que aun no esta la reciÃ©n salida <a href="http://www.gnome.org/start/2.12/">2.12</a>, pero debe estar la GNOME <a href="http://packages.ubuntu.com/breezy/gnome/gnome-common">2.11</a>, ahora en esta nueva versiÃ³n <a href="http://www.gnome.org/~davyd/gnome-2-12/">hay cosas</a> muy interesantes.</p>
+<p style="text-align: justify;">Por otro lado, <a href="http://people.hazent.com/~jrp/">JosÃ© RamÃ³n</a> esta uniendo <a href="http://www.monodevelop.com">MonoDevelop</a> y <a href="http://www.monouml.org">MonoUML</a> para hacer autÃ³maticamente modelos a travÃ©s de la escritura de cÃ³digo y viceversa, seguro serÃ¡ una maravilla cuando se termine todo, una integraciÃ³n con MonoDevelop ayudarÃ­a considerablemente a cualquier desarrollador, inclusive hizo <a href="http://monouml.blogspot.com/2005/09/monouml-addin-for-md-mockup.html">una entrada</a> en nuestro <a href="http://planet.monouml.org">planet</a>, aunque si creo que serÃ¡ algo complejo lograr una buena integraciÃ³n, y que <span style="font-style:italic;">"mÃ¡gicamente"</span> se generÃ© todo, pero serÃ¡ bueno de ver y lograr.</p>
+<p style="text-align: justify;">Mientras a seguir trabajando por una buena y Ãºtil herramienta.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

@@ -1,0 +1,36 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-02-09T05:29:27Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Ubuntu
+url: /2005/02/09/ubuntu/
+wordpress_id: 91
+wordpress_url: http://mario.monouml.org/index.php/2005/02/09/ubuntu/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Llevo menos de 1 semana con esta distribuciÃ³n y me ha dejado muy a gusto, a pesar de que estoy utilizando la versiÃ³n de desarrollo de <a href="http://www.gnome.org">GNOME</a> y como consiguiente la versiÃ³n de desarrollo de <a href="http://www.ubuntulinux.org">Ubuntu</a>, todo va de maravilla, claro en ocasiones hay errores que cierran el <a href="http://www.gnome.org/projects/nautilus/">nautilus</a>, pero nada porque sufrir, lo que me ha impresionado ha sido el nuevo formato de actualizaciÃ³n automÃ¡tica, si es que alguna vez se olvidaba actualizar los paquetes, <a href="http://www.ubuntulinux.org">Ubuntu</a> lo hace por ti.</p>
+<p align="center">
+<img src="http://www.geocities.com/k4rny/imgs/ubuntu/update_total.png" alt="Actualizaciones listas" title="Actualizaciones listas" width="322" height="71" border="0"/></p>
+<p align="justify">Es un tipo de <a href="http://packages.debian.org/aptitude">aptitude</a> pero con una interfaz mÃ¡s integrada al desktop, es interesante lo que ahora plantea la alianza GNOME-Ubuntu, bueno desde sus inicios ha sido asÃ­ pero ahora veo con mejor futuro al desktop para usuario final, Â¿que mÃ¡s se puede pedir? Si tenemos GNOME + Debian + Actualidad, creo que con eso puedes vivir, inclusive utilizando versiones <span style="font-style:italic;">experimental</span> :)</p>
+<p align="center">
+<a href="http://www.geocities.com/k4rny/imgs/ubuntu/um_updates.png"><img src="http://www.geocities.com/k4rny/imgs/ubuntu/um_updates.png" alt="Lista de actualizaciones" title="Lista de actualizaciones" width="290" height="300" border="0"/></a></p>
+<p align="center">
+<a href="http://www.geocities.com/k4rny/imgs/ubuntu/um_downloading.png"><img src="http://www.geocities.com/k4rny/imgs/ubuntu/um_downloading.png" alt="Descargando actualizaciones" title="Descargando actualizaciones" width="244" height="250" border="0"/></a></p>
+<p align="center">
+<a href="http://www.geocities.com/k4rny/imgs/ubuntu/um_installing.png"><img src="http://www.geocities.com/k4rny/imgs/ubuntu/um_installing.png" alt="Instalando actualizaciones" title="Instalando actualizaciones" width="318" height="300" border="0"/></a></p>
+<p align="justify">Por otro lado he terminado gran parte del proyecto que estoy haciendo, la magia de los webservices con <a href="http://www.mono-project.com">mono</a> me han ayudado, sÃ³lo tengo unas horas para terminar (o mejor dicho, iniciar :P) el documento de registro de <a href="http://monouml.sf.net">MonoUML</a> pues maÃ±ana debo entregarselo a mi asesor para que lo revise ademÃ¡s de leer unos capitulos de un libro de Redes, tanto que hacer y tan poco tiempo.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

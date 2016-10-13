@@ -1,0 +1,30 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-04-23T17:55:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+title: MonoUML
+url: /2005/04/23/monouml-2/
+wordpress_id: 109
+wordpress_url: http://mario.monouml.org/index.php/2005/04/23/monouml/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">
+Ya he comenzado a escribir los toolbars, la separaciÃ³n ya es posible y la interacciÃ³n es prÃ¡ctimente independiente, aunque aun sigo pensando una forma limpia de unir los eventos del toolbar con el canvas correspondiente...</p>
+<p align="center">
+<a href="http://photos8.flickr.com/10573004_50573410a6_o.png"><img src="http://photos8.flickr.com/10573004_50573410a6_m.jpg" alt="Toolbars" title="Toolbars" border="0"/></a></p>
+<p align="justify">Por otro lado, ya tenemos <a href="http://bugzilla.monouml.org">bugzilla</a>, gracias la contribuciÃ³n de <a href="http://www.enzolutions.com/mono/">Enzo</a>. Espero maÃ±ana instalar y configurar el media wiki, ayer lo estaba haciendo, como no me gusta dejar las cosas a medias... lo borre y fui a dormir.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

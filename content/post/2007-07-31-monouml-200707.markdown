@@ -1,0 +1,31 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2007-07-31T21:29:38Z
+date_gmt: 2007-08-01 03:29:38 -0400
+published: true
+status: publish
+tags:
+- monouml
+- development
+- english
+title: MonoUML, 200707
+url: /2007/07/31/monouml-200707/
+wordpress_id: 407
+wordpress_url: http://mario.monouml.org/index.php/2007/07/31/monouml-200707/
+---
+
+<p>And the MonoUML <a href="http://www.monouml.org/doku.php/milestone-20070731">milestone 200707</a> is here.</p>
+<p>MonoUML Core and MonoUML Reverse Engineering APIs are released:</p>
+<p><a href="http://www.flickr.com/photos/mariocarrion/969743248/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1144/969743248_e14a0e5352_m.jpg" width="240" height="112" alt="murevengui application" /></a></p>
+<p><a href="http://www.flickr.com/photos/mariocarrion/969743224/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1414/969743224_8562063423_m.jpg" width="240" height="201" alt="UML Template Widgets preview" /></a></p>
+<p>Enjoy and wait for <a href="https://launchpad.net/monouml/+milestone/monouml-200710">milestone 200710</a>.</p>

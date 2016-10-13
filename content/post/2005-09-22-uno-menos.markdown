@@ -1,0 +1,29 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-09-22T05:35:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Uno menos
+url: /2005/09/22/uno-menos/
+wordpress_id: 155
+wordpress_url: http://mario.monouml.org/index.php/2005/09/22/uno-menos/
+---
+
+<div style="clear:both;"></div>
+<p style="text-align: justify;">Un pequeÃ±o bug aplastado.</p>
+<p style="text-align: center;"><a href="http://static.flickr.com/27/45547979_a00348d91e_o.png"><img src="http://static.flickr.com/27/45547979_a00348d91e_m.jpg" title="Code generation" alt="Code generation" border="0"/></a>&nbsp;&nbsp;&nbsp;<a href="http://static.flickr.com/29/45547978_7e5d7655c5_o.png"><img src="http://static.flickr.com/29/45547978_7e5d7655c5_m.jpg" title="Code generation" alt="Code generation" border="0"/></a></p>
+<p style="text-align: justify;">Por supuesto que era un claro problema de usabilidad. Pero no mÃ¡s. Ahora hay un bug menos en la lista de espera.</p>
+<p style="text-align: justify;">Por cierto... que porquerÃ­a es el MS Internet Explorer, no puedo creeer como es posible que la gente lo utilize... en fin.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

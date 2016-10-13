@@ -1,0 +1,33 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-01-12T00:06:44Z
+date_gmt: 2006-01-12 04:06:44 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
+title: Alive
+url: /2006/01/12/alive/
+wordpress_id: 223
+wordpress_url: http://mario.monouml.org/index.php/2006/01/13/alive/
+---
+
+<p>I changed power supply and everything looks nice. Faster, better, <a target="_blank" title="GNOME!" href="http://www.gnome.org">GNOME</a>r :-) I'm also going to upgrade my RAM, more memory is always better. BTW I've got my <a title="Get your CDs!" target="_blank" href="http://shipit.ubuntulinux.org">Ubuntu CDs</a>, gave all at work! While give them hear some nice quotes:</p>
+<ul>
+<li>Do you have the serial key number? <em>You don't need, open source... free software?</em></li>
+<li>Is it borrowed? <em>No, it's all for you</em></li>
+<li>Is it a demo? <em>One CD one powerfull OS</em></li>
+<li>What it is? <em>A very good Linux distribution</em></li>
+</ul>
+<p>We will start using <a title="Ubuntu Linux" target="_blank" href="http://www.ubuntulinux.org">Ubuntu</a> at work! Excelent!</p>

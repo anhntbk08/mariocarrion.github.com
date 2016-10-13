@@ -1,0 +1,26 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2006-09-26T10:43:05Z
+date_gmt: 2006-09-26 15:43:05 -0400
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: FSL2006, Dia 0
+url: /2006/09/26/fsl2006-dia-0/
+wordpress_id: 323
+wordpress_url: http://mario.monouml.org/index.php/2006/09/26/fsl2006-dia-0/
+---
+
+<p>Seguimos en trÃ¡nsito, <a href="http://djmaucom.blogspot.com/">Jorge Mauricio</a> y yo, esperando el vuelo que saldrÃ¡, si todo va bien, a las 15:30hrs, para llegar por alla aproximadamente como las 16:30 (o algo asi), y ya maÃ±ana iniciar con <a href="http://festivaldesoftwarelibre.org/fsl2006/">las actividades</a>.</p>
+<p>Por mi parte ando refinando los detalles relacionados al <a href="http://festivaldesoftwarelibre.org/fsl2006/">tutorial de maÃ±ana</a>, maquillaje y nada mÃ¡s.</p>

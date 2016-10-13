@@ -1,0 +1,29 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2005-11-08T22:10:45Z
+date_gmt: 2005-11-09 02:10:45 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
+title: VMWare
+url: /2005/11/08/vmware/
+wordpress_id: 189
+wordpress_url: http://mario.monouml.org/index.php/2005/11/08/vmware/
+---
+
+<p>Yes I know, <em>Bridged Networking</em> with wireless cards doesn't work, but what about using <em>NAT Networing</em>? Yes, it works!. </p>
+<p>I'm running MS Windows XP in this virtual server for the project that I'm developing at work. Today was my second day...  and everything goes nice.</p>
+<p><a href="http://static.flickr.com/33/61453863_d3821bb76d_o.png"><img src="http://static.flickr.com/33/61453863_d3821bb76d_m.jpg" alt="VMWare" /></a></p>
+<p>I'm becoming a delphi lover... just kidding ;-)</p>

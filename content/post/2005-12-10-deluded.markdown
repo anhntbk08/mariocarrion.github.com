@@ -1,0 +1,33 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2005-12-10T14:29:37Z
+date_gmt: 2005-12-10 18:29:37 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
+title: Deluded
+url: /2005/12/10/deluded/
+wordpress_id: 206
+wordpress_url: http://mario.monouml.org/?p=206
+---
+
+<p>This beginning of month I've learn (or is it understood?) many things, most important are related to the fact that I ussually get trust myself and plan things that almost all the time doesn't happend, and this occurs because I plan too much and I wait for the right time, I think is correct... (this has been happend since ... four years ago... I need to switch strategy)</p>
+<p>Besides I've notice that these days I've converted in a <em>deluded person</em>, lets get the facts</p>
+<ul>
+<li>Asking for talking for <em>maybe</em> solving our issues... Oh man! What the fuck was I thinking? Was fake... really fake.. Some time ago I said... <em>no more wasting time</em>, now I'm cleaning out.</li>
+<li>Thinking that two days will suffice for solving some university-related papers... two days were few days... I spent all the week there... What does that mean? I need to go the work for weekends at least two.</li>
+<li>Imaging the money will last this month, I didn't asked too much.. only a month!! However I paid some things I owed, I'm better now.</li>
+</ul>
+<p>I need to develop with real programming languages... Using Delphi and VB.NET is a pain in the ass.		</p>

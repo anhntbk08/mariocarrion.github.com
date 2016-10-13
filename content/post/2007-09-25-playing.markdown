@@ -1,0 +1,35 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2007-09-25T22:21:53Z
+date_gmt: 2007-09-26 04:21:53 -0400
+published: true
+status: publish
+tags:
+- development
+- nokia770
+- english
+title: Playing!
+url: /2007/09/25/playing/
+wordpress_id: 418
+wordpress_url: http://mario.monouml.org/index.php/2007/09/25/playing/
+---
+
+<p>I haven't used my Nokia 770 very often, I don't have any particular reason but time, my plans for this great gadget are:</p>
+<ul>
+<li>Implement some kind of API for drawing recognition, of course using it on the Nokia 770 will be so hard due to memory limits, but those  limits are also so inspiring for me, less resources, more effort, more learning.</li>
+<li>Implement an application for using <a href="http://mario.monouml.org/index.php/2007/01/13/time-management/">Tom Limoncelli's</a> system, to improve my time.</li>
+<li>Play with <a href="http://www.mono-project.com/Maemo">maemo-sharp</a> and mono for arm.</li>
+</ul>
+<p>I'll be so busy next days and the days after those.</p>
+<p><a href="http://www.flickr.com/photos/mariocarrion/1441271536/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1322/1441271536_904a1c65ff_m.jpg" width="240" height="158" alt="nokia 770" /></a></p>
+<p>Doing <a href="http://en.wikipedia.org/wiki/SSH_file_transfer_protocol">scp</a> for executing my tests is the faster way to copy files into Nokia 770 IMO.</p>

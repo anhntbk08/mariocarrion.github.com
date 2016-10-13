@@ -1,0 +1,31 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2004-09-27T18:32:53Z
+published: true
+status: publish
+tags:
+- personal
+- monohispano
+- english
+title: Recently
+url: /2004/09/27/recently/
+wordpress_id: 33
+wordpress_url: http://mario.monouml.org/index.php/2004/09/27/recently/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">This is an old new, but I'll write anyway, <a href="http://www.monohispano.org">Mono Hispano</a>'s new website is up and running, <a href="http://fseoane.net">Fabian</a> had done a really nice job, everyone in the monohispano's list want to help, maybe the site will change a lot the next days, I hope seeing more features</p>
+<p align="justify">Two days ago, while I was doing homework, I used the nice <a href="http://java.sun.com">Java</a> (I also like Java) for doing some oriented objects programs, I want to use C# but at school there isn't any C# compiler, and I can't install it because of the user's privileges, and I don't like Delphi nor Visual Basic, so I decided to use my old oriented object language: Java. It isn't fast but I like it anyway, also the <a href="http://java.sun.com/j2se/1.5.0/download.jsp">new version</a> has a nice look-and-feel for Swing. Give it a try.</p>
+<p align="justify"><a href="http://monouml.sf.net">MonoUML</a> is still inactive, both <a href="http://expertcoder.sf.net">Rodolfo</a> and <a href="http://primate.gnome.cl/~mario/">Mario</a>, are busy, so am I. I really want to keep developing this project, I like it very much, If anyone want to help, download it through cvs everything is there, then suscribe to the mailing list and tell us about it. </p>
+<p><span style="font-weight:bold;">I learned today</span>: 'I still like Java'</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

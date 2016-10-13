@@ -1,0 +1,57 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: knocte
+  author_email: knocte@gmail.com
+  author_url: http://knocte.blogspot.com/
+  content: Congratulations! I'm so glad that we will be finally working together on
+    May (yes May, not March hehe) ;)
+  date: 2008-04-22 06:10:01 -0400
+  date_gmt: 2008-04-22 12:10:01 -0400
+  id: 12592
+- author: Sandy
+  author_email: sanfordarmstrong@gmail.com
+  author_url: http://automorphic.blogspot.com
+  content: Happy birthday Mario.  :-)  Can't wait to have you on the team!
+  date: 2008-04-22 07:04:50 -0400
+  date_gmt: 2008-04-22 13:04:50 -0400
+  id: 12593
+- author: Mario CarriÃ³n
+  author_email: mario@monouml.org
+  author_url: http://blog.mariocarrion.com
+  content: "@knocte, Yes! You're right, I've updated the month :-P\r\n@sandy, Thank
+    you. See you soon!"
+  date: 2008-04-22 08:54:01 -0400
+  date_gmt: 2008-04-22 14:54:01 -0400
+  id: 12594
+date: 2008-04-22T00:01:19Z
+date_gmt: 2008-04-22 06:01:19 -0400
+published: true
+status: publish
+tags:
+- personal
+- english
+title: B'Day
+url: /2008/04/22/guessing/
+wordpress_id: 442
+wordpress_url: http://blog.carrion.ws/2008/04/22/guessing/
+---
+
+<p>How old am I today?</p>
+<p><a href="http://www.flickr.com/photos/mariocarrion/2433410546/" title="$25 by Mario CarriÃ³n, on Flickr"><img src="http://farm4.static.flickr.com/3074/2433410546_caf1aa29e2_m.jpg" width="240" height="180" alt="$25" /></a></p>
+<p><a href="http://en.wikipedia.org/wiki/Mexican_peso">A little help</a></p>
+<p>Month's news are:</p>
+<ol>
+<li> <a href="http://wiki.freaks-unidos.net/weblogs/ceronman/">Manuel</a> <a href="http://code.google.com/soc/2008/mono/appinfo.html?csaid=4F0679BFA9FFE339">was accepted</a> in the <a href="http://code.google.com/soc/2008/">Google Summer of Code 2008</a>, <strong>Congratulations and Good Luck!</strong>, and, </li>
+<li>I'm departing Mexico on <del datetime="2008-04-22T14:42:36+00:00">March</del> May 5th to arrive in <a href="http://en.wikipedia.org/wiki/Cambridge,_Massachusetts">Cambridge, MA</a>, to join the <a href="http://www.novell.com/news/press/microsoft-and-novell-celebrate-year-of-interoperability-expand-collaboration-agreement">Novell</a>'s <a href="http://www.mono-project.com/Accessibility:_Team">a11y team</a>. </li>
+</ol>
+<p>Yes I know, both news are so great!</p>

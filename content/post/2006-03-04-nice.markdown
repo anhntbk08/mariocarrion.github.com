@@ -1,0 +1,29 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-03-04T18:18:40Z
+date_gmt: 2006-03-04 22:18:40 -0500
+published: true
+status: publish
+tags:
+- gnome
+- mono
+- english
+title: Nice
+url: /2006/03/04/nice/
+wordpress_id: 250
+wordpress_url: http://mario.monouml.org/index.php/2006/03/04/nice/
+---
+
+<p>Since two months ago I've been buying some magazines for staying in contact with most recent news, the bad thing about buying linux-related magazines (at least in spanish and here in MÃ©xico) is that all are too old, at least six months old, some english ones are recent but not too recent, one month, anyway I like reading about older news, I might miss one when it happened.</p>
+<p>And yes, GNOME 2.13.92 is out and is very solid and pretty as <a href="http://images.google.com.mx/images?hl=es&hs=dbf&client=firefox&rls=org.mozilla:en-US:unofficial&q=jennifer%20connelly&spell=1&sa=N&tab=wi">Jeniffer Connelly</a>! and yes <a href="http://banshee-project.org/Main_Page">banshee</a> <a href="http://gnomejournal.org/article/30/the-banshee-music-player-an-introduction">really rocks</a>!</p>
+<p><a href="http://static.flickr.com/34/107814251_ea473e9a52_o.png"><img src="http://static.flickr.com/34/107814251_ea473e9a52_m.jpg" alt="Synchronizing iPod" /></a></p>

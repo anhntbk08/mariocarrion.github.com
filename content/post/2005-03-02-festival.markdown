@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-03-02T01:52:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+title: Festival
+url: /2005/03/02/festival/
+wordpress_id: 105
+wordpress_url: http://mario.monouml.org/index.php/2005/03/02/festival/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Atenta invitaciÃ³n a toda la comunidad hispana para el <a href="http://installfest.info//default">Festival Latinoamericano de InstalaciÃ³n de Software Libre</a> a realizarse el dÃ­a 2 de abril del 2005, no dudes en inscribir a tu paÃ­s y ser un orgulloso usuario de Software Libre.</p>
+<p align="justify"><span style="font-weight:bold;">Â¡Que viva el Software Libre!</span></p>
+<p align="justify">Por cierto, ahora <a href="http://monouml.sf.net">MonoUML</a> cuenta Ãºnicamente con widgets de Gtk# 1.9.2 sin warnings de obsolecencia :)</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

@@ -1,0 +1,40 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-04-04T05:14:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+- mono
+title: De vuelta
+url: /2005/04/04/de-vuelta/
+wordpress_id: 117
+wordpress_url: http://mario.monouml.org/index.php/2005/04/04/de-vuelta/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">DespuÃ©s de 2 dÃ­as de descanso he regresado a la vida diaria, al trabajo, y a la explotaciÃ³n por parte del jefe mayor: <a href="http://www.itver.edu.mx">la escuela</a>, a todo como era antes, a pesar de que acabo de llegar hace unos minutos, no puedo dormirme porque si lo hago no irÃ© a la reuniÃ³n que tengo a las 9 AM, en fin, a poner <span style="font-style:italic;">cara de palo</span> y a aguantar el regaÃ±o (si es que hay), pero lo bailado nadie te lo quita :) Aunque no se porque soy tan negativo, dirÃ© 'salÃ­ de viaje' y seguro me comprenderan... lo dudo.</p>
+<p align="justify">Â¿SWF? No por favor, mejor MWF:</p>
+<p><pre>
+<font color="#2e8b57"><b>class</b></font> HelloWindowsForms
+{
+        <font color="#2e8b57"><b>public</b></font> <font color="#2e8b57"><b>static</b></font> <font color="#2e8b57"><b>void</b></font> Main()
+        {
+                System.Windows.Forms.MessageBox.Show (<font color="#ff00ff">&quot;Bienvenido a casa&quot;</font>);
+        }
+}
+</pre></p>
+<p align="center"><a href="http://www.geocities.com/k4rny/imgs/2005_abr_04/winforms.png"><img src="http://www.geocities.com/k4rny/imgs/2005_abr_04/winforms.png" alt="Managed.Windows.Forms" title="Managed.Windows.Forms" width="350" height="205" border="0"/></a></p>
+<p align="justify">Acabo de notar que maÃ±ana hay que entregar un trabajo, cuyo Ãºnico dÃ­a de recepciÃ³n es maÃ±ana mismo... y por supuesto que no lo tengo, espero mi equipo haya hecho algo... lo dudo, pero bueno dicen que la esperanza muere al Ãºltimo.</p>
+<p align="justify"><span style="font-weight:bold;">ActualizaciÃ³n</span>. Hay un error a la hora de compilar <a href="http://www.go-mono.com/archive/1.1.5/libgdiplus-1.1.5.tar.gz">libgdiplus 1.1.5</a> cuando no indicas que quieres soporte para GIF, la soluciÃ³n ya esta en el SVN pero para puedes solucionarla activando el soporte GIF: <code>apt-get install libungif4-dev libtiff4-dev libpng3-dev</code> para tener soporte de TIFF, PNG y GIF.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

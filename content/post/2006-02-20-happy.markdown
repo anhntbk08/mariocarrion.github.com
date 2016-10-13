@@ -1,0 +1,28 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
+date: 2006-02-20T21:41:39Z
+date_gmt: 2006-02-21 01:41:39 -0500
+published: true
+status: publish
+tags:
+- monouml
+- english
+title: Happy
+url: /2006/02/20/happy/
+wordpress_id: 245
+wordpress_url: http://mario.monouml.org/index.php/2006/02/20/happy/
+---
+
+<p>I don't know why but I feel very happy, too much coffee maybe, however, this night, like every night, I begin reading <a href="http://mx.planetalinux.org">planetalinux</a> and I notice a very beautifull t-shirt (I hope Jacob don't get mad at me because I took his photo)</p>
+<p><a href="http://static.flickr.com/31/102418470_d410a2058a_o.jpg"><img src="http://static.flickr.com/31/102418470_d410a2058a_m.jpg" alt="Monkey bussiness" /></a></p>
+<p>Notice <a href="http://ministeriosjm.com/area51/~jacob/blog">Jacob</a>'s t-shirt! Powered by <a href="http://www.monouml.org">MonoUML</a> ;-). <strong>Pretty amazing!</strong></p>

@@ -1,0 +1,38 @@
+---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
+date: 2005-03-09T01:42:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
+- gnome
+title: GNOME 2.10
+url: /2005/03/09/gnome-210/
+wordpress_id: 103
+wordpress_url: http://mario.monouml.org/index.php/2005/03/09/gnome-210/
+---
+
+<div style="clear:both;"></div>
+<p align="justify">Finalmente ha llegado GNOME 2.10 a <a href="http://www.ubuntulinux.org">Ubuntu</a> (en realidad desde hace 3 dÃ­as atras), muchos cambios de la versiÃ³n 2.8 a la 2.10, muchas cosas por resaltar, un escritorio agradable, realmente usable, con apariencia muy buena y que ahora esta mejor integrado en sus herramientas.</p>
+<p align="justify">Siento que esta versiÃ³n es tan importante cÃ³mo aquel cambio de la versiÃ³n 1.0 a la 2.0, muchos cambios sobresalientes, tiene cosas que antes eran duras de hacer, es el claro ejemplo de la uniÃ³n de esfuerzos de la comunidad del software libre.</p>
+<p align="justify"><span style="font-weight:bold;">Compartir carpetas</span> con redes MS Windows ahora es sencillisimo, nada de configurar el smb.conf ahora click con el derecho y seleccionar el directorio (estilo MS Windows :P)</p>
+<p align="center"><a href="http://www.geocities.com/k4rny/imgs/2005_mar_09/share.png"><img src="http://www.geocities.com/k4rny/imgs/2005_mar_09/share.png" width="139" height="200" alt="Compartiendo con SMB" title="Compartiendo con SMB"/></a></p>
+<p align="center"><a href="http://www.geocities.com/k4rny/imgs/2005_mar_09/share1.png"><img src="http://www.geocities.com/k4rny/imgs/2005_mar_09/share1.png" width="300" height="240" alt="Compartiendo con SMB" title="Compartiendo con SMB"/></a></p>
+<p align="justify">Y si les gustaba la capacidad de <span style="font-weight:bold;">automontaje inteligente</span> que utiliza MacOS (y que claro antes se podÃ­a hacer con automount y demÃ¡s malabares (y que ahora utiliza MS WinXP)) ahora esta mejor integrada al GNOME.</p>
+<p align="center"><img src="http://www.geocities.com/k4rny/imgs/2005_mar_09/mounted.png" title="Dispositivos montados" alt="Dispositivos montados"/></p>
+<p align="justify">Detalles del Roadmap de <a href="http://www.gnome.org">GNOME</a>, <a href="http://www.gnome.org/start/2.9/">aquÃ­</a></p>
+<p align="justify">Por otro lado en <a href="http://monouml.sf.net">MonoUML</a> he comenzado ha hacer la parte de <span style="font-weight:bold;">Reverse Engineering</span>, utilizando reflexiÃ³n y uniendo todo a <a href="http://expertcoder.sf.net">ExpertCoder</a> para asÃ­ importar los ensamblados, trasformarlos a XMI y luego cargarlos con <a href="http://monouml.sf.net">MonoUML</a>, la idea es tener todos los tipos de datos utilizados en <a href="http://www.mono-project.com">Mono</a> (Gtk#, Gnome#, etc) incluidos en MonoUML para que se puedan utilizar y de esta forma no se tenga que redefinir cada vez que se cree un modelo nuevo que utilice tales tipos. Claro que se leeran los ensamblados registrados en el GAC para que todo sea mejor.</p>
+<p align="justify">AdemÃ¡s ando haciendo el draft del formato de archivo del proyecto de <a href="http://monouml.sf.net">MonoUML</a>, <a href="http://rodolfocampero.blogspot.com">Rodolfo</a> sugiriÃ³ utilizar la idea de ArgoUML/Poseidon al usar un zip como archivo de proyecto asÃ­ dentro de este estarÃ¡ toda la informaciÃ³n del proyecto, buena idea, aunque tambiÃ©n ando pensando en como se salvarÃ¡ la informaciÃ³n particular del usuario dentro de su <span style="font-style:italic;">$HOME</span>, la idea mÃ¡s normal serÃ­a utilizar <span style="font-style:italic;">~/.monodevelop/</span> y ahi guardar todo, creo que asÃ­ serÃ¡.</p>
+<p align="justify">Vamos bien, no hay que desesperar.</p>
+<div style="clear:both; padding-bottom: 0.25em;"></div>

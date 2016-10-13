@@ -1,0 +1,21 @@
+---
+date: 2016-04-01T00:00:00Z
+description: null
+image: ruby.png
+image_facebook: ruby-facebook.png
+published: true
+status: publish
+title: 'Goals: April 2016'
+url: /2016/04/01/april-2016-goals/
+---
+
+My favorite month of the year is finally here! What is the plan for this month? 
+
+First of all, I must confess, I'm glad I finally *finished* reading the Go book, it took longer than expected that's for sure and I know some of the chapters will be revisited but I'm glad I can move on.
+
+Now, what do I want to accomplish this month?
+
+1. Obviously, I want to keep the momentum, start reading [Go in Action](https://www.manning.com/books/go-in-action) and ideally finish it, and
+2. Have *something* in [book-tracker](https://github.com/mariocarrion/book-tracker), something usable, something **I** could use.
+
+I know both goals are vague, so I'm pretty sure both of them will take both this month and May, and to me that's fine, I'm being honest and that's what matters.
