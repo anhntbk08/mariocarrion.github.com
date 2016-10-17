@@ -19,4 +19,4 @@ I like something else in this book besides the explanation of the method: the au
 
 The method is really simple, and that's the whole point honestly, to me it works better by using plain old pen and paper.
 
-{% twitter oembed https://twitter.com/mariocarrion/status/743427031472431104 %}
+{{< tweet 743427031472431104 >}}

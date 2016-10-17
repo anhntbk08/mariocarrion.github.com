@@ -12,7 +12,7 @@ url: /2016/08/02/amazon-web-services-in-action/
 
 In my [August goals]({% post_url 2016-08-01-august-goals %}) I mentioned I was close to finish reading **Amazon Web Services in Action**, well it didn't take that long, half commute today and done.
 
-{% twitter oembed https://twitter.com/mariocarrion/status/760475058263429120 %}
+{{< tweet 760475058263429120 >}}
 
 I've been using AWS for about 6 years already and I've never had a "proper official" training, everything I've done and learn was from reading the [official documentation](https://aws.amazon.com/documentation/) and the [official blog](https://aws.amazon.com/blogs/aws/). 
 

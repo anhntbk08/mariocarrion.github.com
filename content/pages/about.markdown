@@ -35,6 +35,6 @@ From there, I became what I'm now: **Mario, Distinguished Engineer**, the one th
 
 If you need to contact me for whatever reason, please email me, just use **&lt;my-real-name&gt;@carrion.ws**.
 
-{% twitter oembed https://twitter.com/mariocarrion/status/548959384215511041 %}
+{{< tweet 548959384215511041 >}}
 
-{% twitter oembed https://twitter.com/mariocarrion/status/238158452 %}
+{{< tweet 238158452 >}}

@@ -121,4 +121,4 @@ Grand total: **76**
 1. [Code Complete: A Practical Handbook of Software Construction, Second Edition](http://smile.amazon.com/gp/product/0735619670)
 1. [Practices of an Agile Developer: Working in the Real World (Pragmatic Bookshelf)](http://smile.amazon.com/gp/product/097451408X) was the first one in 2007!
 
-{% twitter oembed https://twitter.com/mariocarrion/status/707767157782925313 %}
+{{< tweet 707767157782925313 >}}

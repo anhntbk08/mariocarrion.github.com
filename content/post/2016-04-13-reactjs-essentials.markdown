@@ -4,10 +4,8 @@ description: 'Finished reading my 15th book of year: React.JS Essentials. What d
   I think about it?'
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: 'Finished Reading: React.js Essentials'
-url: /2016/04/13/reactjs-essentials/
+url: /2016/04/13/reactjs-essentials.html
 ---
 
 Published by [Packt Publishing](https://www.packtpub.com/), [React.JS Essentials](https://www.packtpub.com/web-development/reactjs-essentials) is my first introduction to React.JS, a less opinionated JavaScript library created by Facebook for building User Interfaces.
@@ -18,4 +16,4 @@ I like this book, it offers a great introduction to React, Jest and Flux, the ex
 
 I plan to continue learning React, I even bought [React Quickly](https://www.manning.com/books/react-quickly) already, so more React coming this way!
 
-{% twitter oembed https://twitter.com/mariocarrion/status/720241769502388224 %}
+{{< tweet 720241769502388224 >}}

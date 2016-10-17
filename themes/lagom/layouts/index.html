@@ -8,17 +8,15 @@
   <div class="eleven columns content">
     <div id="home">
       <ul id="blog-posts" class="posts">
-        {{ range $i, $val := .Site.Pages }}
-          {{ if lt $i 35 }}
-            <li>
-              <div class="left-horizontal">
-                <span>{{ $val.Date.Format "Jan 2, 2006" }}</span>
-              </div>
-              <div class="right-horizontal">
-                <a href="{{ $val.Permalink }}">{{ $val.Title }}</a>
-              </div>
-            </li>
-          {{ end }}
+        {{ range first 35 .Site.Pages }}
+          <li>
+            <div class="left-horizontal">
+              <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+            </div>
+            <div class="right-horizontal">
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </div>
+          </li>
         {{ end }}
       </ul>
 

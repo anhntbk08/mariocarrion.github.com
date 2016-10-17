@@ -23,4 +23,4 @@ Another great thing I take from this book is [Thrift](https://thrift.apache.org/
 
 Sometimes after finishing reading a book I think **Why didn't I find this book before?!**, and the same happened with this one, phenomenal book that covers everything all Software Engineers should know before starting to work professionally. Highly recommended.
 
-{% twitter oembed https://twitter.com/mariocarrion/status/723269833366884352 %}
+{{< tweet 723269833366884352 >}}

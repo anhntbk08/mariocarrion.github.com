@@ -20,13 +20,13 @@
     <ul class="posts">
       {{ if .PrevInSection }}
       <li>
-        <span>{{ .PrevInSection.Date.Format "Jan 2, 2016" }}</span> <a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a>
+        <span>{{ .PrevInSection.Date.Format "Jan 2, 2006" }}</span> <a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a>
       </li>
       {{ end }}
 
       {{ if .NextInSection }}
       <li>
-        <span>{{ .NextInSection.Date.Format "Jan 2, 2016" }}</span> <a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
+        <span>{{ .NextInSection.Date.Format "Jan 2, 2006" }}</span> <a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
       </li>
       {{ end }}
     </ul>

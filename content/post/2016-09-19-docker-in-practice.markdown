@@ -12,7 +12,7 @@ url: /2016/09/19/docker-in-practice/
 
 Another Docker book from Manning has been completed, this time my first ever *In Practice* book, which is basically a collection of tip, tricks, best practices and common solutions to be used on a daily basis. The *In Practice* series are similar to O'Reilly's *Cookbook* ones, both follow the same pattern: present a problem, show the solution, group those problems and solutions by a similar theme, profit.
 
-{% twitter oembed https://twitter.com/mariocarrion/status/777838798826799104 %}
+{{< tweet 777838798826799104 >}}
 
 I personally found this book really useful, it complements all other Docker books I've read so far, it includes examples that really distinguish the author from other ones, because those examples are _battle tested_ and in some cases it introduces some new Docker-related projects that complemented the ecosystem.
 

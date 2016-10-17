@@ -9,7 +9,7 @@ url: /2016/09/01/_sept-2016/
 
 Summer is, sort of, officially finished. Today we start the ninth month of the year. In three months from now 2016 will be no more. Time does fly really fast.
 
-{% twitter oembed https://twitter.com/mariocarrion/status/771407620838133760 %}
+{{< tweet 771407620838133760 >}}
 
 Let's go back and take a look at what I planned:
 
@@ -21,7 +21,7 @@ The truth is that I got sidetracked reading [Docker in Action](https://www.manni
 
 As I mentioned during the [August post]({% post_url 2016-08-01-august-goals %}), I was super close to finish reading it, and of course [I did]({% post_url 2016-07-15-go-in-action %}). Surprisingly last month I had two Go-related good news. First I got the [Go in Practice](https://www.manning.com/books/go-in-practice) book in the mail:
 
-{% twitter oembed https://twitter.com/mariocarrion/status/768618956080844801 %}
+{{< tweet 768618956080844801 >}}
 
 Making it my fifth physical Go book, and third one published by Manning; the second good news is that I finally have a job project using Go, **finally!**, so that's phenomenal news for me.
 

@@ -12,7 +12,7 @@ url: /2016/04/02/irresistible-apis/
 
 I'm a huge fan of [Manning Publications](https://www.manning.com/) and their [MEAP Program](https://www.manning.com/meap-program), specially because those books are usually part of regular deals, and who does not like deals?
 
-{% twitter oembed https://twitter.com/mariocarrion/status/711305586911137794 %}
+{{< tweet 711305586911137794 >}}
 
 Anyways, I had the chance of buying three books from one of the their recent deals, one of those books was [Irresistible APIs](https://www.manning.com/books/irresistible-apis) written by [Kirsten Hunter](http://www.princesspolymath.com/princess_polymath/).
 
@@ -33,4 +33,4 @@ But the truth is that having this **API first** mentality is the best thing to h
 
 I'll be doing some research about all three to see which one makes the most sense to learn nowadays, pretty exciting things happening.
 
-{% twitter oembed https://twitter.com/mariocarrion/status/715888972996747266 %}
+{{< tweet 715888972996747266 >}}

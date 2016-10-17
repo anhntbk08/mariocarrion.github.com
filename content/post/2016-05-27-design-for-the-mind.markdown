@@ -19,4 +19,4 @@ That's the cool thing about this book. **Design for the Mind** focuses on Psycho
 
 I feel like now I need the UX version of this book to successfully build better and meaningful User Interfaces and Experiences, as soon as I find that book I'll write a post, that's for sure.
 
-{% twitter oembed https://twitter.com/mariocarrion/status/736216393859911680 %}
+{{< tweet 736216393859911680 >}}
