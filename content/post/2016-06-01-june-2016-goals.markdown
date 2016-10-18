@@ -3,10 +3,8 @@ date: 2016-06-01T00:00:00Z
 description: Sixth month of the year. What am I planning?
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: 'Goals: June 2016'
-url: /2016/06/01/june-2016-goals/
+url: /2016/06/01/june-2016-goals.html
 ---
 
 Five months are long gone. Honestly I don't feel like [May]({% post_url 2016-05-01-may-2016-goals %}) was a productive one, professionally that is, I was only able to finish reading two books, not my best month that's for sure:

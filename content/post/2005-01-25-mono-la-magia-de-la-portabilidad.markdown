@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-01-25T05:34:53Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- personal
-- mono
 title: Mono. La magÃ­a de la portabilidad
-url: /2005/01/25/mono-la-magia-de-la-portabilidad/
-wordpress_id: 78
-wordpress_url: http://mario.monouml.org/index.php/2005/01/25/mono-la-magia-de-la-portabilidad/
+url: /2005/01/25/mono-la-magia-de-la-portabilidad.html
 ---
 
 <div style="clear:both;"></div>

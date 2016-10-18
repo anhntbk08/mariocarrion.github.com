@@ -1,13 +1,10 @@
 ---
 date: 2015-05-12T00:00:00Z
 description: Are you wondering how to test that a particular method invokes something
-  as a requirement?
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: 'Tip: RSpec spies'
-url: /2015/05/12/rspec-spies/
+url: /2015/05/12/rspec-spies.html
 ---
 
 [RSpec's spies](https://relishapp.com/rspec/rspec-mocks/docs/basics/spies) are a cool thing for testing a message was received after invoking certain method. Like for example to make sure our [Service](https://netguru.co/blog/service-objects-in-rails-will-help) that implements [Wisper](https://github.com/krisleech/wisper) is always subscribing to certain listener.

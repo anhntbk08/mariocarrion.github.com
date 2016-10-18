@@ -1,10 +1,8 @@
 ---
 date: 2016-07-01T00:00:00Z
 description: Seventh month of the year and half year review. What am I planning?
-published: true
-status: publish
 title: Half year review and July 2016 goals
-url: /2016/07/01/july-goals/
+url: /2016/07/01/july-goals.html
 ---
 
 _Independence month_ has started, that means half year is gone and 2017 is getting closer. Let's recapitulate my accomplishments so far, using the previous monthly updates as reference:

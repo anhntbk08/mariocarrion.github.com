@@ -1,27 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2008-01-26T01:19:42Z
-date_gmt: 2008-01-26 06:19:42 -0500
-published: true
-status: publish
-tags:
-- development
-- nokia770
-- english
 title: Mental note
-url: /2008/01/26/mental-note/
-wordpress_id: 433
-wordpress_url: http://blog.carrion.ws/2008/01/27/mental-note/
+url: /2008/01/26/mental-note.html
 ---
 
 <p>Every time I turn the <a href="http://blog.carrion.ws/2007/07/20/new-gadget/">Nokia 770</a> on to play (develop, test latest code and so on) it takes me time to remember how to become root... now, to avoid this:</p>

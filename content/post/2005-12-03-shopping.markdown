@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2005-12-03T21:15:56Z
-date_gmt: 2005-12-04 01:15:56 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Shopping
-url: /2005/12/03/shopping/
-wordpress_id: 203
-wordpress_url: http://mario.monouml.org/index.php/2005/12/03/shopping/
+url: /2005/12/03/shopping.html
 ---
 
 <p>Nice <a href="http://www.amazon.com/gp/product/B000BWHEJW/qid=1133666530/sr=8-1/ref=pd_bbs_1/104-6945533-3171900?n=507846&s=electronics&v=glance">digital camera + batteries</a>, nice laptop bag pack, <a href="http://www.mixup.com.mx/mixup/product.asp?sku=5050467682429&dept_id=1&subdept_id=102">nice CDs</a>, <a href="http://www.doommovie.com/">nice movie show</a>. I spent a nice-lonely day watching <a href="http://chicas123.blogspot.com">pretty girls</a>... and I'm too tired.</p>

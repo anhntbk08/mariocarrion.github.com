@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-09-12T21:20:00Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
-- personal
 title: Â¡Nini y mÃ¡s!
-url: /2005/09/12/%c2%a1nini-y-mas/
-wordpress_id: 157
-wordpress_url: http://mario.monouml.org/index.php/2005/09/12/%c2%a1nini-y-mas/
+url: /2005/09/12/%c2%a1nini-y-mas.html
 ---
 
 <div style="clear:both;"></div>

@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-01-19T01:25:06Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
-- personal
 title: MonoUML, escuela y proyectos con ganancias.
-url: /2005/01/19/monouml-escuela-y-proyectos-con-ganancias/
-wordpress_id: 80
-wordpress_url: http://mario.monouml.org/index.php/2005/01/19/monouml-escuela-y-proyectos-con-ganancias/
+url: /2005/01/19/monouml-escuela-y-proyectos-con-ganancias.html
 ---
 
 <div style="clear:both;"></div>

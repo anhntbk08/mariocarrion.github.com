@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2004-10-13T23:16:30Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
-- personal
-- monohispano
 title: Casi nada nuevo
-url: /2004/10/13/casi-nada-nuevo/
-wordpress_id: 53
-wordpress_url: http://mario.monouml.org/index.php/2004/10/13/casi-nada-nuevo/
+url: /2004/10/13/casi-nada-nuevo.html
 ---
 
 <div style="clear:both;"></div>

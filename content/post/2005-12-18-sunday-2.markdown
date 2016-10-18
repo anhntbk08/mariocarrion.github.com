@@ -1,27 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2005-12-18T21:39:38Z
-date_gmt: 2005-12-19 01:39:38 -0500
-published: true
-status: publish
-tags:
-- personal
-- gnome
-- english
 title: Sunday
-url: /2005/12/18/sunday-2/
-wordpress_id: 211
-wordpress_url: http://mario.monouml.org/?p=211
+url: /2005/12/18/sunday-2.html
 ---
 
 <p>After thinking for a while I decided to upgrade to <a href="http://wiki.ubuntu.com/DapperDrake">Dapper</a>, after downloading the packages and logging in for testing the newest changes in <a href="http://www.gnome.org">GNOME</a>, the first thing I noticed is the faster loading and lowing memory usage, <strong>only 88-90MB</strong> for the GNOME Desktop! Awesome!</p>

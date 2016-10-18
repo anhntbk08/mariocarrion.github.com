@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2004-09-12T22:30:09Z
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Lazy weekend, rainy sunday
-url: /2004/09/12/lazy-weekend-rainy-sunday/
-wordpress_id: 41
-wordpress_url: http://mario.monouml.org/index.php/2004/09/12/lazy-weekend-rainy-sunday/
+url: /2004/09/12/lazy-weekend-rainy-sunday.html
 ---
 
 <div style="clear:both;"></div>

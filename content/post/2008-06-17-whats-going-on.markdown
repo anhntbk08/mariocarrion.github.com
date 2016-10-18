@@ -1,33 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments:
-- author: Ray Wang
-  author_email: wanglei1123@gmail.com
-  author_url: http://gnuray.blogspot.com
-  content: Hey, what a nice place, I envy you. lol  :)
-  date: 2008-06-17 20:20:11 -0400
-  date_gmt: 2008-06-18 02:20:11 -0400
-  id: 12866
 date: 2008-06-17T12:28:28Z
-date_gmt: 2008-06-17 18:28:28 -0400
-published: true
-status: publish
-tags:
-- personal
-- english
 title: What's going on?
-url: /2008/06/17/whats-going-on/
-wordpress_id: 447
-wordpress_url: http://blog.carrion.ws/?p=447
+url: /2008/06/17/whats-going-on.html
 ---
 
 <p>It's been awhile since my last <em>real post</em> (more than a few words I mean).</p>

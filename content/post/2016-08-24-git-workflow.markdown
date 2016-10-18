@@ -3,10 +3,8 @@ date: 2016-08-24T00:00:00Z
 description: Git branches naming conventions my team and I use successfully.
 image: https://c1.staticflickr.com/9/8001/28592303394_426330c95d_o.png
 image_facebook: https://c1.staticflickr.com/9/8775/28594378703_a5b839e4fe_o.png
-published: true
-status: publish
 title: 'Git Workflow: Branches naming conventions'
-url: /2016/08/24/git-workflow/
+url: /2016/08/24/git-workflow.html
 ---
 
 This blog post kicks off a series related to [Git](https://git-scm.com/), what I consider to be some of the best practices when using git on the daily basis, the tips and tricks I know for sure have impacted my team and our daily workflows when working on new features, fixing bugs and reviewing code. 

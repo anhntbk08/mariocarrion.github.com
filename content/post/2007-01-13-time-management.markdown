@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2007-01-13T18:09:13Z
-date_gmt: 2007-01-14 00:09:13 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Time Management
-url: /2007/01/13/time-management/
-wordpress_id: 373
-wordpress_url: http://mario.monouml.org/index.php/2007/01/13/time-management/
+url: /2007/01/13/time-management.html
 ---
 
 <p><em>I used to think that the brain was the most wonderful organ in my body. Then I remembered who was telling me this.  - Emo Philips</em></p>

@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2008-03-08T20:48:04Z
-date_gmt: 2008-03-09 03:48:04 -0400
-published: true
-status: publish
-tags:
-- personal
-- english
 title: a11y team
-url: /2008/03/08/a11y-team/
-wordpress_id: 437
-wordpress_url: http://blog.carrion.ws/2008/03/08/a11y-team/
+url: /2008/03/08/a11y-team.html
 ---
 
 <p>Despite having acting like marathon runner I couldn't depart on the scheduled time because the previous flight arrived too late at Houston, so waiting like 12 hours was the only solution to depart on 9am and then wait another 2 hours to finally arrive at Veracruz. </p>

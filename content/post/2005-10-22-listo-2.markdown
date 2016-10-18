@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-10-22T12:27:58Z
-date_gmt: 2005-10-22 18:27:58 -0400
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- personal
 title: Listo
-url: /2005/10/22/listo-2/
-wordpress_id: 174
-wordpress_url: http://mario.monouml.org/index.php/2005/10/22/listo-2/
+url: /2005/10/22/listo-2.html
 ---
 
 <p>El martes irÃ© a ver que pasa con el trabajo que me sugirieron, he pasado todos los filtros ahora sÃ³lo queda que yo mismo me decida, a ver que pasa ese dÃ­a.</p>

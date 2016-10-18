@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2007-08-25T19:36:26Z
-date_gmt: 2007-08-26 01:36:26 -0400
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Right now
-url: /2007/08/25/right-now/
-wordpress_id: 409
-wordpress_url: http://mario.monouml.org/index.php/2007/08/25/right-now/
+url: /2007/08/25/right-now.html
 ---
 
 <p>Working (with "work-projects") on your free time is a pain in the ass, however, best day of the month encourages me to continue.</p>

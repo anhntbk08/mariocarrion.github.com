@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-07-11T16:54:43Z
-date_gmt: 2006-07-11 21:54:43 -0400
-published: true
-status: publish
-tags:
-- english
 title: Work day
-url: /2006/07/11/work-day/
-wordpress_id: 302
-wordpress_url: http://mario.monouml.org/index.php/2006/07/11/work-day/
+url: /2006/07/11/work-day.html
 ---
 
 <p>We spent all the day in the plant, on the night went to dinner to a place called Rodizio near to Puerto Madero, pretty tasty meat and nice wine, ate like never, people said that Argentinian Meat is the beat, I agree, both "two legs" and "four legs" meat are so great :P. I haven't taken any argentinian girls photos, will do it tomorrow... or tonight, who knows.</p>

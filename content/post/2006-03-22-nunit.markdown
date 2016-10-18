@@ -1,27 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-03-22T01:00:59Z
-date_gmt: 2006-03-22 05:00:59 -0500
-published: true
-status: publish
-tags:
-- mono
-- development
-- english
 title: NUnit
-url: /2006/03/22/nunit/
-wordpress_id: 258
-wordpress_url: http://mario.monouml.org/index.php/2006/03/22/nunit/
+url: /2006/03/22/nunit.html
 ---
 
 <p>I'm starting to think that we need to do <a href="http://www.nunit.org">some tests</a> to <a href="http://www.monouml.org">MonoUML</a>.</p>

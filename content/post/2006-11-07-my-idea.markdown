@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-11-07T08:49:50Z
-date_gmt: 2006-11-07 14:49:50 -0500
-published: true
-status: publish
-tags:
-- monohotdraw
-- english
 title: My idea
-url: /2006/11/07/my-idea/
-wordpress_id: 350
-wordpress_url: http://mario.monouml.org/index.php/2006/11/06/my-idea/
+url: /2006/11/07/my-idea.html
 ---
 
 <p>Writing a drawing-library is a mental excersive which aims to help MonoUML and to learn something else to  allow me to develop better and faster. Of course would love seeing our effort used something else in the future. Nowadays am imagining a new layer to support drawing recognition, you know, draw a circle and... actually draw a circle, will be so cool.</p>

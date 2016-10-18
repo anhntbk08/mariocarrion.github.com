@@ -1,24 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-02-16T22:38:00Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- personal
 title: Estudios
-url: /2005/02/16/estudios/
-wordpress_id: 90
-wordpress_url: http://mario.monouml.org/index.php/2005/02/16/estudios/
+url: /2005/02/16/estudios.html
 ---
 
 <div style="clear:both;"></div>

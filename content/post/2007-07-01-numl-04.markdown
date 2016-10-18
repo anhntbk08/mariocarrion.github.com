@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2007-07-01T21:28:37Z
-date_gmt: 2007-07-02 03:28:37 -0400
-published: true
-status: publish
-tags:
-- development
-- english
 title: nUML 0.4
-url: /2007/07/01/numl-04/
-wordpress_id: 400
-wordpress_url: http://mario.monouml.org/index.php/2007/07/01/numl-04/
+url: /2007/07/01/numl-04.html
 ---
 
 <p>Rodolfo talks about <a href="http://numl.sourceforge.net">nUML</a>'s (UML library for .NET) latest release. See <a href="http://rodolfocampero.blogspot.com/2007/07/numl-04-liberada.html">his blog</a> (spanish) or read his announce <a href="http://lists.ximian.com/pipermail/mono-list/2007-July/035495.html">on mono mailing list</a>.</p>

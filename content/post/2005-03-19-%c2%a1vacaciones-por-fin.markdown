@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-03-19T01:44:00Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
-- personal
-- monohispano
 title: Â¡Vacaciones por fin!
-url: /2005/03/19/%c2%a1vacaciones-por-fin/
-wordpress_id: 99
-wordpress_url: http://mario.monouml.org/index.php/2005/03/19/%c2%a1vacaciones-por-fin/
+url: /2005/03/19/%c2%a1vacaciones-por-fin.html
 ---
 
 <div style="clear:both;"></div>

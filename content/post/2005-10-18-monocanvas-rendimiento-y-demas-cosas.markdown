@@ -1,24 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-10-18T22:05:00Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- personal
 title: MonoCanvas, rendimiento y demÃ¡s cosas.
-url: /2005/10/18/monocanvas-rendimiento-y-demas-cosas/
-wordpress_id: 164
-wordpress_url: http://mario.monouml.org/index.php/2005/10/18/monocanvas-rendimiento-y-demas-cosas/
+url: /2005/10/18/monocanvas-rendimiento-y-demas-cosas.html
 ---
 
 <div style="clear:both;"></div>

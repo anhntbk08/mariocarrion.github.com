@@ -1,13 +1,10 @@
 ---
 date: 2015-02-12T00:00:00Z
 description: I kick off this 2015 by reading Soft Skills, how is it? any good? I will
-  share with you my thoughts.
 image: books/2015_soft_skills.jpg
 image_facebook: books/2015_soft_skills.jpg
-published: true
-status: publish
 title: 'Finished Reading: Soft Skills'
-url: /2015/02/12/book-1-soft-skills/
+url: /2015/02/12/book-1-soft-skills.html
 ---
 
 One of my *"unofficial"* resolutions this year is to re-develop my reading habit. I used to read a lot, like really a lot, specially when I was in High school and College, mostly technical books and stuff like that. But after I started my professional career, I kind of stopped... and that is not good.

@@ -1,27 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2007-06-29T22:37:56Z
-date_gmt: 2007-06-30 04:37:56 -0400
-published: true
-status: publish
-tags:
-- personal
-- ubuntu
-- english
 title: On vacation with Gutsy
-url: /2007/06/29/on-vacation-with-gutsy/
-wordpress_id: 399
-wordpress_url: http://mario.monouml.org/index.php/2007/06/29/on-vacation-with-gutsy/
+url: /2007/06/29/on-vacation-with-gutsy.html
 ---
 
 <p>Yesterday upgraded to <a href="http://cdimage.ubuntu.com/releases/gutsy/tribe-1/">Gutsy Gibbon</a> and I have to say that... upgrading wasn't that "clean" as usual (I know it's a development version) upgraded kernel seems to do "weird" things on the background then returned to older kernel, some "visual changes" include the newest <em>Appearance</em> application, </p>

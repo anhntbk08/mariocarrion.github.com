@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2004-09-19T13:40:09Z
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Travel, Etch and Her figure
-url: /2004/09/19/travel-etch-and-her-figure/
-wordpress_id: 38
-wordpress_url: http://mario.monouml.org/index.php/2004/09/19/travel-etch-and-her-figure/
+url: /2004/09/19/travel-etch-and-her-figure.html
 ---
 
 <div style="clear:both;"></div>

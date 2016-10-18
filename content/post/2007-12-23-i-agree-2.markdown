@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2007-12-23T01:15:38Z
-date_gmt: 2007-12-23 06:15:38 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: I agree
-url: /2007/12/23/i-agree-2/
-wordpress_id: 430
-wordpress_url: http://blog.carrion.ws/2007/12/23/i-agree-2/
+url: /2007/12/23/i-agree-2.html
 ---
 
 <blockquote>Any fool can write code that a computer can understand. Good programmers write code that humans can understand. <br />- Martin Fowler</p></blockquote>

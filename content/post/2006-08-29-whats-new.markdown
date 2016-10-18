@@ -1,27 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-08-29T22:38:15Z
-date_gmt: 2006-08-30 03:38:15 -0400
-published: true
-status: publish
-tags:
-- personal
-- development
-- english
 title: What's new?
-url: /2006/08/29/whats-new/
-wordpress_id: 311
-wordpress_url: http://mario.monouml.org/index.php/2006/08/29/whats-new/
+url: /2006/08/29/whats-new.html
 ---
 
 <p>I'm finishing the porting from QNX to Linux, have been doing lot of testing and fixing several bugs, in other words have being busy. By the way, always know <a href="http://www.bugzilla.org">Bugzilla</a> is good but it really rocks!</p>

@@ -1,13 +1,10 @@
 ---
-comments: true
 date: 2016-01-26T00:00:00Z
 description: null
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: A look back at the previous lustrum.
-url: /2016/01/26/a-look-back-at-previous-lustrum/
+url: /2016/01/26/a-look-back-at-previous-lustrum.html
 ---
 
 Five days ago Facebook reminded me, thanks to the [On This Day](https://www.facebook.com/help/439014052921484/) feature, about my first blog related to the [Ruby Programming Language]({% post_url 2010-01-21-the-ruby-programming-language %}).

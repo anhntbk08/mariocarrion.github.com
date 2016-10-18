@@ -1,49 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments:
-- author: Friend
-  author_email: burbuja@hotmail.com
-  author_url: ""
-  content: One year more
-  date: 2006-10-28 17:43:09 -0400
-  date_gmt: 2006-10-28 22:43:09 -0400
-  id: 1770
-- author: Mario CarriÃ³n
-  author_email: mario@monouml.org
-  author_url: http://mario.monouml.org
-  content: What do you mean?
-  date: 2006-10-29 16:21:58 -0500
-  date_gmt: 2006-10-29 21:21:58 -0500
-  id: 1775
-- author: Friend
-  author_email: burbuja@hotmail.com
-  author_url: ""
-  content: "One year\r\nSaturday, November 4th, 2006 \r\nThis November 7th is my first
-    anniversary. Letâ€™s celebrate"
-  date: 2006-11-07 18:15:02 -0500
-  date_gmt: 2006-11-08 00:15:02 -0500
-  id: 1868
 date: 2006-10-25T19:18:58Z
-date_gmt: 2006-10-26 00:18:58 -0400
-published: true
-status: publish
-tags:
-- monohotdraw
-- development
-- english
 title: Solved
-url: /2006/10/25/solved-2/
-wordpress_id: 339
-wordpress_url: http://mario.monouml.org/index.php/2006/10/25/solved-2/
+url: /2006/10/25/solved-2.html
 ---
 
 <p>After debugging, tracing and profiling, I squashed <a href="http://mario.monouml.org/index.php/2006/10/18/unit-tests/">that awful bug</a> and some others that were less awful, now am starting the improvement of every server, you know remove those memory leaks, write manual pages and beautify not-written-by-myself code.</p>

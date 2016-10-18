@@ -1,24 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2004-12-07T07:31:35Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- personal
 title: Recta final
-url: /2004/12/07/recta-final/
-wordpress_id: 76
-wordpress_url: http://mario.monouml.org/index.php/2004/12/07/recta-final/
+url: /2004/12/07/recta-final.html
 ---
 
 <div style="clear:both;"></div>

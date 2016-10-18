@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2009-01-04T23:44:38Z
-date_gmt: 2009-01-05 04:44:38 -0500
-published: true
-status: publish
-tags:
-- opensuse
 title: HP Pavilion TX2500z. Final.
-url: /2009/01/04/hp-pavilion-tx2500z-final/
-wordpress_id: 557
-wordpress_url: http://blog.carrion.ws/?p=557
+url: /2009/01/04/hp-pavilion-tx2500z-final.html
 ---
 
 <p>I've been using this tablet for about 4 months with OpenSUSE 11.1, I'm happy: performance, design and hardware support are good for me, however there are few complaints about it:</p>

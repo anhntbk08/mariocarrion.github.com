@@ -1,24 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-05-29T06:36:00Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
 title: MonoUML v0.1a, Codename monalisa.
-url: /2005/05/29/monouml-v01a-codename-monalisa/
-wordpress_id: 119
-wordpress_url: http://mario.monouml.org/index.php/2005/05/29/monouml-v01a-codename-monalisa/
+url: /2005/05/29/monouml-v01a-codename-monalisa.html
 ---
 
 <div style="clear:both;"></div>

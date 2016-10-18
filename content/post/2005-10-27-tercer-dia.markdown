@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-10-27T16:05:56Z
-date_gmt: 2005-10-27 19:05:56 -0400
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
-- personal
 title: Tercer dÃ­a
-url: /2005/10/27/tercer-dia/
-wordpress_id: 182
-wordpress_url: http://mario.monouml.org/index.php/2005/10/27/tercer-dia/
+url: /2005/10/27/tercer-dia.html
 ---
 
 <p>Ya dÃ­ la presentaciÃ³n, dicen que hablÃ© muy rÃ¡pido, aunque creo que lo hice de forma normal, no sÃ©, tendrÃ­a que verme para ver que dar mi opiniÃ³n.</p>

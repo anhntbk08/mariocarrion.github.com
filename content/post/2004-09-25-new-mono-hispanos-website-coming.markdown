@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2004-09-25T01:16:20Z
-published: true
-status: publish
-tags:
-- personal
-- monohispano
-- english
 title: New Mono Hispano's website coming
-url: /2004/09/25/new-mono-hispanos-website-coming/
-wordpress_id: 34
-wordpress_url: http://mario.monouml.org/index.php/2004/09/25/new-mono-hispanos-website-coming/
+url: /2004/09/25/new-mono-hispanos-website-coming.html
 ---
 
 <div style="clear:both;"></div>

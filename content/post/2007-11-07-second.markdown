@@ -1,33 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments:
-- author: :-)
-  author_email: burb59@hotmail.com
-  author_url: ""
-  content: Congratulations!!!
-  date: 2007-11-09 20:03:21 -0500
-  date_gmt: 2007-11-10 01:03:21 -0500
-  id: 11513
 date: 2007-11-07T22:23:31Z
-date_gmt: 2007-11-08 03:23:31 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Second
-url: /2007/11/07/second/
-wordpress_id: 427
-wordpress_url: http://blog.carrion.ws/2007/11/07/second/
+url: /2007/11/07/second.html
 ---
 
 <p>Yeah, two years of hard-working.</p>

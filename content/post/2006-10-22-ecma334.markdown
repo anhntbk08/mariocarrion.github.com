@@ -1,52 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments:
-- author: Mahomedalid Pacheco
-  author_email: mictlan@gmail.com
-  author_url: http://mahomedalidp.blogspot.com
-  content: "I have very bad code skills, :P but i want to help in this:\r\n\r\n\"TODO/FIXME/XXX/HACK
-    reporter, scans source code to report things to do, to hack, to fix, etc.\"\r\n\r\nWhat
-    do you have in mind, exactly?"
-  date: 2006-10-24 17:26:21 -0400
-  date_gmt: 2006-10-24 22:26:21 -0400
-  id: 1740
-- author: Mario CarriÃ³n
-  author_email: mario@monouml.org
-  author_url: http://mario.monouml.org
-  content: Maybe using <a href="http://www.antlr.org" rel="nofollow">antlr</a> to
-    write a simple parser to scan sources and then by using XSLT transform it to HTML,
-    something like that, or do you have any other idea?,
-  date: 2006-10-25 18:55:44 -0400
-  date_gmt: 2006-10-25 23:55:44 -0400
-  id: 1751
-- author: Mahomedalid Pacheco
-  author_email: mictlan@gmail.com
-  author_url: http://mahomedalidp.blogspot.com
-  content: let me see the antlr way
-  date: 2006-10-27 09:02:43 -0400
-  date_gmt: 2006-10-27 14:02:43 -0400
-  id: 1763
 date: 2006-10-22T16:02:02Z
-date_gmt: 2006-10-22 21:02:02 -0400
-published: true
-status: publish
-tags:
-- monohispano
-- development
-- english
 title: ECMA334
-url: /2006/10/22/ecma334/
-wordpress_id: 338
-wordpress_url: http://mario.monouml.org/index.php/2006/10/22/ecma334/
+url: /2006/10/22/ecma334.html
 ---
 
 <p>I'm still updating our older effort to translate ECMA334 to spanish, now we are quite far away from current specification, however there are less than 30 files missing to finally finish this translation, in the meanwhile, am updating older code written by <a href="http://fseoane.net">Fabian</a>, <a href="http://rodolfocampero.blogspot.com">Rodolfo</a> and some others anonymous hackers to compile with newer Gtk#. </p>

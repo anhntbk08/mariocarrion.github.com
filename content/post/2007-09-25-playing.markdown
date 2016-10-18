@@ -1,27 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2007-09-25T22:21:53Z
-date_gmt: 2007-09-26 04:21:53 -0400
-published: true
-status: publish
-tags:
-- development
-- nokia770
-- english
 title: Playing!
-url: /2007/09/25/playing/
-wordpress_id: 418
-wordpress_url: http://mario.monouml.org/index.php/2007/09/25/playing/
+url: /2007/09/25/playing.html
 ---
 
 <p>I haven't used my Nokia 770 very often, I don't have any particular reason but time, my plans for this great gadget are:</p>

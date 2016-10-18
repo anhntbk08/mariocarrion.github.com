@@ -1,51 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments:
-- author: Manuel CerÃ³n
-  author_email: ceronman@gmail.com
-  author_url: http://ceronman.blogspot.com
-  content: Wow, the macro power. But I prefer return values for error handling.
-  date: 2006-08-17 00:37:33 -0400
-  date_gmt: 2006-08-17 05:37:33 -0400
-  id: 1275
-- author: Mario CarriÃ³n
-  author_email: mario@monouml.org
-  author_url: http://mario.monouml.org
-  content: Yes, I agree, using Exceptions as only error handling method defines your
-    bad programming skills, however in a real time applications you must be paranoic
-    and always keep the application running.
-  date: 2006-08-17 09:13:49 -0400
-  date_gmt: 2006-08-17 14:13:49 -0400
-  id: 1281
-- author: Miguel Huerta
-  author_email: hgmiguel@gmail.com
-  author_url: ""
-  content: "Muy bueno, y si le agregamos GObject tenemos casi por completo un C orientado
-    a objetos, increibe realmente.\r\nNo se porque enseÃ±ana Java en orientado a objetos
-    :D"
-  date: 2006-08-17 09:48:26 -0400
-  date_gmt: 2006-08-17 14:48:26 -0400
-  id: 1283
 date: 2006-08-16T22:37:42Z
-date_gmt: 2006-08-17 03:37:42 -0400
-published: true
-status: publish
-tags:
-- development
-- english
 title: Exceptions
-url: /2006/08/16/exceptions/
-wordpress_id: 309
-wordpress_url: http://mario.monouml.org/index.php/2006/08/16/exceptions/
+url: /2006/08/16/exceptions.html
 ---
 
 <p>Since C++ includes exceptions improves applications' lifetime while running, "catching" known errors always helps, but what about the pretty older (but nicer) C?? The following simulates Java's <em>try-catch-finally</em>. It's based on the code written by Francisco A. MÃ¡rquez, on <a href="http://www.ra-ma.es/libros/0001692.htm">his book</a>.</p>

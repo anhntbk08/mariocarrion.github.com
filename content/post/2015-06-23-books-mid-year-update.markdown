@@ -1,14 +1,10 @@
 ---
-comments: true
 date: 2015-06-23T00:00:00Z
 description: I've been really busy in real life, but that does not stop me from reading
-  a lot books!
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: Mid 2015 Books Update
-url: /2015/06/23/books-mid-year-update/
+url: /2015/06/23/books-mid-year-update.html
 ---
 
 One of my *non official* resolutions this year was to read more, actually I have a [ridiculous long Amazon Wishlist](https://smile.amazon.com/gp/registry/wishlist/1TXL98AB1S062) with all the books I want to read this year.
@@ -16,7 +12,7 @@ One of my *non official* resolutions this year was to read more, actually I have
 From that list, I've read:
 
 1. [An Introduction to Programming in Go](http://smile.amazon.com/gp/product/1478355824)
-2. [Soft Skills: The software developer's life manual](http://smile.amazon.com/gp/product/1617292397) See my [previous blog post]({% post_url 2015-02-12-book-1-soft-skills %}).
+2. [Soft Skills: The software developer's life manual](http://smile.amazon.com/gp/product/1617292397) See my [previous blog post]({{< relref "2015-02-12-book-1-soft-skills.md" >}}).
 3. [Scalability Rules: 50 Principles for Scaling Web Sites](http://smile.amazon.com/gp/product/B00503D1TY)
 4. [Responsive Web Design with HTML5 and CSS3](http://smile.amazon.com/gp/product/B007SVJA3M)
 5. [Unraveling HTLM5, CSS3, and JavaScript](http://smile.amazon.com/gp/product/B00OX1ZVTM)

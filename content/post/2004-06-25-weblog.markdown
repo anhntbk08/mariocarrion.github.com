@@ -1,6 +1,5 @@
 ---
 date: 2004-06-25T22:41:51Z
-published: true
 title: Weblog
 url: /2004/06/25/weblog.html
 ---

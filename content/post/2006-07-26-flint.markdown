@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-07-26T00:18:03Z
-date_gmt: 2006-07-26 05:18:03 -0400
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Missing flints
-url: /2006/07/26/flint/
-wordpress_id: 306
-wordpress_url: http://mario.monouml.org/index.php/2006/07/26/flint/
+url: /2006/07/26/flint.html
 ---
 
 <p>If you are out of Zippo flints and also own an empty BIC lighter you migth get BIC's flint to <a href="http://www.instructables.com/id/EZE56UWUHSEP287K7Q/">use it in your Zippo</a>.</p>

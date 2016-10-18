@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-01-22T18:20:19Z
-date_gmt: 2006-01-22 22:20:19 -0500
-published: true
-status: publish
-tags:
-- monohotdraw
-- english
 title: MonoCanvas' DnD
-url: /2006/01/22/monocanvas-dnd/
-wordpress_id: 230
-wordpress_url: http://mario.monouml.org/index.php/2006/01/22/monocanvas-dnd/
+url: /2006/01/22/monocanvas-dnd.html
 ---
 
 <p>Using graphics for representing ideas is quite usefull and the "DnD idea" is really good. Dragging and dropping represents the idea of adding, moving or sending information from a source to a target. I've been playing with this idea this week and I'm happy with this preview. There are bugs, I found two, <em>Cursor bug</em>, doesn't change when starting dragging and <em>drag-begin</em> bug that doesn't call the IDraggable.DragBegin when should be.</p>

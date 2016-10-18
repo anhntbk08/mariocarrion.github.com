@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-05-07T19:26:58Z
-date_gmt: 2006-05-07 23:26:58 -0400
-published: true
-status: publish
-tags:
-- debian
-- english
 title: Working again
-url: /2006/05/07/working-again/
-wordpress_id: 279
-wordpress_url: http://mario.monouml.org/index.php/2006/05/07/working-again/
+url: /2006/05/07/working-again.html
 ---
 
 <p>I'm running Debian Sid in my laptop and I still don't know why the Debian package team uses a older <a href="http://ndiswrapper.sourceforge.net">ndiswrapper</a> version, current version (1.8), sometimes works and some others crashes the kernel, after downloading most recent version (1.16) and installing, <a href="http://iogear.com/main.php?loc=dm&driver&Item=GWP512#display">my PCMCIA card</a> is working again :-),</p>

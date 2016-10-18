@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-06-21T13:26:06Z
-date_gmt: 2006-06-21 18:26:06 -0400
-published: true
-status: publish
-tags:
-- debian
-- english
 title: Behind proxy
-url: /2006/06/21/behind-proxy/
-wordpress_id: 291
-wordpress_url: http://mario.monouml.org/index.php/2006/06/21/behind-proxy/
+url: /2006/06/21/behind-proxy.html
 ---
 
 <p>If you are using <a href="http://www.debian.org">Debian</a> at work and you need to update/upgrade or even install any debian package through <a href="http://www.debian.org/doc/manuals/apt-howto/">apt</a> and you are behind some MS proxy server (that's my case) you need to install <em><a href="http://packages.debian.org/stable/web/ntlmaps">ntlmaps</a></em> package and export some variables:</p>
