@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-10-02T23:47:41Z
-date_gmt: 2006-10-03 04:47:41 -0400
-published: true
-status: publish
-tags:
-- development
-- english
 title: Shared Memory in Mono, 4th session
-url: /2006/10/02/shared-memory-in-mono-4th-session/
-wordpress_id: 326
-wordpress_url: http://mario.monouml.org/index.php/2006/10/02/shared-memory-in-mono-4th-session/
+url: /2006/10/02/shared-memory-in-mono-4th-session.html
 ---
 
 <p>Mono includes Mono.Unix.Native, so flagging is made easy:</p>

@@ -1,16 +1,13 @@
 ---
 date: 2016-09-16T00:00:00Z
 description: Two weeks ago I started using Docker and Go professionally for real.
-  How did it go?
 image: https://c1.staticflickr.com/9/8279/29287312352_795a8f361c_o.png
 image_facebook: https://c1.staticflickr.com/9/8394/28771369964_29174cf13f_o.png
-published: true
-status: publish
 title: First Sprint with Go and Docker
-url: /2016/09/16/first-sprint-with-go-and-docker/
+url: /2016/09/16/first-sprint-with-go-and-docker.html
 ---
 
-In my previous [September 2016 Goals]({% post_url 2016-09-01-_sept-2016 %}) post I mentioned that I finally had the chance to start working professionally with Go and Docker, well, how did it [Go](https://golang.org/)?
+In my previous [September 2016 Goals]({{< relref "2016-09-01-_sept-2016.markdown" >}}) post I mentioned that I finally had the chance to start working professionally with Go and Docker, well, how did it [Go](https://golang.org/)?
 
 The truth is that just like with any other new thing you start learning, it takes time to get used to and there's a learning curve. It's frustrating and encouraging at the same time because you have the solution in your head but putting it in _words_ it's more difficult. The best analogy I can think of this experience would be ordering food in a foreign country where the language you speak is not spoken by the locals. Simple as that. You're hungry, you know what you want to eat but you can't express it in proper words, you need to use your hands, maybe draw a couple of things, ask for help, etcetera, etcetera, and all of that takes time.
 

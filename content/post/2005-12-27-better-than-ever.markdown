@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2005-12-27T21:18:06Z
-date_gmt: 2005-12-28 01:18:06 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Better than ever
-url: /2005/12/27/better-than-ever/
-wordpress_id: 213
-wordpress_url: http://mario.monouml.org/index.php/2005/12/27/better-than-ever/
+url: /2005/12/27/better-than-ever.html
 ---
 
 <p>After reading the announcement I decided to upgrade to <a title="Wordpress content manager" href="http://wordpress.org/">WP 2.0</a>, works better, nicer 'write post' UI, <a title="Upgrading to WP2.0" href="http://mario.monouml.org/wp-admin/codex.wordpress.org/Upgrading_WordPress">upgrading</a> is quite easy. I also need to upgrade my older monkey-based skin but at least I like current red-based one.</p>

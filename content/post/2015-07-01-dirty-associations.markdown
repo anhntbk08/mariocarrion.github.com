@@ -1,13 +1,10 @@
 ---
 date: 2015-07-01T00:00:00Z
 description: ActiveModel::Dirty is a phenomenal way to detect the changes in a model,
-  but what about the changes inside the associations? How can we detect that?
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: 'Tip: Dirty Associations with Active Record'
-url: /2015/07/01/dirty-associations/
+url: /2015/07/01/dirty-associations.html
 ---
 
 Depending on your project you may need to know exactly when something changes in your model, to do whatever you have to do, specially important if you need to know what changed **inside** the associations defined in your model.

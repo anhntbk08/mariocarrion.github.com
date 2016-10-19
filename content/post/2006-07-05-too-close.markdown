@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-07-05T20:30:49Z
-date_gmt: 2006-07-06 01:30:49 -0400
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Too close
-url: /2006/07/05/too-close/
-wordpress_id: 298
-wordpress_url: http://mario.monouml.org/index.php/2006/07/05/too-close/
+url: /2006/07/05/too-close.html
 ---
 
 <p>The winner isn't yet here. Both <a href="http://www.pan.org.mx">right party</a> and <a href="http://www.prd.org.mx">left party</a> are quite close, two days ago, the self-proclaimed winner <a href="http://www.fecal.org.mx">Felipe CalderÃ³n</a> called himself as the next mexican president, today things changed and <a href="http://www.amlo.org.mx">LÃ³pez Obrador</a> is winning. I hope any final decision won't hurt our country.</p>

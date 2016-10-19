@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2007-05-08T20:40:31Z
-date_gmt: 2007-05-09 02:40:31 -0400
-published: true
-status: publish
-tags:
-- personal
-- english
 title: La Experiencia
-url: /2007/05/08/la-experiencia/
-wordpress_id: 391
-wordpress_url: http://mario.monouml.org/index.php/2007/05/08/la-experiencia/
+url: /2007/05/08/la-experiencia.html
 ---
 
 <p>I left Veracruz on Saturday Dawn, arrived at 7:30, ate breakfast and then to the event. A lot of interesting stuff. I saw great matches and there were a lot of things related to <a href="http://en.wikipedia.org/wiki/Lucha_libre">lucha libre</a>: cards, masks, videos and the list goes on and on. I ate one of the "Tortas Gigantes", and yes, those are really giant, and the great of the day was the dinner: Tacos, yeah! "<em>Mexico City Tacos!!</em>"</p>

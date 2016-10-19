@@ -1,34 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments:
-- author: Mahomedalid Pacheco
-  author_email: mictlan@gmail.com
-  author_url: http://mahomedalidp.blogspot.com
-  content: No entiendo como es que con tremenda belleza de tradiciones seguimos las
-    madres de halloween. Neta que no entiendo. Y hoy en la maÃ±ana pensÃ© mucho al
-    respecto.
-  date: 2005-11-01 22:51:17 -0500
-  date_gmt: 2005-11-02 01:51:17 -0500
-  id: 16
 date: 2005-10-31T23:44:52Z
-date_gmt: 2005-11-01 02:44:52 -0500
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- personal
 title: DÃ­a de muertos
-url: /2005/10/31/dia-de-muertos-2/
-wordpress_id: 185
-wordpress_url: http://mario.monouml.org/?p=185
+url: /2005/10/31/dia-de-muertos-2.html
 ---
 
 <p>Si hay una tradiciÃ³n que me gusta mucho es el <strong>DÃ­a de muertos</strong>, mucho mÃ¡s que la temporada navideÃ±a, me hace ponerme alegre ver como nosotros jugamos con la muerte sin temerle :-D, orgullosamente puedo decir que sÃ³lo celebro mis tradiciones y lo hago con gusto.</p>

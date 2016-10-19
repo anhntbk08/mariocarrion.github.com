@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-11-01T16:16:24Z
-date_gmt: 2006-11-01 21:16:24 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Hosted
-url: /2006/11/01/hosted/
-wordpress_id: 344
-wordpress_url: http://216.147.44.194/mario/index.php/2006/11/02/hosted/
+url: /2006/11/01/hosted.html
 ---
 
 <p>If you are reading this through monouml.org, then DNS servers are updated and we are using our new hosting.</p>

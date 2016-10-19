@@ -2,15 +2,13 @@
 date: 2016-03-31T00:00:00Z
 image: go.png
 image_facebook: go-facebook.png
-published: true
-status: publish
 title: 'Finished Reading: The Go Programming Language'
-url: /2016/03/31/the-go-programming-language/
+url: /2016/03/31/the-go-programming-language.html
 ---
 
 <a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/mariocarrion/25983863481/in/dateposted-public/" title="The Go Programming Language by Alan Donovan and Brian Kernighan"><img src="https://farm2.staticflickr.com/1470/25983863481_f9909b0ef4_m.jpg" width="240" height="180" alt="The Go Programming Language by Alan Donovan and Brian Kernighan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On [January 21st, 2010]({% post_url 2010-01-21-the-ruby-programming-language %}) I wrote a blog post about the book I finished reading: **The Ruby Programming Language**.
+On [January 21st, 2010]({{< relref "2010-01-21-the-ruby-programming-language.markdown" >}}) I wrote a blog post about the book I finished reading: **The Ruby Programming Language**.
 
 Today, five years later I find a programming language similar to Ruby that I feel is going to make a huge impact in my professional life.
 

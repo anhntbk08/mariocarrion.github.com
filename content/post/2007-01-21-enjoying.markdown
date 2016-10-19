@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2007-01-21T18:58:05Z
-date_gmt: 2007-01-22 00:58:05 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Enjoying
-url: /2007/01/21/enjoying/
-wordpress_id: 375
-wordpress_url: http://mario.monouml.org/index.php/2007/01/21/enjoying/
+url: /2007/01/21/enjoying.html
 ---
 
 <p>Nothing better as drinking some light beers and playing a <a href="http://www.onlineregister.com/konami/wenation/">great game</a>.</p>

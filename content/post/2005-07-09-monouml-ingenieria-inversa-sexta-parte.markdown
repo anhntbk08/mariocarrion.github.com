@@ -1,24 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-07-09T02:59:00Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
 title: MonoUML, IngenierÃ­a Inversa, Sexta Parte
-url: /2005/07/09/monouml-ingenieria-inversa-sexta-parte/
-wordpress_id: 145
-wordpress_url: http://mario.monouml.org/index.php/2005/07/09/monouml-ingenieria-inversa-sexta-parte/
+url: /2005/07/09/monouml-ingenieria-inversa-sexta-parte.html
 ---
 
 <div style="clear:both;"></div>

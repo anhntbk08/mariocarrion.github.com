@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2007-09-29T17:31:59Z
-date_gmt: 2007-09-29 23:31:59 -0400
-published: true
-status: publish
-tags:
-- personal
-- english
 title: ntde1ect.com
-url: /2007/09/29/ntde1ectcom/
-wordpress_id: 419
-wordpress_url: http://mario.monouml.org/index.php/2007/09/29/ntde1ectcom/
+url: /2007/09/29/ntde1ectcom.html
 ---
 
 <p>I still don't know why people doesn't realize the bad security on Microsoft Windows and still uses it.</p>

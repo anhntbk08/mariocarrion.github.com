@@ -1,51 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments:
-- author: ceronman
-  author_email: ceronman@gmail.com
-  author_url: http://wiki.freaks-unidos.net/weblogs/ceronman
-  content: "Nice comparison. There is a small but important difference. The Vala code
-    uses a class, but the C# code uses a struct. This is important for assignments.
-    \ For example, when you use a class and do something like:\r\n\r\nRectangle r
-    = Figure.Rectangle\r\n\r\nIn this case you are copying the Figure.Rectangle reference
-    into r. That means that if you do something like:\r\n\r\nr.X = 100\r\n\r\nFigure.Rectangle
-    will also be 100.\r\n\r\nWith structs, assignments copies the data from one value
-    to another. In that way, the code above will modify r, but not Figure.Rectangle.
-    The assignment with structs is equivalent to:\r\n\r\nRectangleD r = Figure.Rectangle.Clone()"
-  date: 2007-10-09 23:15:58 -0400
-  date_gmt: 2007-10-10 05:15:58 -0400
-  id: 11109
-- author: Mario CarriÃ³n
-  author_email: mario@monouml.org
-  author_url: http://mario.monouml.org
-  content: "<p>Well, actually, both are using structs, however C# structs are value
-    types and Vala classes are mapped to GObject classes which defined are as plain
-    C structs. </p>\r\n\r\n<p>You are right about the references, due to Vala classes
-    are reference values.</p>"
-  date: 2007-10-10 17:36:30 -0400
-  date_gmt: 2007-10-10 23:36:30 -0400
-  id: 11118
 date: 2007-10-09T21:41:16Z
-date_gmt: 2007-10-10 03:41:16 -0400
-published: true
-status: publish
-tags:
-- development
-- vala
-- english
 title: Compare
-url: /2007/10/09/compare/
-wordpress_id: 423
-wordpress_url: http://mario.monouml.org/index.php/2007/10/09/compare/
+url: /2007/10/09/compare.html
 ---
 
 <p>Do you see any <a href="http://anonsvn.mono-project.com/viewcvs/trunk/mcs/class/Mono.Cairo/Mono.Cairo/Rectangle.cs?view=markup">difference</a>?</p>

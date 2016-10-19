@@ -3,10 +3,8 @@ date: 2015-01-13T00:00:00Z
 description: How do you implementing versioning classes in Ruby? I will tell you how.
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: 'Tip: Versioning classes in Ruby'
-url: /2015/01/13/versioning-classes-in-ruby/
+url: /2015/01/13/versioning-classes-in-ruby.html
 ---
 
 **Versioning classes** is not difficult at, specially if you're using a modern programing language. Use [Reflection](http://en.wikipedia.org/wiki/Reflection_(computer_programming)) together with a concrete implementation of the [Builder Pattern](http://en.wikipedia.org/wiki/Builder_pattern) a you're good to go.

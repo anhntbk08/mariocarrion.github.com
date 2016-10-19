@@ -3,10 +3,8 @@ date: 2016-03-15T00:00:00Z
 description: null
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: 'Tip: Mocking Web APIs'
-url: /2016/03/15/mocking-apis/
+url: /2016/03/15/mocking-apis.html
 ---
 
 If you interact with any web-based service you need to mock your requests to properly test you program. In reality there are two ways of mocking your external requests:

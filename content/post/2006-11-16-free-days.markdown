@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-11-16T20:16:26Z
-date_gmt: 2006-11-17 02:16:26 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Free days
-url: /2006/11/16/free-days/
-wordpress_id: 352
-wordpress_url: http://mario.monouml.org/index.php/2006/11/16/free-days/
+url: /2006/11/16/free-days.html
 ---
 
 <p>Today, finally, I've finished that sockets server and marshalled all the C structures to C# structures, so sending structures through sockets is a piece of cake, tomorrow will have a meeting to talk about this, and then 3 free days! Saturday and Sunday as usual, and Monday due is holiday day!</p>

@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-05-11T22:11:13Z
-date_gmt: 2006-05-12 02:11:13 -0400
-published: true
-status: publish
-tags:
-- opensolaris
-- english
 title: I18n
-url: /2006/05/11/i18n/
-wordpress_id: 280
-wordpress_url: http://mario.monouml.org/index.php/2006/05/11/i18n/
+url: /2006/05/11/i18n.html
 ---
 
 <p><a href="http://www.opensolaris.org">OpenSolaris</a> i18n team <a href="http://mail.opensolaris.org/pipermail/i18n-discuss/2006-May/000371.html">have released</a> i18n/l10n files to translation, What are you waiting for? Go translate! Spanish team is <a href="http://mail.opensolaris.org/pipermail/g11n-es-discuss/2006-May/000014.html">benning its effort</a>!</p>

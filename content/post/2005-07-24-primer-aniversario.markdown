@@ -1,24 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-07-24T00:45:00Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
 title: Primer aniversario
-url: /2005/07/24/primer-aniversario/
-wordpress_id: 143
-wordpress_url: http://mario.monouml.org/index.php/2005/07/24/primer-aniversario/
+url: /2005/07/24/primer-aniversario.html
 ---
 
 <div style="clear:both;"></div>

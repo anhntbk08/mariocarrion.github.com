@@ -1,27 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-11-26T00:49:59Z
-date_gmt: 2006-11-26 06:49:59 -0500
-published: true
-status: publish
-tags:
-- mono
-- development
-- english
 title: Cecil, 2
-url: /2006/11/26/cecil-2/
-wordpress_id: 357
-wordpress_url: http://mario.monouml.org/index.php/2006/11/26/cecil-2/
+url: /2006/11/26/cecil-2.html
 ---
 
 <p>If you are trying to get <em>Mono.Cecil.TypeDefinition</em> from a <em>Mono.Cecil.TypeReference</em> (like I was) you can start by trying the following code, just an idea:</p>

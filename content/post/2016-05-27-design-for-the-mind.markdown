@@ -3,10 +3,8 @@ date: 2016-05-27T00:00:00Z
 description: Finished what it seems to be my last book of May, another MEAP one.
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: 'Finished Reading: Design for the Mind'
-url: /2016/05/27/design-for-the-mind/
+url: /2016/05/27/design-for-the-mind.html
 ---
 
 Today I Finished reading what it seems to be my last book of May: [Design for the Mind](https://www.manning.com/books/design-for-the-mind). This one took me way longer that any of the recent ones probably because, although include some technical references, is not technical at all.

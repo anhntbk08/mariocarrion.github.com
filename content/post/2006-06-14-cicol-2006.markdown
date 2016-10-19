@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2006-06-14T19:10:57Z
-date_gmt: 2006-06-15 00:10:57 -0400
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- personal
 title: CICOL 2006
-url: /2006/06/14/cicol-2006/
-wordpress_id: 285
-wordpress_url: http://mario.monouml.org/index.php/2006/06/14/cicol-2006/
+url: /2006/06/14/cicol-2006.html
 ---
 
 <p>Este fin de mes me voy al <a href="http://2006.cicol.org.mx">CICOL</a>, me toca el <a href="http://2006.cicol.org.mx/programa.php">viernes 30</a>, estarÃ© en un taller de Desarrollo en Gtk# y una platica del proyecto <a href="http://www.monohispano.es">Mono Hispano</a>, por ahÃ­ andarÃ¡ <a href="http://www.gwolf.org/">Gunnar</a> y el buen <a href="http://www.sandino.net/">Sandino</a>.</p>

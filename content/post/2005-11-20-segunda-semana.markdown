@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-11-20T18:33:12Z
-date_gmt: 2005-11-20 22:33:12 -0500
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- personal
 title: Segunda semana
-url: /2005/11/20/segunda-semana/
-wordpress_id: 194
-wordpress_url: http://mario.monouml.org/index.php/2005/11/20/segunda-semana/
+url: /2005/11/20/segunda-semana.html
 ---
 
 <p>Todo ha estado bien, no puedo quejarme, salvo algunos desagradables <em>dejÃ¡ vÃ¹</em> que he sentido esta pasada semana, son como fantasmas que de repente aparecen, aparecen en las oficinas... en los alrededores... en ocasiones cuando tomo el autobÃºs de regreso a casa, los veo, aparecen en mi mente, intento pensar en otras cosas pero usualmente salen.</p>

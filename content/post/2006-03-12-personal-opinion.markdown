@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-03-12T17:35:15Z
-date_gmt: 2006-03-12 21:35:15 -0500
-published: true
-status: publish
-tags:
-- ubuntu
-- english
 title: Personal opinion
-url: /2006/03/12/personal-opinion/
-wordpress_id: 253
-wordpress_url: http://mario.monouml.org/index.php/2006/03/12/personal-opinion/
+url: /2006/03/12/personal-opinion.html
 ---
 
 <p>I don't like most recent <a href="http://www.ubuntu.com">Ubuntu</a>'s default theme.</p>

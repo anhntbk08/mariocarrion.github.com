@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2007-12-20T19:36:12Z
-date_gmt: 2007-12-21 00:36:12 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Vacation
-url: /2007/12/20/vacation/
-wordpress_id: 429
-wordpress_url: http://blog.carrion.ws/2007/12/20/vacation/
+url: /2007/12/20/vacation.html
 ---
 
 <p>Saturday will be my first free day, my vacation starts that day, I'm hoping to spend a lot of time doing free-related stuff, I haven't done anything recently and many things need to be done before this year ends.</p>

@@ -1,27 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-04-16T15:24:15Z
-date_gmt: 2006-04-16 19:24:15 -0400
-published: true
-status: publish
-tags:
-- monohotdraw
-- development
-- english
 title: MonoCanvas, closer.
-url: /2006/04/16/monocanvas-closer/
-wordpress_id: 268
-wordpress_url: http://mario.monouml.org/index.php/2006/04/16/monocanvas-closer/
+url: /2006/04/16/monocanvas-closer.html
 ---
 
 <p>The updating to the Gtk# based version is closest ever, I'm missing Copy&Paste, DnD and MonoCanvas.Line, no doubt Line's implementation will take some time due to behavioral details when line is "glued" to other elements, after finishing it first release will hit the streets. While implementing this API I've been testing performance against its older brother, and yes, works better and faster, I was worried about this last solution wouldn't choose any other if this fails! :-P. I feel exaggerating is good to test your application in the <a href="http://www.worstcasescenarios.com/">worst case scenario</a>, some kind of extremist but doing it that way feels better.</p>

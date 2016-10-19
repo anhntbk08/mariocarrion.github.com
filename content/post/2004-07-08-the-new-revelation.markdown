@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2004-07-08T16:08:45Z
-published: true
-status: publish
-tags:
-- personal
-- english
 title: The new revelation
-url: /2004/07/08/the-new-revelation/
-wordpress_id: 15
-wordpress_url: http://mario.monouml.org/index.php/2004/07/08/the-new-revelation/
+url: /2004/07/08/the-new-revelation.html
 ---
 
 <div style="clear:both;"></div>

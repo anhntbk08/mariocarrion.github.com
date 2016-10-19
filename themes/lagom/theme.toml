@@ -6,6 +6,8 @@ homepage = "http://www.mariocarrion.com/"
 tags = ["", ""]
 features = ["", ""]
 min_version = 0.17
+pygmentsuseclasses = true
+" pygmentsstyle = "colorful"
 
 [author]
   name = "Mario Carrion"

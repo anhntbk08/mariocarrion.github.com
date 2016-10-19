@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2007-06-25T20:48:50Z
-date_gmt: 2007-06-26 02:48:50 -0400
-published: true
-status: publish
-tags:
-- personal
-- english
 title: 3 years ago
-url: /2007/06/25/3-years-ago/
-wordpress_id: 398
-wordpress_url: http://mario.monouml.org/index.php/2007/06/25/3-years-ago/
+url: /2007/06/25/3-years-ago.html
 ---
 
 <p>Time goes so fast, on 2004 I was studying and waiting for graduation. I would love to have that free time like those old days. Even three years had passed I still remember those great things that happened.</p>

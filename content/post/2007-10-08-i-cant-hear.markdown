@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2007-10-08T04:45:06Z
-date_gmt: 2007-10-08 10:45:06 -0400
-published: true
-status: publish
-tags:
-- personal
-- development
 title: I can't hear!
-url: /2007/10/08/i-cant-hear/
-wordpress_id: 422
-wordpress_url: http://mario.monouml.org/index.php/2007/10/08/i-cant-hear/
+url: /2007/10/08/i-cant-hear.html
 ---
 
 <p>Great weekend, both my sisters and I spent two days of fun, going to different places on <a href="http://www.sixflags.com.mx/">Saturday</a> and <a href="http://www.mychemicalromance.com">Sunday</a>.</p>

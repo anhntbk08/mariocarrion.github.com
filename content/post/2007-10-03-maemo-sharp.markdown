@@ -1,27 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2007-10-03T22:51:54Z
-date_gmt: 2007-10-04 04:51:54 -0400
-published: true
-status: publish
-tags:
-- mono
-- nokia770
-- english
 title: maemo-sharp
-url: /2007/10/03/maemo-sharp/
-wordpress_id: 421
-wordpress_url: http://mario.monouml.org/index.php/2007/10/03/maemo-sharp/
+url: /2007/10/03/maemo-sharp.html
 ---
 
 <p>Wondering how to develop maemo# applications? Follow this recipe to do so:</p>

@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-05-17T22:04:00Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
-- personal
 title: CICOL 2005
-url: /2005/05/17/cicol-2005/
-wordpress_id: 124
-wordpress_url: http://mario.monouml.org/index.php/2005/05/17/cicol-2005/
+url: /2005/05/17/cicol-2005.html
 ---
 
 <div style="clear:both;"></div>

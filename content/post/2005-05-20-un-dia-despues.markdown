@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-05-20T05:41:00Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
-- personal
 title: Un dÃ­a despuÃ©s
-url: /2005/05/20/un-dia-despues/
-wordpress_id: 123
-wordpress_url: http://mario.monouml.org/index.php/2005/05/20/un-dia-despues/
+url: /2005/05/20/un-dia-despues.html
 ---
 
 <div style="clear:both;"></div>

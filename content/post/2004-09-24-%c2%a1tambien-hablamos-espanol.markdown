@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2004-09-24T00:04:06Z
-published: true
-status: publish
-tags:
-- personal
-- monohispano
-- english
 title: Â¡TambiÃ©n hablamos espaÃ±ol!
-url: /2004/09/24/%c2%a1tambien-hablamos-espanol/
-wordpress_id: 35
-wordpress_url: http://mario.monouml.org/index.php/2004/09/24/%c2%a1tambien-hablamos-espanol/
+url: /2004/09/24/%c2%a1tambien-hablamos-espanol.html
 ---
 
 <div style="clear:both;"></div>

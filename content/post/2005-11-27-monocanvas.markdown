@@ -1,27 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2005-11-27T16:17:43Z
-date_gmt: 2005-11-27 20:17:43 -0500
-published: true
-status: publish
-tags:
-- monouml
-- monohotdraw
-- english
 title: MonoCanvas
-url: /2005/11/27/monocanvas/
-wordpress_id: 198
-wordpress_url: http://mario.monouml.org/?p=198
+url: /2005/11/27/monocanvas.html
 ---
 
 <p>Wondering for a portable, gtk#-based and free software drawing library? I got an answer... <strong>MonoCanvas</strong> ;-)</p>

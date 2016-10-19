@@ -2,7 +2,6 @@
 date: 2016-03-18T00:00:00Z
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
 title: 'Finished Reading: The Compound Effect'
 url: /2016/03/18/the-compound-effect.html
 ---

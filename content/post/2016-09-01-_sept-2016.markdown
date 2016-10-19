@@ -1,10 +1,8 @@
 ---
 date: 2016-09-01T00:00:00Z
 description: Ninth month of year begins today. What are my plans?
-published: true
-status: publish
 title: 'Goals: September 2016'
-url: /2016/09/01/_sept-2016/
+url: /2016/09/01/_sept-2016.html
 ---
 
 Summer is, sort of, officially finished. Today we start the ninth month of the year. In three months from now 2016 will be no more. Time does fly really fast.
@@ -19,7 +17,7 @@ The truth is that I got sidetracked reading [Docker in Action](https://www.manni
 
 ### Complete reading "Go in Action"
 
-As I mentioned during the [August post]({% post_url 2016-08-01-august-goals %}), I was super close to finish reading it, and of course [I did]({% post_url 2016-07-15-go-in-action %}). Surprisingly last month I had two Go-related good news. First I got the [Go in Practice](https://www.manning.com/books/go-in-practice) book in the mail:
+As I mentioned during the [August post]({{< relref "2016-08-01-august-goals.markdown" >}}), I was super close to finish reading it, and of course [I did]({{< relref "2016-07-15-go-in-action.markdown" >}}). Surprisingly last month I had two Go-related good news. First I got the [Go in Practice](https://www.manning.com/books/go-in-practice) book in the mail:
 
 {{< tweet 768618956080844801 >}}
 
@@ -27,7 +25,7 @@ Making it my fifth physical Go book, and third one published by Manning; the sec
 
 ### Complete reading "Amazon Web Services in Action"
 
-This [was also completed]({% post_url 2016-08-02-amazon-web-services-in-action %})
+This [was also completed]({{< relref "2016-08-02-amazon-web-services-in-action.markdown" >}})
 
 ### Have Dynamic Docker Composer "ready"
 

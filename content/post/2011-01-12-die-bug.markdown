@@ -1,31 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2011-01-12T13:29:12Z
-date_gmt: 2011-01-12 18:29:12 -0500
-published: true
-status: publish
-tags:
-- development
-- english
-- c#
-- resolutions
-- january
-- linux
-- "2011"
 title: Die bug!
-url: /2011/01/12/die-bug/
-wordpress_id: 647
-wordpress_url: http://blog.carrion.mx/?p=647
+url: /2011/01/12/die-bug.html
 ---
 
 <p><a href="http://www.flickr.com/photos/mariocarrion/5349091765/" title="Dead fly by Mario Carrion, on Flickr"><img src="http://farm6.static.flickr.com/5208/5349091765_7618eedc5b_m.jpg" width="240" height="160" alt="Dead fly" class="aligncenter" /></a></p>

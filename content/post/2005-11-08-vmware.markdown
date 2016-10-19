@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2005-11-08T22:10:45Z
-date_gmt: 2005-11-09 02:10:45 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: VMWare
-url: /2005/11/08/vmware/
-wordpress_id: 189
-wordpress_url: http://mario.monouml.org/index.php/2005/11/08/vmware/
+url: /2005/11/08/vmware.html
 ---
 
 <p>Yes I know, <em>Bridged Networking</em> with wireless cards doesn't work, but what about using <em>NAT Networing</em>? Yes, it works!. </p>

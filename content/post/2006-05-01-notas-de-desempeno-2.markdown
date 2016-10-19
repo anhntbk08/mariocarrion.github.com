@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2006-05-01T22:52:22Z
-date_gmt: 2006-05-02 02:52:22 -0400
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- development
 title: Notas de desempeÃ±o, 2
-url: /2006/05/01/notas-de-desempeno-2/
-wordpress_id: 277
-wordpress_url: http://mario.monouml.org/index.php/2006/05/01/notas-de-desempeno-2/
+url: /2006/05/01/notas-de-desempeno-2.html
 ---
 
 <p>DespuÃ©s de haber hecho lo <a href="http://mario.monouml.org/index.php/2006/04/25/notas-de-desempeno/">antes comentado</a> y cambiar las clases por estructuras he notado que (sin la menor duda) se acelara el desempeÃ±o, he bajado la respuesta de 6~8 segundos a menos de un segundo, lo cual es algo grandioso, procesar mÃ¡s de 21000 estructuras de aproxidamente 1500 bytes cada una es fantÃ¡stico, el consumo de CPU es de 1%-3% (hablando de un P4 2.4Ghz), claro que este caso de prueba es "<em>el peor de los casos</em>" y tambiÃ©n, aÃºn, hay detalles que podrÃ­an ser mejorados, los resultados son excelentes. Durante la recepciÃ³n utilizo la soluciÃ³n del marshalling+cast, de modo que se hace un cast explÃ­cito al tipo de estructura, por ejemplo, suponiendo que tenemos una estructura definida como: </p>

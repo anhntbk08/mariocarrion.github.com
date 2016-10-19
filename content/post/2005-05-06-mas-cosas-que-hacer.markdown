@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2005-05-06T02:55:00Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
-- personal
 title: Mas cosas que hacer
-url: /2005/05/06/mas-cosas-que-hacer/
-wordpress_id: 128
-wordpress_url: http://mario.monouml.org/index.php/2005/05/06/mas-cosas-que-hacer/
+url: /2005/05/06/mas-cosas-que-hacer.html
 ---
 
 <div style="clear:both;"></div>

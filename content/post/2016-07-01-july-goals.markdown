@@ -1,19 +1,17 @@
 ---
 date: 2016-07-01T00:00:00Z
 description: Seventh month of the year and half year review. What am I planning?
-published: true
-status: publish
 title: Half year review and July 2016 goals
-url: /2016/07/01/july-goals/
+url: /2016/07/01/july-goals.html
 ---
 
 _Independence month_ has started, that means half year is gone and 2017 is getting closer. Let's recapitulate my accomplishments so far, using the previous monthly updates as reference:
 
-1. [February]({% post_url 2016-02-01-febraury-2016-goals %})
-1. [March]({% post_url 2016-03-01-march-2016-goals %})
-1. [April]({% post_url 2016-04-01-april-2016-goals %})
-1. [May]({% post_url 2016-05-01-may-2016-goals %})
-1. [June]({% post_url 2016-06-01-june-2016-goals %})
+1. [February]({{< relref "2016-02-01-febraury-2016-goals.markdown" >}})
+1. [March]({{< relref "2016-03-01-march-2016-goals.markdown" >}})
+1. [April]({{< relref "2016-04-01-april-2016-goals.markdown" >}})
+1. [May]({{< relref "2016-05-01-may-2016-goals.markdown" >}})
+1. [June]({{< relref "2016-06-01-june-2016-goals.markdown" >}})
 
 What I get from those previous posts is the following 3 things:
 

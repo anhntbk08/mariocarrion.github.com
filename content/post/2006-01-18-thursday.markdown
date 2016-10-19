@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-01-18T01:16:46Z
-date_gmt: 2006-01-18 05:16:46 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Thursday
-url: /2006/01/18/thursday/
-wordpress_id: 228
-wordpress_url: http://mario.monouml.org/index.php/2006/01/17/thursday/
+url: /2006/01/18/thursday.html
 ---
 
 <p><em>Lot of laughing</em><em>. It is all related. Conspiracy or too much paranoia?<br />

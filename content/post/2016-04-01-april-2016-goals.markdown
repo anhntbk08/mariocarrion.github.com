@@ -3,10 +3,8 @@ date: 2016-04-01T00:00:00Z
 description: null
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: 'Goals: April 2016'
-url: /2016/04/01/april-2016-goals/
+url: /2016/04/01/april-2016-goals.html
 ---
 
 My favorite month of the year is finally here! What is the plan for this month? 

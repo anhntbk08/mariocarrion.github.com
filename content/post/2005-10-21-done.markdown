@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2005-10-21T21:53:05Z
-date_gmt: 2005-10-22 03:53:05 -0400
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Done
-url: /2005/10/21/done/
-wordpress_id: 173
-wordpress_url: http://mario.monouml.org/index.php/2005/10/21/done/
+url: /2005/10/21/done.html
 ---
 
 <p>After following <a href="http://catsutorials.catsudon.org/?p=15">the instructions</a> and running the PHP script at the server, I've migrated the older posts.</p>

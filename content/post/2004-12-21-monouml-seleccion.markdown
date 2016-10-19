@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2004-12-21T05:39:40Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
-- personal
 title: MonoUML. SelecciÃ³n
-url: /2004/12/21/monouml-seleccion/
-wordpress_id: 72
-wordpress_url: http://mario.monouml.org/index.php/2004/12/21/monouml-seleccion/
+url: /2004/12/21/monouml-seleccion.html
 ---
 
 <div style="clear:both;"></div>

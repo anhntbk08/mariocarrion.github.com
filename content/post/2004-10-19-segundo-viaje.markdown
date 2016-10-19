@@ -1,24 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2004-10-19T20:52:29Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- personal
 title: Segundo viaje
-url: /2004/10/19/segundo-viaje/
-wordpress_id: 51
-wordpress_url: http://mario.monouml.org/index.php/2004/10/19/segundo-viaje/
+url: /2004/10/19/segundo-viaje.html
 ---
 
 <div style="clear:both;"></div>

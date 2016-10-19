@@ -1,13 +1,10 @@
 ---
 date: 2016-04-02T00:00:00Z
-description: 'Finished reading my 14th book of year: Irresistible APIs. What do I
-  think about it?'
+description: 'Finished reading my 14th book of year: Irresistible APIs. What do I think?'
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: 'Finished Reading: Irresistible APIs'
-url: /2016/04/02/irresistible-apis/
+url: /2016/04/02/irresistible-apis.html
 ---
 
 I'm a huge fan of [Manning Publications](https://www.manning.com/) and their [MEAP Program](https://www.manning.com/meap-program), specially because those books are usually part of regular deals, and who does not like deals?

@@ -2,10 +2,8 @@
 date: 2016-01-22T00:00:00Z
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: 'Tip: From MySQL to PostgreSQL'
-url: /2016/01/22/fixing-mysql-postgresql-upgrades/
+url: /2016/01/22/fixing-mysql-postgresql-upgrades.html
 ---
 
 Recents projects are involving migrating from MySQL to PostgreSQL for all the databases including those used in Rails and Reporting.
@@ -33,7 +31,7 @@ Similar to the MySQL Upgrade Error above, PostgreSQL also complains after upgrad
 
 This one requires a little bit more, but is also easy to fix. Obviously the paths I'm using here depend on your actual installation, but if you are also a Homebrew user, then figuring those out shouldn't be that difficult:
 
-{{< highlight sh >}}
+{{< highlight ruby >}}
 mv /usr/local/var/postgres /usr/local/var/postgres945
 initdb /usr/local/var/postgres -E utf8
 pg_upgrade -b /usr/local/Cellar/postgresql/9.4.5/bin -B /usr/local/Cellar/postgresql/9.5.0/bin -d /usr/local/var/postgres945 -D /usr/local/var/postgres

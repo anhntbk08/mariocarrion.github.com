@@ -1,34 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments:
-- author: ceronman
-  author_email: ceronman@gmail.com
-  author_url: http://wiki.freaks-unidos.net/weblogs/ceronman
-  content: Awesome, really cool example.
-  date: 2007-09-17 22:29:26 -0400
-  date_gmt: 2007-09-18 04:29:26 -0400
-  id: 10935
 date: 2007-09-17T20:47:13Z
-date_gmt: 2007-09-18 02:47:13 -0400
-published: true
-status: publish
-tags:
-- monohotdraw
-- development
-- english
 title: 'MonoHotDraw: Clock'
-url: /2007/09/17/monohotdraw-clock/
-wordpress_id: 415
-wordpress_url: http://mario.monouml.org/index.php/2007/09/17/monohotdraw-clock/
+url: /2007/09/17/monohotdraw-clock.html
 ---
 
 <p>Since past month, I've working on the MonoHotDraw documentation to learn about its internal API. Learning MonoHotDraw is not that difficult, I recommend you to read a little about Design Patterns for a better and faster MonoHotDraw's API understanding, however if you have already read <a href="http://en.wikipedia.org/wiki/Design_Patterns">GoF's Design Patterns</a> you are ready to go!</p>

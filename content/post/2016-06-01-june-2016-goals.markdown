@@ -3,16 +3,14 @@ date: 2016-06-01T00:00:00Z
 description: Sixth month of the year. What am I planning?
 image: ruby.png
 image_facebook: ruby-facebook.png
-published: true
-status: publish
 title: 'Goals: June 2016'
-url: /2016/06/01/june-2016-goals/
+url: /2016/06/01/june-2016-goals.html
 ---
 
-Five months are long gone. Honestly I don't feel like [May]({% post_url 2016-05-01-may-2016-goals %}) was a productive one, professionally that is, I was only able to finish reading two books, not my best month that's for sure:
+Five months are long gone. Honestly I don't feel like [May]({{< relref "2016-05-01-may-2016-goals.markdown" >}}) was a productive one, professionally that is, I was only able to finish reading two books, not my best month that's for sure:
 
-1. [PostgreSQL Replication, Second Edition]({% post_url 2016-05-09-postgresql-replication-second-edition %})
-1. [Design for The mind]({% post_url 2016-05-27-design-for-the-mind %})
+1. [PostgreSQL Replication, Second Edition]({{< relref "2016-05-09-postgresql-replication-second-edition.markdown" >}})
+1. [Design for The mind]({{< relref "2016-05-27-design-for-the-mind.markdown" >}})
 
 I haven't done anything really interesting in months, and to say the truth I haven't really found _the sparkle_ to start working on a personal open source project, I have a few ideas here and there, but still. I've been slacking off that's for sure.
 

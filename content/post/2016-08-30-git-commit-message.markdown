@@ -3,13 +3,11 @@ date: 2016-08-30T00:00:00Z
 description: Git commit messages conventions my team and I use successfully.
 image: https://c1.staticflickr.com/9/8001/28592303394_426330c95d_o.png
 image_facebook: https://c1.staticflickr.com/9/8775/28594378703_a5b839e4fe_o.png
-published: true
-status: publish
 title: 'Git Workflow: Commit Message Conventions'
-url: /2016/08/30/git-commit-message/
+url: /2016/08/30/git-commit-message.html
 ---
 
-Previous Tip: [Branches naming conventions]({% post_url 2016-08-24-git-workflow %})
+Previous Tip: [Branches naming conventions]({{< relref "2016-08-24-git-workflow.markdown" >}})
 
 Continuing the Git series, in this post I'll cover the most common thing we all do when using git, but some people have a hard time doing it: **Commit Messages**.
 

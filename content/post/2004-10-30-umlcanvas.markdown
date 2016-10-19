@@ -1,24 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories: []
-comments: []
 date: 2004-10-30T19:01:26Z
-published: true
-status: publish
-tags:
-- espaÃ±ol
-- monouml
 title: UMLCanvas#
-url: /2004/10/30/umlcanvas/
-wordpress_id: 47
-wordpress_url: http://mario.monouml.org/index.php/2004/10/30/umlcanvas/
+url: /2004/10/30/umlcanvas.html
 ---
 
 <div style="clear:both;"></div>

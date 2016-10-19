@@ -1,27 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2008-03-13T23:46:31Z
-date_gmt: 2008-03-14 05:46:31 -0400
-published: true
-status: publish
-tags:
-- monohotdraw
-- development
-- english
 title: MonoHotDraw Commands
-url: /2008/03/13/monohotdraw-commands/
-wordpress_id: 438
-wordpress_url: http://blog.carrion.ws/2008/03/13/monohotdraw-commands/
+url: /2008/03/13/monohotdraw-commands.html
 ---
 
 <p>Here's a small example about the commands implementation on the MonoHotDraw framework.</p>

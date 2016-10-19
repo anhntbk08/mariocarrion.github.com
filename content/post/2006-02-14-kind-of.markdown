@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-02-14T21:39:21Z
-date_gmt: 2006-02-15 01:39:21 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Kind of
-url: /2006/02/14/kind-of/
-wordpress_id: 240
-wordpress_url: http://mario.monouml.org/index.php/2006/02/14/kind-of/
+url: /2006/02/14/kind-of.html
 ---
 
 <p>Even I feel kind of sad this day, it doesn't matter, because someone give a very nice present!</p>

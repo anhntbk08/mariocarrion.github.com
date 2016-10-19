@@ -1,26 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-01-12T00:06:44Z
-date_gmt: 2006-01-12 04:06:44 -0500
-published: true
-status: publish
-tags:
-- personal
-- english
 title: Alive
-url: /2006/01/12/alive/
-wordpress_id: 223
-wordpress_url: http://mario.monouml.org/index.php/2006/01/13/alive/
+url: /2006/01/12/alive.html
 ---
 
 <p>I changed power supply and everything looks nice. Faster, better, <a target="_blank" title="GNOME!" href="http://www.gnome.org">GNOME</a>r :-) I'm also going to upgrade my RAM, more memory is always better. BTW I've got my <a title="Get your CDs!" target="_blank" href="http://shipit.ubuntulinux.org">Ubuntu CDs</a>, gave all at work! While give them hear some nice quotes:</p>

@@ -1,28 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2006-01-15T23:45:33Z
-date_gmt: 2006-01-16 03:45:33 -0500
-published: true
-status: publish
-tags:
-- monouml
-- personal
-- monohotdraw
-- english
 title: Ideas
-url: /2006/01/15/ideas/
-wordpress_id: 226
-wordpress_url: http://mario.monouml.org/index.php/2006/01/15/ideas/
+url: /2006/01/15/ideas.html
 ---
 
 <p>I spent this weekend thinking about some many things, <em>monouml-things</em>. It all began after reading (days ago) <a target="_blank" title="Cherokee" href="http://alobbs.com/photolog/Cherokee_EL_PAIS">alo's post</a> when I notice that maybe taking <a target="_blank" title="Cherokee Web Server" href="http://www.0x50.org/">his effort</a> and wrapping the libraries would be nice for allowing GroupWare in <a target="_blank" title="MonoUML CASE Tool" href="http://www.monouml.org">MonoUML</a>, of course in the near future... we haven't yet finished MonoCanvas, but the ideas are nice. I talked with <a target="_blank" title="Rodolfo Campero" href="http://rodolfocampero.blogspot.com">Rodolfo</a>, telling this idea for using the WebServices-based communication, yes I know, WS aren't the best either... He suggested a better solution: <a target="_blank" title="CORBA" href="http://www.corba.org/">CORBA</a>. I agree with him, but using CORBA adds another dependency, so does cherokee-wrapping... Anyway I just need to think more while implementing MonoCanvas.</p>

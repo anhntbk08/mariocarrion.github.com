@@ -1,25 +1,7 @@
 ---
-author:
-  display_name: Mario Carrion
-  email: mario@carrion.ws
-  login: mario
-  url: http://blog.mariocarrion.com/
-author_email: mario@carrion.ws
-author_login: mario
-author_url: http://blog.mariocarrion.com/
-categories:
-- english
-comments: []
 date: 2008-12-11T22:00:01Z
-date_gmt: 2008-12-12 03:00:01 -0500
-published: true
-status: publish
-tags:
-- opensuse
 title: Smolt
-url: /2008/12/11/smolt/
-wordpress_id: 532
-wordpress_url: http://blog.carrion.ws/?p=532
+url: /2008/12/11/smolt.html
 ---
 
 <p>If you install <a href="http://en.opensuse.org/Roadmap">OpenSUSE 11.1</a> don't forget to send your <a href="http://en.opensuse.org/Hardware/Smolt">hardware profile</a> using <a href="http://smolt.fedoraproject.org/">smolt</a>, it should run by default when logging in the first time, however if isn't run then you can execute <em>smoltGui</em> to send your profile, my tablet is here: <a href="http://www.smolts.org/client/show/?uuid=pub_1a1bd584-f74d-4713-8ff9-ae31de784d05">HP Pavilion tx2500 Notebook PC Rev 1</a>.</p>
