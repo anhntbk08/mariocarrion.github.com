@@ -1,8 +1,10 @@
 ---
 date: 2016-07-15T00:00:00Z
 description: 20th book of the year. I can not have enough of Go!
+published: true
+status: publish
 title: 'Finished Reading: Go in Action'
-url: /2016/07/15/go-in-action.html
+url: /2016/07/15/go-in-action/
 ---
 
 The first goal, [of three]({% post_url 2016-07-01-july-goals %}), has been accomplished. I finished reading [Go In Action](https://www.manning.com/books/go-in-action), my first _in Action_ book from Manning, and **yes** this book does not waste any time to introduce and get you involved in Go, it gives you an idea of what you can do with the language and it covers important topics like channels and concurrency patterns.

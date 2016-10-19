@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-01-26T23:13:07Z
+date_gmt: 2006-01-27 03:13:07 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
 title: Nowadays
-url: /2006/01/26/nowadays.html
+url: /2006/01/26/nowadays/
+wordpress_id: 232
+wordpress_url: http://mario.monouml.org/index.php/2006/01/26/nowadays/
 ---
 
 <p>I'm sure that isn't only me, but sometimes, while working, I think and imagine the processes in my head... and then somebody touchs my shoulder or calls me... that really freaks me out... may be too many cups of coffee... but my heart starts beating very fast...</p>

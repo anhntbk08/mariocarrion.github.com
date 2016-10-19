@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-03-06T05:43:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+- gnome
 title: Menos trabajo
-url: /2005/03/06/menos-trabajo.html
+url: /2005/03/06/menos-trabajo/
+wordpress_id: 104
+wordpress_url: http://mario.monouml.org/index.php/2005/03/06/menos-trabajo/
 ---
 
 <div style="clear:both;"></div>

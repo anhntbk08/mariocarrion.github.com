@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-11-23T22:52:05Z
+date_gmt: 2006-11-24 04:52:05 -0500
+published: true
+status: publish
+tags:
+- monouml
+- english
 title: Cecil
-url: /2006/11/23/cecil.html
+url: /2006/11/23/cecil/
+wordpress_id: 356
+wordpress_url: http://mario.monouml.org/index.php/2006/11/23/cecil/
 ---
 
 <p>After implementing the Reverse Engineering's EngineManager to load assembly engines and read settings file, am starting to "port" the older System.Reflection based API to Mono.Cecil, there are a lot of similarities and a lot of differences, however reading its comments on <a href="http://svn.myrealbox.com/viewcvs/trunk/cecil/lib/Mono.Cecil/TypeAttributes.cs?view=markup">its source code</a> helps.</p>

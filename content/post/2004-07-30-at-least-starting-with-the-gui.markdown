@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2004-07-30T11:12:16Z
+published: true
+status: publish
+tags:
+- monouml
+- personal
+- english
 title: At least starting with the GUI
-url: /2004/07/30/at-least-starting-with-the-gui.html
+url: /2004/07/30/at-least-starting-with-the-gui/
+wordpress_id: 6
+wordpress_url: http://mario.monouml.org/index.php/2004/07/30/at-least-starting-with-the-gui/
 ---
 
 <div style="clear:both;"></div>

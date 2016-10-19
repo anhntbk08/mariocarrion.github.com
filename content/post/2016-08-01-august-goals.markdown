@@ -2,7 +2,7 @@
 date: 2016-08-01T00:00:00Z
 description: Seventh month of the year is done. Why is this year going by so fast!?
 title: 'Goals: August 2016'
-url: /2016/08/01/august-goals.html
+url: /2016/08/01/august-goals/
 ---
 
 I must confess July passed by faster than any of the previous months, not sure why yet. So with July completed I need go back to the drawing board, review what I did right and what I did not. In July I planned the following:

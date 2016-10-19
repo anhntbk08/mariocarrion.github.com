@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2004-12-24T17:54:13Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
 title: MonoUML. Sin dependencia diacanvas#
-url: /2004/12/24/monouml-sin-dependencia-diacanvas.html
+url: /2004/12/24/monouml-sin-dependencia-diacanvas/
+wordpress_id: 70
+wordpress_url: http://mario.monouml.org/index.php/2004/12/24/monouml-sin-dependencia-diacanvas/
 ---
 
 <div style="clear:both;"></div>

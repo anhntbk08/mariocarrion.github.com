@@ -1,7 +1,40 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: ceronman
+  author_email: ceronman@gmail.com
+  author_url: http://wiki.freaks-unidos.net/weblogs/ceronman
+  content: I've always used gsynaptics. It has more options apparently.
+  date: 2007-09-20 23:37:46 -0400
+  date_gmt: 2007-09-21 05:37:46 -0400
+  id: 10954
+- author: Mario CarriÃ³n
+  author_email: mario@monouml.org
+  author_url: http://mario.monouml.org
+  content: I will try it.
+  date: 2007-09-22 12:34:50 -0400
+  date_gmt: 2007-09-22 18:34:50 -0400
+  id: 10964
 date: 2007-09-20T19:34:30Z
+date_gmt: 2007-09-21 01:34:30 -0400
+published: true
+status: publish
+tags:
+- ubuntu
+- english
 title: GNOME Touchpad
-url: /2007/09/20/gnome-touchpad.html
+url: /2007/09/20/gnome-touchpad/
+wordpress_id: 416
+wordpress_url: http://mario.monouml.org/index.php/2007/09/20/gnome-touchpad/
 ---
 
 <p>Latest Ubuntu update includes GNOME 2.20, with this new version you have this new tab:</p>

@@ -2,8 +2,10 @@
 date: 2016-03-09T00:00:00Z
 image: ruby.png
 image_facebook: ruby-facebook.png
+published: true
+status: publish
 title: 'Finished Reading: Beyond Blame: Learning From Failure and Success'
-url: /2016/03/09/beyond-blame.html
+url: /2016/03/09/beyond-blame/
 ---
 
 Today I finished reading my [9th book](/books.html) so far this year: **Beyond Blame: Learning From Failure and Success**, and although the writing was not what I'm used to, I really liked it.

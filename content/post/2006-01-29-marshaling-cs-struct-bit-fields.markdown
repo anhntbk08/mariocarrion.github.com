@@ -1,7 +1,27 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-01-29T23:02:40Z
+date_gmt: 2006-01-30 03:02:40 -0500
+published: true
+status: publish
+tags:
+- personal
+- mono
+- english
 title: 'Marshaling: C''s struct''s bit fields'
-url: /2006/01/29/marshaling-cs-struct-bit-fields.html
+url: /2006/01/29/marshaling-cs-struct-bit-fields/
+wordpress_id: 231
+wordpress_url: http://mario.monouml.org/index.php/2006/01/29/marshaling-cs-struct-bit-fields/
 ---
 
 <p>If you are C programmer you might have noticed the existence of the <em>bit fields</em> in structs:</p>

@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-09-22T05:35:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: Uno menos
-url: /2005/09/22/uno-menos.html
+url: /2005/09/22/uno-menos/
+wordpress_id: 155
+wordpress_url: http://mario.monouml.org/index.php/2005/09/22/uno-menos/
 ---
 
 <div style="clear:both;"></div>

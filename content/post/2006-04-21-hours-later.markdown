@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-04-21T22:51:12Z
+date_gmt: 2006-04-22 02:51:12 -0400
+published: true
+status: publish
+tags:
+- debian
+- english
 title: Hours later
-url: /2006/04/21/hours-later.html
+url: /2006/04/21/hours-later/
+wordpress_id: 271
+wordpress_url: http://mario.monouml.org/index.php/2006/04/21/hours-later/
 ---
 
 <p>And yes.. some hours later, some debs downloaded.. <a href="http://www.gnome.org">GNOME</a> 2.14!! Now I have a mix of GNOME 2.14 and 2.12, but runs quite good, faster and I just love it! :)</p>

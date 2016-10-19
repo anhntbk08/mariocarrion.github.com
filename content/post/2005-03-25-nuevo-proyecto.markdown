@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-03-25T06:37:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: Nuevo proyecto
-url: /2005/03/25/nuevo-proyecto.html
+url: /2005/03/25/nuevo-proyecto/
+wordpress_id: 96
+wordpress_url: http://mario.monouml.org/index.php/2005/03/25/nuevo-proyecto/
 ---
 
 <div style="clear:both;"></div>

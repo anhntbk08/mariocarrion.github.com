@@ -1,7 +1,35 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2010-03-03T13:02:27Z
+date_gmt: 2010-03-03 18:02:27 -0500
+published: true
+status: publish
+tags:
+- gnome
+- mono
+- development
+- opensuse
+- a11y
+- english
+- "2010"
+- c#
+- accessibility
+- march
+- uia
 title: Accessibility in Moonlight
-url: /2010/03/03/accessibility-in-moonlight.html
+url: /2010/03/03/accessibility-in-moonlight/
+wordpress_id: 639
+wordpress_url: http://blog.carrion.ws/?p=639
 ---
 
 <p>An important milestone happened on Friday, February 26: <a href="http://mono-project.com/Accessibility">Mono Accessibility</a> 2.0 <a href="http://mono-project.com/Accessibility:_Release_Notes_2.0">was released</a>. It's important because all applications running on <a href="http://www.mono-project.com/Moonlight">Moonlight</a> 2.0, or greater, will be accessible from now on.</p>

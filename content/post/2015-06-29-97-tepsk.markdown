@@ -3,8 +3,10 @@ date: 2015-06-29T00:00:00Z
 description: Finished reading my 10th book of the year, what do I think about it?
 image: ruby.png
 image_facebook: ruby-facebook.png
+published: true
+status: publish
 title: 'Finished Reading: 97 Things Every Programmer Should Know'
-url: /2015/06/29/97-tepsk.html
+url: /2015/06/29/97-tepsk/
 ---
 
 It didn't take too me long to finish reading **97 Things Every Programmer Should Know**, probably it took me about 2 weeks to finish reading it, it was a quick reading considering commuting takes me about 30-40 minutes every day, twice a day.

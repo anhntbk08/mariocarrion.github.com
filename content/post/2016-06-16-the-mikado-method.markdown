@@ -3,8 +3,10 @@ date: 2016-06-16T00:00:00Z
 description: First of the month. Nineteenth of the year.
 image: ruby.png
 image_facebook: ruby-facebook.png
+published: true
+status: publish
 title: 'Finished Reading: The Mikado Method'
-url: /2016/06/16/the-mikado-method.html
+url: /2016/06/16/the-mikado-method/
 ---
 
 Finished reading The [Mikado Method](https://www.manning.com/books/the-mikado-method), a book published by Manning Publications and written by *Ola Ellnestam* and *Daniel Brolund*. A quick reading, that's for sure, it introduces a method for splitting big goals into tiny, measurable and *tangible* goals.

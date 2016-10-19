@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-05-24T20:46:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
 title: Creatividad
-url: /2005/05/24/creatividad.html
+url: /2005/05/24/creatividad/
+wordpress_id: 121
+wordpress_url: http://mario.monouml.org/index.php/2005/05/24/creatividad/
 ---
 
 <div style="clear:both;"></div>

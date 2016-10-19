@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-08-05T22:25:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: Dolor de cabeza
-url: /2005/08/05/dolor-de-cabeza.html
+url: /2005/08/05/dolor-de-cabeza/
+wordpress_id: 152
+wordpress_url: http://mario.monouml.org/index.php/2005/08/05/dolor-de-cabeza/
 ---
 
 <div style="clear:both;"></div>

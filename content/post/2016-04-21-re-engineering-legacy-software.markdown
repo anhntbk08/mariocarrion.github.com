@@ -1,10 +1,13 @@
 ---
 date: 2016-04-21T00:00:00Z
 description: Don't write Legacy Software! My 16th book of year. What do I think about
+  it?
 image: ruby.png
 image_facebook: ruby-facebook.png
+published: true
+status: publish
 title: 'Finished Reading: Re-Engineering Legacy Software'
-url: /2016/04/21/re-engineering-legacy-software.html
+url: /2016/04/21/re-engineering-legacy-software/
 ---
 
 I finished reading another *MEAP* published book this month, the second Manning one and the third total this month. This time it was [Re-Engineering Legacy Software](https://www.manning.com/books/re-engineering-legacy-software). It covers everything needed for bringing legacy software to the 21st century. The tools suggested in this book are Java specific, but as the author says there are similar tools available for any modern Programming Language.

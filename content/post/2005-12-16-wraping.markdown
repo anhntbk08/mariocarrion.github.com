@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2005-12-16T21:50:46Z
+date_gmt: 2005-12-17 01:50:46 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
 title: Wrapping
-url: /2005/12/16/wraping.html
+url: /2005/12/16/wraping/
+wordpress_id: 208
+wordpress_url: http://mario.monouml.org/?p=208
 ---
 
 <p>I'm kind of happy with my recent project, I haven't yet finished the older one but I need to keep going, I'm wrapping a Natural-written library using <a href="http://en.wikipedia.org/wiki/C_plus_plus">C++</a> for using it within an <a href="http://en.wikipedia.org/wiki/Oracle_Corporation">Oracle</a>'s trigger. With this newest development I've faced some issues, many related to the full platform dependency.</p>

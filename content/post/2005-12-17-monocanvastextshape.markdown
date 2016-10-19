@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2005-12-17T03:21:10Z
+date_gmt: 2005-12-17 07:21:10 -0500
+published: true
+status: publish
+tags:
+- monohotdraw
+- english
 title: MonoCanvas.TextShape
-url: /2005/12/17/monocanvastextshape.html
+url: /2005/12/17/monocanvastextshape/
+wordpress_id: 209
+wordpress_url: http://mario.monouml.org/?p=209
 ---
 
 <p>And it really works</p>

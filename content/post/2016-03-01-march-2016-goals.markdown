@@ -3,8 +3,10 @@ date: 2016-03-01T00:00:00Z
 description: null
 image: ruby.png
 image_facebook: ruby-facebook.png
+published: true
+status: publish
 title: 'Goals: March 2016'
-url: /2016/03/01/march-2016-goals.html
+url: /2016/03/01/march-2016-goals/
 ---
 
 After yesterday's leap day, we can finally say March is here! Sadly as this month starts I have to say my [February goals]({% post_url 2016-02-01-febraury-2016-goals %}) were not accomplished. I failed last month, I was not able to finish reading the two books I planned to. That makes me sad but at the same time makes me realize reading at home after working all day is really difficult. Really difficult.

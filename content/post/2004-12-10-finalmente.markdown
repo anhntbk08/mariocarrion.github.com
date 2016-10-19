@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2004-12-10T21:17:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+- monohispano
 title: Finalmente
-url: /2004/12/10/finalmente.html
+url: /2004/12/10/finalmente/
+wordpress_id: 75
+wordpress_url: http://mario.monouml.org/index.php/2004/12/10/finalmente/
 ---
 
 <div style="clear:both;"></div>

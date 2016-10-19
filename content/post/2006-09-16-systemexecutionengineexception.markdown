@@ -1,7 +1,27 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-09-16T00:40:59Z
+date_gmt: 2006-09-16 05:40:59 -0400
+published: true
+status: publish
+tags:
+- mono
+- development
+- english
 title: System.ExecutionEngineException
-url: /2006/09/16/systemexecutionengineexception.html
+url: /2006/09/16/systemexecutionengineexception/
+wordpress_id: 320
+wordpress_url: http://mario.monouml.org/index.php/2006/09/16/systemexecutionengineexception/
 ---
 
 <p>I'm starting the Mono POSIX shared memory wrapping, decided to begin <a href="http://www.mono-project.com/Dllimport">dllimporting</a> <a href="http://www.opengroup.org/onlinepubs/007908799/xsh/shm_open.html">shm_open</a>, however doesn't seems to be easy at all, my current effort is:</p>

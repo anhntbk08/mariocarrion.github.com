@@ -1,6 +1,9 @@
 ---
 date: 2016-10-06T00:00:00Z
 description: First book of the month and 25th of the year. What are my thoughts about
+  it?
+published: true
+status: publish
 title: 'Finished Reading: Go Web Programming'
 url: /2016/10/06/go-web-programming.html
 ---

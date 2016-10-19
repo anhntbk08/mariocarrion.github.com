@@ -1,6 +1,7 @@
 ---
 date: 2016-04-13T00:00:00Z
-description: 'Finished reading my 15th book of year: React.JS Essentials. What do I think about it?'
+description: 'Finished reading my 15th book of year: React.JS Essentials. What do
+  I think about it?'
 image: ruby.png
 image_facebook: ruby-facebook.png
 title: 'Finished Reading: React.js Essentials'

@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2004-08-15T05:16:48Z
+published: true
+status: publish
+tags:
+- personal
+- english
 title: The Party
-url: /2004/08/15/the-party.html
+url: /2004/08/15/the-party/
+wordpress_id: 26
+wordpress_url: http://mario.monouml.org/index.php/2004/08/15/the-party/
 ---
 
 <div style="clear:both;"></div>

@@ -1,7 +1,34 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: TermiT
+  author_email: drtermit@gmail.com
+  author_url: http://blog.termit.name/
+  content: It's great feature. I  really like it. Gonna to tweet about it :)
+  date: 2009-07-28 04:11:55 -0400
+  date_gmt: 2009-07-28 08:11:55 -0400
+  id: 14965
 date: 2009-07-27T13:51:56Z
+date_gmt: 2009-07-27 17:51:56 -0400
+published: true
+status: publish
+tags:
+- mono
+- opensuse
+- english
 title: 'Hackweek IV: Gwibber + Sharing'
-url: /2009/07/27/hackweek-iv-gwibber-sharing.html
+url: /2009/07/27/hackweek-iv-gwibber-sharing/
+wordpress_id: 589
+wordpress_url: http://blog.carrion.ws/?p=589
 ---
 
 <p>I decided to try something different this <a href="http://news.opensuse.org/2009/07/08/hack-week-iv-approaches/">Hackweek</a> to learn a programming language and get involved into another exciting <em>software libre</em> project. There were too many options, too many good projects to work on. I selected <a href="http://live.gnome.org/Gwibber">gwibber</a> because of three reasons:</p>

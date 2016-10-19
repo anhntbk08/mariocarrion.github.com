@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-03-28T11:07:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
+- monohispano
 title: Vacaciones
-url: /2005/03/28/vacaciones.html
+url: /2005/03/28/vacaciones/
+wordpress_id: 95
+wordpress_url: http://mario.monouml.org/index.php/2005/03/28/vacaciones/
 ---
 
 <div style="clear:both;"></div>

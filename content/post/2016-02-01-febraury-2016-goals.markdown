@@ -3,8 +3,10 @@ date: 2016-02-01T00:00:00Z
 description: null
 image: ruby.png
 image_facebook: ruby-facebook.png
+published: true
+status: publish
 title: 'Goals: February 2016'
-url: /2016/02/01/febraury-2016-goals.html
+url: /2016/02/01/febraury-2016-goals/
 ---
 
 As a way to *keep the ball rolling* I will be blogging my monthly goals every first of the month. I will be describing what I plan to achieve and I evaluate how effective I was the previous month.

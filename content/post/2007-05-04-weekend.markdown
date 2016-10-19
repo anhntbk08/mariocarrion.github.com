@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2007-05-04T20:01:25Z
+date_gmt: 2007-05-05 02:01:25 -0400
+published: true
+status: publish
+tags:
+- personal
+- english
 title: Weekend
-url: /2007/05/04/weekend.html
+url: /2007/05/04/weekend/
+wordpress_id: 390
+wordpress_url: http://mario.monouml.org/index.php/2007/05/04/weekend/
 ---
 
 <p>I will be at Mexico City tomorrow and the day after tomorrow, why? because I need to do something different than spending my weekends doing anything but seeing TV, will attend to an <a href="http://www.remexexpos.com/lucha/">"Expo"</a>, I'm sure will have great time.</p>

@@ -1,7 +1,42 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: Andres G. Aragoneses
+  author_email: knocte@gmail.com
+  author_url: http://knocte.blogspot.com/
+  content: Congrats for the release!
+  date: 2010-08-31 05:09:55 -0400
+  date_gmt: 2010-08-31 09:09:55 -0400
+  id: 15031
 date: 2010-08-26T10:09:37Z
+date_gmt: 2010-08-26 14:09:37 -0400
+published: true
+status: publish
+tags:
+- gnome
+- mono
+- development
+- opensuse
+- a11y
+- english
+- "2010"
+- c#
+- resolutions
+- uia
+- august
 title: Mono Accessibility 2.1
-url: /2010/08/26/mono-accessibility-2-1.html
+url: /2010/08/26/mono-accessibility-2-1/
+wordpress_id: 645
+wordpress_url: http://blog.carrion.mx/?p=645
 ---
 
 [![Candles](http://farm5.static.flickr.com/4136/4886351160_d6472b6aea_m.jpg)](http://www.flickr.com/photos/mariocarrion/4886351160/ "Candles by Mario Carrion, on Flickr")

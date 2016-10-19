@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-05-22T22:29:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: Irapuato, Guanajuato
-url: /2005/05/22/irapuato-guanajuato.html
+url: /2005/05/22/irapuato-guanajuato/
+wordpress_id: 122
+wordpress_url: http://mario.monouml.org/index.php/2005/05/22/irapuato-guanajuato/
 ---
 
 <div style="clear:both;"></div>

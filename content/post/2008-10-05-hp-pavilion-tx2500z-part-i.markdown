@@ -1,7 +1,27 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2008-10-05T00:02:57Z
+date_gmt: 2008-10-05 06:02:57 -0400
+published: true
+status: publish
+tags:
+- personal
+- opensuse
+- english
 title: HP Pavilion TX2500z. Part I
-url: /2008/10/05/hp-pavilion-tx2500z-part-i.html
+url: /2008/10/05/hp-pavilion-tx2500z-part-i/
+wordpress_id: 480
+wordpress_url: http://blog.carrion.ws/?p=480
 ---
 
 <p>I have no complains about my <a href="http://blog.carrion.ws/2007/08/03/dell-inspiron-1420/">Dell Inspiron 1420</a>, (I love it, indeed), is lighter than my <a href="http://blog.carrion.ws/2005/03/30/finalmente-2/">older Dell Inspiron 1150</a>, however I decided to get a new one for several reasons, the most import is that I really want to spend more time playing with <a href="http://www.mono-project.com/Moonlight">Moonlight</a> and Drawing Recognition, so getting a Tablet PC was the next step. The ugly about Tablet PCs is the price, most of them are really expensive, I spent a lot time reviewing the <a href="http://shop.lenovo.com/us/notebooks/thinkpad/x-series-tablet">Lenovo X61</a>, <a href="http://www.dell.com/tablet">Dell XT</a> and <a href="http://www.tabletpc.toshiba.com">Toshiba Portege</a>, however I found one with great hardware and good price: <a href="http://shopping.hp.com">HP Pavilion TX2500z</a>.</p>

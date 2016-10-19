@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-02-25T02:07:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
 title: MonoUML, mejorando la interfaz
-url: /2005/02/25/monouml-mejorando-la-interfaz.html
+url: /2005/02/25/monouml-mejorando-la-interfaz/
+wordpress_id: 88
+wordpress_url: http://mario.monouml.org/index.php/2005/02/25/monouml-mejorando-la-interfaz/
 ---
 
 <div style="clear:both;"></div>

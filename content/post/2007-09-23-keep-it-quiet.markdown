@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2007-09-23T18:10:49Z
+date_gmt: 2007-09-24 00:10:49 -0400
+published: true
+status: publish
+tags:
+- personal
+- english
 title: Keep it quiet
-url: /2007/09/23/keep-it-quiet.html
+url: /2007/09/23/keep-it-quiet/
+wordpress_id: 417
+wordpress_url: http://mario.monouml.org/index.php/2007/09/23/keep-it-quiet/
 ---
 
 <p>I always enjoy when people selects funny names:</p>

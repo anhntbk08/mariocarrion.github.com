@@ -1,7 +1,27 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2005-10-23T20:39:14Z
+date_gmt: 2005-10-24 02:39:14 -0400
+published: true
+status: publish
+tags:
+- monouml
+- personal
+- english
 title: Getting ready
-url: /2005/10/23/getting-ready.html
+url: /2005/10/23/getting-ready/
+wordpress_id: 178
+wordpress_url: http://mario.monouml.org/?p=178
 ---
 
 <p>Yesterday, <a href="http://hgmiguel.blogspot.com">w</a><a href="http://carloshit.blogspot.com/">e</a> spent our time creating, painting and pasting some scenery elements for the regional contest at <a href="http://www.itver.edu.mx">my U</a>, we will use a jungle-like theme for our little space at the contest, some <em>coconuts</em>, some <em>palm trees</em> and of course our <em>monkey</em> swinging while grabbing the UML-cube are currently finished.</p>

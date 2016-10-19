@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2004-09-23T16:22:15Z
+published: true
+status: publish
+tags:
+- personal
+- monohispano
+- english
 title: Stopping purism and Drag&Drop developers
-url: /2004/09/23/stopping-purism-and-dragdrop-developers.html
+url: /2004/09/23/stopping-purism-and-dragdrop-developers/
+wordpress_id: 36
+wordpress_url: http://mario.monouml.org/index.php/2004/09/23/stopping-purism-and-dragdrop-developers/
 ---
 
 <div style="clear:both;"></div>

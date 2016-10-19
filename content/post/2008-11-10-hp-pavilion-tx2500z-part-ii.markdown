@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2008-11-10T21:35:23Z
+date_gmt: 2008-11-11 03:35:23 -0500
+published: true
+status: publish
+tags:
+- opensuse
 title: HP Pavilion TX2500z. Part II
-url: /2008/11/10/hp-pavilion-tx2500z-part-ii.html
+url: /2008/11/10/hp-pavilion-tx2500z-part-ii/
+wordpress_id: 487
+wordpress_url: http://blog.carrion.ws/?p=487
 ---
 
 <p>OpenSUSE 11.1 release is getting closer and I just couldn't wait until <a href="http://en.opensuse.org/Roadmap/11.1">December</a>, so I started to test it. I recommend you to install B4, fixes a lot of bugs.</p>

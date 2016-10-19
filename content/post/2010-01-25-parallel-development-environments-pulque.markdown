@@ -1,7 +1,40 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: Aaron Bockover
+  author_email: aaron@abock.org
+  author_url: http://abock.org
+  content: This is awesome! I will have to try this out. You rock!
+  date: 2010-02-01 13:20:44 -0500
+  date_gmt: 2010-02-01 18:20:44 -0500
+  id: 14988
 date: 2010-01-25T22:15:59Z
+date_gmt: 2010-01-26 03:15:59 -0500
+published: true
+status: publish
+tags:
+- mono
+- development
+- opensuse
+- english
+- ruby
+- "2010"
+- resolutions
+- january
+- pulque
 title: Parallel Development Environments? Pulque!
-url: /2010/01/25/parallel-development-environments-pulque.html
+url: /2010/01/25/parallel-development-environments-pulque/
+wordpress_id: 634
+wordpress_url: http://blog.carrion.ws/?p=634
 ---
 
 <p><a href="http://www.flickr.com/photos/astro-dudes/2735367731/"><img title="Â¡Quiero pulque! by Claire L. Evans" src="http://farm4.static.flickr.com/3108/2735367731_73c00175a0_m.jpg" alt="Â¡Quiero pulque!" width="240" height="180" /></a></p>

@@ -1,7 +1,49 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: Bogdan Cristea
+  author_email: cristeab@gmail.com
+  author_url: http://cristeab.googlepages.com
+  content: "I have tried to checkout your sources, but I get an error:\r\n\r\ngit
+    clone git@gitorious.org:opensuse/yastroid.git\r\nInitialized empty Git repository
+    in /home/bogdan/Build/yastroid/.git/\r\nThe authenticity of host 'gitorious.org
+    (87.238.52.168)' can't be established.\r\nRSA key fingerprint is 7e:af:8d:ec:f0:39:5e:ba:52:16:ce:19:fa:d4:b8:7d.\r\nAre
+    you sure you want to continue connecting (yes/no)? yes\r\nWarning: Permanently
+    added 'gitorious.org,87.238.52.168' (RSA) to the list of known hosts.\r\nPermission
+    denied (publickey).\r\nfatal: The remote end hung up unexpectedly\r\nbogdan@bogdan:~/Build&gt;
+    git clone git@gitorious.org:opensuse/yastroid.git\r\nInitialized empty Git repository
+    in /home/bogdan/Build/yastroid/.git/\r\nPermission denied (publickey).\r\nfatal:
+    The remote end hung up unexpectedly"
+  date: 2010-06-28 13:51:50 -0400
+  date_gmt: 2010-06-28 17:51:50 -0400
+  id: 15023
 date: 2010-06-22T15:54:14Z
+date_gmt: 2010-06-22 19:54:14 -0400
+published: true
+status: publish
+tags:
+- development
+- opensuse
+- english
+- "2010"
+- resolutions
+- june
+- yastroid
+- hackweek
+- java
 title: 'Hackweek V: YaSTroid'
-url: /2010/06/22/hackweek-v-yastroid.html
+url: /2010/06/22/hackweek-v-yastroid/
+wordpress_id: 643
+wordpress_url: http://blog.carrion.mx/?p=643
 ---
 
 <p><a href="https://features.opensuse.org/hackweek">Hackweek</a> is an excellent opportunity to try something new. Hackweek V was not the exception. From June 7th to June 11th I joined a fantastic group of hackers to implement <a href="http://gitorious.org/opensuse/yastroid">YaSTroid</a>, our Android Front-end to <a href="http://en.opensuse.org/YaST/Web">WebYaST</a>.</p>

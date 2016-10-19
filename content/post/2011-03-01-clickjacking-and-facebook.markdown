@@ -1,7 +1,37 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: iexplore
+  author_email: explorer.inet@gmail.com
+  author_url: ""
+  content: Yet it's so easy to detect... Just look at the URL or application that
+    issued the message. "Nogirl.info"... how can you click on that.
+  date: 2011-03-04 08:45:49 -0500
+  date_gmt: 2011-03-04 13:45:49 -0500
+  id: 15167
 date: 2011-03-01T00:29:32Z
+date_gmt: 2011-03-01 05:29:32 -0500
+published: true
+status: publish
+tags:
+- english
+- march
+- "2011"
+- facebook
+- clickjacking
 title: Clickjacking and Facebook
-url: /2011/03/01/clickjacking-and-facebook.html
+url: /2011/03/01/clickjacking-and-facebook/
+wordpress_id: 649
+wordpress_url: http://blog.carrion.mx/?p=649
 ---
 
 <p>Sometimes it amuses me how stupid and innocent we (humans) are. Detecting a scam when getting an email or receiving a call saying you won X amount of dollars is easy to tell. But when a friend is saying something is more complicated to detect the trick. Because it's your friend saying it and you somehow trust him/her. Right?</p>

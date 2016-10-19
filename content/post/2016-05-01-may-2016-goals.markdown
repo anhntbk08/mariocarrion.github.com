@@ -2,8 +2,10 @@
 date: 2016-05-01T00:00:00Z
 image: ruby.png
 image_facebook: ruby-facebook.png
+published: true
+status: publish
 title: 'Goals: May 2016'
-url: /2016/05/01/may-2016-goals.html
+url: /2016/05/01/may-2016-goals/
 ---
 
 Sadly the month of [April]({% post_url 2016-04-01-april-2016-goals %}) is long gone.

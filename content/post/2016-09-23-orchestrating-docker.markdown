@@ -1,6 +1,7 @@
 ---
 date: 2016-09-23T00:00:00Z
 description: Third book of the month and 24th of the year. What are my thoughts about
+  it?
 image: https://c1.staticflickr.com/9/8279/29287312352_795a8f361c_o.png
 image_facebook: https://c1.staticflickr.com/9/8394/28771369964_29174cf13f_o.png
 title: 'Finished Reading: Orchestrating Docker'

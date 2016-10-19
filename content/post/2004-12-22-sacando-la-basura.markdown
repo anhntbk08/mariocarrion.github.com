@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2004-12-22T16:48:25Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: Sacando la basura
-url: /2004/12/22/sacando-la-basura.html
+url: /2004/12/22/sacando-la-basura/
+wordpress_id: 71
+wordpress_url: http://mario.monouml.org/index.php/2004/12/22/sacando-la-basura/
 ---
 
 <div style="clear:both;"></div>

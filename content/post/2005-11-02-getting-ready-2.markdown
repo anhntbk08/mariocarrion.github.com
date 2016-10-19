@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2005-11-02T20:41:43Z
+date_gmt: 2005-11-02 23:41:43 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
 title: Getting ready
-url: /2005/11/02/getting-ready-2.html
+url: /2005/11/02/getting-ready-2/
+wordpress_id: 186
+wordpress_url: http://mario.monouml.org/?p=186
 ---
 
 <p>I'll start working on next monday and I haven't yet finished my last report for <a href="http://www.itver.edu.mx">the University</a>, I won't have any more free time for doing it... yesterday I gave my preview to my counselor, I hope he accepts it. I'm only to one step to finish everything and I'm very happy about it.</p>

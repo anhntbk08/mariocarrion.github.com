@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-10-19T22:44:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: MÃ¡s rÃ¡pido
-url: /2005/10/19/mas-rapido.html
+url: /2005/10/19/mas-rapido/
+wordpress_id: 163
+wordpress_url: http://mario.monouml.org/index.php/2005/10/19/mas-rapido/
 ---
 
 <div style="clear:both;"></div>

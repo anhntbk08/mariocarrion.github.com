@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-01-15T18:43:55Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: Pronto regreso
-url: /2005/01/15/pronto-regreso.html
+url: /2005/01/15/pronto-regreso/
+wordpress_id: 81
+wordpress_url: http://mario.monouml.org/index.php/2005/01/15/pronto-regreso/
 ---
 
 <div style="clear:both;"></div>

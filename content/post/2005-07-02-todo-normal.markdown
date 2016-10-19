@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-07-02T01:58:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: Todo normal
-url: /2005/07/02/todo-normal.html
+url: /2005/07/02/todo-normal/
+wordpress_id: 148
+wordpress_url: http://mario.monouml.org/index.php/2005/07/02/todo-normal/
 ---
 
 <div style="clear:both;"></div>

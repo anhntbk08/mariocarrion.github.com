@@ -1,10 +1,13 @@
 ---
 date: 2016-02-26T00:00:00Z
 description: Share your ActiveRecord models, keep your migration commands and use
+  the scenic gem generators. Yes. You can.
 image: ruby.png
 image_facebook: ruby-facebook.png
+published: true
+status: publish
 title: 'Tip: Sharing ActiveRecord models between projects'
-url: /2016/02/26/sharing-models-between-projects.html
+url: /2016/02/26/sharing-models-between-projects/
 ---
 
 How can we share all our ActiveRecord models between different projects? More importantly, how can we share those models **cleanly** while keeping all the familiar commands for migrating databases as well as the support for custom generators.

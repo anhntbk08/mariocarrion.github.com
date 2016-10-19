@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-10-09T23:25:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: Jugueteando e ImpresiÃ³n en MonoUML
-url: /2005/10/09/jugueteando-e-impresion-en-monouml.html
+url: /2005/10/09/jugueteando-e-impresion-en-monouml/
+wordpress_id: 169
+wordpress_url: http://mario.monouml.org/index.php/2005/10/09/jugueteando-e-impresion-en-monouml/
 ---
 
 <div style="clear:both;"></div>

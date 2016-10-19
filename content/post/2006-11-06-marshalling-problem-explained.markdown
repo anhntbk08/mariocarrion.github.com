@@ -1,7 +1,27 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-11-06T22:22:47Z
+date_gmt: 2006-11-07 04:22:47 -0500
+published: true
+status: publish
+tags:
+- mono
+- development
+- english
 title: Marshalling problem, explained
-url: /2006/11/06/marshalling-problem-explained.html
+url: /2006/11/06/marshalling-problem-explained/
+wordpress_id: 349
+wordpress_url: http://mario.monouml.org/index.php/2006/11/06/marshalling-problem-explained/
 ---
 
 <p>I commented this <a href="http://mario.monouml.org/index.php/2006/10/30/marshalling-problems-again/">days ago</a>, now here comes the explanation.</p>

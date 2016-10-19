@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-07-10T17:11:57Z
+date_gmt: 2006-07-10 22:11:57 -0400
+published: true
+status: publish
+tags:
+- personal
+- english
 title: Buenos Aires
-url: /2006/07/10/buenos-aires.html
+url: /2006/07/10/buenos-aires/
+wordpress_id: 301
+wordpress_url: http://mario.monouml.org/index.php/2006/07/10/buenos-aires/
 ---
 
 <p>We arrived yesterday, I forgot to bring any electric socket switcher because here is different, didn't know it, though was the same to all latinoamerica, anyway now I've gotten one.</p>

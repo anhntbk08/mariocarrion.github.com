@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-06-02T19:50:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: No mÃ¡s cables :)
-url: /2005/06/02/no-mas-cables.html
+url: /2005/06/02/no-mas-cables/
+wordpress_id: 140
+wordpress_url: http://mario.monouml.org/index.php/2005/06/02/no-mas-cables/
 ---
 
 <div style="clear:both;"></div>

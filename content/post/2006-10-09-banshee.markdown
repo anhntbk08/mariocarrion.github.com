@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-10-09T00:10:34Z
+date_gmt: 2006-10-09 05:10:34 -0400
+published: true
+status: publish
+tags:
+- english
 title: Banshee
-url: /2006/10/09/banshee.html
+url: /2006/10/09/banshee/
+wordpress_id: 328
+wordpress_url: http://mario.monouml.org/index.php/2006/10/09/banshee/
 ---
 
 <p>Nowadays I'm using <a href="https://launchpad.net/distros/ubuntu/edgy">Ubuntu Edgy</a> on the desktop, and <a href="http://www.debian.org/releases/unstable/">Debian Sid</a> on the laptop, I use <a href="http://www.banshee-project.org">Banshee</a> for <a href="http://www.apple.com/ipod/ipod.html">iPod</a> sychronizing in both computers, however, after upgrading Banshee to 0.11, everything seems to be too slowly, loading takes forever and switching between playlist drives my crazy, I've opened a <a href="http://bugzilla.gnome.org/show_bug.cgi?id=360824">bug</a> telling this. I'm not the only only facing this problem, <a href="http://carloshit.blogspot.com/">Carlos</a> has this problem too, so I'm not crazy.</p>

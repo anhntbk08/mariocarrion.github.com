@@ -1,7 +1,67 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: Peter
+  author_email: peterdekraker@umito.nl
+  author_url: ""
+  content: "It's a great book! \r\n\r\nI did start with programming in Ruby, and that
+    lead me to C#. The syntax of C# was just as pretty as ruby, and I loved the statically
+    typed and compiled language stuff. Strange thing that I am now learning Java.
+    :)\r\n\r\nBut oh men, I so enjoyed the syntax of Ruby.  :)"
+  date: 2010-01-22 13:46:23 -0500
+  date_gmt: 2010-01-22 18:46:23 -0500
+  id: 14983
+- author: Theofanis Siampos
+  author_email: fsiamp@freemail.gr
+  author_url: ""
+  content: The best way to learn a language is to read it again and again and recognizing
+    your mistakes during programming
+  date: 2010-01-22 16:03:57 -0500
+  date_gmt: 2010-01-22 21:03:57 -0500
+  id: 14984
+- author: dc
+  author_email: krawek@gmail.com
+  author_url: ""
+  content: "great article!\r\nactually I learned a lot of thing from ruby which made
+    me a better programmer in others languages"
+  date: 2010-01-23 10:36:45 -0500
+  date_gmt: 2010-01-23 15:36:45 -0500
+  id: 14985
+- author: Free programming books
+  author_email: kiran@gmail.com
+  author_url: http://programmingbooksfree.blogspot.com
+  content: Thanks for sharing you information with us i hope this will work for me
+    also.
+  date: 2010-01-27 11:17:43 -0500
+  date_gmt: 2010-01-27 16:17:43 -0500
+  id: 14986
 date: 2010-01-21T23:50:49Z
+date_gmt: 2010-01-22 04:50:49 -0500
+published: true
+status: publish
+tags:
+- mono
+- opensuse
+- english
+- ruby
+- books
+- "2010"
+- c#
+- resolutions
+- january
 title: The Ruby Programming Language
-url: /2010/01/21/the-ruby-programming-language.html
+url: /2010/01/21/the-ruby-programming-language/
+wordpress_id: 635
+wordpress_url: http://blog.carrion.ws/?p=635
 ---
 
 <p><a href="http://www.flickr.com/photos/mariocarrion/4294063393/" title="Ruby by Mario Carrion, on Flickr"><img src="http://farm3.static.flickr.com/2758/4294063393_54d8564980_m.jpg" width="240" height="160" alt="Ruby" /></a></p>

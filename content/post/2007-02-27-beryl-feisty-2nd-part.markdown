@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2007-02-27T22:09:40Z
+date_gmt: 2007-02-28 04:09:40 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
 title: Beryl + Feisty, 2nd part
-url: /2007/02/27/beryl-feisty-2nd-part.html
+url: /2007/02/27/beryl-feisty-2nd-part/
+wordpress_id: 379
+wordpress_url: http://mario.monouml.org/index.php/2007/02/27/beryl-feisty-2nd-part/
 ---
 
 <p>Recent updates broke my Beryl, however yesterday update seems to fix those issues:</p>

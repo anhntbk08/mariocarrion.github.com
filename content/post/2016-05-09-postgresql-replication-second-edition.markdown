@@ -3,8 +3,10 @@ date: 2016-05-09T00:00:00Z
 description: First book read of May
 image: ruby.png
 image_facebook: ruby-facebook.png
+published: true
+status: publish
 title: 'Finished Reading: PostgreSQL Replication Second Edition'
-url: /2016/05/09/postgresql-replication-second-edition.html
+url: /2016/05/09/postgresql-replication-second-edition/
 ---
 
 First book of the month has been completed, this time I decided to take a different topic for reading: Databases. [PostgreSQL Replication - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/postgresql-replication-second-edition) it's a very technical book that feels like a really long blog post, kind of like a tutorial.

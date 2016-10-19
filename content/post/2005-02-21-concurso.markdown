@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-02-21T02:07:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
 title: Concurso
-url: /2005/02/21/concurso.html
+url: /2005/02/21/concurso/
+wordpress_id: 89
+wordpress_url: http://mario.monouml.org/index.php/2005/02/21/concurso/
 ---
 
 <div style="clear:both;"></div>

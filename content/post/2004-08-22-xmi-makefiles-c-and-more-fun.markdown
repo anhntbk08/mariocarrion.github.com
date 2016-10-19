@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2004-08-22T01:42:52Z
+published: true
+status: publish
+tags:
+- personal
+- english
 title: XMI, Makefiles, C# and more fun
-url: /2004/08/22/xmi-makefiles-c-and-more-fun.html
+url: /2004/08/22/xmi-makefiles-c-and-more-fun/
+wordpress_id: 21
+wordpress_url: http://mario.monouml.org/index.php/2004/08/22/xmi-makefiles-c-and-more-fun/
 ---
 
 <div style="clear:both;"></div>

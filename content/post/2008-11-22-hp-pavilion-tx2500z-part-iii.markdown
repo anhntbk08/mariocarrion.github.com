@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2008-11-22T20:12:44Z
+date_gmt: 2008-11-23 01:12:44 -0500
+published: true
+status: publish
+tags:
+- opensuse
 title: HP Pavilion TX2500z. Part III
-url: /2008/11/22/hp-pavilion-tx2500z-part-iii.html
+url: /2008/11/22/hp-pavilion-tx2500z-part-iii/
+wordpress_id: 503
+wordpress_url: http://blog.carrion.ws/?p=503
 ---
 
 <p>There a lot of improvements and fixes in <a href="http://news.opensuse.org/2008/11/13/development-release-opensuse-111-beta-5-now-available/">OpenSUSE 11.1 B5</a>, for example you don't need to add the RadeonHD repository because B5 already includes the fix, however there are some new bugs to be fixed:</p>

@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-10-15T18:13:10Z
+date_gmt: 2006-10-15 23:13:10 -0400
+published: true
+status: publish
+tags:
+- development
+- english
 title: To Do
-url: /2006/10/15/to-do-2.html
+url: /2006/10/15/to-do-2/
+wordpress_id: 331
+wordpress_url: http://mario.monouml.org/index.php/2006/10/15/to-do-2/
 ---
 
 <p>I'm facing an issue related to inconsistences in the source code that am porting, for example, variable-naming: </p>

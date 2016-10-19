@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-03-18T02:28:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
 title: MonoUML, IngenierÃ­a Inversa. Tercera Parte
-url: /2005/03/18/monouml-ingenieria-inversa-tercera-parte.html
+url: /2005/03/18/monouml-ingenieria-inversa-tercera-parte/
+wordpress_id: 100
+wordpress_url: http://mario.monouml.org/index.php/2005/03/18/monouml-ingenieria-inversa-tercera-parte/
 ---
 
 <div style="clear:both;"></div>

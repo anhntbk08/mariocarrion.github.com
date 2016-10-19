@@ -1,7 +1,34 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: Ray
+  author_email: wanglei1123@gmail.com
+  author_url: http://gnuray.blogspot.com
+  content: beautiful! :)
+  date: 2008-09-01 20:50:57 -0400
+  date_gmt: 2008-09-02 02:50:57 -0400
+  id: 13239
 date: 2008-09-01T00:01:34Z
+date_gmt: 2008-09-01 06:01:34 -0400
+published: true
+status: publish
+tags:
+- personal
+- mono
+- english
 title: Hackweek 3. Full Review.
-url: /2008/09/01/hackweek-3-full-review.html
+url: /2008/09/01/hackweek-3-full-review/
+wordpress_id: 455
+wordpress_url: http://blog.carrion.ws/?p=455
 ---
 
 <p>I have to admit it. I spent a great week in Utah. <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=novell+campus+provo+utah&ie=UTF8&ll=40.210614,-111.655726&spn=0.004179,0.009656&t=h&z=17&iwloc=A">Novell campus</a> is huge and the girls are <strong>really beautiful</strong>. Monday, Tuesday and Wednesday in <a href="http://en.wikipedia.org/wiki/Provo,_Utah">Provo</a>, Thursday and Friday in <a href="http://en.wikipedia.org/wiki/Salt_lake_city">Salt Lake City</a>, and Saturday in <a href="http://en.wikipedia.org/wiki/Moab,_Utah">Moab</a>. </p>

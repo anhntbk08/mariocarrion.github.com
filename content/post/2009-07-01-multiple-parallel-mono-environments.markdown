@@ -1,7 +1,41 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: Crayola
+  author_email: ariannaibarra@hotmail.com
+  author_url: ""
+  content: =S entendÃ­ poquito, casÃ­ nada... xDD
+  date: 2009-07-14 10:53:04 -0400
+  date_gmt: 2009-07-14 15:53:04 -0400
+  id: 14962
+- author: Mario Carrion
+  author_email: mario@monouml.org
+  author_url: http://blog.mariocarrion.com
+  content: Luego te explico, tu confÃ­a.
+  date: 2009-07-14 21:07:35 -0400
+  date_gmt: 2009-07-15 02:07:35 -0400
+  id: 14963
 date: 2009-07-01T13:20:49Z
+date_gmt: 2009-07-01 18:20:49 -0400
+published: true
+status: publish
+tags:
+- mono
+- opensuse
+- english
 title: Multiple Parallel Mono Environments
-url: /2009/07/01/multiple-parallel-mono-environments.html
+url: /2009/07/01/multiple-parallel-mono-environments/
+wordpress_id: 571
+wordpress_url: http://blog.carrion.ws/?p=571
 ---
 
 <p>If you are a <a href="http://www.mono-project.com/">Mono</a> developer, either you develop Mono or you use Mono for development, I'm sure you already have your <a title="Paralle Mono Environments" href="http://www.mono-project.com/Parallel_Mono_Environments">Parallel Mono Environment</a> set up and you are happy using it. Keeping a parallel environment is necessary because that way you don't break your default Mono installation or an specific mono application, so you can keep using the latest version of whatever you need, however sometimes you need more than one parallel environment, usually because you are working on different versions, for example <em>mono-2-6</em>, <em>mono-head</em> and <em>mono-package</em>; in the <a href="http://www.mono-project.com/Accessibility">Accessibility Team</a> we are always working on different Mono versions jumping from one version to another, so we need to keep multiple parallel environments, and we don't want to compile everything every time over and over. One way to accomplish multiple parallel environments is to keep <em>n</em> copies of <em>mono-dev-env</em> (something like <em>mono-dev-env-2-6</em> or <em>mono-dev-env-trunk</em>); but since I like to keep everything in one place and use the same procedure to set up my environments, I updated the default environment file to something like this (you can always get an updated version from: <a href="http://www.mariocarrion.com/files/mono-dev">here</a>):</p>

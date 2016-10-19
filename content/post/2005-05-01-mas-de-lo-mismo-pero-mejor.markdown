@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-05-01T21:43:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
 title: MÃ¡s de lo mismo, pero mejor :)
-url: /2005/05/01/mas-de-lo-mismo-pero-mejor.html
+url: /2005/05/01/mas-de-lo-mismo-pero-mejor/
+wordpress_id: 129
+wordpress_url: http://mario.monouml.org/index.php/2005/05/01/mas-de-lo-mismo-pero-mejor/
 ---
 
 <div style="clear:both;"></div>

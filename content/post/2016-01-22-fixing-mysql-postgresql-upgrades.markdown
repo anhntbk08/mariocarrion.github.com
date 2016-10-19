@@ -2,8 +2,10 @@
 date: 2016-01-22T00:00:00Z
 image: ruby.png
 image_facebook: ruby-facebook.png
+published: true
+status: publish
 title: 'Tip: From MySQL to PostgreSQL'
-url: /2016/01/22/fixing-mysql-postgresql-upgrades.html
+url: /2016/01/22/fixing-mysql-postgresql-upgrades/
 ---
 
 Recents projects are involving migrating from MySQL to PostgreSQL for all the databases including those used in Rails and Reporting.

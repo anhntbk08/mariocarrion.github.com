@@ -1,7 +1,27 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2007-06-01T22:44:02Z
+date_gmt: 2007-06-02 04:44:02 -0400
+published: true
+status: publish
+tags:
+- personal
+- ubuntu
+- english
 title: TV Card
-url: /2007/06/01/tv-card.html
+url: /2007/06/01/tv-card/
+wordpress_id: 394
+wordpress_url: http://mario.monouml.org/index.php/2007/06/01/tv-card/
 ---
 
 <p>I've bought a <em>Lifeview FlyVideo 3000 FM</em> TV Card. Setting up was not difficult at all, you will only need to follow <a href="http://www.linuxtv.org/v4lwiki/index.php/Generic_SAA7134_Card_Installation">this webpage</a> and <a href="http://gentoo-wiki.com/HARDWARE_saa7134">this webpage</a>, basically</p>

@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2005-12-17T19:48:33Z
+date_gmt: 2005-12-17 23:48:33 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
 title: hal.dll
-url: /2005/12/17/haldll.html
+url: /2005/12/17/haldll/
+wordpress_id: 210
+wordpress_url: http://mario.monouml.org/?p=210
 ---
 
 <p>Since I wake up until now I've been fixing my laptop. Why? Because of MS Windows, I used to have all the hard drive set for using Linux only, but now due to I may need to do something for work I will need dual booting, after resizing the disk with <a href="http://www.gnu.org/software/parted/manual/html_chapter/parted_2.html#SEC25">parted</a> with a <a href="http://www.knoppix.org/">Knoppix CD</a> I restart the computer and begin usual MS Windows installing, I left the computer for eating when I returned I read something like</p>

@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-03-01T15:51:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
+- mono
 title: Compilando
-url: /2005/03/01/compilando.html
+url: /2005/03/01/compilando/
+wordpress_id: 106
+wordpress_url: http://mario.monouml.org/index.php/2005/03/01/compilando/
 ---
 
 <div style="clear:both;"></div>

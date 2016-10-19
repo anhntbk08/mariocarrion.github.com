@@ -1,7 +1,33 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments:
+- author: knocte
+  author_email: knocte@gmail.com
+  author_url: http://knocte.blogspot.com/
+  content: "Si quieres ver grÃ¡ficos autogenerados de actividades en las listas te
+    recomiendo Gmane: http://www.gmane.org/.\r\n\r\nEjemplo: http://dir.gmane.org/gmane.comp.gnome.mono.hispano\r\n\r\nMÃ¡s
+    info: http://knocte.blogspot.com/2005/11/gmane-adis-las-listas-de-correo.html"
+  date: 2006-01-14 13:50:55 -0500
+  date_gmt: 2006-01-14 17:50:55 -0500
+  id: 28
 date: 2004-10-22T08:25:50Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monohispano
 title: 365 dias despuÃ©s y el Nopal
-url: /2004/10/22/365-dias-despues-y-el-nopal.html
+url: /2004/10/22/365-dias-despues-y-el-nopal/
+wordpress_id: 50
+wordpress_url: http://mario.monouml.org/index.php/2004/10/22/365-dias-despues-y-el-nopal/
 ---
 
 <div style="clear:both;"></div>

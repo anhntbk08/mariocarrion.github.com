@@ -2,8 +2,10 @@
 date: 2016-03-31T00:00:00Z
 image: go.png
 image_facebook: go-facebook.png
+published: true
+status: publish
 title: 'Finished Reading: The Go Programming Language'
-url: /2016/03/31/the-go-programming-language.html
+url: /2016/03/31/the-go-programming-language/
 ---
 
 <a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/mariocarrion/25983863481/in/dateposted-public/" title="The Go Programming Language by Alan Donovan and Brian Kernighan"><img src="https://farm2.staticflickr.com/1470/25983863481_f9909b0ef4_m.jpg" width="240" height="180" alt="The Go Programming Language by Alan Donovan and Brian Kernighan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

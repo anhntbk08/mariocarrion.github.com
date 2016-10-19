@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-03-04T00:47:52Z
+date_gmt: 2006-03-04 04:47:52 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
 title: Some thoughts
-url: /2006/03/04/some-thoughts.html
+url: /2006/03/04/some-thoughts/
+wordpress_id: 249
+wordpress_url: http://mario.monouml.org/index.php/2006/03/04/some-thoughts/
 ---
 
 <p>I felt sick yesterday, because of the food, (I'm guessing) however I ate as usual, but minutes later began feeling dizzy and with kind of somer fever, that night: shaking and cold.. really weird, the day before I've got a headche, hope that those older-daily headches don't return, however need to rest. </p>

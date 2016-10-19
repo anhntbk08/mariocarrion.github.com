@@ -1,7 +1,40 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments:
+- author: monica
+  author_email: moni25621@hotmailc.om
+  author_url: http://www.lalala.com
+  content: no me gusto la pagina, nadita
+  date: 2006-11-01 16:36:47 -0500
+  date_gmt: 2006-11-01 21:36:47 -0500
+  id: 1794
+- author: monica
+  author_email: moni_pd25@hotmail.com
+  author_url: http://www.disneylatino.com
+  content: "la pagina esta muy buena,me gustaria que pusieran mas informacion acerca
+    de si en verdad es cierto k los muertos bajan a la tierra,y si solo nos visitan
+    nuestros familiares o tambien otras personas.\r\n\r\nPORFA RESPONDANME A MI CORREO"
+  date: 2006-11-01 16:38:32 -0500
+  date_gmt: 2006-11-01 21:38:32 -0500
+  id: 1795
 date: 2004-11-02T02:08:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: DÃ­a de muertos
-url: /2004/11/02/dia-de-muertos.html
+url: /2004/11/02/dia-de-muertos/
+wordpress_id: 66
+wordpress_url: http://mario.monouml.org/index.php/2004/11/02/dia-de-muertos/
 ---
 
 <div style="clear:both;"></div>

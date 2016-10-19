@@ -1,7 +1,37 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: Computer Maintenance Tips
+  author_email: ""
+  author_url: http://www.myhuntbar.com/
+  content: |-
+    <strong>Computer Maintenance Tips...</strong>
+
+    I couldn't understand some parts of this article, but it sounds interesting...
+  date: 2007-10-10 02:01:07 -0400
+  date_gmt: 2007-10-10 08:01:07 -0400
+  id: 11112
 date: 2007-08-03T21:45:23Z
+date_gmt: 2007-08-04 03:45:23 -0400
+published: true
+status: publish
+tags:
+- personal
+- nokia770
+- english
 title: Dell Inspiron 1420
-url: /2007/08/03/dell-inspiron-1420.html
+url: /2007/08/03/dell-inspiron-1420/
+wordpress_id: 408
+wordpress_url: http://mario.monouml.org/index.php/2007/08/03/dell-inspiron-1420/
 ---
 
 <p><a href="http://www.flickr.com/photos/mariocarrion/1002627697/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1105/1002627697_eacc97aab3_m.jpg" width="240" height="180" alt="Inspiron 1420" /></a></p>

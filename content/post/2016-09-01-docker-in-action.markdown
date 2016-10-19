@@ -1,13 +1,16 @@
 ---
 date: 2016-09-01T00:00:00Z
 description: First book of the month and 22nd of the year. What are my thoughts about
+  it?
 image: https://c1.staticflickr.com/9/8279/29287312352_795a8f361c_o.png
 image_facebook: https://c1.staticflickr.com/9/8394/28771369964_29174cf13f_o.png
+published: true
+status: publish
 title: 'Finished Reading: Docker in Action'
-url: /2016/09/01/docker-in-action.html
+url: /2016/09/01/docker-in-action/
 ---
 
-Just like a mentioned in my [previous blog]({{< relref "2016-09-01-_sept-2016.markdown" >}}) post, I finished reading [Docker in Action](https://www.manning.com/books/docker-in-action) today and what a phenomenal book! Actually I believe Manning Publications hand picks their authors because, so far, I always find them well written and with valuable information.
+Just like a mentioned in my [previous blog]({% post_url 2016-09-01-_sept-2016 %}) post, I finished reading [Docker in Action](https://www.manning.com/books/docker-in-action) today and what a phenomenal book! Actually I believe Manning Publications hand picks their authors because, so far, I always find them well written and with valuable information.
 
 {{< tweet 771469295431868416 >}}
 

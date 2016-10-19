@@ -1,8 +1,10 @@
 ---
 date: 2016-10-05T00:00:00Z
 description: Need something to get done? Do not update your computer
+published: true
+status: publish
 title: SSL issue with Rubygems
-url: /2016/10/05/ssl-errors.html
+url: /2016/10/05/ssl-errors/
 ---
 
 I decided to update my working computer, in the morning today, wrong decision. After doing it I started getting the following errors after executing `bundle install`:

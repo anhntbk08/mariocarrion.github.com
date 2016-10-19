@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2004-10-25T05:26:14Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: 2 dias despuÃ©s
-url: /2004/10/25/2-dias-despues.html
+url: /2004/10/25/2-dias-despues/
+wordpress_id: 49
+wordpress_url: http://mario.monouml.org/index.php/2004/10/25/2-dias-despues/
 ---
 
 <div style="clear:both;"></div>

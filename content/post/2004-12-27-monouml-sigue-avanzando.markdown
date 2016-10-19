@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2004-12-27T01:10:10Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
 title: MonoUML. Sigue avanzando
-url: /2004/12/27/monouml-sigue-avanzando.html
+url: /2004/12/27/monouml-sigue-avanzando/
+wordpress_id: 69
+wordpress_url: http://mario.monouml.org/index.php/2004/12/27/monouml-sigue-avanzando/
 ---
 
 <div style="clear:both;"></div>

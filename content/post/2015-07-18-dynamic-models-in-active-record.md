@@ -1,10 +1,13 @@
 ---
 date: 2015-07-18T00:00:00Z
 description: There are cases where you need to dynamically access tables, how can
+  you define a model in ActiveRecord for doing so?
 image: https://c2.staticflickr.com/8/7467/28902969295_d448eeb31b_o.png
 image_facebook: https://c2.staticflickr.com/8/7467/28902969295_d448eeb31b_o.png
+published: true
+status: publish
 title: 'Tip: Dynamic Models in ActiveRecord with PostgreSQL'
-url: /2015/07/18/dynamic-models-in-active-record.html
+url: /2015/07/18/dynamic-models-in-active-record/
 ---
 
 One of the most recent problems I had to face was to dynamically access tables based on a certain pattern. Think of tables with the following format: `table_1`, `table_2` ... `table_n`, or any other format to be honest, just think of a *well known format*.

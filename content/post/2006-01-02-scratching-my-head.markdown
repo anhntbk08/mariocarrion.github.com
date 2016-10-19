@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-01-02T21:34:56Z
+date_gmt: 2006-01-03 01:34:56 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
 title: Scratching my head
-url: /2006/01/02/scratching-my-head.html
+url: /2006/01/02/scratching-my-head/
+wordpress_id: 218
+wordpress_url: http://mario.monouml.org/index.php/2006/01/02/scratching-my-head/
 ---
 
 <p>I've been working in a DLL wrapping since two weeks ago, why is it taking too much? Let's get the facts:</p>

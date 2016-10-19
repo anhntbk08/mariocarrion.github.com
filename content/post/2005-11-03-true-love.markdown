@@ -1,7 +1,41 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: peperoni
+  author_email: marconipoveda@gmail.com
+  author_url: http://marconipoveda.blogspot.com
+  content: "I have the same story in a flash file and in spanish i'll send it to by
+    e-mail.\r\n\r\nSaludos::.."
+  date: 2005-11-04 17:48:15 -0500
+  date_gmt: 2005-11-04 21:48:15 -0500
+  id: 17
+- author: peperoni
+  author_email: marconipoveda@gmail.com
+  author_url: http://marconipoveda.blogspot.com
+  content: "forget it here is the link \r\n\r\nhttp://www.computacion.uni.edu.ni/foros/modules/newbb/viewtopic.php?topic_id=509&amp;forum=34#forumpost3382"
+  date: 2005-11-04 17:50:29 -0500
+  date_gmt: 2005-11-04 21:50:29 -0500
+  id: 18
 date: 2005-11-03T02:19:52Z
+date_gmt: 2005-11-03 05:19:52 -0500
+published: true
+status: publish
+tags:
+- personal
+- english
 title: True love
-url: /2005/11/03/true-love.html
+url: /2005/11/03/true-love/
+wordpress_id: 187
+wordpress_url: http://mario.monouml.org/index.php/2005/11/03/true-love/
 ---
 
 <p>I really love <strong>Software Engineering</strong> and <strong>Oriented Object Programming</strong> ;-) </p>

@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2004-12-28T22:39:03Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
 title: MonoUML. Cara nueva
-url: /2004/12/28/monouml-cara-nueva.html
+url: /2004/12/28/monouml-cara-nueva/
+wordpress_id: 68
+wordpress_url: http://mario.monouml.org/index.php/2004/12/28/monouml-cara-nueva/
 ---
 
 <div style="clear:both;"></div>

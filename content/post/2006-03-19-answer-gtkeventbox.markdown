@@ -1,7 +1,28 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-03-19T23:58:39Z
+date_gmt: 2006-03-20 03:58:39 -0500
+published: true
+status: publish
+tags:
+- monouml
+- mono
+- monohotdraw
+- english
 title: Answer = Gtk.EventBox
-url: /2006/03/19/answer-gtkeventbox.html
+url: /2006/03/19/answer-gtkeventbox/
+wordpress_id: 256
+wordpress_url: http://mario.monouml.org/index.php/2006/03/20/answer-gtkeventbox/
 ---
 
 <p>I don't usually send emails to mailing lists that am subscribed to and wait for an answer, when I do is because I couldn't find any solution to my problem or, in the other way, want to announce something (like our <a href="http://www.monohispano.es">Mono Hispano</a> ezine!). However I (think that) finally find the answer ('cause still needs further testing) for bringing-to-front widgets drawn in a <a href="http://www.go-mono.com/docs/monodoc.ashx?tlink=5@ecma%3a981%23Layout%2f">Gtk.Layout</a>, using the following code as primary sample:</p>

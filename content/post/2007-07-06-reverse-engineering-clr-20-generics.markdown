@@ -1,7 +1,55 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: Rodolfo Campero
+  author_email: rodolfo.campero@gmail.com
+  author_url: http://rodolfocampero.blogspot.com/
+  content: "Hi Mario,\r\n\r\nI'll check your code, but don't hesitate to file bug
+    reports dude! - even if it turns out not to be a bug, someone else with a similar
+    problem may find a clue.\r\n\r\nRegards,\r\nRodolfo"
+  date: 2007-07-06 08:37:45 -0400
+  date_gmt: 2007-07-06 14:37:45 -0400
+  id: 10325
+- author: Rodolfo Campero
+  author_email: rodolfo.campero@gmail.com
+  author_url: http://rodolfocampero.blogspot.com/
+  content: "The posted code works; I just re-read your post and you talk about crashes
+    related to template binding, not the given test case. Could you please file a
+    bug report or post some sample code?\r\n\r\nBTW, in order to make the output cleaner,
+    I modified the object array:\r\n  new object [] { klass, T, K, TObj, KObj }\r\nto
+    be\r\n  new object [] { TObj, KObj, T, K, klass }\r\n\r\nThis avoids the creation
+    of some proxy elements.\r\n\r\nRegards,\r\nRodolfo"
+  date: 2007-07-06 08:52:15 -0400
+  date_gmt: 2007-07-06 14:52:15 -0400
+  id: 10326
+- author: Mario CarriÃ³n
+  author_email: mario@monouml.org
+  author_url: http://mario.monouml.org
+  content: "I'm cooking the bug report, will report it today.\r\n\r\nRegards,\r\nMario"
+  date: 2007-07-06 16:15:54 -0400
+  date_gmt: 2007-07-06 22:15:54 -0400
+  id: 10328
 date: 2007-07-06T03:41:10Z
+date_gmt: 2007-07-06 09:41:10 -0400
+published: true
+status: publish
+tags:
+- monouml
+- development
+- english
 title: Reverse Engineering CLR 2.0 Generics
-url: /2007/07/06/reverse-engineering-clr-20-generics.html
+url: /2007/07/06/reverse-engineering-clr-20-generics/
+wordpress_id: 402
+wordpress_url: http://mario.monouml.org/index.php/2007/07/06/reverse-engineering-clr-20-generics/
 ---
 
 <p>There are two goals with this new Reverse Engineering API:</p>

@@ -1,10 +1,13 @@
 ---
 date: 2015-07-16T00:00:00Z
 description: Just finished reading another book, this one is about software design
+  in Ruby. How was it?
 image: ruby.png
 image_facebook: ruby-facebook.png
+published: true
+status: publish
 title: 'Finished Reading: Practical Object-Oriented Design in Ruby'
-url: /2015/07/16/practical-object-oriented-design-in-ruby.html
+url: /2015/07/16/practical-object-oriented-design-in-ruby/
 ---
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/mariocarrion/19112724844/in/dateposted-public/"><img src="https://farm1.staticflickr.com/399/19112724844_ff48f76d4b_n.jpg" width="320" height="320"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

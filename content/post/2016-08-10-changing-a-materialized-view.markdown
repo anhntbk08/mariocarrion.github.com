@@ -1,10 +1,14 @@
 ---
 date: 2016-08-10T00:00:00Z
 description: What are the best practices when making changes to a column used by a
+  Materialized View, the best way to handle the change without affecting your production
+  environment.
 image: https://c2.staticflickr.com/8/7467/28902969295_d448eeb31b_o.png
 image_facebook: https://c2.staticflickr.com/8/7467/28902969295_d448eeb31b_o.png
+published: true
+status: publish
 title: 'Tip: Materialized Views: modifying columns with Scenic'
-url: /2016/08/10/changing-a-materialized-view.html
+url: /2016/08/10/changing-a-materialized-view/
 ---
 
 Back in February I wrote about [Sharing ActiveRecord models between different projects using ActiveRecord]({% post_url 2016-02-26-sharing-models-between-projects %}) by using a combination of Rails and [Scenic](https://github.com/thoughtbot/scenic).

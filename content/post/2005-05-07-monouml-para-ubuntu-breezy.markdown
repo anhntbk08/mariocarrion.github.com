@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2005-05-07T02:17:00Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
 title: MonoUML para Ubuntu Breezy
-url: /2005/05/07/monouml-para-ubuntu-breezy.html
+url: /2005/05/07/monouml-para-ubuntu-breezy/
+wordpress_id: 127
+wordpress_url: http://mario.monouml.org/index.php/2005/05/07/monouml-para-ubuntu-breezy/
 ---
 
 <div style="clear:both;"></div>

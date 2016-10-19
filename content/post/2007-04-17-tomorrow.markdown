@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2007-04-17T20:55:59Z
+date_gmt: 2007-04-18 02:55:59 -0400
+published: true
+status: publish
+tags:
+- personal
+- english
 title: Tomorrow
-url: /2007/04/17/tomorrow.html
+url: /2007/04/17/tomorrow/
+wordpress_id: 385
+wordpress_url: http://mario.monouml.org/index.php/2007/04/17/tomorrow/
 ---
 
 <p>Finally, after more than 1 year working and coding our effort will be used "in real life", I would love to say the same about any of my free software projects, but I still have hope to do so. Tomorrow will be a hard day and I'm sick, my throat hurts so bad, but that's the way it is.</p>

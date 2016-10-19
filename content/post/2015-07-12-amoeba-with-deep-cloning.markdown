@@ -1,10 +1,15 @@
 ---
 date: 2015-07-12T00:00:00Z
 description: Amoeba is a gem for duplicating ActiveRecord objects, it does it in a
+  cool clean way, however not allowing to properly inherit the associations to be
+  included could be extremely frustrating. In this post I share with you a way to
+  handle that in a better way.
 image: ruby.png
 image_facebook: ruby-facebook.png
+published: true
+status: publish
 title: 'Tip: Amoeba with deep cloning'
-url: /2015/07/12/amoeba-with-deep-cloning.html
+url: /2015/07/12/amoeba-with-deep-cloning/
 ---
 
 One of the basic things [we](http://www.selectablemedia.com) always do is duplication, and since we use Rails (and therefore ActiveRecord) duplicating objects clearly is a must. I recall I was in charge of implementing duplication and back at that time I decided to use reflection to duplicate the elements and although it worked, it grew out of control.

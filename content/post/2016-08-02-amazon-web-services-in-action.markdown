@@ -1,10 +1,13 @@
 ---
 date: 2016-08-02T00:00:00Z
 description: First book of the month and 21st of the year. What are my thoughts about
+  it?
 image: http://c1.staticflickr.com/9/8318/28733252075_33e346c519_o.png
 image_facebook: http://c1.staticflickr.com/9/8691/28448985820_1f9b01e65a_o.png
+published: true
+status: publish
 title: 'Finished Reading: Amazon Web Services in Action'
-url: /2016/08/02/amazon-web-services-in-action.html
+url: /2016/08/02/amazon-web-services-in-action/
 ---
 
 In my [August goals]({% post_url 2016-08-01-august-goals %}) I mentioned I was close to finish reading **Amazon Web Services in Action**, well it didn't take that long, half commute today and done.

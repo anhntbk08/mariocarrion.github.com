@@ -1,7 +1,26 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2007-06-19T19:46:48Z
+date_gmt: 2007-06-20 01:46:48 -0400
+published: true
+status: publish
+tags:
+- personal
+- english
 title: Excellence
-url: /2007/06/19/excellence.html
+url: /2007/06/19/excellence/
+wordpress_id: 397
+wordpress_url: http://mario.monouml.org/index.php/2007/06/19/excellence/
 ---
 
 <p><em>We are what we repeatedly do. Excellence, then, is not an act, but a habit. </em>Aristotle</p>

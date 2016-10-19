@@ -1,7 +1,100 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments:
+- author: sukru
+  author_email: stikves@hotmail.com
+  author_url: ""
+  content: "There is a small mixup in titles:\r\n \"Method equal?\"\r\n and \"Operator
+    equals (==)\" are swapped i Ruby section.\r\n\r\nAlso while base C# object.Equals
+    implementation is as you describe (reference for reference, bitwise for value),
+    sub-classes are able to (and often do) implement value equality by overriding
+    the method:\r\n\r\nhttp://msdn.microsoft.com/en-us/library/bsc2ak47.aspx\r\n\r\nNote
+    that a derived type might override the Equals  method to implement value equality.
+    Value equality means the compared objects have the same value even though they
+    have different binary representations. For example, consider two Decimal  objects
+    that represent the numbers 1.10 and 1.1000. The Decimal  objects do not have bitwise
+    equality because they have different binary representations to account for the
+    different number of trailing zeroes. However, the objects have value equality
+    because the numbers 1.10 and 1.1000 are considered equal for comparison purposes
+    since the trailing zeroes are insignificant."
+  date: 2010-03-17 14:54:45 -0400
+  date_gmt: 2010-03-17 19:54:45 -0400
+  id: 15009
+- author: Mario Carrion
+  author_email: mario@carrion.mx
+  author_url: http://blog.carrion.ws/
+  content: I <strong>totally</strong> agree with you, overriding <em>Equals()</em>
+    or <em>==</em> will change the meaning of the original method or operator. The
+    idea of this post was to show the default implementations, explaining why would
+    it be different is out the scope. Thanks for bringing this up, is important to
+    tell this difference.
+  date: 2010-03-17 15:09:21 -0400
+  date_gmt: 2010-03-17 20:09:21 -0400
+  id: 15011
+- author: yoeri
+  author_email: yoerivdm@gmail.com
+  author_url: ""
+  content: "Hi, small typo ... Ruby equal? line 11 should say b and a are different
+    types, now it says b and c are different types.\r\n\r\ngrtz\r\ny"
+  date: 2010-03-18 01:45:18 -0400
+  date_gmt: 2010-03-18 06:45:18 -0400
+  id: 15012
+- author: doza
+  author_email: doza@fren.pl
+  author_url: ""
+  content: Ruby doesn't have weak typing, you probably meant dynamic
+  date: 2010-03-18 02:57:34 -0400
+  date_gmt: 2010-03-18 07:57:34 -0400
+  id: 15013
+- author: Mario Carrion
+  author_email: mario@carrion.mx
+  author_url: http://blog.carrion.ws/
+  content: "@yoeri Fixed!\r\n@doza You are <strong>absolutely</strong> right. Post
+    updated."
+  date: 2010-03-18 17:15:45 -0400
+  date_gmt: 2010-03-18 22:15:45 -0400
+  id: 15014
+- author: Andreas
+  author_email: SpamSaver@gmx.de
+  author_url: ""
+  content: "Just some comments:\r\n\r\nThe Colophon sample is somewhat unfortunate
+    because the String case of\r\nSystem.Console.WriteLine (Object.ReferenceEquals
+    (obj0, obj1));\r\nwill deliver somesthing completely different from what somebody
+    would expect after your post.\r\n\r\nAnd the explanation for Equals() is problematic.
+    Equals SHOULD deliver if two instances are - well - equal, NOT that they are the
+    same reference. It is right that the default implementation works like that, but
+    it SHOULD be overridden in subclasses to test for content equality."
+  date: 2010-03-20 05:45:54 -0400
+  date_gmt: 2010-03-20 10:45:54 -0400
+  id: 15016
 date: 2010-03-17T12:42:12Z
+date_gmt: 2010-03-17 17:42:12 -0400
+published: true
+status: publish
+tags:
+- mono
+- development
+- opensuse
+- english
+- ruby
+- "2010"
+- c#
+- resolutions
+- march
+- ruby&amp;c#
 title: 'Comparing Ruby and C#: Equality'
-url: /2010/03/17/comparing-ruby-and-c-equality.html
+url: /2010/03/17/comparing-ruby-and-c-equality/
+wordpress_id: 637
+wordpress_url: http://blog.carrion.ws/?p=637
 ---
 
 <p><a href="http://www.flickr.com/photos/mariocarrion/4439073605/" title="Beauty by Mario Carrion, on Flickr"><img src="http://farm3.static.flickr.com/2792/4439073605_ef6885dd43_m.jpg" width="240" height="180" alt="Beauty" class="aligncenter" /></a></p>

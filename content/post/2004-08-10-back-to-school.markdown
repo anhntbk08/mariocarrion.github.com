@@ -1,7 +1,25 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2004-08-10T01:40:52Z
+published: true
+status: publish
+tags:
+- personal
+- english
 title: Back to school
-url: /2004/08/10/back-to-school.html
+url: /2004/08/10/back-to-school/
+wordpress_id: 28
+wordpress_url: http://mario.monouml.org/index.php/2004/08/10/back-to-school/
 ---
 
 <div style="clear:both;"></div>

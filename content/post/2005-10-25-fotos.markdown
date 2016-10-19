@@ -1,7 +1,37 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments:
+- author: sonny_taz
+  author_email: ceibamaya_00@hotmail.com
+  author_url: ""
+  content: "/me en jo..rÃ¡pidamente :P jejejeje haciendo el engrudo...\r\n\r\nno es
+    cierto!!!\r\n\r\n/me en jo...rÃ¡pidamente :P jejejeje buscando los materiales
+    :P jejejeje\r\n\r\n='(\r\n\r\nQuiero uno!!!!!\r\n\r\nSÃ­, se nota que fueron niÃ±os
+    y vieron cositas :)\r\n\r\nHermoso, realmente hermoso el Rupert!!!!\r\n\r\nBesitos
+    :)"
+  date: 2005-10-27 15:24:51 -0400
+  date_gmt: 2005-10-27 18:24:51 -0400
+  id: 5
 date: 2005-10-25T17:48:35Z
+date_gmt: 2005-10-25 23:48:35 -0400
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- monouml
+- personal
 title: Fotos
-url: /2005/10/25/fotos.html
+url: /2005/10/25/fotos/
+wordpress_id: 180
+wordpress_url: http://mario.monouml.org/?p=180
 ---
 
 <p><a href="http://carloshit.blogspot.com">Carlos</a> por fin me paso sus fotos que tomo con <a href="http://welcome.hp.com/country/us/en/prodserv/handheld.html">su pda</a>, yo tomÃ© otras con <a href="http://www.palm.com/us/">la mia</a>, la luz era buena por eso salen mas o menos bien, es una pda no una cÃ¡mara digital.</p>

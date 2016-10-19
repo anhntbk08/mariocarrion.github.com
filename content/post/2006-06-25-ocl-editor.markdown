@@ -1,7 +1,27 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories:
+- english
+comments: []
 date: 2006-06-25T18:18:23Z
+date_gmt: 2006-06-25 23:18:23 -0400
+published: true
+status: publish
+tags:
+- monouml
+- development
+- english
 title: OCL Editor
-url: /2006/06/25/ocl-editor.html
+url: /2006/06/25/ocl-editor/
+wordpress_id: 294
+wordpress_url: http://mario.monouml.org/index.php/2006/06/25/ocl-editor/
 ---
 
 <p>I've set two bugs to include <a href="http://www.omg.org/technology/documents/formal/ocl.htm">OCL</a> files into <a href="http://bugzilla.gnome.org/show_bug.cgi?id=345911">gtksourceview</a> and <a href="https://bugs.freedesktop.org/show_bug.cgi?id=7327">shared-mime-info</a>, however while this happends I'll keep working in the editor to include it in <a href="http://www.monouml.org">MonoUML</a>.</p>

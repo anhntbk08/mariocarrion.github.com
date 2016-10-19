@@ -1,7 +1,24 @@
 ---
+author:
+  display_name: Mario Carrion
+  email: mario@carrion.ws
+  login: mario
+  url: http://blog.mariocarrion.com/
+author_email: mario@carrion.ws
+author_login: mario
+author_url: http://blog.mariocarrion.com/
+categories: []
+comments: []
 date: 2004-12-31T06:22:15Z
+published: true
+status: publish
+tags:
+- espaÃ±ol
+- personal
 title: Viaje relÃ¡mpago
-url: /2004/12/31/viaje-relampago.html
+url: /2004/12/31/viaje-relampago/
+wordpress_id: 67
+wordpress_url: http://mario.monouml.org/index.php/2004/12/31/viaje-relampago/
 ---
 
 <div style="clear:both;"></div>
