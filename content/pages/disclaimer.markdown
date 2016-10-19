@@ -1,6 +1,4 @@
 ---
-layout: page
-published: true
 title: Disclaimer
 url: /disclaimer.html
 ---
