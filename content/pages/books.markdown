@@ -11,12 +11,11 @@ The list contains direct links to the places where you could buy the books at th
 
 All the books are sorted from the most recent read to the least recent.
 
-Grand total: **76**
+Grand total: **77**
 
 ## 2016: In Progress
 
 1. [Go in Practice](https://www.manning.com/books/go-in-practice)
-1. [Making Big Data Work for Your Business](https://www.packtpub.com/business/making-big-data-work-your-business)
 
 ## 2016: In Queue
 
@@ -36,6 +35,7 @@ Grand total: **76**
 
 ## 2016: Completed
 
+1. [Making Big Data Work for Your Business](https://www.packtpub.com/business/making-big-data-work-your-business)
 1. [Go Web Programming](https://www.manning.com/books/go-web-programming)
 1. [Orchestrating Docker](https://www.packtpub.com/virtualization-and-cloud/orchestrating-docker)
 1. [Docker in Practice](https://www.manning.com/books/docker-in-practice)
