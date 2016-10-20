@@ -1,10 +1,7 @@
 name = "Lagom"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
 description = ""
 homepage = "http://www.mariocarrion.com/"
-tags = ["", ""]
-features = ["", ""]
 min_version = 0.17
 pygmentsuseclasses = true
 

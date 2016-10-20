@@ -17,9 +17,7 @@ url: /2010/06/22/hackweek-v-yastroid.html
 <pre>git clone git@gitorious.org:opensuse/yastroid.git</pre>
 <h3>Result</h3>
 <p><a href="http://www.flickr.com/photos/mariocarrion/4724778779/" title="WebYaST + YaSTroid by Mario Carrion, on Flickr"><img src="http://farm2.static.flickr.com/1030/4724778779_8956a64b5f_m.jpg" width="240" height="127" alt="WebYaST + YaSTroid" class="aligncenter"  /></a>&nbsp;&nbsp;<a href="http://www.flickr.com/photos/mariocarrion/4725501446/" title="WebYaST + YaSTroid by Mario Carrion, on Flickr"><img src="http://farm2.static.flickr.com/1200/4725501446_c826ac04d4_m.jpg" width="240" height="126" alt="WebYaST + YaSTroid"  class="aligncenter"  /></a></p>
-<p>Stephen and Scott recorded a video demoing the application using a real device, I recommend watching it full-screen to see all details:</p>
-<p>
-<div><embed type="application/x-shockwave-flash" src="http://www.novell.com/common/flash/jwplayer/player.swf" width="360" height="240" style="undefined" id="media" name="media" bgcolor="#000000" quality="high" allowfullscreen="true" allowscriptaccess="always" flashvars="file=http://cdn.novell.com/cached/video/2010/misc/yastroid.flv&amp;backcolor=333333&amp;frontcolor=eeeeee&amp;autostart=false&amp;skin=http://www.novell.com/common/flash/jwplayer/skin_fy09launch.swf&amp;plugins=gapro-1&amp;gapro.accountid=UA-9518721-1"></embed></div></p>
+<p>Stephen and Scott recorded a video demoing the application using a real device, I recommend watching it full-screen to see all details.</p>
 <p>If you can't see the embedded video <a href="http://www.novell.com/common/flash/play.php?media=http://cdn.novell.com/cached/video/2010/misc/yastroid.flv">follow this link</a>.</p>
 <h3>Useful links</h3>
 <ul>
