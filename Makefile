@@ -9,4 +9,4 @@ build:
 		minify -o ./minified/ -r ./public/ && \
 		cp -r ./public/images minified/ && \
 		cp -r ./public/favicon.png minified/ && \
-		rm -rf minified/posts/ minified/pages/
+		rm -rf minified/post/ minified/pages/
