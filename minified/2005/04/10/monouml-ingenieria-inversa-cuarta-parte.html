@@ -1,0 +1,57 @@
+<!doctype html><html lang=en><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Mario Carrion - MonoUML, IngenierÃ­a Inversa, Cuarta Parte</title><meta name=author content="Mario Carrion"><meta name=description content="The blog of Mario Carrion"><link rel=canonical href=http://www.mariocarrion.com/2005/04/10/monouml-ingenieria-inversa-cuarta-parte.html><link href="//fonts.googleapis.com/css?family=Inconsolata:400,700" rel=stylesheet><link rel="shortcut icon" href=/favicon.png><link rel=stylesheet href=/css/base.css><link rel=stylesheet href=/css/skeleton.css><link rel=stylesheet href=/css/screen.css><link rel=stylesheet href=/css/layout.css><link rel=stylesheet href=//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css><div class=container><div class="four columns sidebar"><nav><h1>Hello stranger!</h1><a href=/><img src=/images/logo.png id=logo alt="Blog logo" class=circular></a><h1>I&#39;m <a href=/about.html>Mario Carrion</a></h1><hr><ul id=blog-pages class=posts><li><span>&raquo; </span><a href=/about.html>About me</a><li><span>&raquo; </span><a href=/books.html>Books</a><li><span>&raquo; </span><a href=/disclaimer.html>Disclaimer</a><li><span>&raquo; </span><a href=https://docs.google.com/document/d/1i0W6qNfGMhTfwWTHBaaKzlN9HLGwbk3GLeh8VtVlhNM>Resume</a><li><span>&raquo; </span><a href=/archive.html#2005>All posts in 2005</a></ul><div id=social><div id=stalker><a href=https://github.com/MarioCarrion><i class="fa fa-github-square"></i></a><a href=http://stackoverflow.com/users/134327><i class="fa fa-stack-overflow"></i></a><a href=https://twitter.com/mariocarrion><i class="fa fa-twitter-square"></i></a><a href=https://www.linkedin.com/in/mariocarrion><i class="fa fa-linkedin-square"></i></a></div></div></nav></div><div class="eleven columns content"><p class=meta>Apr 10, 2005
+<a href=/><i class="home fa fa-home"></i></a><h1 class=title>MonoUML, IngenierÃ­a Inversa, Cuarta Parte</h1><div id=post><div style=clear:both></div><p align=justify>Casi todo listo para terminar la librerÃ­a, he limpiado el cÃ³digo ahora esta mÃ¡s legible, mÃ¡s rÃ¡pido y con mayor soporte: clases anidadas, enumeraciones, arreglos, elementos pasados por referencia y punteros, y lo que habÃ­a dicho antes, un parÃ¡metro para "nivelar" la profundidad de la importaciÃ³n, ahora por defecto se hace la importaciÃ³n <span style=font-weight:700>AssemblyImport</span>, es decir Ãºnicamente se hace ingenierÃ­a inversa a los ensamblados importados y no a sus dependencias, algo que por lo general es lo que se busca, y ademÃ¡s esta el clÃ¡sico <span style=font-weight:700>FullImport</span>, donde se busca hasta el nivel mÃ¡s bajo de informaciÃ³n, por ejemplo si un mÃ©todo utiliza un System.Int32 (o un int en pocas palabras), tambiÃ©n se la hace ingenierÃ­a inversa al System.Int32 a pesar de que es parte de la librerÃ­a base, y asÃ­, todo recursivamente. AdemÃ¡s de eso ya no hay problemas de <span style=font-style:italic>Duplicated Key</span> al cargarlo en <a href=http://monouml.sourceforge.net>MonoUML</a>, en pocas palabras todo va genial.<p align=center><a href=http://monouml.sourceforge.net/screenshots/reveng.png><img src=http://monouml.sourceforge.net/screenshots/reveng.png width=400 height=330 title="Reverse Engineering" alt="Reverse Engineering" border=0></a><p align=justify>El cÃ³digo correspondiente es el siguiente:<pre>
+<font color=#a52a2a><b>using</b></font> System;
+
+<font color=#2e8b57><b>namespace</b></font> NamespaceSample
+{
+        <font color=#2e8b57><b>public</b></font> <font color=#2e8b57><b>interface</b></font> MyInterface
+        {
+                <font color=#2e8b57><b>string</b></font> HelloWorld ();
+        }
+
+        <font color=#2e8b57><b>public</b></font> <font color=#2e8b57><b>enum</b></font> MyEnumeration
+        {
+                Some,
+                Thing,
+                Here
+        }
+
+        <font color=#2e8b57><b>public</b></font> <font color=#2e8b57><b>abstract</b></font> <font color=#2e8b57><b>class</b></font> MyAbstractClass
+        {
+                <font color=#2e8b57><b>public</b></font> MyAbstractClass (MyEnumeration em)
+                {
+                }
+        }
+
+        <font color=#2e8b57><b>public</b></font> <font color=#2e8b57><b>class</b></font> MyClass : MyAbstractClass, MyInterface
+        {
+                <font color=#2e8b57><b>public</b></font> MyClass (MyEnumeration enm) : <font color=#a52a2a><b>base</b></font> (enm)
+                {
+                }
+
+                <font color=#2e8b57><b>public</b></font> <font color=#2e8b57><b>string</b></font> HelloWorld ()
+                {
+                        <font color=#a52a2a><b>return</b></font> <font color=#ff00ff>&quot;hola mundo!&quot;</font>;
+                }
+
+                <font color=#2e8b57><b>public</b></font> <font color=#2e8b57><b>void</b></font> ByReference (<font color=#a52a2a><b>ref</b></font> <font color=#2e8b57><b>int</b></font> i)
+                {
+                }
+
+                <font color=#2e8b57><b>protected</b></font> <font color=#2e8b57><b>class</b></font> InternalClass
+                {
+                        <font color=#2e8b57><b>public</b></font> InternalClass (MyClass parentClass)
+                        {
+                        }
+
+                        <font color=#2e8b57><b>private</b></font> <font color=#2e8b57><b>void</b></font> InternalHelloWorld ()
+                        {
+                        }
+
+                        <font color=#2e8b57><b>private</b></font> <font color=#2e8b57><b>string</b></font> _myString;
+                        <font color=#2e8b57><b>private</b></font> <font color=#2e8b57><b>int</b></font>[] _myArray;
+                }
+        }
+}
+</pre><p align=justify>Espero acepten <a href=http://www.cicol.org.mx/comas/general/proposals/35>mi propuesta</a>, tengo mucho que platicar :)<p align=justify><span style=font-weight:700>ActualizaciÃ³n</span>: CorreciÃ³n de errores en imagÃ©n, CVS refleja los cambios.<div style=clear:both;padding-bottom:.25em></div></div><div id=related><h3>Posts</h3><ul class=posts><li><span>All in 2016!</span> <a href=/archive.html#2005>All posts from this year</a></ul><ul class=posts><li><span>Apr 08, 2005</span> <a href=http://www.mariocarrion.com/2005/04/08/si-algo-es-propenso-a-fallar-lo-hara.html>Si algo es propenso a fallar, lo harÃ¡</a><li><span>Apr 15, 2005</span> <a href=http://www.mariocarrion.com/2005/04/15/%C2%BFfin-de-semana-ya-llego.html>Â¿Fin de semana? Ya llego</a></ul></div><div class=footer><div class=disclaimer><p>The postings on this site are my own and do not represent my
+<a href=http://www.meredith.com/>employer's</a> positions, strategies or opinions.<p>&copy; Mario Carrion, 2004-2016 &mdash; built with <a href=https://gohugo.io/>Hugo</a> using a heavily modified version of <a href=https://github.com/swanson/lagom>Lagom theme</a></div></div></div></div>analytics

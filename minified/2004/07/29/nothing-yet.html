@@ -1,0 +1,81 @@
+<!doctype html><html lang=en><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Mario Carrion - Nothing yet</title><meta name=author content="Mario Carrion"><meta name=description content="The blog of Mario Carrion"><link rel=canonical href=http://www.mariocarrion.com/2004/07/29/nothing-yet.html><link href="//fonts.googleapis.com/css?family=Inconsolata:400,700" rel=stylesheet><link rel="shortcut icon" href=/favicon.png><link rel=stylesheet href=/css/base.css><link rel=stylesheet href=/css/skeleton.css><link rel=stylesheet href=/css/screen.css><link rel=stylesheet href=/css/layout.css><link rel=stylesheet href=//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css><div class=container><div class="four columns sidebar"><nav><h1>Hello stranger!</h1><a href=/><img src=/images/logo.png id=logo alt="Blog logo" class=circular></a><h1>I&#39;m <a href=/about.html>Mario Carrion</a></h1><hr><ul id=blog-pages class=posts><li><span>&raquo; </span><a href=/about.html>About me</a><li><span>&raquo; </span><a href=/books.html>Books</a><li><span>&raquo; </span><a href=/disclaimer.html>Disclaimer</a><li><span>&raquo; </span><a href=https://docs.google.com/document/d/1i0W6qNfGMhTfwWTHBaaKzlN9HLGwbk3GLeh8VtVlhNM>Resume</a><li><span>&raquo; </span><a href=/archive.html#2004>All posts in 2004</a></ul><div id=social><div id=stalker><a href=https://github.com/MarioCarrion><i class="fa fa-github-square"></i></a><a href=http://stackoverflow.com/users/134327><i class="fa fa-stack-overflow"></i></a><a href=https://twitter.com/mariocarrion><i class="fa fa-twitter-square"></i></a><a href=https://www.linkedin.com/in/mariocarrion><i class="fa fa-linkedin-square"></i></a></div></div></nav></div><div class="eleven columns content"><p class=meta>Jul 29, 2004
+<a href=/><i class="home fa fa-home"></i></a><h1 class=title>Nothing yet</h1><div id=post><div style=clear:both></div><p>After a long testing time I feel too tired, frustated and I'm start thinking to modify directly the C code, the DiaShapes doesn't appear why? I don't know, they just doesn't. Anyway, there are people who want to help but I can't make it work, any idea?. Lets look my class, still doesn't work but... check it out:<pre clang=csharp>
+using Dia;
+using System;
+using GLib;
+    
+namespace UML
+{
+    public class Comment :  CanvasElement
+    {
+        Shape myShape, myShape1;
+        CanvasIter tempX;
+    
+        static GLib.GType gtype;
+    
+        static Comment()
+        {
+            gtype = RegisterGType (typeof (Comment));
+        }
+    
+        public Comment() : base(gtype)
+        {
+            initShapes();
+        }
+    
+        private void initShapes()
+        {
+            this.Height = 150;
+            this.Width = 150;
+            this.myShape = new Shape(Dia.ShapeType.Path);
+            this.myShape1 = new Shape(Dia.ShapeType.Image);
+            this.Move(00.0, 00.0);
+        }
+    
+        protected override void OnNeedUpdate()
+        {
+    
+            this.myShape = new Shape(Dia.ShapeType.Path);
+            this.myShape.Color = 8327327;
+            this.myShape.Line(new Dia.Point(50.0,0.0), new         Dia.Point(50.0,0.0));
+            this.myShape.Visibility = Dia.ShapeVisibility.Visible;
+    
+            this.myShapeX1 = new Shape(Dia.ShapeType.Path);
+            this.myShapeX1.Color = 8327327;
+            this.myShapeX1.Line(new Dia.Point(170.0,0.0), new Dia.Point(150.0,100.0));
+    
+            this.tempX = CanvasIter.New(this.Handle);
+            this.GetShapeIter(tempX);
+    }
+    
+        public new bool ShapeNext(CanvasIter iter)
+        {
+            if (iter.Data[0] == this.myShape.Handle)
+            {
+                iter.Data[0] =             this.myShape1.Handle;
+                iter.Data[1] = this.myShape1.Handle;
+                return true;
+            }
+            else if (iter.Data[0] == this.myShape1.Handle)
+            {
+                return false;
+            }
+            else
+            {
+                iter.Data[0] = this.myShape.Handle;
+                iter.Data[1] = this.myShape.Handle;
+                return true;
+            }
+        }
+    
+        public new bool GetShapeIter(CanvasIter iter)
+        {
+            this.myShape = new Shape(Dia.ShapeType.Path);
+            iter.Data[0] = this.myShape.Handle;
+            while (this.ShapeNext(iter));
+            return true;
+        }
+    }
+}
+</pre><p>By the way, I haven't slept too much, I feel a a few tired but I need to keep going.<p>I learned yesterday: 'I should start learning long time ago, not today'<p>PS. I don't want to be dramatic, but I miss her.<div style=clear:both;padding-bottom:.25em></div></div><div id=related><h3>Posts</h3><ul class=posts><li><span>All in 2016!</span> <a href=/archive.html#2004>All posts from this year</a></ul><ul class=posts><li><span>Jul 27, 2004</span> <a href=http://www.mariocarrion.com/2004/07/27/monouml-running.html>MonoUML running</a><li><span>Jul 30, 2004</span> <a href=http://www.mariocarrion.com/2004/07/30/at-least-starting-with-the-gui.html>At least starting with the GUI</a></ul></div><div class=footer><div class=disclaimer><p>The postings on this site are my own and do not represent my
+<a href=http://www.meredith.com/>employer's</a> positions, strategies or opinions.<p>&copy; Mario Carrion, 2004-2016 &mdash; built with <a href=https://gohugo.io/>Hugo</a> using a heavily modified version of <a href=https://github.com/swanson/lagom>Lagom theme</a></div></div></div></div>analytics
