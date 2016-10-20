@@ -1,22 +1,24 @@
-{{ $year := "0" }}
-{{ $newYear := "0" }}
+{{ $pages := (where .Site.Pages "Type" "post") }}
+{{ $length := len $pages }}
+{{ range $index, $val := $pages }}
+  {{ $current := $val.Date.Format "2006" }}
 
-{{ range (where .Site.Pages "Type" "post") }}
-  {{ $newYear := .Date.Format "2006" }}
+  {{ if $val.NextInSection }}
+    {{ $next := $val.NextInSection.Date.Format "2006" }}
 
-  {{ $year }}
+    {{ if or (eq $index 1) (ne $current $next) }}
+      {{ if ne $index 1 }}
+        </ul>
+      {{ end }}
 
-  {{ if ne $newYear $year }}
-    {{ if eq $year "0" }}
-      </ul>
+      <h3><a name="{{ $current }}">{{ $current }}</a></h3>
+      <ul class="posts">
     {{ end }}
-    {{ $year := $newYear }}
-    <h3><a name="{{ $year }}">{{ $year }}</a></h3>
-    <ul class="posts">
+
+      <li>
+        <span>{{ $val.Date.Format "Jan 02, 2006" }}</span> <a href="{{ $val.RelPermalink }}">{{ $val.Title }}</a>
+      </li>
   {{ else }}
-    <li>
-      <span>{{ .Date.Format "Jan 2, 2006" }}</span> <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </li>
+    </ul>
   {{ end }}
 {{ end }}
-</ul>

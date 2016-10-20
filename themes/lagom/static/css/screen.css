@@ -137,6 +137,11 @@ nav h1, nav h2 {
   overflow: auto;
 }
 
+.black-pre {
+  background-color: black;
+  color: white;
+}
+
 #post ul,
 #post ol {
   margin-left: 1.35em;

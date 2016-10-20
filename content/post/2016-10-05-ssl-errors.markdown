@@ -7,7 +7,7 @@ url: /2016/10/05/ssl-errors.html
 
 I decided to update my working computer, in the morning today, wrong decision. After doing it I started getting the following errors after executing `bundle install`:
 
-<pre>
+<pre class="black-pre">
 Fetching source index from https://rubygems.org/
 Retrying fetcher due to error (2/4): Bundler::Fetcher::CertificateFailureError Could not verify the SSL certificate for https://rubygems.org/.
 There is a chance you are experiencing a man-in-the-middle attack, but most likely your system doesn't have the CA certificates needed for verification. For information about OpenSSL certificates, see http://bit.ly/ruby-ssl. To connect without using SSL, edit your Gemfile sources and change 'https' to 'http'.
@@ -23,7 +23,7 @@ connect without using SSL, edit your Gemfile sources and change 'https' to 'http
 
 Obviously this implied that everything related to rubygem was not working because `gem install bundler` was also throwing:
 
-<pre>
+<pre class="black-pre">
 ERROR:  Could not find a valid gem 'bundler' (>= 0), here is why:
 Unable to download data from https://rubygems.org/ - SSL_connect returned=1 errno=0 state=error: certificate verify failed (https://api.rubygems.org/specs.4.8.gz)
 </pre>
