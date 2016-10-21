@@ -7,7 +7,7 @@ url: /2016/10/19/hugo-migration.html
 
 If I recall correctly this is the fourth time migrating my blog to a different service or engine, I started using [Blogger](https://en.wikipedia.org/wiki/Blogger_(service)), migrated to [Wordpress](https://en.wikipedia.org/wiki/WordPress), then [Jekyll](https://jekyllrb.com/) and now [Hugo](https://gohugo.io/).
 
-The truth is that after migrating and building my blog for the first time with Hugo I was extremely surprised: **it took les than 400ms**, with Jekyll? It takes more than 5 minutes! Sometimes even more specially when you start getting errors that prevent the build, not to mention that the automatic rebuild after resaving does not seem to work properly.
+The truth is that after migrating and building my blog for the first time with Hugo I was extremely surprised: **it took less than 400ms**, with Jekyll? It takes more than 5 minutes! Sometimes even more specially when you start getting errors that prevent the build, not to mention that the automatic rebuild after resaving does not seem to work properly.
 
 {{< tweet 778790542452883456 >}}
 
@@ -87,10 +87,10 @@ In Jekyll I built the [Archive page](/archive.html) using Liquid, in Hugo I had 
 
 ## HTML and CSS minification 
 
-Minification in Jekyll was handled through the [jekyll-press](https://github.com/stereobooster/jekyll-press); Hugo does not support anything similar out of box, instead what is suggested is to use a external tool for doing so, one of the recommended options is [Minify](https://github.com/tdewolff/minify/tree/master/cmd/minify). In the end I made a [Makefile](https://github.com/MarioCarrion/mariocarrion.github.com/blob/master/Makefile) that calls Hugo and minify to generate the final site, all working really good.
+Minification in Jekyll was handled through the [jekyll-press](https://github.com/stereobooster/jekyll-press); Hugo does not support anything similar out of box, instead what is suggested is to use a external tool for doing so, one of the recommended options is [Minify](https://github.com/tdewolff/minify/tree/master/cmd/minify). In the end I made a [Makefile](https://github.com/MarioCarrion/mariocarrion.github.com/blob/master/Makefile) that calls *Hugo* and *minify* to generate the final site, all is working really good.
 
 ## Cleanup program
 
-In order to save myself some time and make sure there were no errors while replacing the old tags to the new tags (tweet tags, renaming the permalinks and cleaning up old fronmatter tags) I wrote a [Go program](https://github.com/MarioCarrion/jekyll-to-hugo).
+In order to save myself some time and make sure there were no errors while replacing the old tags with the new tags (tweet tags, renaming the permalinks and cleaning up old fronmatter tags) I wrote a [Go program](https://github.com/MarioCarrion/jekyll-to-hugo).
 
-I'm missing the Open Graph and Twitter meta tags for properly displaying the content when sharing, I'll be working on that next, for now everything builds faster and I could not be any happier.
+What I'm missing right now are the Open Graph and Twitter meta tags for properly displaying the content when sharing, I'll be working on that next, for now everything builds faster and I could not be any happier.
