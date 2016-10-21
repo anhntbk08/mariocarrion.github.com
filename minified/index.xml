@@ -1,4 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mario Carrion</title><link>http://www.mariocarrion.com/index.xml</link><description>Recent content on Mario Carrion</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 13 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.mariocarrion.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Finished Reading: Making Big Data Work For your Business</title><link>http://www.mariocarrion.com/2016/10/13/making-big-data-work-for-your-business.html</link><pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2016/10/13/making-big-data-work-for-your-business.html</guid><description>&lt;p&gt;Today I finished reading my 27th book of 2017, the title is &lt;a href=&#34;https://www.packtpub.com/business/making-big-data-work-your-business&#34;&gt;Making Big Data Work For Your Business&lt;/a&gt;, and similar to previous Packt books this one was also part of the &lt;a href=&#34;https://www.packtpub.com/packt/offers/free-learning&#34;&gt;Free Learning program&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mario Carrion</title><link>http://www.mariocarrion.com/index.xml</link><description>Recent content on Mario Carrion</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.mariocarrion.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Migrated: From Jekyll to Hugo</title><link>http://www.mariocarrion.com/2016/10/19/hugo-migration.html</link><pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2016/10/19/hugo-migration.html</guid><description>
+&lt;p&gt;If I recall correctly this is the fourth time migrating my blog to a different service or engine, I started using &lt;a href=&#34;https://en.wikipedia.org/wiki/Blogger_(service)&#34;&gt;Blogger&lt;/a&gt;, migrated to &lt;a href=&#34;https://en.wikipedia.org/wiki/WordPress&#34;&gt;Wordpress&lt;/a&gt;, then &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; and now &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The truth is that after migrating and building my blog for the first time with Hugo I was extremely surprised: &lt;strong&gt;it took les than 400ms&lt;/strong&gt;, with Jekyll? It takes more than 5 minutes! Sometimes even more specially when you start getting errors that prevent the build, not to mention that the automatic rebuild after resaving does not seem to work properly.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;My night so far: Mets get swept. Jekyll keeps throwing: &amp;quot;jekyll 2.4.0 | Error: Rate limit exceeded&amp;quot; &lt;a href=&#34;https://t.co/Qq7NcKKKTR&#34;&gt;pic.twitter.com/Qq7NcKKKTR&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mario Carrion (@mariocarrion) &lt;a href=&#34;https://twitter.com/mariocarrion/status/778790542452883456&#34;&gt;September 22, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;how-was-it&#34;&gt;How was it?&lt;/h2&gt;
+&lt;p&gt;Migrating to Hugo was pretty straightforward, I followed the official &lt;a href=&#34;https://gohugo.io/tutorials/migrate-from-jekyll/&#34;&gt;Migrate to Hugo from Jekyll&lt;/a&gt; guide, then I reworked my &lt;a href=&#34;https://github.com/swanson/lagom&#34;&gt;Lagom theme&lt;/a&gt; to implement it using &lt;a href=&#34;http://gohugo.io/templates/go-templates/&#34;&gt;Go&amp;rsquo;s template system&lt;/a&gt;. It took me about 3 weeknights to complete the whole migration. From that I learned the following:&lt;/p&gt;
+&lt;h3 id=&#34;embedded-tweets&#34;&gt;Embedded tweets&lt;/h3&gt;
+&lt;p&gt;In Jekyll I used the &lt;a href=&#34;https://github.com/rob-murray/jekyll-twitter-plugin&#34;&gt;jekyll-twitter-plugin&lt;/a&gt; to embed tweets, Hugo includes a &lt;a href=&#34;https://gohugo.io/extras/shortcodes/&#34;&gt;shortcode&lt;/a&gt; called, surprisingly, &lt;strong&gt;tweet&lt;/strong&gt;. So stuff like this:&lt;/p&gt;
+&lt;pre class=&#34;black-pre&#34;&gt;
+{% twitter oembed https://twitter.com/mariocarrion/status/771469295431868416 %}
+&lt;/pre&gt;
+&lt;p&gt;becomes:&lt;/p&gt;
+&lt;pre class=&#34;black-pre&#34;&gt;
+{{&amp;lt; tweet 779294387348135936 &amp;gt;}}
+&lt;/pre&gt;
+&lt;h3 id=&#34;permalinks&#34;&gt;Permalinks&lt;/h3&gt;
+&lt;p&gt;Permalinks are built by default using the following format:&lt;/p&gt;
+&lt;pre class=&#34;black-pre&#34;&gt;
+/2016/10/06/go-web-programming/index.html
+&lt;/pre&gt;
+&lt;p&gt;That does not work for me, because of the SEO, so I had to rename all the posts to the &lt;strong&gt;date+article-name.html&lt;/strong&gt; format, so those became:&lt;/p&gt;
+&lt;pre class=&#34;black-pre&#34;&gt;
+/2016/10/06/go-web-programming.html
+&lt;/pre&gt;
+&lt;h3 id=&#34;post-references&#34;&gt;Post references&lt;/h3&gt;
+&lt;p&gt;In Jekyll links to your own posts on your blog use the following format:&lt;/p&gt;
+&lt;pre class=&#34;black-pre&#34;&gt;
+{% post_url 2016-09-16-first-sprint-with-go-and-docker %})
+&lt;/pre&gt;
+&lt;p&gt;In Hugo there are two shortcodes for generating links like that, either relative or absolute, so previous Jekyll links became something like the following:&lt;/p&gt;
+&lt;pre class=&#34;black-pre&#34;&gt;
+{{&amp;lt; relref &#34;2016-09-16-first-sprint-with-go-and-docker.markdown&#34; &amp;gt;}}
+&lt;/pre&gt;
+&lt;h3 id=&#34;syntax-highlighting&#34;&gt;Syntax Highlighting&lt;/h3&gt;
+&lt;p&gt;Jekyll uses something like:&lt;/p&gt;
+&lt;pre class=&#34;black-pre&#34;&gt;
+{% highlight ruby %}
+puts &#39;foo&#39;
+{% endhighlight %}
+&lt;/pre&gt;
+&lt;p&gt;The migration script correctly migrated those tags above to the Hugo format, so everything became:&lt;/p&gt;
+&lt;pre class=&#34;black-pre&#34;&gt;
+{{&amp;lt; highlight ruby &amp;gt;}}
+puts &#39;foo&#39;
+{{&amp;lt; / highlight &amp;gt;}}
+&lt;/pre&gt;
+&lt;p&gt;However I didn&amp;rsquo;t have any syntax highlighting, fixing this issue was easy after reading &lt;a href=&#34;https://gohugo.io/extras/highlighting/&#34;&gt;the official guide&lt;/a&gt;; I was missing the &lt;strong&gt;pygmentize&lt;/strong&gt; command, installing &lt;a href=&#34;http://pygments.org/&#34;&gt;Pygments&lt;/a&gt; fixed the issue:&lt;/p&gt;
+&lt;pre class=&#34;black-pre&#34;&gt;
+easy_install Pygments
+&lt;/pre&gt;
+&lt;h2 id=&#34;archive-page&#34;&gt;Archive page&lt;/h2&gt;
+&lt;p&gt;In Jekyll I built the &lt;a href=&#34;http://www.mariocarrion.com/archive.html&#34;&gt;Archive page&lt;/a&gt; using Liquid, in Hugo I had to rewrite everything &lt;a href=&#34;https://github.com/MarioCarrion/mariocarrion.github.com/blob/master/themes/lagom/layouts/shortcodes/archive_list.html&#34;&gt;using a shortcode&lt;/a&gt;, and then reference this shortcode from &lt;a href=&#34;https://github.com/MarioCarrion/mariocarrion.github.com/blob/master/content/pages/archive.markdown&#34;&gt;the page itself&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;html-and-css-minification&#34;&gt;HTML and CSS minification&lt;/h2&gt;
+&lt;p&gt;Minification in Jekyll was handled through the &lt;a href=&#34;https://github.com/stereobooster/jekyll-press&#34;&gt;jekyll-press&lt;/a&gt;; Hugo does not support anything similar out of box, instead what is suggested is to use a external tool for doing so, one of the recommended options is &lt;a href=&#34;https://github.com/tdewolff/minify/tree/master/cmd/minify&#34;&gt;Minify&lt;/a&gt;. In the end I made a &lt;a href=&#34;https://github.com/MarioCarrion/mariocarrion.github.com/blob/master/Makefile&#34;&gt;Makefile&lt;/a&gt; that calls Hugo and minify to generate the final site, all working really good.&lt;/p&gt;
+&lt;h2 id=&#34;cleanup-program&#34;&gt;Cleanup program&lt;/h2&gt;
+&lt;p&gt;In order to save myself some time and make sure there were no errors while replacing the old tags to the new tags (tweet tags, renaming the permalinks and cleaning up old fronmatter tags) I wrote a &lt;a href=&#34;https://github.com/MarioCarrion/jekyll-to-hugo&#34;&gt;Go program&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m missing the Open Graph and Twitter meta tags for properly displaying the content when sharing, I&amp;rsquo;ll be working on that next, for now everything builds faster and I could not be any happier.&lt;/p&gt;</description></item><item><title>Finished Reading: Making Big Data Work For your Business</title><link>http://www.mariocarrion.com/2016/10/13/making-big-data-work-for-your-business.html</link><pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2016/10/13/making-big-data-work-for-your-business.html</guid><description>&lt;p&gt;Today I finished reading my 27th book of 2017, the title is &lt;a href=&#34;https://www.packtpub.com/business/making-big-data-work-your-business&#34;&gt;Making Big Data Work For Your Business&lt;/a&gt;, and similar to previous Packt books this one was also part of the &lt;a href=&#34;https://www.packtpub.com/packt/offers/free-learning&#34;&gt;Free Learning program&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;On that note, just finished reading the 27th book this year: &amp;quot;Making Big Data Work for Your Business&amp;quot; &lt;a href=&#34;https://t.co/Nh99gU0b7g&#34;&gt;pic.twitter.com/Nh99gU0b7g&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mario Carrion (@mariocarrion) &lt;a href=&#34;https://twitter.com/mariocarrion/status/786550275125411840&#34;&gt;October 13, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;p&gt;&lt;strong&gt;Making Big Data Work For Your Business&lt;/strong&gt; is a long non technical book, that mentions some Big Data technologies here and there but nothing like Manning&amp;rsquo;s &lt;a href=&#34;https://www.manning.com/books/big-data&#34;&gt;Big Data&lt;/a&gt;. This book focuses more on what happens before the &lt;strong&gt;actual&lt;/strong&gt; &lt;em&gt;Big Data Project&lt;/em&gt;, the planning and justification of the project itself.&lt;/p&gt;
 &lt;p&gt;The main goal of this book is to explain &lt;em&gt;Big Data&lt;/em&gt; to people in your organization, what could happen while and during the implementation of this project, the benefits and possible impacts after implementation, it also covers how to build a team for converting those plans into action as well as how to share those findings. Although I feel is aimed to Managers and Executives, I still believe a technical person could benefit from reading it.&lt;/p&gt;
 &lt;p&gt;Beware, this a long business-like book, it could be tedious at times, so take your time when reading it.&lt;/p&gt;</description></item><item><title>Finished Reading: Go Web Programming</title><link>http://www.mariocarrion.com/2016/10/06/go-web-programming.html</link><pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2016/10/06/go-web-programming.html</guid><description>&lt;p&gt;Just finished reading &lt;a href=&#34;https://www.manning.com/books/go-web-programming&#34;&gt;Go Web Programming&lt;/a&gt;, a book published by Manning Publications and written by &lt;a href=&#34;https://twitter.com/sausheong&#34;&gt;Sau Sheong Chang&lt;/a&gt;, this is the second (of three) Go MEAP books I bought. I got the hard copy a few months ago:&lt;/p&gt;
@@ -230,10 +289,4 @@ Unable to download data from https://rubygems.org/ - SSL_connect returned=1 errn
 &lt;p&gt;&lt;strong&gt;Amazon Web Services in Action&lt;/strong&gt; is great book that covers the basic services, like EC2, S3, DynamoDB and Elasticache, just to mention some of them. It gives you specific examples about stateless servers and it works as an introduction to build scalable platforms.&lt;/p&gt;
 &lt;p&gt;This book, together with &lt;a href=&#34;https://smile.amazon.com/Scalability-Rules-Principles-Scaling-Sites-ebook/dp/B00503D1TY/&#34;&gt;Scalability Rules: 50 Principles for Scaling Web Sites Kindle Edition&lt;/a&gt; and &lt;a href=&#34;https://smile.amazon.com/Art-Scalability-Architecture-Organizations-Enterprise/dp/0134032802/&#34;&gt;The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise&lt;/a&gt; are a great way to understand how to build Scalable Web Services, the previous two give you best practices and this one explains you how to do it using AWS, perfect combination.&lt;/p&gt;
 &lt;p&gt;One thing I personally like a lot about &lt;strong&gt;Amazon Web Services in Action&lt;/strong&gt; is the examples, the author encourages using &amp;ldquo;Templates&amp;rdquo; for building your stacks, basically Infrastructure as Code, which is one of the best ways to handle building consistent architectures.&lt;/p&gt;
-&lt;p&gt;Although some of the concepts are familiar to me already, I&amp;rsquo;m really satisfied with this book because of the way the examples are presented, some new key concepts I wasn&amp;rsquo;t aware of, and in general is a really straightforward read.&lt;/p&gt;</description></item><item><title>Goals: August 2016</title><link>http://www.mariocarrion.com/2016/08/01/august-goals.html</link><pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2016/08/01/august-goals.html</guid><description>&lt;p&gt;I must confess July passed by faster than any of the previous months, not sure why yet. So with July completed I need go back to the drawing board, review what I did right and what I did not. In July I planned the following:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Finish reading &lt;em&gt;Go in Action&lt;/em&gt;: &lt;a href=&#34;http://www.mariocarrion.com/2016/07/15/go-in-action.html&#34;&gt;Successfully completed&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Read &lt;strong&gt;at least&lt;/strong&gt; two more books: Those two books I planned to finish reading are &lt;em&gt;Go Web Programming&lt;/em&gt;, about 50% complete, and &lt;em&gt;Amazon Web Services in Action&lt;/em&gt;, about 95% complete, this one shouldn&amp;rsquo;t take more than a couple of days.&lt;/li&gt;
-&lt;li&gt;Have &lt;a href=&#34;https://github.com/mariocarrion/dynamic-docker-composer&#34;&gt;dynamic docker composer&lt;/a&gt; ready: This is still a work in progress, but I did push some code and I actually integrated it with Travis and CodeClimate, so that&amp;rsquo;s good.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;What I want to accomplish this August is, obviously, what I did not accomplish in July, so again: finish those two books and at least 2 more, and continue working on &lt;em&gt;dynamic docker composer&lt;/em&gt;.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Although some of the concepts are familiar to me already, I&amp;rsquo;m really satisfied with this book because of the way the examples are presented, some new key concepts I wasn&amp;rsquo;t aware of, and in general is a really straightforward read.&lt;/p&gt;</description></item></channel></rss>
