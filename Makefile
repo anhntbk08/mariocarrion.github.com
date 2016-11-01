@@ -2,6 +2,9 @@
 
 default: build
 
+run:
+	hugo --theme=lagom serve
+
 build:
 	rm -rf public && \
 		rm -rf minified && \
