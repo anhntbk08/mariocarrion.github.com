@@ -1,24 +1,26 @@
 {{ $pages := (where .Site.Pages "Type" "post") }}
 {{ $length := len $pages }}
+
 {{ range $index, $val := $pages }}
-  {{ $current := $val.Date.Format "2006" }}
+  {{ if eq $index 0 }}
+    {{ $current := $val.Date.Format "2006" }}
+    <h3><a name="{{ $current }}">{{ $current }}</a></h3>
+    <ul class="posts">
+  {{ end }}
+    
+  <li>
+    <span>{{ $val.Date.Format "Jan 02, 2006" }}</span> <a href="{{ $val.RelPermalink }}">{{ $val.Title }}</a>
+  </li>
 
   {{ if $val.NextInSection }}
+    {{ $current := $val.Date.Format "2006" }}
     {{ $next := $val.NextInSection.Date.Format "2006" }}
 
-    {{ if or (eq $index 1) (ne $current $next) }}
-      {{ if ne $index 1 }}
-        </ul>
-      {{ end }}
-
+    {{ if ne $current $next }}
+      </ul>
       <h3><a name="{{ $current }}">{{ $current }}</a></h3>
       <ul class="posts">
     {{ end }}
-
-      <li>
-        <span>{{ $val.Date.Format "Jan 02, 2006" }}</span> <a href="{{ $val.RelPermalink }}">{{ $val.Title }}</a>
-      </li>
-  {{ else }}
-    </ul>
   {{ end }}
 {{ end }}
+</ul>
