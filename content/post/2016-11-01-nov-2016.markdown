@@ -1,0 +1,28 @@
+---
+date: 2016-11-01T00:00:00Z
+description: "Eleventh month of year! What are my plans?"
+title: "Goals: November 2016"
+url: /2016/11/01/november-goals.html
+---
+
+Two more months and that's it! 2017 has been a great personal and professional experience so far. Let's see what I planned to accomplish in [October]({{< relref "2016-10-01-october-goals.markdown" >}}):
+
+## Finish reading "Go Web Programming"
+
+That was completed the [first week of October]({{< relref "2016-10-06-go-web-programming.markdown" >}}), great book, really well planned.
+
+## Finish reading "Go in Practice"
+
+I haven't finished this one yet, I'm so close to do it, the format is, not surprisingly, similar to [Docker in Practice]({{< relref "2016-09-19-docker-in-practice.markdown" >}}), it's filled with a lot of great tips and suggestion, I'll blog about it as soon as I finish it.
+
+## Finish reading "Go Programming Blueprints"
+
+I got this book last year and sadly I haven't started reading it yet, I did browse some pages though. It is the last physical Go book missing to be read, it should be completed this month, no doubt about it.
+
+## Hack more "Dynamic Docker Composer"
+
+The bad news is that I haven't written a line of code since last time, the good news is that we will be implementing (**finally**) the Docker Container Workflow at work, it only took about a year to accomplish all of this, kind of disappointing but what I do?
+
+### What am I planning for November?
+
+Obviously finish **Go in Practice**, finish **Go Programming Blueprints**, hack some **Dynamic Docker Composer** and some **Gitlab API integration** and hopefully at work start replacing the previous Ruby-based webservices with Go-based ones, because the truth is that we are hitting the ceiling with what we have.
