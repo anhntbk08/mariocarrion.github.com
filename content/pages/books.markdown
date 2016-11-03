@@ -11,16 +11,17 @@ The list contains direct links to the places where you could buy the books at th
 
 All the books are sorted from the most recent read to the least recent.
 
-Grand total: **77**
+Grand total: **78**
 
 ## 2016: In Progress
 
-1. [Go in Practice](https://www.manning.com/books/go-in-practice)
+1. [Go Programming Blueprints](https://www.packtpub.com/application-development/go-programming-blueprints)
+1. [Specification by Example](https://www.manning.com/books/specification-by-example)
 
 ## 2016: In Queue
 
+1. [Elastic Leadership](https://www.manning.com/books/elastic-leadership)
 1. [Hadoop in Practice, Second Edition](https://www.manning.com/books/hadoop-in-action-second-edition) 
-1. [Go Programming Blueprints](https://www.packtpub.com/application-development/go-programming-blueprints)
 1. [Building the Web of Things](https://www.manning.com/books/building-the-web-of-things)
 1. [DevOps Automation Cookbook](https://www.packtpub.com/networking-and-servers/devops-automation-cookbook)
 1. [React Quickly](https://www.manning.com/books/react-quickly)
@@ -30,11 +31,12 @@ Grand total: **77**
 1. [Learning Web Component Development](https://www.packtpub.com/web-development/learning-web-component-development)
 1. [Responsive Web Design by Example: Beginner's Guide](https://www.packtpub.com/web-development/responsive-web-design-example)
 1. [Mastering JavaScript Design Patterns](https://www.packtpub.com/application-development/mastering-javascript-design-patterns)
-1. [AngularJS Services](https://www.packtpub.com/web-development/angularjs-services)
 1. [Pig Design Patterns](https://www.packtpub.com/big-data-and-business-intelligence/pig-design-patterns)
+1. [AngularJS Services](https://www.packtpub.com/web-development/angularjs-services)
 
 ## 2016: Completed
 
+1. [Go in Practice](https://www.manning.com/books/go-in-practice)
 1. [Making Big Data Work for Your Business](https://www.packtpub.com/business/making-big-data-work-your-business)
 1. [Go Web Programming](https://www.manning.com/books/go-web-programming)
 1. [Orchestrating Docker](https://www.packtpub.com/virtualization-and-cloud/orchestrating-docker)
