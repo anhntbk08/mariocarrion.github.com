@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mario Carrion</title><link>http://www.mariocarrion.com/index.xml</link><description>Recent content on Mario Carrion</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.mariocarrion.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Finished Reading: Go in Practice</title><link>http://www.mariocarrion.com/2016/11/02/go-in-practice.html</link><pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2016/11/02/go-in-practice.html</guid><description>&lt;p&gt;&lt;a href=&#34;http://www.mariocarrion.com/2016/11/01/november-goals.html&#34;&gt;Yesterday I mentioned&lt;/a&gt; I was close to finish reading &lt;a href=&#34;https://www.manning.com/books/go-in-practice&#34;&gt;Go in Practice&lt;/a&gt; and today, I was two chapters away, on my way to work I finished one of the and tonight before heading home I tweeted about it&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mario Carrion</title><link>http://www.mariocarrion.com/index.xml</link><description>Recent content on Mario Carrion</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://www.mariocarrion.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Amazon Kinesis Firehose: One month later</title><link>http://www.mariocarrion.com/2016/11/07/amazon-kinesis-one-month-ago.html</link><pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2016/11/07/amazon-kinesis-one-month-ago.html</guid><description>
+&lt;p&gt;Since 2014 one of the things I&amp;rsquo;ve been trying to do with our services is to lean towards Data Streaming while breaking up all the monolithic-like services into much more specific ones. One of those services was the one in charge of receiving data and inserting into our &lt;a href=&#34;https://aws.amazon.com/redshift/&#34;&gt;Data warehouse&lt;/a&gt;, the truth is that although the endpoint and the importer were separated it could not keep up with that amount of traffic we decided to track.&lt;/p&gt;
+&lt;p&gt;Enter &lt;a href=&#34;https://aws.amazon.com/blogs/aws/amazon-kinesis-firehose-simple-highly-scalable-data-ingestion/&#34;&gt;Kinesis Firehose&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When &lt;em&gt;Kinesis Firehose&lt;/em&gt; was announced I knew for sure it will be great solution for our problem, but sadly I couldn&amp;rsquo;t make the switch, lack of resources, different priorities and what not. &lt;strong&gt;That&lt;/strong&gt; changed until recently, and oh boy what a nice change.&lt;/p&gt;
+&lt;p&gt;Not only we get the usual benefits of using &lt;strong&gt;a&lt;/strong&gt; Data Stream, but also we can handle much more traffic and all the data is copied into Redshift with no problems. Now, the truth is there some things, not at lot, to consider when making this change.&lt;/p&gt;
+&lt;h2 id=&#34;redshift-considerations&#34;&gt;Redshift considerations&lt;/h2&gt;
+&lt;p&gt;If you are familiar with Redshift, then you already know what to do, but if not keep at least the following things in mind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Values must be correctly escaped and truncated, use your COPY options wisely.&lt;/li&gt;
+&lt;li&gt;When adding new columns to the schema make sure you use &lt;em&gt;FILLRECORD&lt;/em&gt; in the COPY Command options in Kinesis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;kinesis-considerations&#34;&gt;Kinesis considerations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sending data to Firehose takes time, make sure you send all of it asynchronously.&lt;/li&gt;
+&lt;li&gt;Use &lt;strong&gt;PutRecordBatch&lt;/strong&gt; and send as much data as possible, the &lt;a href=&#34;http://docs.aws.amazon.com/firehose/latest/dev/limits.html&#34;&gt;maximum is 4 MB&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;thoughts-so-far&#34;&gt;Thoughts so far&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m pleased with the performance of Kinesis Firehose and, obviously, Redshift; I&amp;rsquo;m also happy we have this ready and &lt;em&gt;battletested&lt;/em&gt; before the holiday season.&lt;/p&gt;</description></item><item><title>Finished Reading: Go in Practice</title><link>http://www.mariocarrion.com/2016/11/02/go-in-practice.html</link><pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2016/11/02/go-in-practice.html</guid><description>&lt;p&gt;&lt;a href=&#34;http://www.mariocarrion.com/2016/11/01/november-goals.html&#34;&gt;Yesterday I mentioned&lt;/a&gt; I was close to finish reading &lt;a href=&#34;https://www.manning.com/books/go-in-practice&#34;&gt;Go in Practice&lt;/a&gt; and today, I was two chapters away, on my way to work I finished one of the and tonight before heading home I tweeted about it&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Last chapter &amp;quot;Reflection and Code Generation&amp;quot; and I&amp;#39;m done! 🎉&amp;quot;Go in Practice&amp;quot; &lt;a href=&#34;https://t.co/X1FmRPsRep&#34;&gt;pic.twitter.com/X1FmRPsRep&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mario Carrion (@mariocarrion) &lt;a href=&#34;https://twitter.com/mariocarrion/status/793921434863202304&#34;&gt;November 2, 2016&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;p&gt;Similar to &lt;a href=&#34;http://www.mariocarrion.com/2016/09/19/docker-in-practice.html&#34;&gt;Docker in Practice&lt;/a&gt; this book is all about tips, tricks and techniques related to the Go programming language. My favorites, in order of appearance, are:&lt;/p&gt;
@@ -205,42 +222,4 @@ Unable to download data from https://rubygems.org/ - SSL_connect returned=1 errn
 &lt;p&gt;Obviously a really aggressive goal but I did manage to push some code &lt;a href=&#34;https://github.com/MarioCarrion/dynamic-docker-composer&#34;&gt;to github&lt;/a&gt;, I had the chance to think about the overall architecture and I progressed a little bit, not as much as I expected but still something, this month is all about keeping the ball rolling.&lt;/p&gt;
 &lt;h3 id=&#34;what-am-i-planning-for-september&#34;&gt;What am I planning for September?&lt;/h3&gt;
 &lt;p&gt;Again read at least two books, Docker in Action does not count, and hack more Dynamic Docker Composer, hopefully I can integrate it with Gitlab and blog about it.&lt;/p&gt;
-&lt;p&gt;Only time will tell.&lt;/p&gt;</description></item><item><title>Git Workflow: Commit Message Conventions</title><link>http://www.mariocarrion.com/2016/08/30/git-commit-message.html</link><pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2016/08/30/git-commit-message.html</guid><description>
-&lt;p&gt;Previous Tip: &lt;a href=&#34;http://www.mariocarrion.com/2016/08/24/git-workflow.html&#34;&gt;Branches naming conventions&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Continuing the Git series, in this post I&amp;rsquo;ll cover the most common thing we all do when using git, but some people have a hard time doing it: &lt;strong&gt;Commit Messages&lt;/strong&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;why-is-important-to-write-a-good-commit-message&#34;&gt;Why is important to write a good commit message?&lt;/h3&gt;
-&lt;p&gt;Simple: we are humans and, even when the code is self-documented and well written, we need a digital trail to the original requirements. Having the &lt;em&gt;humanized&lt;/em&gt; reason stored in the git history itself is extremely useful when trying to understand why some code was implemented in a particular way.&lt;/p&gt;
-&lt;h3 id=&#34;what-should-not-the-commit-message-include&#34;&gt;What should not the commit message include?&lt;/h3&gt;
-&lt;p&gt;Nonsense, in other words avoid meaningless commit messages, for example:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Update&lt;/p&gt;
-&lt;p&gt;save&lt;/p&gt;
-&lt;p&gt;commitment&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;By the way, those commit messages above are real, taken from some projects I previously had the honor to work on; all of them have a single thing in common, they do not explain why the change was made, they just indicate something was changed and the message was added because git required it.&lt;/p&gt;
-&lt;h3 id=&#34;what-should-the-commit-message-include&#34;&gt;What should the commit message include?&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;All&lt;/strong&gt; commit messages must include:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;A bug tracking system reference, in other words a ticket number.&lt;/li&gt;
-&lt;li&gt;When applicable, detailed information regarding the change itself: &amp;ldquo;This file was moved here because x, y and z&amp;rdquo;, &amp;ldquo;library was upgraded because of xyz&amp;rdquo;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Few exceptions to this rule are for example: changes fixing typos or documentation improvements.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s important to write useful commit messages because one day you will have to deal with the following yourself:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Why was this changed? Did I change it? Why!!??&lt;/p&gt;
-&lt;p&gt;Well, let&amp;rsquo;s &lt;code&gt;git blame&lt;/code&gt;, take a look at the commit message and the ticket included, that should explain something.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;what-format-should-you-use-when-writing-commit-messages&#34;&gt;What format should you use when writing commit messages?&lt;/h3&gt;
-&lt;p&gt;The format my team and I have found useful is the following:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(Ticket Number) (Commit message)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;For example, for a ticket &lt;strong&gt;#1789&lt;/strong&gt; with a subject &amp;ldquo;&lt;em&gt;Application throws null reference error when input field is empty&lt;/em&gt;&amp;rdquo;, a good commit message would be:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;#35;1789 Sanitize input field to avoid raising exception&lt;/p&gt;
-&lt;p&gt;This commits adds a new method to sanitize the data, the&lt;/p&gt;
-&lt;p&gt;method is triggered &lt;code&gt;before_save&lt;/code&gt; to remove invalid characters.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It&amp;rsquo;s important to keep all lines in the commit message short, specially the first one, because that&amp;rsquo;s the one available from the &lt;code&gt;git log --pretty=oneline&lt;/code&gt; and commonly used by most web UIs, like Github and Gitlab.&lt;/p&gt;
-&lt;p&gt;You can configure your editor to automatically break the line when exceeding certain length, vim does that for you for example.&lt;/p&gt;
-&lt;p&gt;Make your team and yourself a favor, write concise and useful commit messages, I assure you it will help you in the future.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Only time will tell.&lt;/p&gt;</description></item></channel></rss>
