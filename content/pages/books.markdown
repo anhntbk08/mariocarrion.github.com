@@ -11,16 +11,16 @@ The list contains direct links to the places where you could buy the books at th
 
 All the books are sorted from the most recent read to the least recent.
 
-Grand total: **78**
+Grand total: **79**
 
 ## 2016: In Progress
 
+1. [Elastic Leadership](https://www.manning.com/books/elastic-leadership)
 1. [Go Programming Blueprints](https://www.packtpub.com/application-development/go-programming-blueprints)
-1. [Specification by Example](https://www.manning.com/books/specification-by-example)
+1. [Introduction to Graph Theory](https://smile.amazon.com/gp/product/0486678709/)
 
 ## 2016: In Queue
 
-1. [Elastic Leadership](https://www.manning.com/books/elastic-leadership)
 1. [Hadoop in Practice, Second Edition](https://www.manning.com/books/hadoop-in-action-second-edition) 
 1. [Building the Web of Things](https://www.manning.com/books/building-the-web-of-things)
 1. [DevOps Automation Cookbook](https://www.packtpub.com/networking-and-servers/devops-automation-cookbook)
@@ -36,6 +36,7 @@ Grand total: **78**
 
 ## 2016: Completed
 
+1. [Specification by Example](https://www.manning.com/books/specification-by-example)
 1. [Go in Practice](https://www.manning.com/books/go-in-practice)
 1. [Making Big Data Work for Your Business](https://www.packtpub.com/business/making-big-data-work-your-business)
 1. [Go Web Programming](https://www.manning.com/books/go-web-programming)

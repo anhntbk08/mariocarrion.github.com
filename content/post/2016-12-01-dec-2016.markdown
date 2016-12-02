@@ -1,0 +1,32 @@
+---
+date: 2016-12-01T00:00:00Z
+description: "Twelfth month of year and last one of this nice 2016"
+title: "Goals: December 2016"
+url: /2016/12/01/december-goals.html
+---
+
+This is it. Last month of 2016. I'm super excited because I believe I made some personal progress. Let's see what I planned last [November]({{< relref "2016-11-01-nov-2016.markdown" >}}):
+
+## Finish reading "Go In Practice"
+
+Completed during the [beginning of November]({{< relref "2016-11-02-go-in-practice.markdown" >}}), last of the Go series published by Manning.
+
+## Finish reading "Go Programming Blueprints"
+
+I did not even start reading it yet, the funny thing is that there is a new edition already published. `¯\_(ツ)_/¯`
+
+## Hack "Dynamic Docker Composer"
+
+I did _hack_ a little, the truth is that I decided to rename the project to *templenv* to make it much more generic, because it isn't only used for Docker Compose, it could be used for generating any dynamic file.
+
+## Hack "Gitlab API integration"
+
+I will pause working on this until I finish, for real, *templenv* which is a precondition for this project.
+
+## Start "Gofication" at work
+
+Slow progress, the truth is that because of the holiday season changing things is kind of risky, of instead of making production changes, I'm researching a lot and obviously reading a lot. I'm excited for 2017, I will change things.
+
+### What am I planning for December?
+
+Finish reading _Go Programming Blueprints_, _Elastich Leadership_ and rest, **rest a lot**.
