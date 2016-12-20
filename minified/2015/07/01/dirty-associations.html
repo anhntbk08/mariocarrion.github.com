@@ -1,64 +1,49 @@
 <!doctype html><html lang=en><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Mario Carrion - Tip: Dirty Associations with Active Record</title><meta name=author content="Mario Carrion"><meta name=description content="The blog of Mario Carrion"><link rel=canonical href=http://www.mariocarrion.com/2015/07/01/dirty-associations.html><link href="//fonts.googleapis.com/css?family=Inconsolata:400,700" rel=stylesheet><link rel="shortcut icon" href=/favicon.png><link rel=stylesheet href=/css/base.css><link rel=stylesheet href=/css/skeleton.css><link rel=stylesheet href=/css/screen.css><link rel=stylesheet href=/css/layout.css><link rel=stylesheet href=//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css><div class=container><div class="four columns sidebar"><nav><h1>Hello stranger!</h1><a href=/><img src=/images/logo.png id=logo alt="Blog logo" class=circular></a><h1>I&#39;m <a href=/about.html>Mario Carrion</a></h1><hr><ul id=blog-pages class=posts><li><span>&raquo; </span><a href=/about.html>About me</a><li><span>&raquo; </span><a href=/books.html>Books</a><li><span>&raquo; </span><a href=/disclaimer.html>Disclaimer</a><li><span>&raquo; </span><a href=https://docs.google.com/document/d/1i0W6qNfGMhTfwWTHBaaKzlN9HLGwbk3GLeh8VtVlhNM>Resume</a><li><span>&raquo; </span><a href=/archive.html#2015>All posts in 2015</a></ul><div id=social><div id=stalker><a href=https://github.com/MarioCarrion><i class="fa fa-github-square"></i></a><a href=http://stackoverflow.com/users/134327><i class="fa fa-stack-overflow"></i></a><a href=https://twitter.com/mariocarrion><i class="fa fa-twitter-square"></i></a><a href=https://www.linkedin.com/in/mariocarrion><i class="fa fa-linkedin-square"></i></a></div></div></nav></div><div class="eleven columns content"><p class=meta>Jul 01, 2015
-<a href=/><i class="home fa fa-home"></i></a><h1 class=title>Tip: Dirty Associations with Active Record</h1><div id=post><p>Depending on your project you may need to know exactly when something changes in your model, to do whatever you have to do, specially important if you need to know what changed <strong>inside</strong> the associations defined in your model.<p>So, how do we know, when modifying a model, what <em>changed</em> inside that model?<p>The simplest answer would be: <a href=http://api.rubyonrails.org/classes/ActiveModel/Dirty.html>ActiveModel::Dirty</a>, and that works, except it does not consider associations (which is the whole point of this post); so how do we get what changed inside the associations?!<p>First a little context, in Ruby on Rails I use <a href=https://blog.engineyard.com/2014/keeping-your-rails-controllers-dry-with-services>Services</a> and <a href=https://github.com/krisleech/wisper>Wisper</a> to keep my models slim and the external logic <em>outside</em> the model, which although related to the business, is not relevant to the actual models themselves.<p>That being said, let&rsquo;s assume I have a model and according my to business rules, I have to create/update a file after this model is updated. How can we do this? Hint: <strong>not using callbacks</strong>, like <code>after_save</code>, that for sure!<p>Again, let&rsquo;s assume I have my controller that uses a service to update the model, inside this service I use Wispper to broadcast the changes after saving a <code>valid?</code> record. Everything fine and dandy so far.<p>But&hellip; how do I determine what changed inside the associations? How do I know in the service, what to broadcast if one of items in a particular association changed? Because for whatever reason, this model does some crazy stuff regarding a particular association, and honestly I <strong>only</strong> want to make those changes when that association or any item from that association changes.<p>Well, here&rsquo;s my solution, a little bit of reflection and <a href=http://api.rubyonrails.org/classes/ActiveSupport/Concern.html>concerns</a>.<div class=highlight style=background:#272822><pre style=line-height:125%><span></span><span style=color:#66d9ef>module</span> <span style=color:#f8f8f2>Dirtyable</span>
-  <span style=color:#66d9ef>extend</span> <span style=color:#66d9ef>ActiveSupport</span><span style=color:#f92672>::</span><span style=color:#66d9ef>Concern</span>
-
-  <span style=color:#66d9ef>WhatChanged</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>Struct</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>new(</span><span style=color:#e6db74>:object</span><span style=color:#f8f8f2>,</span> <span style=color:#e6db74>:changes</span><span style=color:#f8f8f2>)</span> <span style=color:#66d9ef>do</span>
-    <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>changed?</span>
-      <span style=color:#f8f8f2>self</span> <span style=color:#f92672>!=</span> <span style=color:#66d9ef>NoChanges</span>
-    <span style=color:#66d9ef>end</span>
-    <span style=color:#f8f8f2>delegate</span> <span style=color:#e6db74>:has_key?</span><span style=color:#f8f8f2>,</span> <span style=color:#e6db74>to</span><span style=color:#f8f8f2>:</span> <span style=color:#e6db74>:changes</span>
-  <span style=color:#66d9ef>end</span>
-  <span style=color:#66d9ef>NoChanges</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>WhatChanged</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>new(</span><span style=color:#66d9ef>nil</span><span style=color:#f8f8f2>,</span> <span style=color:#66d9ef>nil</span><span style=color:#f8f8f2>)</span>
-
-  <span style=color:#66d9ef>def</span> <span style=color:#a6e22e>what_changed?</span>
-    <span style=color:#f8f8f2>what_changed</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>nil</span>
-
-    <span style=color:#f8f8f2>self</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>previous_changes</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>delete(</span><span style=color:#e6db74>&#39;updated_at&#39;</span><span style=color:#f8f8f2>)</span>
-    <span style=color:#66d9ef>unless</span> <span style=color:#f8f8f2>self</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>previous_changes</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>empty?</span>
-      <span style=color:#f8f8f2>what_changed</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>WhatChanged</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>new(self,</span> <span style=color:#f8f8f2>self</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>previous_changes)</span>
-    <span style=color:#66d9ef>end</span>
-
-    <span style=color:#f8f8f2>associations</span> <span style=color:#f92672>=</span> <span style=color:#f8f8f2>self</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>class</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>reflections</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>select</span> <span style=color:#f8f8f2>{</span> <span style=color:#f92672>|</span><span style=color:#f8f8f2>k,</span> <span style=color:#f8f8f2>v</span><span style=color:#f92672>|</span> <span style=color:#f8f8f2>v</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>collection?</span> <span style=color:#f8f8f2>}</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>keys</span>
-
-    <span style=color:#f8f8f2>associations</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>each</span> <span style=color:#66d9ef>do</span> <span style=color:#f92672>|</span><span style=color:#f8f8f2>association_name</span><span style=color:#f92672>|</span>
-      <span style=color:#66d9ef>catch</span> <span style=color:#e6db74>:next_association_name</span> <span style=color:#66d9ef>do</span>
-        <span style=color:#f8f8f2>association_collection</span> <span style=color:#f92672>=</span> <span style=color:#f8f8f2>self</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>send(association_name)</span>
-        <span style=color:#66d9ef>throw</span> <span style=color:#e6db74>:next_association_name</span> <span style=color:#66d9ef>unless</span> <span style=color:#f8f8f2>association_collection</span>
-        <span style=color:#66d9ef>throw</span> <span style=color:#e6db74>:next_association_name</span> <span style=color:#66d9ef>if</span> <span style=color:#f8f8f2>association_collection</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>empty?</span>
-
-        <span style=color:#f8f8f2>association_collection</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>each</span> <span style=color:#66d9ef>do</span> <span style=color:#f92672>|</span><span style=color:#f8f8f2>item</span><span style=color:#f92672>|</span>
-          <span style=color:#66d9ef>throw</span> <span style=color:#e6db74>:next_association_name</span> <span style=color:#66d9ef>unless</span> <span style=color:#f8f8f2>item</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>respond_to?(</span><span style=color:#e6db74>:what_changed?</span><span style=color:#f8f8f2>)</span>
-
-          <span style=color:#f8f8f2>association_changes</span> <span style=color:#f92672>=</span> <span style=color:#f8f8f2>item</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>what_changed?</span>
-          <span style=color:#66d9ef>if</span> <span style=color:#f8f8f2>association_changes</span> <span style=color:#f92672>!=</span> <span style=color:#66d9ef>NoChanges</span>
-            <span style=color:#f8f8f2>what_changed</span> <span style=color:#f92672>||=</span> <span style=color:#66d9ef>WhatChanged</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>new(self,</span> <span style=color:#f8f8f2>{})</span>
-
-            <span style=color:#f8f8f2>what_changed</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>changes</span><span style=color:#f92672>[</span><span style=color:#f8f8f2>association_name</span><span style=color:#f92672>]</span> <span style=color:#f92672>||=</span> <span style=color:#f92672>[]</span>
-            <span style=color:#f8f8f2>what_changed</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>changes</span><span style=color:#f92672>[</span><span style=color:#f8f8f2>association_name</span><span style=color:#f92672>]</span> <span style=color:#f92672>&lt;&lt;</span> <span style=color:#f8f8f2>association_changes</span>
-          <span style=color:#66d9ef>end</span>
-        <span style=color:#66d9ef>end</span>
-      <span style=color:#66d9ef>end</span>
-    <span style=color:#66d9ef>end</span>
-
-    <span style=color:#f8f8f2>what_changed</span> <span style=color:#f92672>||</span> <span style=color:#66d9ef>NoChanges</span>
-  <span style=color:#66d9ef>end</span>
-<span style=color:#66d9ef>end</span>
-</pre></div><p>The module above is pretty straightforward, it uses both <code>ActiveModel::Dirty</code> and reflection to get the associations that have changes, however the important thing is that in order to make this work all models that you want to keep track of must include this module.<p>So for example if you have a couple of models like this:<p><div class=highlight style=background:#272822><pre style=line-height:125%><span></span><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>FancyModel</span> <span style=color:#f92672>&lt;</span> <span style=color:#66d9ef>ActiveRecord</span><span style=color:#f92672>::</span><span style=color:#66d9ef>Base</span>
-  <span style=color:#66d9ef>include</span> <span style=color:#66d9ef>Dirtyable</span>
-  
-  <span style=color:#f8f8f2>has_many</span> <span style=color:#e6db74>:things</span>
-<span style=color:#66d9ef>end</span>
-
-<span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Thing</span> <span style=color:#f92672>&lt;</span> <span style=color:#66d9ef>ActiveRecord</span><span style=color:#f92672>::</span><span style=color:#66d9ef>Base</span>
-  <span style=color:#66d9ef>include</span> <span style=color:#66d9ef>Dirtyable</span>
-  
-  <span style=color:#f8f8f2>belongs_to</span> <span style=color:#e6db74>:fancy_model</span>
-<span style=color:#66d9ef>end</span>
-</pre></div><p>You can easily get the changes when updating FancyModel (and having changes in any of the <code>things</code>, in your service for example), of what changed by just executing a call like this:<div class=highlight style=background:#272822><pre style=line-height:125%><span></span><span style=color:#f8f8f2>what_changed</span> <span style=color:#f92672>=</span> <span style=color:#f8f8f2>fancy_model</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>what_changed?</span>
-<span style=color:#66d9ef>if</span> <span style=color:#f8f8f2>what_changed</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>changed?</span>
-  <span style=color:#66d9ef>if</span> <span style=color:#f8f8f2>what_changed</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>has_key?(</span><span style=color:#e6db74>:things</span><span style=color:#f8f8f2>)</span>
-    <span style=color:#75715e># I do whatever I have to do... maybe call &quot;broadcast(:on_things_changed)&quot;?</span>
-  <span style=color:#66d9ef>end</span>
-<span style=color:#66d9ef>end</span>
-</pre></div><p>Pretty cool. With that you can easily broadcast specific events when specific things change, no need to broadcast a global <em>on_model_changed</em> if you don&rsquo;t have to.</div><div id=related><h3>Posts</h3><ul class=posts><li><span>All in 2016!</span> <a href=/archive.html#2015>All posts from this year</a></ul><ul class=posts><li><span>Jun 29, 2015</span> <a href=http://www.mariocarrion.com/2015/06/29/97-tepsk.html>Finished Reading: 97 Things Every Programmer Should Know</a><li><span>Jul 12, 2015</span> <a href=http://www.mariocarrion.com/2015/07/12/amoeba-with-deep-cloning.html>Tip: Amoeba with deep cloning</a></ul></div><div class=footer><div class=disclaimer><p>The postings on this site are my own and do not represent my
+<a href=/><i class="home fa fa-home"></i></a><h1 class=title>Tip: Dirty Associations with Active Record</h1><div id=post><p>Depending on your project you may need to know exactly when something changes in your model, to do whatever you have to do, specially important if you need to know what changed <strong>inside</strong> the associations defined in your model.<p>So, how do we know, when modifying a model, what <em>changed</em> inside that model?<p>The simplest answer would be: <a href=http://api.rubyonrails.org/classes/ActiveModel/Dirty.html>ActiveModel::Dirty</a>, and that works, except it does not consider associations (which is the whole point of this post); so how do we get what changed inside the associations?!<p>First a little context, in Ruby on Rails I use <a href=https://blog.engineyard.com/2014/keeping-your-rails-controllers-dry-with-services>Services</a> and <a href=https://github.com/krisleech/wisper>Wisper</a> to keep my models slim and the external logic <em>outside</em> the model, which although related to the business, is not relevant to the actual models themselves.<p>That being said, let&rsquo;s assume I have a model and according my to business rules, I have to create/update a file after this model is updated. How can we do this? Hint: <strong>not using callbacks</strong>, like <code>after_save</code>, that for sure!<p>Again, let&rsquo;s assume I have my controller that uses a service to update the model, inside this service I use Wispper to broadcast the changes after saving a <code>valid?</code> record. Everything fine and dandy so far.<p>But&hellip; how do I determine what changed inside the associations? How do I know in the service, what to broadcast if one of items in a particular association changed? Because for whatever reason, this model does some crazy stuff regarding a particular association, and honestly I <strong>only</strong> want to make those changes when that association or any item from that association changes.<p>Well, here&rsquo;s my solution, a little bit of reflection and <a href=http://api.rubyonrails.org/classes/ActiveSupport/Concern.html>concerns</a>.</p>module Dirtyable
+extend ActiveSupport::Concern
+WhatChanged = Struct.new(:object, :changes) do
+def changed?
+self != NoChanges
+end
+delegate :has_key?, to: :changes
+end
+NoChanges = WhatChanged.new(nil, nil)
+def what_changed?
+what_changed = nil
+self.previous_changes.delete('updated_at')
+unless self.previous_changes.empty?
+what_changed = WhatChanged.new(self, self.previous_changes)
+end
+associations = self.class.reflections.select { |k, v| v.collection? }.keys
+associations.each do |association_name|
+catch :next_association_name do
+association_collection = self.send(association_name)
+throw :next_association_name unless association_collection
+throw :next_association_name if association_collection.empty?
+association_collection.each do |item|
+throw :next_association_name unless item.respond_to?(:what_changed?)
+association_changes = item.what_changed?
+if association_changes != NoChanges
+what_changed ||= WhatChanged.new(self, {})
+what_changed.changes[association_name] ||= []
+what_changed.changes[association_name] << association_changes
+end
+end
+end
+end
+what_changed || NoChanges
+end
+end<p>The module above is pretty straightforward, it uses both <code>ActiveModel::Dirty</code> and reflection to get the associations that have changes, however the important thing is that in order to make this work all models that you want to keep track of must include this module.<p>So for example if you have a couple of models like this:</p>class FancyModel < ActiveRecord::Base
+include Dirtyable
+has_many :things
+end
+class Thing < ActiveRecord::Base
+include Dirtyable
+belongs_to :fancy_model
+end<p>You can easily get the changes when updating FancyModel (and having changes in any of the <code>things</code>, in your service for example), of what changed by just executing a call like this:</p>what_changed = fancy_model.what_changed?
+if what_changed.changed?
+if what_changed.has_key?(:things)
+# I do whatever I have to do... maybe call "broadcast(:on_things_changed)"?
+end
+end<p>Pretty cool. With that you can easily broadcast specific events when specific things change, no need to broadcast a global <em>on_model_changed</em> if you don&rsquo;t have to.</div><div id=related><h3>Posts</h3><ul class=posts><li><span>All in 2016!</span> <a href=/archive.html#2015>All posts from this year</a></ul><ul class=posts><li><span>Jun 29, 2015</span> <a href=http://www.mariocarrion.com/2015/06/29/97-tepsk.html>Finished Reading: 97 Things Every Programmer Should Know</a><li><span>Jul 12, 2015</span> <a href=http://www.mariocarrion.com/2015/07/12/amoeba-with-deep-cloning.html>Tip: Amoeba with deep cloning</a></ul></div><div class=footer><div class=disclaimer><p>The postings on this site are my own and do not represent my
 <a href=http://www.meredith.com/>employer's</a> positions, strategies or opinions.<p>&copy; Mario Carrion, 2004-2016 &mdash; built with <a href=https://gohugo.io/>Hugo</a> using a heavily modified version of <a href=https://github.com/swanson/lagom>Lagom theme</a></div></div></div></div><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-75640250-1','auto');ga('send','pageview');</script>
