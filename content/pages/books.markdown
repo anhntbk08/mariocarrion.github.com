@@ -13,16 +13,19 @@ All the books are sorted from the most recent read to the least recent.
 
 Grand total: **81**
 
-## 2016: In Progress
+## 2017: In Progress
 
 1. [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization)
+
+## 2017: In Queue
+
 1. [Introduction to Graph Theory](https://smile.amazon.com/gp/product/0486678709/)
-
-## 2016: In Queue
-
+1. [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action)
+1. [Streaming Data](https://www.manning.com/books/streaming-data)
+1. [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
+1. [DevOps Automation Cookbook](https://www.packtpub.com/networking-and-servers/devops-automation-cookbook)
 1. [Hadoop in Practice, Second Edition](https://www.manning.com/books/hadoop-in-action-second-edition) 
 1. [Building the Web of Things](https://www.manning.com/books/building-the-web-of-things)
-1. [DevOps Automation Cookbook](https://www.packtpub.com/networking-and-servers/devops-automation-cookbook)
 1. [React Quickly](https://www.manning.com/books/react-quickly)
 1. [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
 1. [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
