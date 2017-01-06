@@ -11,15 +11,14 @@ The list contains direct links to the places where you could buy the books at th
 
 All the books are sorted from the most recent read to the least recent.
 
-Grand total: **81**
+Grand total: **82**
 
 ## 2017: In Progress
 
-1. [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization)
+1. [Docker Networking Cookbook](https://www.packtpub.com/networking-and-servers/docker-networking-cookbook)
 
 ## 2017: In Queue
 
-1. [Docker Networking Cookbook](https://www.packtpub.com/networking-and-servers/docker-networking-cookbook)
 1. [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action)
 1. [Introduction to Graph Theory](https://smile.amazon.com/gp/product/0486678709/)
 1. [Go Programming Blueprints - Second Edition](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
@@ -40,6 +39,10 @@ Grand total: **81**
 1. [Mastering JavaScript Design Patterns](https://www.packtpub.com/application-development/mastering-javascript-design-patterns)
 1. [Pig Design Patterns](https://www.packtpub.com/big-data-and-business-intelligence/pig-design-patterns)
 1. [AngularJS Services](https://www.packtpub.com/web-development/angularjs-services)
+
+## 2017: Completed
+
+1. [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization)
 
 ## 2016: Completed
 
