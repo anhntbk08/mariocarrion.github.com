@@ -11,7 +11,7 @@ The list contains direct links to the places where you could buy the books at th
 
 All the books are sorted from the most recent read to the least recent.
 
-Grand total: **82**
+Grand total: **83**
 
 ## 2017: In Progress
 
@@ -42,7 +42,8 @@ Grand total: **82**
 
 ## 2017: Completed
 
-1. [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization)
+2. Jan 03: [Ruby Performance Optimization]({{< relref "2017-01-03-ruby-performance-optimizations.markdown" >}})
+1. Jan 10: [Monitoring Docker]({{< relref "2017-01-10-monitoring-docker.markdown" >}})
 
 ## 2016: Completed
 
