@@ -18,7 +18,7 @@
   <div id="related">
     <h3>Posts</h3>
     <ul class="posts">
-      <li><span>All in 2016!</span> <a href="/archive.html#{{ .Date.Format "2006" }}">All posts from this year</a></li>
+      <li><a href="/archive.html#{{ .Date.Format "2006" }}">All posts this year {{ .Date.Format "2006" }}</a></li>
     </ul>
     <ul class="posts">
       {{ if .PrevInSection }}

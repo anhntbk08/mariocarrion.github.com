@@ -11,11 +11,12 @@ The list contains direct links to the places where you could buy the books at th
 
 All the books are sorted from the most recent read to the least recent.
 
-Grand total: **83**
+Grand total: **84**
 
 ## 2017: In Progress
 
 1. [Docker Networking Cookbook](https://www.packtpub.com/networking-and-servers/docker-networking-cookbook)
+1. [Building the Web of Things](https://www.manning.com/books/building-the-web-of-things)
 
 ## 2017: In Queue
 
@@ -23,13 +24,11 @@ Grand total: **83**
 1. [Introduction to Graph Theory](https://smile.amazon.com/gp/product/0486678709/)
 1. [Go Programming Blueprints - Second Edition](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
 1. [Streaming Data](https://www.manning.com/books/streaming-data)
-1. [Getting Started with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/getting-started-kubernetes)
 1. [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials)
 1. [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
 1. [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
 1. [DevOps Automation Cookbook](https://www.packtpub.com/networking-and-servers/devops-automation-cookbook)
 1. [Hadoop in Practice, Second Edition](https://www.manning.com/books/hadoop-in-action-second-edition) 
-1. [Building the Web of Things](https://www.manning.com/books/building-the-web-of-things)
 1. [React Quickly](https://www.manning.com/books/react-quickly)
 1. [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
 1. [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
@@ -42,10 +41,11 @@ Grand total: **83**
 
 ## 2017: Completed
 
-2. Jan 03: [Ruby Performance Optimization]({{< relref "2017-01-03-ruby-performance-optimizations.markdown" >}})
-1. Jan 10: [Monitoring Docker]({{< relref "2017-01-10-monitoring-docker.markdown" >}})
+1. Jan 03: [Ruby Performance Optimization]({{< relref "2017-01-03-ruby-performance-optimizations.markdown" >}})
+1. Jan 11: [Monitoring Docker]({{< relref "2017-01-11-monitoring-docker.markdown" >}})
+1. Jan 23: [Getting Started with Kubernetes]({{< relref "2017-01-23-getting-started-kubernetes.markdown" >}})
 
-## 2016: Completed
+## 2016: Completed (31)
 
 1. [Go Programming Blueprints](https://www.packtpub.com/application-development/go-programming-blueprints)
 1. [Elastic Leadership](https://www.manning.com/books/elastic-leadership)
