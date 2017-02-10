@@ -17,7 +17,9 @@ The first _naive_ solution was to try using something like:
 </script>
 {{< / highlight >}}
 
-That **did not work**. After I quick googling I found this [Stackoverflow solution](http://stackoverflow.com/questions/28955862/how-to-use-jquery-in-a-knockout-js-template), _How to use jQuery in a Knockout.js Template?_; sadly for whatever reason none of the current answers are marked as solution although is clear the one with the most upvotes answers it: You have to use [custom bindings](http://knockoutjs.com/documentation/custom-bindings.html).
+That **did not work**.
+
+After a quick googling I found this [Stackoverflow question](http://stackoverflow.com/questions/28955862/how-to-use-jquery-in-a-knockout-js-template), _How to use jQuery in a Knockout.js Template?_; sadly for whatever reason none of the current answers are marked as a solution although is clear the one with the most upvotes answers it correctly: you have to use [custom bindings](http://knockoutjs.com/documentation/custom-bindings.html).
 
 I created [a jsFiddle](https://jsfiddle.net/MarioCarrion/aekakyhm/) demonstrating this solution, really cool stuff:
 
