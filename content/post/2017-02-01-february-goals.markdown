@@ -2,7 +2,7 @@
 date: 2017-02-01
 title: "Goals: February 2017"
 description: "Second month of the year. What am I planning?"
-url: /2017/01/01/february-2017-goals.html
+url: /2017/02/01/february-2017-goals.html
 ---
 
 January this year was a _good_ month, the truth is that coming back to work after taking time off is always difficult. However I still believe January 2017 was productive, both personally and professionally.

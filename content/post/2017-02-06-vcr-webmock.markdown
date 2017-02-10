@@ -2,7 +2,7 @@
 date: 2017-02-06
 title: "Ruby Tip: Sharing VCR cassettes in gems"
 description: "How can you share a cassette defined in a Gem using VCR?"
-url: /2017/01/06/sharing-vcr-cassetts-in-gems.html
+url: /2017/02/06/sharing-vcr-cassetts-in-gems.html
 ---
 
 Last year I posted a tip for [Mocking Web APIs]({{< relref "2016-03-15-mocking-apis.markdown" >}}), this post is slightly similar: **using cassettes coming from a gem you depend on and at the same time use your own cassettes**.
