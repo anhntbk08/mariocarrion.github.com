@@ -19,9 +19,20 @@ Grand total: **85**
 
 ## 2017: In Queue
 
+### February
+
 1. [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
 1. [Go Programming Blueprints - Second Edition](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
 1. [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action)
+
+### March
+
+* [The Extraordinary Leader](https://smile.amazon.com/dp/B018T5PF84)
+* [Ego Is the Enemy](https://smile.amazon.com/dp/B015NTIXWE)
+* [The ONE Thing](https://smile.amazon.com/dp/B00C1BHQXK)
+
+### Months after
+
 1. [DevOps Automation Cookbook](https://www.packtpub.com/networking-and-servers/devops-automation-cookbook)
 1. [Introduction to Graph Theory](https://smile.amazon.com/gp/product/0486678709/)
 1. [Streaming Data](https://www.manning.com/books/streaming-data)
