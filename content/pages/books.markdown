@@ -11,19 +11,15 @@ The list contains direct links to the places where you could buy the books at th
 
 All the books are sorted from the most recent read to the least recent.
 
-Grand total: **85**
-
 ## 2017: In Progress
 
-1. [Building the Web of Things](https://www.manning.com/books/building-the-web-of-things)
+1. [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action)
 
 ## 2017: In Queue
 
 ### February
 
 1. [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
-1. [Go Programming Blueprints - Second Edition](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
-1. [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action)
 
 ### March
 
@@ -55,6 +51,8 @@ Grand total: **85**
 1. Jan 11: [Monitoring Docker]({{< relref "2017-01-11-monitoring-docker.markdown" >}})
 1. Jan 23: [Getting Started with Kubernetes]({{< relref "2017-01-23-getting-started-kubernetes.markdown" >}})
 1. Jan 30: [Docker Networking Cookbook]({{< relref "2017-01-30-docker-network-cookbook.markdown" >}})
+1. Feb 16: [Building the Web of Things]({{< relref "2017-02-16-web-of-things.markdown" >}})
+1. Feb 20: [Go Programming Blueprints - Second Edition]({{< relref "2017-02-20-go-programming-blueprints-2nd-edition.markdown" >}})
 
 ## 2016: Completed (31)
 
