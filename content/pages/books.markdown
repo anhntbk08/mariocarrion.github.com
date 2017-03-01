@@ -17,12 +17,9 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2017: In Queue
 
-### February
-
-1. [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
-
 ### March
 
+* [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
 * [The Extraordinary Leader](https://smile.amazon.com/dp/B018T5PF84)
 * [Ego Is the Enemy](https://smile.amazon.com/dp/B015NTIXWE)
 * [The ONE Thing](https://smile.amazon.com/dp/B00C1BHQXK)
