@@ -13,13 +13,12 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2017: In Progress
 
-1. [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action)
+* [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
 
 ## 2017: In Queue
 
 ### March
 
-* [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
 * [The Extraordinary Leader](https://smile.amazon.com/dp/B018T5PF84)
 * [Ego Is the Enemy](https://smile.amazon.com/dp/B015NTIXWE)
 * [The ONE Thing](https://smile.amazon.com/dp/B00C1BHQXK)
@@ -50,6 +49,7 @@ All the books are sorted from the most recent read to the least recent.
 1. Jan 30: [Docker Networking Cookbook]({{< relref "2017-01-30-docker-network-cookbook.markdown" >}})
 1. Feb 16: [Building the Web of Things]({{< relref "2017-02-16-web-of-things.markdown" >}})
 1. Feb 20: [Go Programming Blueprints - Second Edition]({{< relref "2017-02-20-go-programming-blueprints-2nd-edition.markdown" >}})
+1. Mar 02: [AWS Lambda in Action]({{< relref "2017-03-04-aws-lambda-in-action.markdown" >}})
 
 ## 2016: Completed (31)
 
