@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mario Carrion</title><link>http://www.mariocarrion.com/index.xml</link><description>Recent content on Mario Carrion</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 29 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://www.mariocarrion.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Today I learned: Bypass rescue</title><link>http://www.mariocarrion.com/2017/03/29/til-bypass-rescue.html</link><pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2017/03/29/til-bypass-rescue.html</guid><description>&lt;p&gt;One of my job goals this sprint is to implement a new controller that internally uses our proprietary ACL and it is available &lt;strong&gt;only&lt;/strong&gt; for what we call the &lt;em&gt;Super Admin Role&lt;/em&gt;. Obviously this new code will have to be backed up by its own specs where we will be covering the two possible cases:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mario Carrion</title><link>http://www.mariocarrion.com/index.xml</link><description>Recent content on Mario Carrion</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://www.mariocarrion.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Goals: April 2017</title><link>http://www.mariocarrion.com/2017/04/01/april-2017-goals.html</link><pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2017/04/01/april-2017-goals.html</guid><description>
+&lt;p&gt;My &lt;a href=&#34;http://www.mariocarrion.com/2016/04/01/april-2016-goals.html&#34;&gt;favorite month of the year&lt;/a&gt;: &lt;strong&gt;April&lt;/strong&gt;, is here!&lt;/p&gt;
+&lt;p&gt;Having &lt;a href=&#34;http://www.mariocarrion.com/2017/03/01/march-2017-goals.html&#34;&gt;learned from February&lt;/a&gt;, I decided to set clear and concise goals last month. In March I did accomplish what I planned, so no underestimation at all either, what I planned was completed.&lt;/p&gt;
+&lt;h2 id=&#34;professionally&#34;&gt;Professionally&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve been working more and more on Go-related projects, and I&amp;rsquo;ve been enjoying every single part of it, I need to come up (&lt;strong&gt;for real!&lt;/strong&gt;) with a personal project that really engages me so I can spend time on my own coding using Go. I know I already have &lt;a href=&#34;https://github.com/MarioCarrion/templenv&#34;&gt;templenv&lt;/a&gt; but to tell the truth the project is practically &lt;em&gt;feature complete&lt;/em&gt; so I have &lt;em&gt;nothing else&lt;/em&gt; to add.&lt;/p&gt;
+&lt;p&gt;Also, as usual, Ruby was also part of March and on that front I learned about the &lt;a href=&#34;http://www.mariocarrion.com/2017/03/29/til-bypass-rescue.html&#34;&gt;bypass rescue&lt;/a&gt; option in Rspec.&lt;/p&gt;
+&lt;h3 id=&#34;personally&#34;&gt;Personally&lt;/h3&gt;
+&lt;p&gt;I finished reading all the planned books:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mariocarrion.com/2017/03/03/aws-lambda-in-action.html&#34;&gt;AWS Lambda in Action&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mariocarrion.com/2017/03/24/go-design-patterns.html&#34;&gt;Go Design Patterns&lt;/a&gt;, and&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mariocarrion.com/2017/03/27/the-extraordinary-leader.html&#34;&gt;The Extraordinary Leader&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and &lt;strong&gt;also&lt;/strong&gt; I already started reading &lt;em&gt;Ego Is The Enemy&lt;/em&gt;, really cool book by the way, I should complete that one this first week of April.&lt;/p&gt;
+&lt;h3 id=&#34;what-am-i-planning-for-april-2017&#34;&gt;What am I planning for April 2017?&lt;/h3&gt;
+&lt;p&gt;Complete the following books:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ego Is The Enemy,&lt;/li&gt;
+&lt;li&gt;The ONE Thing, and&lt;/li&gt;
+&lt;li&gt;Neo4j in Action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Related to Neo4j I have to do some R&amp;amp;D for what I believe will be a huge differentiator in our proprietary platform.&lt;/p&gt;</description></item><item><title>Today I learned: Bypass rescue</title><link>http://www.mariocarrion.com/2017/03/29/til-bypass-rescue.html</link><pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2017/03/29/til-bypass-rescue.html</guid><description>&lt;p&gt;One of my job goals this sprint is to implement a new controller that internally uses our proprietary ACL and it is available &lt;strong&gt;only&lt;/strong&gt; for what we call the &lt;em&gt;Super Admin Role&lt;/em&gt;. Obviously this new code will have to be backed up by its own specs where we will be covering the two possible cases:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;When a valid user has enough permissions (super admin) to access the action, and&lt;/li&gt;
 &lt;li&gt;When a valid user does not have enough permissions to access the action.&lt;/li&gt;
@@ -234,18 +255,4 @@
 docker-compose run gem bundle exec rails generate migration create_my_table
 docker-compose run gem bundle exec rails generate scenic:view my_materialized_table --materialized
 docker-compose down
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Finished Reading: Ruby Performance Optimization</title><link>http://www.mariocarrion.com/2017/01/03/ruby-performance-optimizations.html</link><pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate><guid>http://www.mariocarrion.com/2017/01/03/ruby-performance-optimizations.html</guid><description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Real cool book: &amp;quot;Ruby Performance Optimizations&amp;quot;, I hope more people read it. &lt;a href=&#34;https://t.co/wvQ7nIjewb&#34;&gt;pic.twitter.com/wvQ7nIjewb&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mario Carrion (@mariocarrion) &lt;a href=&#34;https://twitter.com/mariocarrion/status/816507811068866561&#34;&gt;January 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;p&gt;New year 2017 starts with a &lt;a href=&#34;http://ruby-for-beginners.rubymonstas.org/objects/bangs.html&#34;&gt;bang!&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I said &lt;a href=&#34;http://www.mariocarrion.com/2016/12/31/year-in-review.html&#34;&gt;I was not going to spend any more of my time doing Ruby stuff&lt;/a&gt;, but I couldn&amp;rsquo;t pass the opportunity to read this book, I did not know for sure if it was good or bad, not a lot of information out there, but what could go wrong if I read it?&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://pragprog.com/book/adrpo/ruby-performance-optimization&#34;&gt;Ruby Performance Optimization&lt;/a&gt; was written by &lt;a href=&#34;http://www.alexdymo.com/&#34;&gt;Alexander Dymo&lt;/a&gt; and published by The Pragmatic Bookshelf in 2015, I got it during a sale and I couldn&amp;rsquo;t be any more happier after reading it.&lt;/p&gt;
-&lt;p&gt;I enjoyed the book a lot, I&amp;rsquo;m surprised is not more popular, maybe Ruby developers don&amp;rsquo;t care too much performance? Not sure. The key takeaways from this book are the following:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Using iterators incorrectly could be a reason certain code is underperforming, too much &lt;em&gt;Rubyisims&lt;/em&gt; chained together may kill the radio star.&lt;/li&gt;
-&lt;li&gt;Explicitly indicating the fact you can not, and should not, try to use Ruby for everything. Thing which for whatever reason sometimes I find difficult to understand why some Ruby developers don&amp;rsquo;t get, &lt;em&gt;some&lt;/em&gt; swear by the language and want to use it for everything. Strange.&lt;/li&gt;
-&lt;li&gt;The introduction of several profiling tools, a new one I did not know: &lt;a href=&#34;https://kcachegrind.github.io/html/Home.html&#34;&gt;KCachegrind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Several tricks using &lt;a href=&#34;https://github.com/ruby-prof/ruby-prof&#34;&gt;ruby-prof&lt;/a&gt;, a well known Ruby gem.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Confidence_interval&#34;&gt;Confidence interval&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Query Tests&lt;/em&gt;, to actually test the generated SQL, and &lt;em&gt;Benchmark Tests&lt;/em&gt; to have proper way to determine if the code degraded (or improved!) after a change.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Overall great book, I really hope all Ruby developers find it sooner than later because it covers a lot of great/fundamental topics and includes clear explanations describing how to properly benchmark code by using all the available tools. Nice.&lt;/p&gt;</description></item></channel></rss>
+&lt;/code&gt;&lt;/pre&gt;</description></item></channel></rss>

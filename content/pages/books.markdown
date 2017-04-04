@@ -17,16 +17,18 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2017: In Queue
 
-### March
+### April
 
 * [The ONE Thing](https://smile.amazon.com/dp/B00C1BHQXK)
+* [Neo4j in Action](https://www.manning.com/books/neo4j-in-action)
 
 ### Months after
 
+1. [Web Performance in Action](https://www.manning.com/books/web-performance-in-action)
+1. [Spark in Action](https://www.manning.com/books/spark-in-action)
+1. [Streaming Data](https://www.manning.com/books/streaming-data)
 1. [DevOps Automation Cookbook](https://www.packtpub.com/networking-and-servers/devops-automation-cookbook)
 1. [Introduction to Graph Theory](https://smile.amazon.com/gp/product/0486678709/)
-1. [Streaming Data](https://www.manning.com/books/streaming-data)
-1. [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials)
 1. [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
 1. [Hadoop in Practice, Second Edition](https://www.manning.com/books/hadoop-in-action-second-edition) 
 1. [React Quickly](https://www.manning.com/books/react-quickly)
@@ -38,6 +40,7 @@ All the books are sorted from the most recent read to the least recent.
 1. [Mastering JavaScript Design Patterns](https://www.packtpub.com/application-development/mastering-javascript-design-patterns)
 1. [Pig Design Patterns](https://www.packtpub.com/big-data-and-business-intelligence/pig-design-patterns)
 1. [AngularJS Services](https://www.packtpub.com/web-development/angularjs-services)
+1. [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials)
 
 ## 2017: Completed
 
