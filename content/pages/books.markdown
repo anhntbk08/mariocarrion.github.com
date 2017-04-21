@@ -13,19 +13,17 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2017: In Progress
 
-* [Ego Is the Enemy](https://smile.amazon.com/dp/B015NTIXWE)
+* [Neo4j in Action](https://www.manning.com/books/neo4j-in-action)
 
 ## 2017: In Queue
 
-### April
-
-* [The ONE Thing](https://smile.amazon.com/dp/B00C1BHQXK)
-* [Neo4j in Action](https://www.manning.com/books/neo4j-in-action)
-
-### Months after
+## May
 
 1. [Web Performance in Action](https://www.manning.com/books/web-performance-in-action)
 1. [Spark in Action](https://www.manning.com/books/spark-in-action)
+
+### Months after
+
 1. [Streaming Data](https://www.manning.com/books/streaming-data)
 1. [DevOps Automation Cookbook](https://www.packtpub.com/networking-and-servers/devops-automation-cookbook)
 1. [Introduction to Graph Theory](https://smile.amazon.com/gp/product/0486678709/)
@@ -53,6 +51,8 @@ All the books are sorted from the most recent read to the least recent.
 1. Mar 02: [AWS Lambda in Action]({{< relref "2017-03-04-aws-lambda-in-action.markdown" >}})
 1. Mar 24: [Go Design Patterns]({{< relref "2017-03-24-go-design-patterns.markdown" >}})
 1. Mar 27: [The Extraordinary Leader]({{< relref "2017-03-27-the-extraordinary-leader.markdown" >}})
+1. Apr 06: [Ego Is the Enemy]({{< relref "2017-04-06-ego-is-the-enemy.markdown" >}})
+1. Apr 16: [The ONE Thing]({{< relref "2017-04-16-the-one-thing.markdown" >}})
 
 ## 2016: Completed (31)
 
