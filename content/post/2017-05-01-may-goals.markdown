@@ -1,0 +1,30 @@
+---
+date: 2017-05-01
+title: "Goals: May 2017"
+description: "Fiith month of the year. What am I planning?"
+url: /2017/05/01/may-2017-goals.html
+---
+
+[April]({{< relref "2017-04-01-april-goals.markdown" >}}) is gone and I literally did not have enough time to _do anything_ personally. Here's last month's update and my plans for this month.
+
+### Professionally
+
+I've been really **really** busy, not bad news at all but it leaves me tired and with no energy to spend after coming home. I end up mentally exhausted and practically ready for bed. At least we are making significant and legit progress this time. Professionally that keeps my heart _warm_.
+
+### Personally
+
+I finished reading two of the planned books in April:
+
+* [Ego Is The Enemy]({{< relref "2017-04-06-ego-is-the-enemy.markdown" >}})
+* [The ONE Thing]({{< relref "2017-04-16-the-one-thing.markdown" >}})
+
+I will complete reading the other one I planed, _Neo4j in Action_, in a few days from now.
+
+### What am I planning for May 2017?
+
+I want to focus more on my soft skills with a bit of technical skills, so May 2017 will be all about completing the following books:
+
+* As a Man Thinketh
+* Web Performance in Action
+* Boundaries: When To Say Yes, How to Say No
+* Debugging Teams: Better Productivity through Collaboration

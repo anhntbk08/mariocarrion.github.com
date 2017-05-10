@@ -13,17 +13,18 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2017: In Progress
 
-* [Neo4j in Action](https://www.manning.com/books/neo4j-in-action)
+1. [Web Performance in Action](https://www.manning.com/books/web-performance-in-action)
 
 ## 2017: In Queue
 
 ## May
 
-1. [Web Performance in Action](https://www.manning.com/books/web-performance-in-action)
-1. [Spark in Action](https://www.manning.com/books/spark-in-action)
+1. [Boundaries: When To Say Yes, How to Say No](https://smile.amazon.com/dp/B000FC2K9W/)
+1. [Debugging Teams: Better Productivity through Collaboration](https://smile.amazon.com/dp/B016NDL1QE/)
 
 ### Months after
 
+1. [Spark in Action](https://www.manning.com/books/spark-in-action)
 1. [Streaming Data](https://www.manning.com/books/streaming-data)
 1. [DevOps Automation Cookbook](https://www.packtpub.com/networking-and-servers/devops-automation-cookbook)
 1. [Introduction to Graph Theory](https://smile.amazon.com/gp/product/0486678709/)
@@ -53,6 +54,8 @@ All the books are sorted from the most recent read to the least recent.
 1. Mar 27: [The Extraordinary Leader]({{< relref "2017-03-27-the-extraordinary-leader.markdown" >}})
 1. Apr 06: [Ego Is the Enemy]({{< relref "2017-04-06-ego-is-the-enemy.markdown" >}})
 1. Apr 16: [The ONE Thing]({{< relref "2017-04-16-the-one-thing.markdown" >}})
+1. May 03: [Neo4j in Action]({{< relref "2017-05-03-neo4j-in-action.markdown" >}})
+1. May 09: [As a Man Thinketh]({{< relref "2017-05-09-as-a-man-thinketh.markdown" >}})
 
 ## 2016: Completed (31)
 
