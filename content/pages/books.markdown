@@ -13,13 +13,12 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2017: In Progress
 
-1. [Web Performance in Action](https://www.manning.com/books/web-performance-in-action)
+1. [Boundaries: When To Say Yes, How to Say No](https://smile.amazon.com/dp/B000FC2K9W/)
 
 ## 2017: In Queue
 
 ## May
 
-1. [Boundaries: When To Say Yes, How to Say No](https://smile.amazon.com/dp/B000FC2K9W/)
 1. [Debugging Teams: Better Productivity through Collaboration](https://smile.amazon.com/dp/B016NDL1QE/)
 
 ### Months after
@@ -56,6 +55,7 @@ All the books are sorted from the most recent read to the least recent.
 1. Apr 16: [The ONE Thing]({{< relref "2017-04-16-the-one-thing.markdown" >}})
 1. May 03: [Neo4j in Action]({{< relref "2017-05-03-neo4j-in-action.markdown" >}})
 1. May 09: [As a Man Thinketh]({{< relref "2017-05-09-as-a-man-thinketh.markdown" >}})
+1. May 26: [Web Performance in Action]({{< relref "2017-05-26-web-performance-in-action.markdown" >}})
 
 ## 2016: Completed (31)
 
