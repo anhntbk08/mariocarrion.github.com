@@ -1,7 +1,7 @@
 ---
 date: 2017-05-01
 title: "Goals: May 2017"
-description: "Fiith month of the year. What am I planning?"
+description: "Fifth month of the year. What am I planning?"
 url: /2017/05/01/may-2017-goals.html
 ---
 

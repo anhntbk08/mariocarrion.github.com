@@ -17,14 +17,14 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2017: In Queue
 
-## May
+## June
 
 1. [Debugging Teams: Better Productivity through Collaboration](https://smile.amazon.com/dp/B016NDL1QE/)
+1. [Streaming Data](https://www.manning.com/books/streaming-data)
 
 ### Months after
 
 1. [Spark in Action](https://www.manning.com/books/spark-in-action)
-1. [Streaming Data](https://www.manning.com/books/streaming-data)
 1. [DevOps Automation Cookbook](https://www.packtpub.com/networking-and-servers/devops-automation-cookbook)
 1. [Introduction to Graph Theory](https://smile.amazon.com/gp/product/0486678709/)
 1. [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
