@@ -13,13 +13,12 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2017: In Progress
 
-1. [Boundaries: When To Say Yes, How to Say No](https://smile.amazon.com/dp/B000FC2K9W/)
+1. [Debugging Teams: Better Productivity through Collaboration](https://smile.amazon.com/dp/B016NDL1QE/)
 
 ## 2017: In Queue
 
 ## June
 
-1. [Debugging Teams: Better Productivity through Collaboration](https://smile.amazon.com/dp/B016NDL1QE/)
 1. [Streaming Data](https://www.manning.com/books/streaming-data)
 
 ### Months after
@@ -56,6 +55,7 @@ All the books are sorted from the most recent read to the least recent.
 1. May 03: [Neo4j in Action]({{< relref "2017-05-03-neo4j-in-action.markdown" >}})
 1. May 09: [As a Man Thinketh]({{< relref "2017-05-09-as-a-man-thinketh.markdown" >}})
 1. May 26: [Web Performance in Action]({{< relref "2017-05-26-web-performance-in-action.markdown" >}})
+1. Jun 14: [Boundaries: When To Say Yes, How to Say No]({{< relref "2017-06-14-boundaries.markdown" >}})
 
 ## 2016: Completed (31)
 
