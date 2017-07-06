@@ -13,21 +13,23 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2017: In Progress
 
-1. [Debugging Teams: Better Productivity through Collaboration](https://smile.amazon.com/dp/B016NDL1QE/)
+1. [The Obstacle Is the Way](https://smile.amazon.com/gp/product/B00G3L1B8K/)
 
 ## 2017: In Queue
 
-## June
+### July
 
+1. [The 7 Habits of Highly Effective People](https://smile.amazon.com/dp/B01069X4H0/)
+1. [The Power of Habit](https://smile.amazon.com/dp/B0055PGUYU/)
 1. [Streaming Data](https://www.manning.com/books/streaming-data)
 
 ### Months after
 
+1. [Hadoop in Practice, Second Edition](https://www.manning.com/books/hadoop-in-action-second-edition) 
 1. [Spark in Action](https://www.manning.com/books/spark-in-action)
 1. [DevOps Automation Cookbook](https://www.packtpub.com/networking-and-servers/devops-automation-cookbook)
 1. [Introduction to Graph Theory](https://smile.amazon.com/gp/product/0486678709/)
 1. [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
-1. [Hadoop in Practice, Second Edition](https://www.manning.com/books/hadoop-in-action-second-edition) 
 1. [React Quickly](https://www.manning.com/books/react-quickly)
 1. [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
 1. [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
@@ -56,6 +58,7 @@ All the books are sorted from the most recent read to the least recent.
 1. May 09: [As a Man Thinketh]({{< relref "2017-05-09-as-a-man-thinketh.markdown" >}})
 1. May 26: [Web Performance in Action]({{< relref "2017-05-26-web-performance-in-action.markdown" >}})
 1. Jun 14: [Boundaries: When To Say Yes, How to Say No]({{< relref "2017-06-14-boundaries.markdown" >}})
+1. Jun 26: [Debugging Teams: Better Productivity through Collaboration]({{< relref "2017-06-26-debugging-teams.markdown" >}})
 
 ## 2016: Completed (31)
 
