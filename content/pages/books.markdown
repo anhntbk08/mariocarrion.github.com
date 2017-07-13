@@ -13,7 +13,7 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2017: In Progress
 
-1. [The Obstacle Is the Way](https://smile.amazon.com/gp/product/B00G3L1B8K/)
+1. [Streaming Data](https://www.manning.com/books/streaming-data)
 
 ## 2017: In Queue
 
@@ -21,7 +21,6 @@ All the books are sorted from the most recent read to the least recent.
 
 1. [The 7 Habits of Highly Effective People](https://smile.amazon.com/dp/B01069X4H0/)
 1. [The Power of Habit](https://smile.amazon.com/dp/B0055PGUYU/)
-1. [Streaming Data](https://www.manning.com/books/streaming-data)
 
 ### Months after
 
@@ -59,6 +58,7 @@ All the books are sorted from the most recent read to the least recent.
 1. May 26: [Web Performance in Action]({{< relref "2017-05-26-web-performance-in-action.markdown" >}})
 1. Jun 14: [Boundaries: When To Say Yes, How to Say No]({{< relref "2017-06-14-boundaries.markdown" >}})
 1. Jun 26: [Debugging Teams: Better Productivity through Collaboration]({{< relref "2017-06-26-debugging-teams.markdown" >}})
+1. Jul 11: [The Obstacle Is the Way]({{< relref "2017-07-11-the-obstacle-is-the-way.markdown" >}})
 
 ## 2016: Completed (31)
 
