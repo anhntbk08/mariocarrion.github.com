@@ -17,7 +17,7 @@ Sadly I could not read all the books I planned, the leftover from June ([Boundar
 
 In other good news, I posted about using [JSON Arrays]({{< relref "2017-06-06-rails-5-json-array-fields-for.markdown" >}}) in Rails 5, my first Rails 5 experience and actually the first time I build a new app from scratch since Rails 2, this post gave me the perfect excuse to see the new defaults, there's [a github repo](https://github.com/MarioCarrion/json-array-fields-for) as well.
 
-### What am I planning for June 2017?
+### What am I planning for July 2017?
 
 Complete the book I missed last month (_Streaming Data_), also read the following:
 
