@@ -1,0 +1,23 @@
+---
+date: 2017-09-05
+title: "Finished Reading: The 7 Habits of Highly Effective People"
+description: "How good or bad is this book?"
+url: /2017/09/05/the-the-7-habits-of-highly-effective-people.html
+---
+
+{{< tweet 905032322474528769 >}}
+
+I thought [_The 7 Habits of Highly Effective People_](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People) will be similar to [The Power of Habit]({{< relref "2017-08-15-the-power-of-habit.markdown" >}}), I was wrong.
+
+I did not plan to read _The 7 Habits of Highly Effective People_ after _The Power of Habit_, but I'm glad I did because both books complement each other, and to me this one depends on the knowledge you gain from the latter.
+
+There are lot of topics covered that definetly make you look at things from a different perspective:
+
+* _Begin with the end in mind_
+* _The Circle of Concern_
+* _The work will come again, but childhood won't_
+* [_Parapeto Principle_](https://en.wikipedia.org/wiki/Pareto_principle)
+
+The actual 7 Habits are really useful for properly managing your priorities, having a better personal and work relationships and constant self-improvement. It is a long book but every minute spent reading is well worth it.
+
+{{< tweet 905259772647178240 >}}
