@@ -11,32 +11,10 @@ The list contains direct links to the places where you could buy the books at th
 
 All the books are sorted from the most recent read to the least recent.
 
-## 2017: In Progress
+## 2017: Queue
 
-1. [The 7 Habits of Highly Effective People](https://smile.amazon.com/dp/B01069X4H0/)
-
-## 2017: In Queue
-
-### August
-
-
-### Months after
-
-1. [Hadoop in Practice, Second Edition](https://www.manning.com/books/hadoop-in-action-second-edition) 
-1. [Spark in Action](https://www.manning.com/books/spark-in-action)
-1. [DevOps Automation Cookbook](https://www.packtpub.com/networking-and-servers/devops-automation-cookbook)
-1. [Introduction to Graph Theory](https://smile.amazon.com/gp/product/0486678709/)
-1. [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)
-1. [React Quickly](https://www.manning.com/books/react-quickly)
-1. [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
-1. [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
-1. [MongoDB Data Modeling](https://www.packtpub.com/big-data-and-business-intelligence/mongodb-data-modeling)
-1. [Learning Web Component Development](https://www.packtpub.com/web-development/learning-web-component-development)
-1. [Responsive Web Design by Example: Beginner's Guide](https://www.packtpub.com/web-development/responsive-web-design-example)
-1. [Mastering JavaScript Design Patterns](https://www.packtpub.com/application-development/mastering-javascript-design-patterns)
-1. [Pig Design Patterns](https://www.packtpub.com/big-data-and-business-intelligence/pig-design-patterns)
-1. [AngularJS Services](https://www.packtpub.com/web-development/angularjs-services)
-1. [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials)
+* [Building Microservices](https://smile.amazon.com/gp/product/1491950358/)
+* [Designing Data-Intensive Applications](https://smile.amazon.com/gp/product/1449373321/)
 
 ## 2017: Completed
 
@@ -59,6 +37,8 @@ All the books are sorted from the most recent read to the least recent.
 1. Jul 11: [The Obstacle Is the Way]({{< relref "2017-07-11-the-obstacle-is-the-way.markdown" >}})
 1. Jul 24: [Streaming Data]({{< relref "2017-07-24-streaming-data.markdown" >}})
 1. Aug 15: [The Power of Habit]({{< relref "2017-08-15-the-power-of-habit.markdown" >}})
+1. Sep 05: [The 7 Habits of Highly Effective People]({{< relref "2017-09-05-the-7-habits.markdown" >}})
+1. Sep 15: [The Healthy Programmer]({{< relref "2017-09-15-the-healthy-programmer.markdown" >}})
 
 ## 2016: Completed (31)
 
