@@ -1,0 +1,32 @@
+---
+date: 2017-09-25
+title: "LUA Tips"
+description: "LUA and Redis"
+url: /2017/09/25/lua-tips.html
+---
+
+Back in 2014 I faced an interesting challenge regarding the way we where handling millions of concurrent events. Those events are aggregated in real-time to, then, be used in a following process that in the end it's used for our final decisioning process (that's the TLDR version, more stuff happens).
+
+Because we introduced a new product, that behaved differently, all of this was not working the way we expected, not to mention requests were increasing significantly day by day. We were running out of time.
+
+Perfect storm to say the least.
+
+The _funny thing_ is that I had the solution right in front of my nose: LUA. We had the experience of running Redis in production for a few years already, I knew Redis worked nicely but this was the first time to use the embedded LUA. Long story short: it was a great decision.
+
+It's going to be 3 years this December and the honeymoon is not over year, as a matter of fact I recently replaced some sections of our decisioning code with LUA and Redis. The results were phenomenal: latency went down (like 50%), overall resources usage went down (EC2 Instances and network internal traffic), throughput duplicated and our Apdex went from 0.5 to .95. 
+
+Cool beans.
+
+# Development
+
+Developing in LUA it's not complex, the language is simple and the documentation is easy to follow. Important things to remember are:
+
+* There's only one data structure: **table**, but you can implement all others (maps, queues, arrays, etcetera) easily using that one.
+* Indexes start at 1: `_yes[1]_`
+* Beware of Redis+LUA versioning, specially if you use msgpack to communicate with Ruby (or any other language), there are few bugs that depend on your Redis version: [Support str8](https://github.com/antirez/lua-cmsgpack/pull/44) and [@user_script:6 Bad data format in input](https://github.com/antirez/lua-cmsgpack/issues/51).
+
+Regarding tools, everything is available for Mac (via Homebrew), in the end everything has to be installed using [luarocks](https://luarocks.org/) and this seems to be the case for Linux as well.
+
+For testing ([busted](https://olivinelabs.com/busted/)) and code coverage ([luacov](https://keplerproject.github.io/luacov/)) are the way to go. The trick for making sure your LUA code works correctly is to write your tests in LUA (obviously) and then mimic the internal Redis calls through a function, basically using as template the [work done](https://gist.github.com/suprememoocow/4e36e6f29ee07160d42c) by [Andrew Newdigate](http://blog.gitter.im/2015/01/13/testing-redis-lua-scripts/).
+
+Word of advice: not all Redis commands are available in that harness [LUA function](https://gist.github.com/suprememoocow/4e36e6f29ee07160d42c#file-harness-lua-L19) so if you happen to need to access to a new command, like [exists](https://redis.io/commands/exists), you will need to write a tiny wrapper around, it shouldn't be that difficult.
