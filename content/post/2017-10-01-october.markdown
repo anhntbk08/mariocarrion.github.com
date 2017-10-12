@@ -1,0 +1,22 @@
+---
+date: 2017-10-01
+title: "Goals: October 2017"
+description: "Tenth month of the year. What am I planning?"
+url: /2017/10/01/october-2017-goals.html
+---
+
+[September]({{< relref "2017-09-01-september-goals.markdown" >}}) seems to be the month where I started to improve my health, at least that's my idea. How was September then?
+
+### Professionally
+
+_**The** Global Unification_ is still a work in progress, no real progress has made, except a few personal ideas that I want to implement soon, that's practically it. Ideally this month I will start working on that, we'll see.
+
+### Personally
+
+I completed 2 books last month: [The 7 Habits of Highly Effective People]({{< relref "2017-09-05-the-7-habits.markdown" >}}) and [The Healthy Programmer]({{< relref "2017-09-15-the-healthy-programmer.markdown" >}}); and almost completed [Building Microservices](https://smile.amazon.com/gp/product/1491950358/).
+
+I was able to make a post about [LUA]({{< relref "2017-09-25-lua.markdown" >}}), really relevant because I made some changes that made our most important Web Service about 50% faster, really cool stuff, I'm really happy with the results.
+
+### What am I planning for October 2017?
+
+Complete _Building Microservices_, read at least one more and work out at least 20 days.

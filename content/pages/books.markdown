@@ -13,7 +13,7 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2017: Queue
 
-* [Building Microservices](https://smile.amazon.com/gp/product/1491950358/)
+* [Building Microservices with Go](https://www.packtpub.com/application-development/building-microservices-go)
 * [Designing Data-Intensive Applications](https://smile.amazon.com/gp/product/1449373321/)
 
 ## 2017: Completed
@@ -39,6 +39,7 @@ All the books are sorted from the most recent read to the least recent.
 1. Aug 15: [The Power of Habit]({{< relref "2017-08-15-the-power-of-habit.markdown" >}})
 1. Sep 05: [The 7 Habits of Highly Effective People]({{< relref "2017-09-05-the-7-habits.markdown" >}})
 1. Sep 15: [The Healthy Programmer]({{< relref "2017-09-15-the-healthy-programmer.markdown" >}})
+1. Oct 11: [Building Microservices]({{< relref "2017-10-11-building-microservices.markdown" >}})
 
 ## 2016: Completed (31)
 
