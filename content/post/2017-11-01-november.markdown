@@ -1,0 +1,24 @@
+---
+date: 2017-11-01
+title: "Goals: November 2017"
+description: "Eleventh month of the year. What am I planning?"
+url: /2017/11/01/november-2017-goals.html
+---
+
+Two more months and I will complete the plan I started (not intentionally) in [June 2015]({{< relref "2015-06-23-books-mid-year-update.markdown" >}}), almost 3 years of doing this _monthly review_. Exciting times ahead.
+
+What did I accomplish [last month]({{< relref "2017-10-01-october.markdown" >}})?
+
+### Professionally
+
+I'm _still_ improving what we built during the last 3 years, making everything faster and adding some fancy new features, fixing and improving, rinse and repeat.
+
+### Personally
+
+I was able to finish reading two books, both of them cover _building microservices_: [Building Microservices]({{< relref "2017-10-11-building-microservices.markdown" >}}) and [Building Microservices with Go]({{< relref "2017-10-24-building-microservices-with-go.markdown" >}}); and I already started reading two books already: [Mastering Kubernetes](https://www.packtpub.com/virtualization-and-cloud/mastering-kubernetes) and [Bigger Leaner Stronger](https://smile.amazon.com/gp/product/B006XF5BTG).
+
+I did blog about [Gitlab CI Services]({{< relref "2017-10-16-gitlab-ci-services.markdown" >}}) and I'm still working on a new post related to [Database Tasks](https://github.com/MarioCarrion/active-record-tasks-example) which should be posted this month.
+
+### What am I planning for November 2017?
+
+Complete the two books I already started reading, workout more and more; and rest. I must rest and recharge.
