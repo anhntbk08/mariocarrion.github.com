@@ -40,6 +40,7 @@ All the books are sorted from the most recent read to the least recent.
 1. Sep 05: [The 7 Habits of Highly Effective People]({{< relref "2017-09-05-the-7-habits.markdown" >}})
 1. Sep 15: [The Healthy Programmer]({{< relref "2017-09-15-the-healthy-programmer.markdown" >}})
 1. Oct 11: [Building Microservices]({{< relref "2017-10-11-building-microservices.markdown" >}})
+1. November: _Mastering Kubernetes_ and _Bigger Leaner Stronger_.
 
 ## 2016: Completed (31)
 
