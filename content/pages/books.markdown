@@ -11,12 +11,15 @@ The list contains direct links to the places where you could buy the books at th
 
 All the books are sorted from the most recent read to the least recent.
 
-## 2017: Queue
+## 2018: Queue
 
-* [Building Microservices with Go](https://www.packtpub.com/application-development/building-microservices-go)
 * [Designing Data-Intensive Applications](https://smile.amazon.com/gp/product/1449373321/)
 
-## 2017: Completed
+## 2018: Completed
+
+1. Nothing yet! Wait for it!
+
+## 2017: Completed (26)
 
 1. Jan 03: [Ruby Performance Optimization]({{< relref "2017-01-03-ruby-performance-optimizations.markdown" >}})
 1. Jan 11: [Monitoring Docker]({{< relref "2017-01-11-monitoring-docker.markdown" >}})
@@ -41,6 +44,7 @@ All the books are sorted from the most recent read to the least recent.
 1. Sep 15: [The Healthy Programmer]({{< relref "2017-09-15-the-healthy-programmer.markdown" >}})
 1. Oct 11: [Building Microservices]({{< relref "2017-10-11-building-microservices.markdown" >}})
 1. November: _Mastering Kubernetes_ and _Bigger Leaner Stronger_.
+1. December: _Building Microservices with Go_ and _Go Systems Programming_.
 
 ## 2016: Completed (31)
 

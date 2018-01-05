@@ -1,79 +1,77 @@
 <!doctype html><html lang=en><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Mario Carrion - Migrating to Gitlab CI Services</title><meta name=author content="Mario Carrion"><meta name=description content="The blog of Mario Carrion"><link rel=canonical href=http://www.mariocarrion.com/2017/10/16/gitlab-ci-services.html><link href="//fonts.googleapis.com/css?family=Inconsolata:400,700" rel=stylesheet><link rel="shortcut icon" href=/favicon.png><link rel=stylesheet href=/css/base.css><link rel=stylesheet href=/css/skeleton.css><link rel=stylesheet href=/css/screen.css><link rel=stylesheet href=/css/layout.css><link rel=stylesheet href=//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css><div class=container><div class="four columns sidebar"><nav><h1>Hello stranger!</h1><a href=/><img src=/images/logo.png id=logo alt="Blog logo" class=circular></a><h1>I&#39;m <a href=/about.html>Mario Carrion</a></h1><hr><ul id=blog-pages class=posts><li><span>&raquo; </span><a href=/about.html>About me</a><li><span>&raquo; </span><a href=/books.html>Books</a><li><span>&raquo; </span><a href=/disclaimer.html>Disclaimer</a><li><span>&raquo; </span><a href=https://docs.google.com/document/d/1i0W6qNfGMhTfwWTHBaaKzlN9HLGwbk3GLeh8VtVlhNM>Resume</a><li><span>&raquo; </span><a href=/archive.html#2017>All posts in 2017</a></ul><div id=social><div id=stalker><a href=https://github.com/MarioCarrion><i class="fa fa-github-square"></i></a><a href=http://stackoverflow.com/users/134327><i class="fa fa-stack-overflow"></i></a><a href=https://twitter.com/mariocarrion><i class="fa fa-twitter-square"></i></a><a href=https://www.linkedin.com/in/mariocarrion><i class="fa fa-linkedin-square"></i></a></div></div></nav></div><div class="eleven columns content"><p class=meta>Oct 16, 2017
-<a href=/><i class="home fa fa-home"></i></a><h1 class=title>Migrating to Gitlab CI Services</h1><div id=post><p>We have been a happy <a href=https://about.gitlab.com/>Gitlab</a> customer for more than 3 years and, today, as a coincidence we celebrate our first year using Gitlab CI!<p>In the beginning, before the Gitlab CI and Gitlab tight integration, we used the Jenkins integration to build, test and deploy our code, it worked but it that was painful considering all the maintenance tasks related to Jenkins alone, but that is a story for a different post.<p>I&rsquo;m a huge fan of <strong>Gitlab CI</strong>, <a href=https://about.gitlab.com/2015/05/06/why-were-replacing-gitlab-ci-jobs-with-gitlab-ci-dot-yml/>its integration with Gitlab</a> is phenomenal, as a matter of fact we just recently enabled the <a href=https://gitlab.com/gitlab-org/gitlab-runner/blob/master/docs/configuration/autoscale.md>autoscale option</a> for our gitlab runners to speed up our development process and so far, everything has been a joyful ride.<p>One thing I discovered while reading about that feature is that there&rsquo;s an option for using <a href=https://docs.gitlab.com/ce/ci/docker/using_docker_images.html>Docker Images</a> for testing and building; funny thing is that we where doing that already with Docker Compose together with a bunch of Gitlab Runners using <a href=https://docs.gitlab.com/runner/executors/README.html>Shell Executors</a>.<p>The interesting thing about the <strong>Docker Images&rsquo;</strong> configuration is the support for something Gitlab calls <a href=https://docs.gitlab.com/ce/ci/docker/using_docker_images.html#what-is-a-service>services</a> which are (kind of) similar to the <a href=https://docs.docker.com/compose/compose-file/#service-configuration-reference>Docker Compose Services</a>, with a few exceptions and limitations.<p>For example, having a <code>docker-compose.yml</code> file that looks like this:<div class=highlight style=background:#272822><pre style=line-height:125%><span></span><span style=color:#ae81ff>version</span><span style=color:#f8f8f2>:</span> <span style=color:#e6db74>&quot;2&quot;</span>
-<span style=color:#ae81ff>services</span><span style=color:#f8f8f2>:</span>
-  <span style=color:#ae81ff>my_ruby_app</span><span style=color:#f8f8f2>:</span>
-    <span style=color:#ae81ff>build</span><span style=color:#f8f8f2>:</span>
-      <span style=color:#ae81ff>dockerfile</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>Dockerfile</span>
-      <span style=color:#ae81ff>context</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>.</span>
-    <span style=color:#ae81ff>image</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>mataleon_sp:$CI_BUILD_REF</span>
-    <span style=color:#ae81ff>command</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>pwd</span>
-    <span style=color:#ae81ff>environment</span><span style=color:#f8f8f2>:</span>
-      <span style=color:#ae81ff>RAILS_ENV</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>test</span>
-    <span style=color:#ae81ff>depends_on</span><span style=color:#f8f8f2>:</span>
-      <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>mysql</span>
+<a href=/><i class="home fa fa-home"></i></a><h1 class=title>Migrating to Gitlab CI Services</h1><div id=post><p>We have been a happy <a href=https://about.gitlab.com/>Gitlab</a> customer for more than 3 years and, today, as a coincidence we celebrate our first year using Gitlab CI!<p>In the beginning, before the Gitlab CI and Gitlab tight integration, we used the Jenkins integration to build, test and deploy our code, it worked but it that was painful considering all the maintenance tasks related to Jenkins alone, but that is a story for a different post.<p>I&rsquo;m a huge fan of <strong>Gitlab CI</strong>, <a href=https://about.gitlab.com/2015/05/06/why-were-replacing-gitlab-ci-jobs-with-gitlab-ci-dot-yml/>its integration with Gitlab</a> is phenomenal, as a matter of fact we just recently enabled the <a href=https://gitlab.com/gitlab-org/gitlab-runner/blob/master/docs/configuration/autoscale.md>autoscale option</a> for our gitlab runners to speed up our development process and so far, everything has been a joyful ride.<p>One thing I discovered while reading about that feature is that there&rsquo;s an option for using <a href=https://docs.gitlab.com/ce/ci/docker/using_docker_images.html>Docker Images</a> for testing and building; funny thing is that we where doing that already with Docker Compose together with a bunch of Gitlab Runners using <a href=https://docs.gitlab.com/runner/executors/README.html>Shell Executors</a>.<p>The interesting thing about the <strong>Docker Images&rsquo;</strong> configuration is the support for something Gitlab calls <a href=https://docs.gitlab.com/ce/ci/docker/using_docker_images.html#what-is-a-service>services</a> which are (kind of) similar to the <a href=https://docs.docker.com/compose/compose-file/#service-configuration-reference>Docker Compose Services</a>, with a few exceptions and limitations.<p>For example, having a <code>docker-compose.yml</code> file that looks like this:<div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-yaml data-lang=yaml>version: <span style=color:#e6db74>&#34;2&#34;</span>
+services:
+  my_ruby_app:
+    build:
+      dockerfile: Dockerfile
+      context: .
+    image: mataleon_sp:$CI_BUILD_REF
+    command: pwd
+    environment:
+      RAILS_ENV: test
+    depends_on:
+      - mysql
 
-  <span style=color:#ae81ff>mysql</span><span style=color:#f8f8f2>:</span>
-    <span style=color:#ae81ff>image</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>mysql:5.7.16</span>
-    <span style=color:#ae81ff>ports</span><span style=color:#f8f8f2>:</span>
-      <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>3306</span>
-    <span style=color:#ae81ff>environment</span><span style=color:#f8f8f2>:</span>
-      <span style=color:#ae81ff>MYSQL_ROOT_PASSWORD</span><span style=color:#f8f8f2>:</span> <span style=color:#e6db74>&quot;&quot;</span>
-      <span style=color:#ae81ff>MYSQL_ALLOW_EMPTY_PASSWORD</span><span style=color:#f8f8f2>:</span> <span style=color:#e6db74>&quot;yes&quot;</span>
-    <span style=color:#ae81ff>volumes</span><span style=color:#f8f8f2>:</span>
-      <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>${PWD}/sql/:/docker-entrypoint-initdb.d/</span>
-</pre></div><p>Could be, easily, translated and integrated into Gitlab CI like this:<div class=highlight style=background:#272822><pre style=line-height:125%><span></span><span style=color:#ae81ff>variables</span><span style=color:#f8f8f2>:</span>
-  <span style=color:#ae81ff>RAILS_ENV</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>test</span>
-  <span style=color:#ae81ff>MYSQL_ROOT_PASSWORD</span><span style=color:#f8f8f2>:</span> <span style=color:#e6db74>&quot;&quot;</span>
-  <span style=color:#ae81ff>MYSQL_ALLOW_EMPTY_PASSWORD</span><span style=color:#f8f8f2>:</span> <span style=color:#e6db74>&quot;yes&quot;</span>
-  <span style=color:#ae81ff>CONTAINER_SHA_IMAGE</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>gitlab-registry.internal.company/namespace/fancy_project:$CI_BUILD_REF</span>
+  mysql:
+    image: mysql:<span style=color:#ae81ff>5.7</span>.<span style=color:#ae81ff>16</span>
+    ports:
+      - <span style=color:#ae81ff>3306</span>
+    environment:
+      MYSQL_ROOT_PASSWORD: <span style=color:#e6db74>&#34;&#34;</span>
+      MYSQL_ALLOW_EMPTY_PASSWORD: <span style=color:#e6db74>&#34;yes&#34;</span>
+    volumes:
+      - ${PWD}/sql/:/docker-entrypoint-initdb.d/</code></pre></div><p>Could be, easily, translated and integrated into Gitlab CI like this:<div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-yaml data-lang=yaml>variables:
+  RAILS_ENV: test
+  MYSQL_ROOT_PASSWORD: <span style=color:#e6db74>&#34;&#34;</span>
+  MYSQL_ALLOW_EMPTY_PASSWORD: <span style=color:#e6db74>&#34;yes&#34;</span>
+  CONTAINER_SHA_IMAGE: gitlab-registry.internal.company/namespace/fancy_project:$CI_BUILD_REF
 
-<span style=color:#ae81ff>services</span><span style=color:#f8f8f2>:</span>
-<span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>name</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>mysql:5.7.16</span>
-  <span style=color:#ae81ff>alias</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>mysql</span>
+services:
+- name: mysql:<span style=color:#ae81ff>5.7</span>.<span style=color:#ae81ff>16</span>
+  alias: mysql
 
-<span style=color:#ae81ff>stages</span><span style=color:#f8f8f2>:</span>
-<span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>build</span>
-<span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>test</span>
-<span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>deploy</span>
+stages:
+- build
+- test
+- deploy
 
-<span style=color:#ae81ff>build_docker_image</span><span style=color:#f8f8f2>:</span>
-  <span style=color:#ae81ff>stage</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>build</span>
-  <span style=color:#ae81ff>script</span><span style=color:#f8f8f2>:</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>docker login -p $DOCKER_PASSWORD -u $DOCKER_USER gitlab-registry.internal.company</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>docker build -t $CONTAINER_SHA_IMAGE -f Dockerfile .</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>docker push $CONTAINER_SHA_IMAGE</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>docker rmi -f $CONTAINER_SHA_IMAGE</span>
-  <span style=color:#ae81ff>tags</span><span style=color:#f8f8f2>:</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>regular</span>
-  <span style=color:#ae81ff>except</span><span style=color:#f8f8f2>:</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>master</span>
+build_docker_image:
+  stage: build
+  script:
+    - docker login -p $DOCKER_PASSWORD -u $DOCKER_USER gitlab-registry.internal.company
+    - docker build -t $CONTAINER_SHA_IMAGE -f Dockerfile .
+    - docker push $CONTAINER_SHA_IMAGE
+    - docker rmi -f $CONTAINER_SHA_IMAGE
+  tags:
+    - regular
+  except:
+    - master
 
-<span style=color:#ae81ff>specs</span><span style=color:#f8f8f2>:</span>
-  <span style=color:#ae81ff>image</span><span style=color:#f8f8f2>:</span> <span style=color:#e6db74>&quot;$CONTAINER_SHA_IMAGE&quot;</span>
-  <span style=color:#ae81ff>script</span><span style=color:#f8f8f2>:</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>./bin/ci_specs.sh</span>
-  <span style=color:#ae81ff>stage</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>test</span>
-  <span style=color:#ae81ff>tags</span><span style=color:#f8f8f2>:</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>autoscale</span>
+specs:
+  image: <span style=color:#e6db74>&#34;$CONTAINER_SHA_IMAGE&#34;</span>
+  script:
+    - ./bin/ci_specs.sh
+  stage: test
+  tags:
+    - autoscale
 
-<span style=color:#ae81ff>lint</span><span style=color:#f8f8f2>:</span>
-  <span style=color:#ae81ff>image</span><span style=color:#f8f8f2>:</span> <span style=color:#e6db74>&quot;$CONTAINER_SHA_IMAGE&quot;</span>
-  <span style=color:#ae81ff>script</span><span style=color:#f8f8f2>:</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>./bin/ci_lint.sh</span>
-  <span style=color:#ae81ff>stage</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>test</span>
-  <span style=color:#ae81ff>tags</span><span style=color:#f8f8f2>:</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>autoscale</span>
+lint:
+  image: <span style=color:#e6db74>&#34;$CONTAINER_SHA_IMAGE&#34;</span>
+  script:
+    - ./bin/ci_lint.sh
+  stage: test
+  tags:
+    - autoscale
 
-<span style=color:#ae81ff>deploy</span><span style=color:#f8f8f2>:</span>
-  <span style=color:#ae81ff>image</span><span style=color:#f8f8f2>:</span> <span style=color:#e6db74>&quot;$CONTAINER_SHA_IMAGE&quot;</span>
-  <span style=color:#ae81ff>script</span><span style=color:#f8f8f2>:</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>./bin/ci_deploy.sh</span>
-  <span style=color:#ae81ff>stage</span><span style=color:#f8f8f2>:</span> <span style=color:#ae81ff>deploy</span>
-  <span style=color:#ae81ff>tags</span><span style=color:#f8f8f2>:</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>autoscale</span>
-  <span style=color:#ae81ff>only</span><span style=color:#f8f8f2>:</span>
-    <span style=color:#f8f8f2>-</span> <span style=color:#ae81ff>master</span>
-</pre></div><p>Important bits to notice in the final <code>.gitlab-ci.yml</code> file are:<ul><li>The calls to some hypothetical scripts (like <code>./bin/ci_lint.sh</code> and <code>./bin/ci_deploy.sh</code>) that happen to be using a dynamic <code>image</code> defined in the environment variable <code>$CONTAINER_SHA_IMAGE</code>, previously built during <em>build</em> stage.<li>How the two other environment variables <code>MYSQL_ROOT_PASSWORD</code> and <code>MYSQL_ALLOW_EMPTY_PASSWORD</code> are now part of the <code>variables</code> section, to then be used by the mysql container; and<li>The use of two different tags (<code>autoscale</code> and <code>shared</code>) the latter used for building and pushing the docker image that then in used by the jobs using the former tag.</ul><p>Although <code>services</code> supports some <a href=https://docs.gitlab.com/ce/ci/docker/using_docker_images.html#extended-docker-configuration-options>extended Docker options</a>, there&rsquo;s one that (at the moment) is not supported: volume mounting. So our <code>mysql</code> service can not mount the following directly:<pre><code>volumes:
+deploy:
+  image: <span style=color:#e6db74>&#34;$CONTAINER_SHA_IMAGE&#34;</span>
+  script:
+    - ./bin/ci_deploy.sh
+  stage: deploy
+  tags:
+    - autoscale
+  only:
+    - master</code></pre></div><p>Important bits to notice in the final <code>.gitlab-ci.yml</code> file are:<ul><li>The calls to some hypothetical scripts (like <code>./bin/ci_lint.sh</code> and <code>./bin/ci_deploy.sh</code>) that happen to be using a dynamic <code>image</code> defined in the environment variable <code>$CONTAINER_SHA_IMAGE</code>, previously built during <em>build</em> stage.<li>How the two other environment variables <code>MYSQL_ROOT_PASSWORD</code> and <code>MYSQL_ALLOW_EMPTY_PASSWORD</code> are now part of the <code>variables</code> section, to then be used by the mysql container; and<li>The use of two different tags (<code>autoscale</code> and <code>shared</code>) the latter used for building and pushing the docker image that then in used by the jobs using the former tag.</ul><p>Although <code>services</code> supports some <a href=https://docs.gitlab.com/ce/ci/docker/using_docker_images.html#extended-docker-configuration-options>extended Docker options</a>, there&rsquo;s one that (at the moment) is not supported: volume mounting. So our <code>mysql</code> service can not mount the following directly:<pre><code>volumes:
   - ${PWD}/sql/:/docker-entrypoint-initdb.d/
 </code></pre><p>The obvious (and best) way to replace that volume mounting is with Database Migrations, because in the end what happens with that specific MySQL container and path is the execution of some arbitrary SQL script(s) when the container is being created.<p>Gitlab CI <strong>is great</strong>.</div><div id=related><h3>Posts</h3><ul class=posts><li><a href=/archive.html#2017>All posts this year 2017</a></ul><ul class=posts><li><span>Oct 11, 2017</span> <a href=http://www.mariocarrion.com/2017/10/11/building-microservices.html>Finished Reading: Building Microservices</a><li><span>Oct 24, 2017</span> <a href=http://www.mariocarrion.com/2017/10/29/building-microservices-with-go.html>Finished Reading: Building Microservices with Go</a></ul></div><div class=footer><div class=disclaimer><p>The postings on this site are my own and do not represent my
 <a href=http://www.meredith.com/>employer's</a> positions, strategies or opinions.<p>&copy; Mario Carrion, 2004-2016 &mdash; built with <a href=https://gohugo.io/>Hugo</a> using a heavily modified version of <a href=https://github.com/swanson/lagom>Lagom theme</a></div></div></div></div><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-75640250-1','auto');ga('send','pageview');</script>
