@@ -14,6 +14,7 @@ All the books are sorted from the most recent read to the least recent.
 ## 2018: Queue
 
 * [Designing Data-Intensive Applications](https://smile.amazon.com/gp/product/1449373321/)
+* [Building Evolutionary Architectures: Support Constant Change](https://smile.amazon.com/gp/product/1491986360/)
 
 ## 2018: Completed
 
