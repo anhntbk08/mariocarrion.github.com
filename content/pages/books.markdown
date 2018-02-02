@@ -18,7 +18,7 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2018: Completed
 
-1. Jan 28: [The Manager's Path]({{< relref "2018-01-30-the-managers-path.markdown" >}})
+1. Jan 28: [The Manager's Path]({{< relref "2018-01-28-the-managers-path.markdown" >}})
 
 ## 2017: Completed (26)
 
