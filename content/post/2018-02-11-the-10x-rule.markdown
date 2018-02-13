@@ -1,0 +1,23 @@
+---
+date: 2018-02-11
+title: "Finished Reading: The 10X Rule"
+description: "How good or bad is this book?"
+url: /2018/02/11/the-10x-rule.html
+---
+
+{{< tweet 958477836364472320 >}}
+
+That quote from **The 10X Rule** reminded me of both [The Compound Effect]({{< relref "2016-03-18-the-compound-effect.markdown" >}}) and [The ONE Thing]({{< relref "2017-04-16-the-one-thing.markdown" >}}). _The 10X Rule_ differs to those two books because it mostly focuses on one single thing "Do everything 10x times", yes plain and simple: "do 10x! Do 10X, DO 10X!!". This premise is repeated intentionally, I presume, multiple times in the book.
+
+
+{{< tweet 962101980784185344 >}}
+
+_The 10X Rule_ is a sales book and even if in your regular job you're not directly involved in selling things, you will find it useful because in the end as a computer programers we are always selling intangible stuff: our ideas, how we approach certain problems and in the end the final programmed solutions, we sell that to everybody, like our colleagues and managers.
+
+_The 10X Rule_ is a book written by Grant Cardone published by Wiley in 2011; it's a relative short sales/motivational book; it's about being persistent and it encourages you to work really hard to achieve whatever extraordinary goal you're planing. It feels sometimes a bit redundant and repetitive but in the end I suppose **that** was the original intention: to repeat the premise multiple times to make it a habit (kind of like [The Power of Habit]({{< relref "2017-08-15-the-power-of-habit.markdown" >}})).
+
+Having been recommended this book a few times I expected a bit more, I don't believe _The 10X Rule_ is a bad read but I don't think it's an awesome one either however I still found it valuable and inspirational.
+
+----
+
+Money well spent.
