@@ -11,15 +11,16 @@ The list contains direct links to the places where you could buy the books at th
 
 All the books are sorted from the most recent read to the least recent.
 
-## 2018: Queue
+## 2018: In Progress
 
-* [Designing Data-Intensive Applications](https://smile.amazon.com/gp/product/1449373321/)
 * [Building Evolutionary Architectures: Support Constant Change](https://smile.amazon.com/gp/product/1491986360/)
+* [The TAO of Microservices](https://www.manning.com/books/the-tao-of-microservices)
 
 ## 2018: Completed
 
 1. Jan 28: [The Manager's Path]({{< relref "2018-01-28-the-managers-path.markdown" >}})
 1. Feb 11: [The 10X Rule]({{< relref "2018-02-11-the-10x-rule.markdown" >}})
+1. Feb 13: [Designing Data-Intensive Applications]({{< relref "2018-02-13-designing-data-intensive-applications.markdown" >}}) 
 
 ## 2017: Completed (26)
 
