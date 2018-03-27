@@ -13,7 +13,7 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2018: In Queue
 
-* [The TAO of Microservices](https://www.manning.com/books/the-tao-of-microservices)
+* [Never Split the Difference: Negotiating As If Your Life Depended On It](https://smile.amazon.com/gp/product/B014DUR7L2/)
 * [Architectural Patterns](https://www.packtpub.com/application-development/architectural-patterns)
 * [Building RESTful Web services with Go](https://www.packtpub.com/application-development/building-restful-web-services-go)
 
@@ -23,6 +23,7 @@ All the books are sorted from the most recent read to the least recent.
 1. Feb 11: [The 10X Rule]({{< relref "2018-02-11-the-10x-rule.markdown" >}})
 1. Feb 13: [Designing Data-Intensive Applications]({{< relref "2018-02-13-designing-data-intensive-applications.markdown" >}}) 
 1. Mar 01: [Building Evolutionary Architectures: Support Constant Change]({{< relref "2018-03-01-building-evolutionary-architectures.markdown" >}}) 
+1. Mar 26: [The TAO of Microservices]({{< relref "2018-03-26-the-tao-of-microservices.markdown" >}})
 
 ## 2017: Completed (26)
 
