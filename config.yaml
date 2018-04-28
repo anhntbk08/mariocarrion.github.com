@@ -3,3 +3,4 @@ disablePathToLower: true
 languageCode: en-us
 title: Mario Carrion
 indexes: {}
+enableEmoji: true

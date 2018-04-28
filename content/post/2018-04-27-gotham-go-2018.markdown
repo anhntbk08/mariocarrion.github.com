@@ -1,0 +1,20 @@
+---
+date: 2018-04-27
+title: "GothamGo 2018"
+description: "I'm back to GothamGo!"
+url: /2018/04/27/gotham-go-2018.html
+---
+
+I had a great time last time I went to [Gotham Go](http://gothamgo.com/) in 2016, I went two days, first day was the [Advanced Workshop]({{< relref "2016-11-17-gotham-go-advanced-go-workshop.markdown" >}}) and second day was the [conferences day]({{< relref "2016-11-18-gotham-go-2016.markdown" >}}); sadly I missed it last year, but this year I was surprised they changed the dates, they moved it from fall to spring which aligned correctly to my busy schedule. I was really looking forward to attending this year.
+
+{{< tweet 989831249836625920 >}}
+
+Gotham Go 2018 **did not dissapoint** I attended only to the conferences this time and similar to last time the emcees were Steve Francia and Mark Bates, and just like in 2016 they did a **phenomenal job**. I could be wrong, but I feel like this time the event did not sell out, maybe because of the date? I'm not sure, but I did see less people than last time.
+
+One thing I did not like about Gotham Go is that I _did not win_ the vinyl Gopher!! :laughing: I've been trying to get one but those are **really** limited edition, I was so close with my Bingo card.
+
+[![Example image](https://farm1.staticflickr.com/867/41748790971_16852973cd_n.jpg)](https://www.flickr.com/photos/mariocarrion/41748790971/in/album-72157666298769767/)
+
+The talks were great, I liked that some of them included personal stories, like Cassandra's and Amy's, and some others, like Ron's, showed things I haven't had a chance to work on, which in this case is working on embedded systems; if I have to select the _best_ talk I'd say that it was _Go For Information Displays_ by Anthony Starks, such as an awesome presentation, it reminded me of my [previous project](https://sourceforge.net/projects/monouml/) and it literally _came out of nowhere_; the runner up would be Mat's, _Things in Go I never use_, he's such a funny and clever guy, I do agree with all his points. 
+
+I took a [bunch of pictures](https://www.flickr.com/photos/mariocarrion/albums/72157666298769767) like last time as well, feel free to look around.
