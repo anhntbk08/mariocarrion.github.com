@@ -13,8 +13,9 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2018: In Queue
 
-* [Architectural Patterns](https://www.packtpub.com/application-development/architectural-patterns)
 * [Software Design X-Rays](https://pragprog.com/book/atevol/software-design-x-rays)
+* [The 80 / 20 Principle](https://smile.amazon.com/gp/product/B000SEGG5G/)
+* [Talk Like TED](https://smile.amazon.com/gp/product/B00F1RE1MK/)
 
 ## 2018: Completed
 
@@ -25,6 +26,7 @@ All the books are sorted from the most recent read to the least recent.
 1. Mar 26: [The TAO of Microservices]({{< relref "2018-03-26-the-tao-of-microservices.markdown" >}})
 1. Apr 12: [Never Split the Difference]({{< relref "2018-04-12-never-split-the-difference.markdown" >}})
 1. Apr 15: _Building RESTful Web services with Go_
+1. Apr 30: [Architectural Patterns]({{< relref "2018-04-30-architectural-patterns.markdown" >}})
 
 ## 2017: Completed (26)
 
