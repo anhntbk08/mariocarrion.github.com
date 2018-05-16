@@ -13,7 +13,6 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2018: In Queue
 
-* [Software Design X-Rays](https://pragprog.com/book/atevol/software-design-x-rays)
 * [The 80 / 20 Principle](https://smile.amazon.com/gp/product/B000SEGG5G/)
 * [Talk Like TED](https://smile.amazon.com/gp/product/B00F1RE1MK/)
 
@@ -27,6 +26,7 @@ All the books are sorted from the most recent read to the least recent.
 1. Apr 12: [Never Split the Difference]({{< relref "2018-04-12-never-split-the-difference.markdown" >}})
 1. Apr 15: _Building RESTful Web services with Go_
 1. Apr 30: [Architectural Patterns]({{< relref "2018-04-30-architectural-patterns.markdown" >}})
+1. May 11: [Software Design X-Rays]({{< relref "2018-05-11-software-design-x-rays.markdown" >}})
 
 ## 2017: Completed (26)
 
