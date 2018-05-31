@@ -14,7 +14,6 @@ All the books are sorted from the most recent read to the least recent.
 ## 2018: In Queue
 
 * [The 80 / 20 Principle](https://smile.amazon.com/gp/product/B000SEGG5G/)
-* [Talk Like TED](https://smile.amazon.com/gp/product/B00F1RE1MK/)
 
 ## 2018: Completed
 
@@ -27,6 +26,7 @@ All the books are sorted from the most recent read to the least recent.
 1. Apr 15: _Building RESTful Web services with Go_
 1. Apr 30: [Architectural Patterns]({{< relref "2018-04-30-architectural-patterns.markdown" >}})
 1. May 11: [Software Design X-Rays]({{< relref "2018-05-11-software-design-x-rays.markdown" >}})
+1. May 25: [Talk like TED]({{< relref "2018-05-25-talk-like-ted.markdown" >}})
 
 ## 2017: Completed (26)
 
