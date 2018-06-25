@@ -4,3 +4,41 @@ languageCode: en-us
 title: Mario Carrion
 indexes: {}
 enableEmoji: true
+contentdir: "content"
+
+permalinks:
+  blog: "blog/:slug/"
+
+menu:
+  main:
+   - name: "About"
+     weight: -120
+     identifier: "about"
+     url: "/about.html"
+   - name: "Posts"
+     weight: -110
+     identifier: "archive"
+     url: "/archive.html"
+   - name: "Resume"
+     weight: -100
+     identifier: "resume"
+     url: "https://docs.google.com/document/d/1i0W6qNfGMhTfwWTHBaaKzlN9HLGwbk3GLeh8VtVlhNM"
+   - name: "Books"
+     weight: -90
+     identifier: "books"
+     url: "/books.html"
+   - name: "Disclaimer"
+     weight: -80
+     identifier: "disclaimer"
+     url: "/disclaimer.html"
+
+params:
+  include_rss: true
+  latestpostscount: 35
+  author: "Mario Carrion"
+  dateform: "Jan 02, 2006"
+  dateformfull: "Mon Jan 2 2006 15:04:05 MST"
+  github: "//github.com/MarioCarrion"
+  twitter: "//twitter.com/MarioCarrion"
+  linkedin: "//linkedin.com/in/MarioCarrion"
+  faviconfile: "favicon.png"

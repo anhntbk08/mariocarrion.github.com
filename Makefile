@@ -3,7 +3,7 @@
 default: build
 
 run:
-	hugo --theme=lagom serve
+	hugo --theme=cocoa serve
 
 build:
 	rm -rf public && \
