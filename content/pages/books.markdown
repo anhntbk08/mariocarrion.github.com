@@ -13,7 +13,7 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2018: In Queue
 
-* [The 80 / 20 Principle](https://smile.amazon.com/gp/product/B000SEGG5G/)
+1. [The 80 / 20 Principle](https://smile.amazon.com/gp/product/B000SEGG5G/)
 
 ## 2018: Completed
 

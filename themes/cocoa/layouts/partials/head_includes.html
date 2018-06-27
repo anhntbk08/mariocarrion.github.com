@@ -18,15 +18,13 @@
 
 <!-- Fonts and icon CSS -->
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu+Mono:400,400i,700,700i|Raleway:500">
-
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet" type="text/css">
 
 {{ if .Site.Params.cachebuster }}
 
     {{ $t := now }}
     <link rel="stylesheet" href="/css/reset.css?t={{$t}}">
-    <link rel="stylesheet" href="/css/pygments.css?t={{$t}}">
+    <link rel="stylesheet" href="/css/syntax.css?t={{$t}}">
     <link rel="stylesheet" href="/css/main.css?t={{$t}}">
     {{range .Site.Params.extracssfiles}}
         <link rel="stylesheet" href="{{.}}?t={{$t}}">

@@ -6,6 +6,8 @@ indexes: {}
 enableEmoji: true
 contentdir: "content"
 
+pygmentsUseClassic: true
+
 permalinks:
   blog: "blog/:slug/"
 
@@ -42,3 +44,6 @@ params:
   twitter: "//twitter.com/MarioCarrion"
   linkedin: "//linkedin.com/in/MarioCarrion"
   faviconfile: "favicon.png"
+  #highlightjs: true
+  #highlightjslanguages: ["go"]
+  #highlightjsStyle: "darcula"

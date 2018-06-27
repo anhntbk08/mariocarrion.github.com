@@ -7,7 +7,7 @@ url: /2018/06/20/code-coverage-in-go.html
 
 Code coverage in Go is included in the toolchain and it is as simple as appending `-coverprofile` to the usual `go test` command, kind of like using:
 
-```bash
+```
 go test -coverprofile=cover.out <package-name>
 ```
 
