@@ -35,3 +35,11 @@ If you need to contact me for whatever reason, please email me, just use **&lt;m
 {{< tweet 548959384215511041 >}}
 
 {{< tweet 238158452 >}}
+
+# Disclaimer
+
+Please be aware of the following:
+
+> The views expressed on this weblog are mine alone and do not necessarily reflect the views of my employer.
+
+> Note to journalists and other readers: Unless you receive express written permission to the contrary from the author of the content of this blog reproduction or quotation of any statements appearing on this blog is not authorized.

@@ -43,9 +43,7 @@
 <section class="icons">
     <div class="container">
         <div class="content">
-        {{ if and .Site.Params.include_rss .RSSLink }}
-            <a href="{{ .RSSLink }}"><img class="icon" src="/img/rss.svg" alt="rss" /></a>
-        {{ end }}
+        <a href="/index.xml"><img class="icon" src="/img/rss.svg" alt="rss" /></a>
 
         {{ if .Site.Params.github }}
             <a href="{{ .Site.Params.github }}" target="_blank" rel="noopener"><img class="icon" src="/img/github.svg" alt="github" /></a>

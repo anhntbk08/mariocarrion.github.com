@@ -1,10 +1,11 @@
-baseurl: http://www.mariocarrion.com
+baseurl: https://www.mariocarrion.com
 disablePathToLower: true
 languageCode: en-us
 title: Mario Carrion
 indexes: {}
 enableEmoji: true
 contentdir: "content"
+rssLimit: 15
 
 pygmentsUseClassic: true
 
@@ -17,22 +18,19 @@ menu:
      weight: -120
      identifier: "about"
      url: "/about.html"
-   - name: "Posts"
+   - name: "All Posts"
      weight: -110
      identifier: "archive"
      url: "/archive.html"
-   - name: "Resume"
-     weight: -100
-     identifier: "resume"
-     url: "https://docs.google.com/document/d/1i0W6qNfGMhTfwWTHBaaKzlN9HLGwbk3GLeh8VtVlhNM"
    - name: "Books"
-     weight: -90
+     weight: -100
      identifier: "books"
      url: "/books.html"
-   - name: "Disclaimer"
-     weight: -80
-     identifier: "disclaimer"
-     url: "/disclaimer.html"
+   - name: "Resume"
+     weight: -90
+     identifier: "resume"
+     url: "https://docs.google.com/document/d/1i0W6qNfGMhTfwWTHBaaKzlN9HLGwbk3GLeh8VtVlhNM"
+
 
 params:
   include_rss: true
@@ -44,6 +42,3 @@ params:
   twitter: "//twitter.com/MarioCarrion"
   linkedin: "//linkedin.com/in/MarioCarrion"
   faviconfile: "favicon.png"
-  #highlightjs: true
-  #highlightjslanguages: ["go"]
-  #highlightjsStyle: "darcula"

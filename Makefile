@@ -8,8 +8,8 @@ run:
 build:
 	rm -rf public && \
 		rm -rf minified && \
-		hugo  --theme=lagom --ignoreCache=true && \
+		hugo  --theme=cocoa --ignoreCache=true && \
 		minify -o ./minified/ -r ./public/ && \
-		cp -r ./public/images minified/ && \
+		cp -r ./public/img minified/ && \
 		cp -r ./public/favicon.png minified/ && \
 		rm -rf minified/post/ minified/pages/
