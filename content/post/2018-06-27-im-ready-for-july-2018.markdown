@@ -19,4 +19,4 @@ Anyways! To celebrate this awesome milestone I decided to travel back in time, m
 
 Today I started using HTTPS for my blog. I've been using `https` professionally for years already but setting yours on your own was an interesting experience, from buying the certificate, associate it to the domain, making changes here and there, to finally have it ready.
 
-Long life the **padlock!**
+Long live the **padlock!**
