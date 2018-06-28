@@ -338,6 +338,7 @@ section.main .container {
 section.main .content {
   color: #111;
   font-size: 16px;
+  padding-top: 20px;
 }
 section.main .content .title-container {
   display: -webkit-flex;

@@ -42,3 +42,4 @@ params:
   twitter: "//twitter.com/MarioCarrion"
   linkedin: "//linkedin.com/in/MarioCarrion"
   faviconfile: "favicon.png"
+  noshowreadtime: true
