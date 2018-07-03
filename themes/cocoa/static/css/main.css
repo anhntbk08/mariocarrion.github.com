@@ -634,7 +634,8 @@ blockquote {
   border-left: 2px solid #ddd;
 }
 
-p strong {
+p strong,
+li strong {
   font-weight: bold;
   border-bottom: 1px solid #c30f0f;
 }
@@ -647,6 +648,10 @@ h1 {
 h2 {
   font-size: 24px;
   line-height: 30px;
+}
+
+em {
+  font-style: italic;
 }
 
 h3 {
