@@ -33,6 +33,7 @@ menu:
 
 
 params:
+  description: "Make a choice. Commit to it. Trust the process."
   include_rss: true
   latestpostscount: 35
   author: "Mario Carrion"
@@ -41,5 +42,6 @@ params:
   github: "//github.com/MarioCarrion"
   twitter: "//twitter.com/MarioCarrion"
   linkedin: "//linkedin.com/in/MarioCarrion"
+  gitlab: "//gitlab.com/MarioCarrion"
   faviconfile: "favicon.png"
   noshowreadtime: true

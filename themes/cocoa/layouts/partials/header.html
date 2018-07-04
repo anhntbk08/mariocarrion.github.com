@@ -45,16 +45,16 @@
         <div class="content">
         <a href="/index.xml"><img class="icon" src="/img/rss.svg" alt="rss" /></a>
 
-        {{ if .Site.Params.github }}
-            <a href="{{ .Site.Params.github }}" target="_blank" rel="noopener"><img class="icon" src="/img/github.svg" alt="github" /></a>
+        {{ if .Site.Params.twitter }}
+            <a href="{{ .Site.Params.twitter }}" target="_blank" rel="noopener"><img class="icon" src="/img/twitter.svg" alt="twitter" /></a>
         {{ end }}
 
         {{ if .Site.Params.gitlab }}
             <a href="{{ .Site.Params.gitlab }}" target="_blank" rel="noopener"><img class="icon" src="/img/gitlab.svg" alt="gitlab" /></a>
         {{ end }}
 
-        {{ if .Site.Params.twitter }}
-            <a href="{{ .Site.Params.twitter }}" target="_blank" rel="noopener"><img class="icon" src="/img/twitter.svg" alt="twitter" /></a>
+        {{ if .Site.Params.github }}
+            <a href="{{ .Site.Params.github }}" target="_blank" rel="noopener"><img class="icon" src="/img/github.svg" alt="github" /></a>
         {{ end }}
 
 	{{ if .Site.Params.keybase }}
