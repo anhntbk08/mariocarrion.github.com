@@ -3,7 +3,9 @@
 default: build
 
 run:
-	hugo --theme=cocoa serve
+	# before: hugo --theme=cocoa serve
+	# workaround: https://github.com/gohugoio/hugo/issues/4851
+	HUGO_THEME=cocoa hugo serve
 
 build:
 	rm -rf public && \

@@ -15,6 +15,8 @@ All the books are sorted from the most recent read to the least recent.
 
 1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 1. [Microservices Patterns](https://www.manning.com/books/microservices-patterns)
+1. [Introducing Body Language: A Practical Guide](https://smile.amazon.com/Introducing-Body-Language-Practical-Guide-ebook/dp/B00KFEJNOA)
+1. [Goodbye, Things: The New Japanese Minimalism](https://smile.amazon.com/Goodbye-Things-New-Japanese-Minimalism-ebook/dp/B01HDSU7KE)
 
 ## 2018: Completed
 
