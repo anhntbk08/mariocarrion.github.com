@@ -10,7 +10,7 @@ run:
 build:
 	rm -rf public && \
 		rm -rf minified && \
-		hugo  --theme=cocoa --ignoreCache=true && \
+		HUGO_THEME=cocoa hugo --ignoreCache=true && \
 		minify -o ./minified/ -r ./public/ && \
 		cp -r ./public/img minified/ && \
 		cp -r ./public/favicon.png minified/ && \
