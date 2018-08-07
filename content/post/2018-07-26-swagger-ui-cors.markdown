@@ -5,7 +5,7 @@ description: "How to use CORS with Swagger UI"
 url: /2018/07/26/go-swagger-ui-cors.html
 ---
 
-Previously I blogged about [using Dredd]({{< relref "2018-04-03-judge-go-swagger-with-dredd.markdown" >}}) for verifying that the generated `swagger.json` is correct, from the Swagger 2.0 specification perspective, now let's take a look at another tip for making sure the final API works correctly when using [Swagger UI](https://github.com/swagger-api/swagger-ui) for manual inspection.
+Previously I blogged about [using Dredd]({{< relref "2018-04-03-judge-go-swagger-with-dredd.markdown" >}}) for verifying that the generated `swagger.json` is correct (from the Swagger 2.0 specification perspective, that is) now let's take a look at another tip for making sure the final API works correctly when using [Swagger UI](https://github.com/swagger-api/swagger-ui) for manual inspection.
 
 There's a [full example](https://gitlab.com/MarioCarrion/blog-examples/tree/master/2018/07/26) showing this in action, feel free to explore [the repo](https://gitlab.com/MarioCarrion/blog-examples).
 
