@@ -13,12 +13,12 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2018: In Queue
 
-1. [A Philosophy of Software Design](https://smile.amazon.com/gp/product/1732102201/)
-1. [Mastering Vim Quickly](https://smile.amazon.com/gp/product/1983325740/)
+1. [Algorithms to Live By: The Computer Science of Human Decisions](https://smile.amazon.com/gp/product/B015CKNWJI/)
 1. [Microservices Patterns](https://www.manning.com/books/microservices-patterns)
 1. [Microservices in Action](https://www.manning.com/books/microservices-in-action)
 1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 1. [Designing Distributed Systems](https://smile.amazon.com/gp/product/1491983647/)
+1. [HBR's 10 Must Reads on Emotional Intelligence](https://smile.amazon.com/gp/product/B00O92Q6GM/)
 
 ## 2018: Completed
 
@@ -28,13 +28,17 @@ All the books are sorted from the most recent read to the least recent.
 1. Mar 01: [Building Evolutionary Architectures: Support Constant Change]({{< relref "2018-03-01-building-evolutionary-architectures.markdown" >}}) 
 1. Mar 26: [The TAO of Microservices]({{< relref "2018-03-26-the-tao-of-microservices.markdown" >}})
 1. Apr 12: [Never Split the Difference]({{< relref "2018-04-12-never-split-the-difference.markdown" >}})
-1. Apr 15: _Building RESTful Web services with Go_
+1. Apr 15: [Building RESTful Web services with Go](https://www.amazon.com/Building-RESTful-Web-services-gracefully-ebook/dp/B072QB8KL1)
 1. Apr 30: [Architectural Patterns]({{< relref "2018-04-30-architectural-patterns.markdown" >}})
 1. May 11: [Software Design X-Rays]({{< relref "2018-05-11-software-design-x-rays.markdown" >}})
 1. May 25: [Talk like TED]({{< relref "2018-05-25-talk-like-ted.markdown" >}})
 1. Jul 01: [The 80 / 20 Principle]({{< relref "2018-07-01-the-80-20-principle.markdown" >}})
 1. Jul 20: [Introducing Body Language: A Practical Guide](https://smile.amazon.com/Introducing-Body-Language-Practical-Guide-ebook/dp/B00KFEJNOA)
 1. Sep 06: [Goodbye, Things: The New Japanese Minimalism](https://smile.amazon.com/Goodbye-Things-New-Japanese-Minimalism-ebook/dp/B01HDSU7KE)
+1. Sep 19: [A Philosophy of Software Design](https://smile.amazon.com/gp/product/1732102201/)
+1. Sep 22: [Mastering Vim Quickly: From WTF to OMG in no time](https://smile.amazon.com/gp/product/1983325740/)
+
+https://smile.amazon.com/gp/product/1983325740/
 
 ## 2017: Completed (26)
 
