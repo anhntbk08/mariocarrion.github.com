@@ -35,7 +35,7 @@ All the books are sorted from the most recent read to the least recent.
 1. Jul 01: [The 80 / 20 Principle]({{< relref "2018-07-01-the-80-20-principle.markdown" >}})
 1. Jul 20: [Introducing Body Language: A Practical Guide](https://smile.amazon.com/Introducing-Body-Language-Practical-Guide-ebook/dp/B00KFEJNOA)
 1. Sep 06: [Goodbye, Things: The New Japanese Minimalism](https://smile.amazon.com/Goodbye-Things-New-Japanese-Minimalism-ebook/dp/B01HDSU7KE)
-1. Sep 19: [A Philosophy of Software Design](https://smile.amazon.com/gp/product/1732102201/)
+1. Sep 19: [A Philosophy of Software Design]({{< relref "2018-09-19-a-philosophy-of-software-design.markdown" >}})
 1. Sep 22: [Mastering Vim Quickly: From WTF to OMG in no time](https://smile.amazon.com/gp/product/1983325740/)
 
 https://smile.amazon.com/gp/product/1983325740/
