@@ -13,7 +13,6 @@ All the books are sorted from the most recent read to the least recent.
 
 ## 2018: In Queue
 
-1. [Algorithms to Live By: The Computer Science of Human Decisions](https://smile.amazon.com/gp/product/B015CKNWJI/)
 1. [Microservices Patterns](https://www.manning.com/books/microservices-patterns)
 1. [Microservices in Action](https://www.manning.com/books/microservices-in-action)
 1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
@@ -37,6 +36,7 @@ All the books are sorted from the most recent read to the least recent.
 1. Sep 06: [Goodbye, Things: The New Japanese Minimalism](https://smile.amazon.com/Goodbye-Things-New-Japanese-Minimalism-ebook/dp/B01HDSU7KE)
 1. Sep 19: [A Philosophy of Software Design]({{< relref "2018-09-19-a-philosophy-of-software-design.markdown" >}})
 1. Sep 22: [Mastering Vim Quickly: From WTF to OMG in no time](https://smile.amazon.com/gp/product/1983325740/)
+1. Oct 18: [Algorithms to Live By: The Computer Science of Human Decisions]({{< relref "2018-10-18-algorithms-to-live-by.markdown" >}})
 
 https://smile.amazon.com/gp/product/1983325740/
 
