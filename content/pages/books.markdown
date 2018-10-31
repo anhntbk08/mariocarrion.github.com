@@ -37,8 +37,7 @@ All the books are sorted from the most recent read to the least recent.
 1. Sep 19: [A Philosophy of Software Design]({{< relref "2018-09-19-a-philosophy-of-software-design.markdown" >}})
 1. Sep 22: [Mastering Vim Quickly: From WTF to OMG in no time](https://smile.amazon.com/gp/product/1983325740/)
 1. Oct 18: [Algorithms to Live By: The Computer Science of Human Decisions]({{< relref "2018-10-18-algorithms-to-live-by.markdown" >}})
-
-https://smile.amazon.com/gp/product/1983325740/
+1. Oct 29: [Get Programming With Go]({{< relref "2018-10-29-get-programming-with-go.markdown" >}})
 
 ## 2017: Completed (26)
 
