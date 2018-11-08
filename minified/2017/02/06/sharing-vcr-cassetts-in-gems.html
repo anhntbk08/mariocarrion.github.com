@@ -21,7 +21,7 @@
     <span style=color:#66d9ef>end</span> <span style=color:#75715e># &lt;&lt; self</span>
   <span style=color:#66d9ef>end</span> <span style=color:#75715e># class</span>
 <span style=color:#66d9ef>end</span>
-</code></pre></div><p>So, in both your <code>fancy-web-api</code> and your new application, you are requiring your VCR cassettes like this in your <code>spec_helper.rb</code> (or similar):<p><div class=highlight style=background:#272822><pre style=line-height:125%><code class=language-ruby data-lang=ruby><span></span><span style=color:#75715e># frozen_string_literal: true</span>
+</code></pre></div><p>So, in both your <code>fancy-web-api</code> and your new application, you are requiring your VCR cassettes like this in your <code>spec_helper.rb</code> (or similar):<div class=highlight style=background:#272822><pre style=line-height:125%><code class=language-ruby data-lang=ruby><span></span><span style=color:#75715e># frozen_string_literal: true</span>
 <span style=color:#f8f8f2>require</span> <span style=color:#e6db74>&#39;fancy_web_api/vcr_testing&#39;</span>
 
 <span style=color:#66d9ef>VCR</span><span style=color:#f92672>.</span><span style=color:#f8f8f2>configure</span> <span style=color:#66d9ef>do</span> <span style=color:#f92672>|</span><span style=color:#f8f8f2>config</span><span style=color:#f92672>|</span>
