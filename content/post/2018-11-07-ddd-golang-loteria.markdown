@@ -49,7 +49,7 @@ and reading the original resources:
 * _Tablas_ always have a randomly created 4x4 grid of cards,
 * Given _tablas_ are unique during the duration of the game,
 * There's a _Cantor_ (Announcer), who is in charge of randomly selecting cards from the deck,
-* Players have to listen to the announced cards and mark then on their boards,
+* Players have to listen to the announced cards and mark them on their boards,
 * The winner is determined by the first player who shouts **"LOTER&Iacute;A!"** and (**more importantly**) has four sequential marked cards in a horizontal, vertical or diagonal row.
 
 That being said, let's take a break for now, digest everything and come back tomorrow.

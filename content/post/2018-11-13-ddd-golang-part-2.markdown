@@ -26,7 +26,7 @@ We have N `Player`s, each of them has one `Board`, the players can not choose th
 `Board`s are random and _unique_ per game session, meaning **no player** will be using the same permutation of values on the board of any other board already created,
 
 > There's a _Cantor_ (Announcer), who is in charge of randomly selecting cards from the deck,
-> Players have to listen to the announced cards and mark then on their boards,
+> Players have to listen to the announced cards and mark them on their boards,
 
 Those two requirements are really clear, however we still need a bit more of time to provide a better technical implementation. Let's move those to the _parking lot_.
 
@@ -36,7 +36,9 @@ We need a way to allow the players to **shout** they won and, obviously, we must
 
 ## Iteration #1
 
-Initial iteration will consider the following three, of seven, requirements:
+[Diff implementing this iteration](https://github.com/MarioCarrion/loteria/compare/70c3ce9..c1c937a).
+
+Initial iteration will consider the following three, of eight, requirements:
 
 * There is a deck with 54 cards,
 * _Tablas_ always have a randomly created 4x4 grid of cards, and
