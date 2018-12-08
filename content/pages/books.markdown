@@ -11,13 +11,13 @@ This list is to remind me every year **I must strive to increase the number of f
 
 ## 2018: In Queue
 
-1. [Microservices Patterns](https://www.manning.com/books/microservices-patterns)
 1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 1. [Designing Distributed Systems](https://smile.amazon.com/gp/product/1491983647/)
 1. [HBR's 10 Must Reads on Emotional Intelligence](https://smile.amazon.com/gp/product/B00O92Q6GM/)
 
-## 2018: Completed
+## 2018: 19 completed
 
+1. Dec 05: [Microservices Patterns]({{< relref "2018-12-05-microservices-pattern.markdown" >}})
 1. Nov 01: [Microservices in Action]({{< relref "2018-11-01-microservices-in-action.markdown" >}})
 1. Oct 29: [Get Programming With Go]({{< relref "2018-10-29-get-programming-with-go.markdown" >}})
 1. Oct 18: [Algorithms to Live By: The Computer Science of Human Decisions]({{< relref "2018-10-18-algorithms-to-live-by.markdown" >}})
@@ -37,7 +37,7 @@ This list is to remind me every year **I must strive to increase the number of f
 1. Feb 11: [The 10X Rule]({{< relref "2018-02-11-the-10x-rule.markdown" >}})
 1. Jan 28: [The Manager's Path]({{< relref "2018-01-28-the-managers-path.markdown" >}})
 
-## 2017: Completed (26)
+## 2017: 26 completed
 
 1. December: [Building Microservices with Go](https://www.packtpub.com/application-development/building-microservices-go) and [Go Systems Programming](https://www.packtpub.com/networking-and-servers/go-systems-programming).
 1. November: [Mastering Kubernetes](https://www.packtpub.com/virtualization-and-cloud/mastering-kubernetes) and [Bigger Leaner Stronger](https://smile.amazon.com/Bigger-Leaner-Stronger-Building-Ultimate-ebook/dp/B006XF5BTG).
@@ -64,7 +64,7 @@ This list is to remind me every year **I must strive to increase the number of f
 1. Jan 11: [Monitoring Docker]({{< relref "2017-01-11-monitoring-docker.markdown" >}})
 1. Jan 03: [Ruby Performance Optimization]({{< relref "2017-01-03-ruby-performance-optimizations.markdown" >}})
 
-## 2016: Completed (31)
+## 2016: 31 completed
 
 1. [Learning ELK Stack](https://www.packtpub.com/big-data-and-business-intelligence/learning-elk-stack)
 1. [Building a DevOps Culture Kindle Edition](http://smile.amazon.com/gp/product/B00CBM1WFC)
@@ -98,7 +98,7 @@ This list is to remind me every year **I must strive to increase the number of f
 1. [Elastic Leadership](https://www.manning.com/books/elastic-leadership)
 1. [Go Programming Blueprints](https://www.packtpub.com/application-development/go-programming-blueprints)
 
-## 2015 (20)
+## 2015: 20 completed
 
 1. [Agile Metrics in Action: Measuring and Enhancing the Performance of Agile Teams](http://smile.amazon.com/gp/product/1617292486)
 1. [SOA Patterns](http://smile.amazon.com/gp/product/1933988266)
@@ -121,7 +121,7 @@ This list is to remind me every year **I must strive to increase the number of f
 1. [Multitenancy with Rails](https://leanpub.com/multi-tenancy-rails)
 1. [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)
 
-## Previous Years (2014-2007) (30)
+## Previous Years (2014-2007): 30 completed
 
 1. [Confessions of a Public Speaker](http://smile.amazon.com/gp/product/0596801998)
 1. [Procrastination: Why You Do It, What to Do About It Now](http://smile.amazon.com/gp/product/0738211702)
