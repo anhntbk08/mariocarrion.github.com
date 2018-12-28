@@ -36,14 +36,14 @@ Version [`v0.1.0`](https://github.com/MarioCarrion/nit/releases/tag/v0.1.0) has 
 
 You can download the released binary, however the usual _Go-way_ should work as well:
 
-```
+{{< highlight go >}}
 go install github.com/MarioCarrion/nit/cmd/nit
-```
+{{< / highlight >}}
 
 Then you can use it like so:
 
-```
+{{< highlight go >}}
 nit -pkg github.com/MarioCarrion/nit github.com/MarioCarrion/nit github.com/MarioCarrion/nit/cmd/nit
-```
+{{< / highlight >}}
 
 Where `-pkg` indicates the _local base package_, and the next values indicate the packages to nitpick. The files, with their errors, will be printed out if they are not following the opinionated structure.
