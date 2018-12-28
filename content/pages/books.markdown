@@ -11,12 +11,13 @@ This list is to remind me every year **I must strive to increase the number of f
 
 ## 2018: In Queue
 
+1. [HBR's 10 Must Reads on Emotional Intelligence](https://smile.amazon.com/gp/product/B00O92Q6GM/)
 1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 1. [Designing Distributed Systems](https://smile.amazon.com/gp/product/1491983647/)
-1. [HBR's 10 Must Reads on Emotional Intelligence](https://smile.amazon.com/gp/product/B00O92Q6GM/)
 
-## 2018: 19 completed
+## 2018: 20 completed
 
+1. Dec 15: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 1. Dec 05: [Microservices Patterns]({{< relref "2018-12-05-microservices-pattern.markdown" >}})
 1. Nov 01: [Microservices in Action]({{< relref "2018-11-01-microservices-in-action.markdown" >}})
 1. Oct 29: [Get Programming With Go]({{< relref "2018-10-29-get-programming-with-go.markdown" >}})
