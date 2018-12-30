@@ -1,0 +1,45 @@
+---
+date: 2018-12-29
+title: "Top 5 books in 2018"
+description: "From all the books I read this year, these are my top 5."
+url: /2018/12/29/top-5-books-in-2018.html
+---
+
+As the year comes to an end I want to go back and do a final review of all the books I completed this year, as a reminder regarding reading books every year I always want to achieve two things:
+
+1. Read more books than the previous year (26 in 2017), and
+1. Break my own record (31 in 2016).
+
+Sadly, I wasn't able to achieve either goal because I only finished reading 20 books (to be fair the other 3 in _the queue_ are almost completed), I must commit next year and try again. Although I did not accomplish those goals I believe this time I was able to read some really cool ones, let's get this thing started!
+
+---
+
+### 5: A Philosophy of Software Design
+
+Released in April 2018, I finished reading [A Philosophy of Software Design]({{< relref "2018-09-19-a-philosophy-of-software-design.markdown" >}}) in September, I bought it because I saw a few people I follow [on Twitter](https://twitter.com/MarioCarrion) mentioning it, giving some nice reviews. It is a good academic book sprinkled with some concrete software mentions.
+
+### 4: The 10X Rule
+
+I finished [The 10X Rule]({{< relref "2018-02-11-the-10x-rule.markdown" >}}) in February, this one is from 2011 and it is not technical at all, but still really relevant for what I'm trying to achieve. I like self-help-kind of books, they help me to improve my Soft Skills.
+
+### 3: Goodbye, Things: The New Japanese Minimalism
+
+[Goodbye, Things: The New Japanese Minimalism](https://smile.amazon.com/Goodbye-Things-New-Japanese-Minimalism-ebook/dp/B01HDSU7KE) was completed in September, I didn't blog about it but I should have done it. I'm personally trying to become minimalistic, it is one of my 2019 resolutions because I do think it just feels better not owning a lot of material things. Cool book I got _for free_ after borrowing it with my Amazon Prime.
+
+### 2: Microservices in Action
+
+[Microservices in Action]({{< relref "2018-11-01-microservices-in-action.markdown" >}}) is legit! I read it in November, at the time it was still a MEAP. Really cool and complete Microservices book, I highly recommend it.
+
+### 1: Designing Data-Intensive Applications
+
+[Designing Data-Intensive Applications]({{< relref "2018-02-13-designing-data-intensive-applications.markdown" >}}) is my top one! I completed this one in February and it is huge and a long read, but really it is worth all your time investment. It was released in 2017, but still in early 2018 it is really relevant, it includes the necessary theory to explain certain concepts and enough concrete software examples to help understand backend systems.
+
+---
+
+### Honorable Mention: Get Programming With Go
+
+It is so weird to see your name on the back of a book, even much more weirder seeing something you wrote there as well:
+
+> Perfectly organized for learning Go quickly, especially useful for inexperienced programmers
+
+[Get Programming With Go]({{< relref "2018-10-29-get-programming-with-go.markdown" >}}) gets the honorable mention of the year, I'm so glad I was part of that project.
