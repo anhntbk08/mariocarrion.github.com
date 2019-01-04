@@ -9,11 +9,18 @@ It includes all the books I decided to read since I started to work professional
 
 This list is to remind me every year **I must strive to increase the number of finished books**.
 
-## 2018: In Queue
+## 2019: In Queue
 
-1. [HBR's 10 Must Reads on Emotional Intelligence](https://smile.amazon.com/gp/product/B00O92Q6GM/)
+1. [Domain-Driven Design Distilled](https://smile.amazon.com/gp/product/0134434420/)
 1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 1. [Designing Distributed Systems](https://smile.amazon.com/gp/product/1491983647/)
+1. [Software Architect's Handbook](https://www.packtpub.com/application-development/software-architects-handbook)
+1. [Big Data Architect's Handbook](https://www.packtpub.com/big-data-and-business-intelligence/big-data-architects-handbook)
+1. [Hands-On Cybersecurity for Architects](https://www.packtpub.com/networking-and-servers/hands-cybersecurity-architects)
+
+## 2019: 1 completed
+
+1. [HBR's 10 Must Reads on Emotional Intelligence](https://smile.amazon.com/gp/product/B00O92Q6GM/)
 
 ## 2018: 20 completed
 
