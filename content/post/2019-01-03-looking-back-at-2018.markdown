@@ -2,7 +2,7 @@
 date: "2019-01-03"
 title: "Envisioning 2019"
 description: "Hello 2019. What are my plans?"
-url: /2019/01/04/2019-looking-back-at-2018.html
+url: /2019/01/03/2019-looking-back-at-2018.html
 ---
 
 2018 was greater than [2017]({{< relref "2018-01-04-looking-back-at-2017.markdown" >}}), professionally and personally I was able to achieve the things I wanted to and planned to do.
