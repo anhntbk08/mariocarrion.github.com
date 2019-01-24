@@ -9,7 +9,7 @@ url: /2018/04/30/architectural-patterns.html
 
 [**Architectural Patterns**](https://www.packtpub.com/application-development/architectural-patterns) is a long book written by Pethuru Raj, Anupama Raman and Harihara Subramanian. It was published by Packt in 2017 and it covers all kind of software patterns, from your well-known classic Software Design Patterns to the more general Enterprise Patterns, and includes as well some specific patterns applicable to SOA and Microservices.
 
-If you're planning to read the book back to back you will lose track of what's going on because the continuity is bit confusing after the first chapter. Yes it's a Software Patterns book but the chapters are not organized in a clear way to the reader, the whole structure does makes sense, for example it goes from _Client/Server Architectures_ to _Object Oriented Design_ and then _Domain Driven Design_.
+If you're planning to read the book back to back you will lose track of what's going on because the continuity is bit confusing after the first chapter. Yes it's a Software Patterns book but the chapters are not organized in a clear way to the reader, the whole structure does not makes sense, for example it goes from _Client/Server Architectures_ to _Object Oriented Design_ and then _Domain Driven Design_.
  
 **Architectural Patterns** uses diagrams when describing some of the patterns which are meant to be used to clarify the concept but I found some of them could be skipped because in the end they add little value to the concept being covered, most of them are two boxes connected with an arrow in some way.
 

@@ -12,15 +12,16 @@ This list is to remind me every year **I must strive to increase the number of f
 ## 2019: In Queue
 
 1. [Domain-Driven Design Distilled](https://smile.amazon.com/gp/product/0134434420/)
-1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
-1. [Designing Distributed Systems](https://smile.amazon.com/gp/product/1491983647/)
-1. [Software Architect's Handbook](https://www.packtpub.com/application-development/software-architects-handbook)
+1. [Mastering Elasticsearch 5.x](https://www.packtpub.com/big-data-and-business-intelligence/mastering-elasticsearch-50-third-edition)
 1. [Big Data Architect's Handbook](https://www.packtpub.com/big-data-and-business-intelligence/big-data-architects-handbook)
 1. [Hands-On Cybersecurity for Architects](https://www.packtpub.com/networking-and-servers/hands-cybersecurity-architects)
+1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
+1. [Designing Distributed Systems](https://smile.amazon.com/gp/product/1491983647/)
 
-## 2019: 1 completed
+## 2019
 
-1. [HBR's 10 Must Reads on Emotional Intelligence](https://smile.amazon.com/gp/product/B00O92Q6GM/)
+1. Jan 23: [Software Architect's Handbook]({{< relref "2019-01-23-software-architects-handbook.markdown" >}})
+1. Jan 01: [HBR's 10 Must Reads on Emotional Intelligence](https://smile.amazon.com/gp/product/B00O92Q6GM/)
 
 ## 2018: 20 completed
 
