@@ -20,6 +20,7 @@ This list is to remind me every year **I must strive to increase the number of f
 
 ## 2019
 
+1. Feb 05: [Hands-On Software Architecture with Golang]({{< relref "2019-02-05-hands-on-software-architecture-with-golang.markdown" >}})
 1. Jan 23: [Software Architect's Handbook]({{< relref "2019-01-23-software-architects-handbook.markdown" >}})
 1. Jan 01: [HBR's 10 Must Reads on Emotional Intelligence](https://smile.amazon.com/gp/product/B00O92Q6GM/)
 
