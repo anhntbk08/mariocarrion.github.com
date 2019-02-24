@@ -11,8 +11,7 @@ This list is to remind me every year **I must strive to increase the number of f
 
 ## 2019: In Queue
 
-1. [Domain-Driven Design Distilled](https://smile.amazon.com/gp/product/0134434420/)
-1. [Mastering Elasticsearch 5.x](https://www.packtpub.com/big-data-and-business-intelligence/mastering-elasticsearch-50-third-edition)
+1. [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action)
 1. [Big Data Architect's Handbook](https://www.packtpub.com/big-data-and-business-intelligence/big-data-architects-handbook)
 1. [Hands-On Cybersecurity for Architects](https://www.packtpub.com/networking-and-servers/hands-cybersecurity-architects)
 1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
@@ -20,6 +19,9 @@ This list is to remind me every year **I must strive to increase the number of f
 
 ## 2019
 
+1. Feb 14: [Hands-On Microservices - Monitoring and Testing](https://www.packtpub.com/application-development/hands-on-microservices-monitoring-and-testing)
+1. Feb 11: [Mastering Elasticsearch 5.x](https://www.packtpub.com/big-data-and-business-intelligence/mastering-elasticsearch-50-third-edition)
+1. Feb 08: [Domain-Driven Design Distilled](https://smile.amazon.com/gp/product/0134434420/)
 1. Feb 05: [Hands-On Software Architecture with Golang]({{< relref "2019-02-05-hands-on-software-architecture-with-golang.markdown" >}})
 1. Jan 23: [Software Architect's Handbook]({{< relref "2019-01-23-software-architects-handbook.markdown" >}})
 1. Jan 01: [HBR's 10 Must Reads on Emotional Intelligence](https://smile.amazon.com/gp/product/B00O92Q6GM/)

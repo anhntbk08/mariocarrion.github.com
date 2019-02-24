@@ -23,7 +23,7 @@ All of these are sadly defunct, but they do bring back good memories
 * [Pulque](http://github.com/mariocarrion/pulque) Helps you maintain parallel development environments.
 * [Vimeo#](http://github.com/mariocarrion/vimeo-sharp) Full Vimeo API implementation in C#.
 
-If you need to contact me for whatever reason, please email me to **&lt;blog&gt;&lt;@&gt;&lt;carrion.ws&gt;**.
+If you need to contact me for whatever reason, please email me at **&lt;blog&gt;&lt;@&gt;&lt;carrion.ws&gt;**.
 
 {{< tweet 548959384215511041 >}}
 
