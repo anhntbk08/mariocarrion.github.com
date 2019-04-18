@@ -26,5 +26,3 @@ func (b *Bar) Run() {}
 {{< / highlight >}}
 
 And really I don't disagree with that style either, I will definitely add support in the near future.
-
-
