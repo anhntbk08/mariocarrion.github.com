@@ -7,9 +7,9 @@ url: /2019/04/17/golang-tools-twitchtv-retool.html
 
 One of thoughest things in Go is versioning, for library dependencies there are different ways to handle this, [vendoring](https://golang.org/cmd/go/#hdr-Vendor_Directories) automatically using a tool like [`dep`](https://github.com/golang/dep), which is the _de facto_ most popular tool for doing so, or using [modules](https://blog.golang.org/using-go-modules), which happens to be the new official workflow.
 
-For tools that you depend on, for example for generating code (like [`counterfeiter`](https://github.com/maxbrunsfeld/counterfeiter) or [go-swagger](https://github.com/go-swagger/go-swagger)) or linters (like [golangci-lint](https://github.com/golangci/golangci-lint)), things get a bit more complicated, sure you could hack your `PATH` to point to different versions and use [docker]({{< relref "2017-01-09-docker-development-environment.markdown" >}}) for wrapping those commands and specific versions; but that is definetely messy and is not sustainable in the long run.
+For tools that you depend on, for example for generating code (like [`counterfeiter`](https://github.com/maxbrunsfeld/counterfeiter) or [`go-swagger`](https://github.com/go-swagger/go-swagger)) or linters (like [`golangci-lint`](https://github.com/golangci/golangci-lint)), things get a bit more complicated, sure you could hack your `PATH` to point to different versions and use [docker]({{< relref "2017-01-09-docker-development-environment.markdown" >}}) for wrapping those commands and specific versions; but that is definitely messy and not sustainable in the long run.
 
-**However**, assuming the tools you depend are written in Go, you should definetely use [`retool`](https://github.com/twitchtv/retool).
+**However**, assuming the tools you depend on are written in Go, you should definitely use [`retool`](https://github.com/twitchtv/retool).
 
 ## retool
 
