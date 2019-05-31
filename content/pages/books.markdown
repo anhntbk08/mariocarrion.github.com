@@ -11,7 +11,6 @@ This list is to remind me every year **I must strive to increase the number of f
 
 ## 2019: In Queue
 
-1. [Secure by Design](https://www.manning.com/books/secure-by-design)
 1. [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis)
 1. [Hands-On Cybersecurity for Architects](https://www.packtpub.com/networking-and-servers/hands-cybersecurity-architects)
 1. [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action)
@@ -20,6 +19,7 @@ This list is to remind me every year **I must strive to increase the number of f
 
 ## 2019
 
+1. May 30: [Secure by Design]({{< relref "2019-05-30-secure-by-design.markdown" >}})
 1. May 01: [The Miracle Morning](https://smile.amazon.com/Miracle-Morning-Not-So-Obvious-Guaranteed-Transform/dp/097901977X/)
 1. Apr 19: [Big Data Architect's Handbook](https://www.packtpub.com/big-data-and-business-intelligence/big-data-architects-handbook)
 1. Feb 14: [Hands-On Microservices - Monitoring and Testing](https://www.packtpub.com/application-development/hands-on-microservices-monitoring-and-testing)
