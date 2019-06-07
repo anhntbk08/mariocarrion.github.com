@@ -11,11 +11,13 @@ This list is to remind me every year **I must strive to increase the number of f
 
 ## 2019: In Queue
 
+1. [Event Streams in Action](https://www.manning.com/books/event-streams-in-action)
+1. [Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns)
 1. [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis)
-1. [Hands-On Cybersecurity for Architects](https://www.packtpub.com/networking-and-servers/hands-cybersecurity-architects)
 1. [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action)
 1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 1. [Designing Distributed Systems](https://smile.amazon.com/gp/product/1491983647/)
+1. [Hands-On Cybersecurity for Architects](https://www.packtpub.com/networking-and-servers/hands-cybersecurity-architects)
 
 ## 2019
 
