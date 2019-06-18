@@ -11,16 +11,16 @@ This list is to remind me every year **I must strive to increase the number of f
 
 ## 2019: In Queue
 
-1. [Event Streams in Action](https://www.manning.com/books/event-streams-in-action)
-1. [Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns)
-1. [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis)
 1. [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action)
+1. [Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns)
 1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 1. [Designing Distributed Systems](https://smile.amazon.com/gp/product/1491983647/)
 1. [Hands-On Cybersecurity for Architects](https://www.packtpub.com/networking-and-servers/hands-cybersecurity-architects)
+1. [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis)
 
 ## 2019
 
+1. Jun 17: [Event Streams in Action]({{< relref "2019-06-17-event-streams-in-action.markdown" >}})
 1. May 30: [Secure by Design]({{< relref "2019-05-30-secure-by-design.markdown" >}})
 1. May 01: [The Miracle Morning](https://smile.amazon.com/Miracle-Morning-Not-So-Obvious-Guaranteed-Transform/dp/097901977X/)
 1. Apr 19: [Big Data Architect's Handbook](https://www.packtpub.com/big-data-and-business-intelligence/big-data-architects-handbook)
