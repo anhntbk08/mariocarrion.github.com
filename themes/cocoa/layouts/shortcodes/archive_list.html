@@ -1,30 +1,26 @@
-{{ $pages := (where .Site.Pages "Type" "post") }}
-{{ $length := len $pages }}
+{{ $pages := (where .Site.RegularPages "Type" "post") }}
 
-{{ range $index, $val := $pages }}
-  {{ if eq $index 0 }}
-    {{ $current := $val.Date.Format "2006" }}
-    <h3><a name="{{ $current }}">{{ $current }}</a></h3>
-    <ul class="posts">
+{{ $last_year := (index $pages 0).Date.Format "2006" }}
+<h3><a name="{{ $last_year }}">{{ $last_year }}</a></h3>
+<ul class="posts">
+
+{{ $total := len $pages }}
+
+{{ $new_year := $last_year }}
+
+{{ range $val := $pages }}
+  {{ $new_year = $val.Date.Format "2006" }}
+
+  {{ if ne $new_year $last_year }}
+</ul>
+<h3><a name="{{ $new_year }}">{{ $new_year }}</a></h3>
+<ul class="posts">
+    {{ $last_year = $new_year }}
   {{ end }}
 
-  {{ if $val.NextInSection }}
-    {{ $current := $val.Date.Format "2006" }}
-    {{ $next := $val.NextInSection.Date.Format "2006" }}
-
-    {{ if ne $current $next }}
-      </ul>
-      <h3><a name="{{ $current }}">{{ $current }}</a></h3>
-      <ul class="posts">
-    {{ end }}
-
-    <li>
-      <span>{{ $val.Date.Format "Jan 02, 2006" }}</span> <a href="{{ $val.RelPermalink }}">{{ $val.Title }}</a>
-    </li>
-  {{ else }}
-    <li>
-      <span>{{ $val.Date.Format "Jan 02, 2006" }}</span> <a href="{{ $val.RelPermalink }}">{{ $val.Title }}</a>
-    </li>
-  {{ end }}
+  <li>
+    <span>{{ $val.Date.Format "Jan 02, 2006" }}</span> <a href="{{ $val.RelPermalink }}">{{ $val.Title }}</a>
+  </li>
 {{ end }}
+
 </ul>

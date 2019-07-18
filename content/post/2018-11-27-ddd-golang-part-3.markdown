@@ -26,13 +26,13 @@ Taking those requirements we can model two concrete subjects accordingly, first 
 * Accepts new players: `Players have to listen to the announced cards`,
 * Assigns unique and random boards to those players: `There are N players, each player is given one Tabla (Board)` and `Given tablas are unique during the duration of the game`,
 * Announces cards: `Announcer is in charge of randomly selecting cards from the deck`, and
-* Validates the players really won when they say they did: `The winner is determined by the first player who shouts "LOTER&IACUTE;!"`.
+* Validates the players really won when they say they did: `The winner is determined by the first player who shouts "LOTERIA"`.
 
 The second one is the _Player_:
 
 * Has one randomized/unique board: `Each player is given one Tabla (Board)` and `Given tablas are unique during the duration of the game`, 
 * Interact with the _Board_ after listening to the _Caller_: `Players have to listen to the announced cards and mark them on their boards`, and
-* They indicate to the _Caller_ they won: ` The winner is determined by the first player who shouts "LOTER&Iacute;!"`.
+* They indicate to the _Caller_ they won: `The winner is determined by the first player who shouts "LOTERIA!"`.
 
 ## Caller
 
