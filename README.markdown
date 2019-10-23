@@ -13,6 +13,5 @@
 * Python Pygments
 
 ```
-sudo easy_install pip
-sudo pip install Pygments
+pip install Pygments
 ```
