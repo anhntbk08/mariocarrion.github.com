@@ -9,9 +9,7 @@ Just a few weeks ago I was lucky to work on migrating a few of our [enterprise m
 
 Historically we have been using, and recommending, both [dep](https://github.com/golang/dep) and [retool]({{< relref "2019-04-17-golang-retool.markdown" >}}) as tools for managing dependencies, packages and tools respectively. However with the _official_ introduction of [Go Modules](https://blog.golang.org/using-go-modules), sadly, both tools became instantly deprecated.
 
-We use [Gitlab and Gitlab CI]({{< relref "2017-10-16-gitlab-ci-services.markdown" >}}), and the way we structure our projects follows a pattern like this: `<project name>/<team>/<service>`, this pattern is important to keep in mind because having subprojects is [an issue](https://github.com/golang/go/issues/34094) when using Go versions lower than 1.13.3 and 1.12.2.
-
-We depend on the following Go tools for generating our code, testing it, linting it and releasing it:
+Specifically, we depend on the following Go tools for generating our code, testing it, linting it and releasing it:
 
 * Linters
 	* [`golangci-lint`](https://github.com/golangci/golangci-lint)
@@ -32,6 +30,18 @@ One important thing we had to do regarding our internal private packages was to 
 ```
 git config --global url."git@gitlab.private:".insteadOf "https://gitlab.private/"
 ```
+
+Besides that because we use a **self-hosted** [Gitlab and Gitlab CI]({{< relref "2017-10-16-gitlab-ci-services.markdown" >}}) instance, and the way we structure our projects follows a pattern like this: `<project name>/<team>/<service>`, we had to explicitly use go 1.13.3 because having subprojects was [an issue](https://github.com/golang/go/issues/34094). Another important thing we needed to do was to define a `replace` instruction in `go.mod` to explicitly indicate the repository using the `.git` _hack_, something like the following:
+
+{{< highlight go >}}
+require (
+	private.gitlab.instance/project/team/service-name v1.0.0
+)
+
+replace (
+	private.gitlab.instance/project/team/service-name => private.gitlab.instance/project/team/service-name.git v1.0.0
+)
+{{< / highlight >}}
 
 And finally we introduced [`direnv`](https://github.com/direnv/direnv) to our workflow, this is so when we install our tools those are relative to the project we are working on, a simple `.envrc` with the following content is enough:
 
