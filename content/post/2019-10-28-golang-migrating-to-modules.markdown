@@ -1,6 +1,6 @@
 ---
 date: "2019-10-28"
-title: "Go: Migrating to modules"
+title: "Go Tip: Migrating to modules"
 description: "I've successfully migrated 3 enterprise projects to Go modules. Ask me anything."
 url: /2019/10/28/golang-migrating-to-go-modules.html
 ---

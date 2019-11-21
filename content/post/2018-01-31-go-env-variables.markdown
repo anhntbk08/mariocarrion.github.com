@@ -1,6 +1,6 @@
 ---
 date: 2018-01-31
-title: "Go Tip: Environment Variables"
+title: "Go: Environment Variables"
 description: "Packages for using environment variables in Go"
 url: /2018/01/31/go-environment-variables.html
 ---
