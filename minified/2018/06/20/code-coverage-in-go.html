@@ -10,4 +10,5 @@
 </code></pre><p>Which then we can use to properly generate one single HTML file, with:<pre><code class=language-bash>go tool cover -html=profiles_merged -o coverage/index.html
 </code></pre><p>But more importantly generate a total percentage with:<pre><code class=language-bash>go tool cover -func=profiles_merged &gt; coverage_output
 </code></pre><p>With that you could actually get the real final coverage using something like:<pre><code class=language-bash>tail -n 1 coverage_output | tr -s '\t' ' ' | sed -n 's/.*\([0-9][0-9]\).*/\1/p'
-</code></pre><p><img src=https://media.giphy.com/media/83QtfwKWdmSEo/giphy.gif alt="The more you know" title="The more you know"></p><br><p class=back-to-posts><a href=/archive.html>Back to posts</a></div><br><div class=disqus></div></div></div></section>
+</code></pre><p><img src=https://media.giphy.com/media/83QtfwKWdmSEo/giphy.gif alt="The more you know" title="The more you know"></p><br><p class=back-to-posts><a href=/archive.html>Back to posts</a></div><br><div class=disqus></div></div></div></section><script async src="https://www.googletagmanager.com/gtag/js?id=UA-75640250-1"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','UA-75640250-1');</script>

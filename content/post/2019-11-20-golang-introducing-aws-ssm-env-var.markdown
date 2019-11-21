@@ -29,7 +29,7 @@ The paradigm consists, instead of doing that, in defining new environment variab
 
 So when running our program the environment variables will be defined as the ones above, but really the actual values of those variables will not be _open and clear_ but instead will be pulled securely from the remote store when the program requests those values.
 
-All of this is wrapped in a package called [aws-ssm-env](https://github.com/MarioCarrion/aws-ssm-env), however the important thing is not the package itself but more the paradigm itself and how the interaction is defined when retrieving values from the remote store.
+All of this is wrapped in a package called [aws-ssm-env](https://github.com/MarioCarrion/aws-ssm-env), however the important thing is not the package implementation but more the paradigm itself and how the interaction is defined when retrieving values from the remote store.
 
 See [the example](https://github.com/MarioCarrion/aws-ssm-env/blob/master/examples/main.go) for more information:
 
